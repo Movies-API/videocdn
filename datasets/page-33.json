@@ -1,291 +1,219 @@
 {
   "data": [
     {
-      "id": 47750,
-      "title": "Ишвар",
-      "kp_id": "322943",
-      "imdb_id": "tt0924219",
+      "id": 47775,
+      "title": "Перемещение",
+      "kp_id": "1265073",
+      "imdb_id": "tt10234470",
       "world_art_id": null,
       "type": "movie",
-      "add": "2021-02-08 10:04:59",
-      "orig_title": "Eeshwar",
-      "year": "2002-11-11",
+      "add": "2021-02-09 05:56:19",
+      "orig_title": "Transference",
+      "year": "2020-08-07",
       "translations": [
-        "Любительский (одноголосый закадровый)  (zamez)"
+        "Любительский (двухголосый закадровый) (Колобок)"
       ],
       "quality": "webdl",
-      "translation": "Любительский (одноголосый закадровый)  (zamez)",
-      "update": "2021-02-08 15:02:47",
+      "translation": "Любительский (двухголосый закадровый) (Колобок)",
+      "update": "2021-02-09 08:04:32",
       "iframe_src": ""
     },
     {
-      "id": 47749,
-      "title": "Стрелы Амура",
-      "kp_id": "760463",
-      "imdb_id": "tt2845796",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-02-08 09:58:36",
-      "orig_title": "Attakathi",
-      "year": "2012-08-15",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (Индия ТВ)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый) (Индия ТВ)",
-      "update": "2021-02-08 15:01:24",
-      "iframe_src": ""
-    },
-    {
-      "id": 47747,
-      "title": "Битва с демоном",
-      "kp_id": "208321",
-      "imdb_id": "tt0114236",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-02-08 09:50:04",
-      "orig_title": "Ravan Raaj: A True Story",
-      "year": "1995-06-23",
-      "translations": [
-        "Профессиональный (одноголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (одноголосый закадровый)",
-      "update": "2021-02-08 15:00:52",
-      "iframe_src": ""
-    },
-    {
-      "id": 47746,
-      "title": "С первого взгляда",
-      "kp_id": "216227",
-      "imdb_id": "tt0285958",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-02-08 09:31:49",
-      "orig_title": "Pyaar Ishq Aur Mohabbat",
-      "year": "2001-09-26",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2021-02-08 15:01:59",
-      "iframe_src": ""
-    },
-    {
-      "id": 47713,
-      "title": "Серебряные трубы",
-      "kp_id": "474665",
-      "imdb_id": "tt2942750",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-02-07 13:31:27",
-      "orig_title": "Serebryanye truby",
-      "year": "1971-03-22",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "tv",
-      "translation": "Оригинальная дорожка",
-      "update": "2021-02-08 15:12:08",
-      "iframe_src": ""
-    },
-    {
-      "id": 47712,
-      "title": "Так начиналась легенда",
-      "kp_id": "42186",
-      "imdb_id": "tt0075304",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-02-07 13:28:53",
-      "orig_title": "Tak nachinalas legenda",
-      "year": "1976-04-11",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "tv",
-      "translation": "Оригинальная дорожка",
-      "update": "2021-02-08 15:11:12",
-      "iframe_src": ""
-    },
-    {
-      "id": 47711,
-      "title": "Комэск",
-      "kp_id": "472200",
-      "imdb_id": "tt9357278",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-02-07 13:25:03",
-      "orig_title": "Komesk",
-      "year": "1965-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "vhs",
-      "translation": "Оригинальная дорожка",
-      "update": "2021-02-08 15:09:31",
-      "iframe_src": ""
-    },
-    {
-      "id": 47710,
-      "title": "Золотые слова",
-      "kp_id": "668175",
-      "imdb_id": "tt7972470",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-02-07 13:21:42",
-      "orig_title": "Zolotye Slova",
-      "year": "1989-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2021-02-08 15:08:39",
-      "iframe_src": ""
-    },
-    {
-      "id": 47665,
-      "title": "Товарищ песня",
-      "kp_id": "477490",
-      "imdb_id": "tt8224806",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-02-04 18:44:22",
-      "orig_title": "Tovarishch pesnya",
-      "year": "1966-08-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "tv",
-      "translation": "Оригинальная дорожка",
-      "update": "2021-02-08 15:07:47",
-      "iframe_src": ""
-    },
-    {
-      "id": 47664,
-      "title": "Парень из тайги",
-      "kp_id": "43213",
-      "imdb_id": "tt0189945",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-02-04 18:40:59",
-      "orig_title": "Paren iz taygi",
-      "year": "1941-05-12",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2021-02-08 15:06:46",
-      "iframe_src": ""
-    },
-    {
-      "id": 47663,
-      "title": "Охота на последнего журавля",
-      "kp_id": "1044438",
-      "imdb_id": "tt5674480",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-02-04 18:37:51",
-      "orig_title": "Palyavanne na aposhnyaga zhuraulya",
-      "year": "1986-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "iptv",
-      "translation": "Оригинальная дорожка",
-      "update": "2021-02-08 15:05:56",
-      "iframe_src": ""
-    },
-    {
-      "id": 47662,
-      "title": "Наш честный хлеб",
-      "kp_id": "46327",
-      "imdb_id": "tt0172859",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-02-04 18:34:58",
-      "orig_title": "Nash chestnyy khleb",
-      "year": "1964-12-07",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "vhs",
-      "translation": "Оригинальная дорожка",
-      "update": "2021-02-08 15:05:13",
-      "iframe_src": ""
-    },
-    {
-      "id": 47660,
-      "title": "Всего один поворот",
-      "kp_id": "491692",
-      "imdb_id": "tt2023810",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-02-04 18:30:02",
-      "orig_title": "Vsego odin povorot",
-      "year": "1987-06-21",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "tv",
-      "translation": "Оригинальная дорожка",
-      "update": "2021-02-08 15:04:43",
-      "iframe_src": ""
-    },
-    {
-      "id": 47659,
-      "title": "Узнай меня",
-      "kp_id": "475016",
-      "imdb_id": "tt4971550",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-02-04 18:27:42",
-      "orig_title": "Uznay menya",
-      "year": "1979-07-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2021-02-08 15:04:06",
-      "iframe_src": ""
-    },
-    {
-      "id": 47658,
-      "title": "Утренняя музыка",
-      "kp_id": "627272",
+      "id": 47774,
+      "title": "Дважды два",
+      "kp_id": "1405916",
       "imdb_id": null,
       "world_art_id": null,
       "type": "movie",
-      "add": "2021-02-04 18:25:40",
-      "orig_title": "Утренняя музыка",
-      "year": "1974-01-01",
+      "add": "2021-02-08 20:33:52",
+      "orig_title": "Дважды два",
+      "year": "2021-02-04",
       "translations": [
         "Оригинальная дорожка"
       ],
-      "quality": "dvdrip",
+      "quality": "ts",
       "translation": "Оригинальная дорожка",
-      "update": "2021-02-08 15:03:23",
+      "update": "2021-02-08 22:32:47",
       "iframe_src": ""
     },
     {
-      "id": 47657,
-      "title": "Три рубля",
-      "kp_id": "43603",
-      "imdb_id": "tt0283075",
+      "id": 47772,
+      "title": "Не сдавайся",
+      "kp_id": "4297113",
+      "imdb_id": "tt13611662",
       "world_art_id": null,
       "type": "movie",
-      "add": "2021-02-04 18:21:03",
-      "orig_title": "Sami maneti",
-      "year": "1976-06-01",
+      "add": "2021-02-08 18:15:47",
+      "orig_title": "Don't Give Up",
+      "year": "2021-01-02",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2021-02-08 21:33:49",
+      "iframe_src": ""
+    },
+    {
+      "id": 47770,
+      "title": "Охота на аллозавров",
+      "kp_id": "1446112",
+      "imdb_id": "tt13399406",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-02-08 18:11:24",
+      "orig_title": "Triassic Hunt",
+      "year": "2021-01-29",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2021-02-09 07:56:14",
+      "iframe_src": ""
+    },
+    {
+      "id": 47765,
+      "title": "Разговор",
+      "kp_id": "923641",
+      "imdb_id": "tt4862096",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-02-08 16:44:37",
+      "orig_title": "The Talk",
+      "year": "2015-12-09",
+      "translations": [
+        "Любительский (двухголосый закадровый) (DeeAFilm Studio)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (двухголосый закадровый) (DeeAFilm Studio)",
+      "update": "2021-02-09 05:19:37",
+      "iframe_src": ""
+    },
+    {
+      "id": 47763,
+      "title": "Разборка",
+      "kp_id": "18893",
+      "imdb_id": "tt0070687",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-02-08 15:30:05",
+      "orig_title": "Showdown",
+      "year": "1973-06-20",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2021-02-09 05:20:57",
+      "iframe_src": ""
+    },
+    {
+      "id": 47731,
+      "title": "Ковбойши против птеродактилей",
+      "kp_id": "1230473",
+      "imdb_id": "tt9571756",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-02-07 22:45:16",
+      "orig_title": "Cowgirls vs. Pterodactyls",
+      "year": "2021-01-22",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2021-02-08 16:23:09",
+      "iframe_src": ""
+    },
+    {
+      "id": 47721,
+      "title": "Море нашей надежды",
+      "kp_id": "272463",
+      "imdb_id": "tt0900960",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-02-07 15:21:52",
+      "orig_title": "More nashey nadezhdy",
+      "year": "1971-08-06",
       "translations": [
         "Оригинальная дорожка"
       ],
       "quality": "sat",
       "translation": "Оригинальная дорожка",
-      "update": "2021-02-08 15:02:42",
+      "update": "2021-02-08 15:22:21",
+      "iframe_src": ""
+    },
+    {
+      "id": 47720,
+      "title": "Голубой лед",
+      "kp_id": "44542",
+      "imdb_id": "tt0285583",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-02-07 15:18:40",
+      "orig_title": "Goluboy lyod",
+      "year": "1970-01-05",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "tv",
+      "translation": "Оригинальная дорожка",
+      "update": "2021-02-08 15:21:50",
+      "iframe_src": ""
+    },
+    {
+      "id": 47719,
+      "title": "Ганна Главари",
+      "kp_id": "744494",
+      "imdb_id": "tt2739026",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-02-07 15:15:37",
+      "orig_title": "Hanna Glawari",
+      "year": "1979-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2021-02-08 15:20:34",
+      "iframe_src": ""
+    },
+    {
+      "id": 47572,
+      "title": "Свинья",
+      "kp_id": "1278277",
+      "imdb_id": "tt10539136",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-02-01 08:46:56",
+      "orig_title": "Praseto",
+      "year": "2019-03-11",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2021-02-08 16:48:30",
+      "iframe_src": ""
+    },
+    {
+      "id": 47571,
+      "title": "Повторный захват горы тигра",
+      "kp_id": "1211754",
+      "imdb_id": "tt9286542",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-02-01 08:40:10",
+      "orig_title": "Taking Tiger Mountain Revisited",
+      "year": "2019-02-10",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2021-02-08 16:48:59",
       "iframe_src": ""
     },
     {
@@ -365,6 +293,24 @@
       "iframe_src": ""
     },
     {
+      "id": 46615,
+      "title": "Жаным, ты не поверишь!",
+      "kp_id": "1345712",
+      "imdb_id": "tt13236334",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-01-02 19:27:56",
+      "orig_title": "Zhanym, ty ne poverish",
+      "year": "2020-10-09",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "webdl",
+      "translation": "Оригинальная дорожка",
+      "update": "2021-02-09 08:53:11",
+      "iframe_src": ""
+    },
+    {
       "id": 9635,
       "title": "Западные ворота парка Икэбукуро",
       "kp_id": "402920",
@@ -381,6 +327,25 @@
       "episodes_count": 11,
       "episodes": 11,
       "update": "2021-01-03 18:12:57",
+      "iframe_src": ""
+    },
+    {
+      "id": 9634,
+      "title": "Ёлка на миллион",
+      "kp_id": "1346355",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2021-01-02 12:10:30",
+      "orig_title": "Ёлка на миллион",
+      "year": "2019-12-31",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 4,
+      "episodes": 4,
+      "update": "2021-01-06 09:03:28",
       "iframe_src": ""
     },
     {
@@ -403,25 +368,6 @@
       "iframe_src": ""
     },
     {
-      "id": 9630,
-      "title": "Чёрный детектив",
-      "kp_id": "1048160",
-      "imdb_id": "tt3480144",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2021-01-01 21:09:18",
-      "orig_title": "Série Noire",
-      "year": "2014-01-13",
-      "translations": [
-        "Профессиональный (двухголосый закадровый) (ViruseProject)"
-      ],
-      "seasons_count": 2,
-      "episodes_count": 22,
-      "episodes": 10,
-      "update": "2021-01-02 21:17:04",
-      "iframe_src": ""
-    },
-    {
       "id": 9617,
       "title": "Физика или химия: Воссоединение",
       "kp_id": "1395491",
@@ -439,25 +385,6 @@
       "episodes_count": 2,
       "episodes": 2,
       "update": "2021-01-04 11:23:18",
-      "iframe_src": ""
-    },
-    {
-      "id": 9612,
-      "title": "Сын богатых родителей",
-      "kp_id": "1111991",
-      "imdb_id": "tt8067786",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-12-26 16:41:40",
-      "orig_title": "Rich Family's Son",
-      "year": "2018-03-25",
-      "translations": [
-        "Любительский (двухголосый закадровый) (SoftBox)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 100,
-      "episodes": 100,
-      "update": "2021-01-02 21:55:19",
       "iframe_src": ""
     },
     {
@@ -518,22 +445,63 @@
       "iframe_src": ""
     },
     {
-      "id": 39950,
-      "title": "Фея",
-      "kp_id": "1254046",
-      "imdb_id": "tt12235234",
+      "id": 8608,
+      "title": "О всех созданиях - больших и малых",
+      "kp_id": "1309507",
+      "imdb_id": "tt10590066",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-09-02 11:56:04",
+      "orig_title": "All Creatures Great and Small",
+      "year": "2020-09-01",
+      "translations": [
+        "Любительский (многоголосый закадровый) (ColdFilm)",
+        "Любительский (многоголосый закадровый) (Octopus)",
+        "Профессиональный (многоголосый закадровый) (SDI Media)",
+        "Профессиональный (многоголосый закадровый) (BaibaKo)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 7,
+      "episodes": 7,
+      "update": "2021-01-06 08:49:09",
+      "iframe_src": ""
+    },
+    {
+      "id": 42416,
+      "title": "Астрал. Онлайн",
+      "kp_id": "1398864",
+      "imdb_id": "tt12749596",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-04-29 20:05:07",
-      "orig_title": "Feya",
-      "year": "2020-09-18",
+      "add": "2020-08-11 08:34:07",
+      "orig_title": "Host",
+      "year": "2020-07-30",
       "translations": [
-        "Оригинальная дорожка",
-        "Оригинальная дорожка"
+        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Полное дублирование"
       ],
       "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2021-02-08 14:48:46",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2021-02-09 05:51:07",
+      "iframe_src": ""
+    },
+    {
+      "id": 7474,
+      "title": "Тёмные лабиринты прошлого",
+      "kp_id": "778952",
+      "imdb_id": "tt3655866",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-05-11 12:42:57",
+      "orig_title": "Temnye labirinty proshlogo",
+      "year": "2013-07-13",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 4,
+      "episodes": 4,
+      "update": "2021-01-06 09:11:13",
       "iframe_src": ""
     },
     {
@@ -621,22 +589,22 @@
       "iframe_src": ""
     },
     {
-      "id": 32756,
-      "title": "Мать",
-      "kp_id": "410597",
-      "imdb_id": "tt1216496",
+      "id": 32457,
+      "title": "Господин 420",
+      "kp_id": "39747",
+      "imdb_id": "tt0048613",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-11-05 20:42:02",
-      "orig_title": "Madeo",
-      "year": "2009-05-16",
+      "add": "2019-10-28 21:56:05",
+      "orig_title": "Shree 420",
+      "year": "1955-09-06",
       "translations": [
-        "Авторский (одноголосый закадровый) (Сербин)",
-        "Профессиональный (многоголосый закадровый)"
+        "Профессиональный (многоголосый закадровый)",
+        "Полное дублирование"
       ],
-      "quality": "bd",
-      "translation": "Авторский (одноголосый закадровый) (Сербин)",
-      "update": "2021-02-08 14:51:24",
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2021-02-08 18:27:33",
       "iframe_src": ""
     },
     {
@@ -827,25 +795,6 @@
       "episodes_count": 161,
       "episodes": 7,
       "update": "2019-04-23 16:17:05",
-      "iframe_src": ""
-    },
-    {
-      "id": 24455,
-      "title": "Кромовъ",
-      "kp_id": "417599",
-      "imdb_id": "tt3752316",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-04-12 20:54:57",
-      "orig_title": "Kromov",
-      "year": "2009-01-01",
-      "translations": [
-        "Оригинальная дорожка",
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2021-02-08 14:49:41",
       "iframe_src": ""
     },
     {
@@ -1312,25 +1261,6 @@
       "iframe_src": ""
     },
     {
-      "id": 18348,
-      "title": "Ловушка для одинокого мужчины",
-      "kp_id": "45121",
-      "imdb_id": "tt0100069",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-08-16 13:25:12",
-      "orig_title": "Lovushka dlya odinokogo muzhchiny",
-      "year": "1990-12-01",
-      "translations": [
-        "Оригинальная дорожка",
-        "Оригинальная дорожка"
-      ],
-      "quality": "hdtv",
-      "translation": "Оригинальная дорожка",
-      "update": "2021-02-08 15:10:31",
-      "iframe_src": ""
-    },
-    {
       "id": 506,
       "title": "Фантом в сумерках",
       "kp_id": "1150714",
@@ -1467,6 +1397,33 @@
       "iframe_src": ""
     },
     {
+      "id": 15421,
+      "title": "Мотылек",
+      "kp_id": "4525",
+      "imdb_id": "tt0070511",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-03-05 22:18:01",
+      "orig_title": "Papillon",
+      "year": "1973-12-16",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)",
+        "Профессиональный (многоголосый закадровый) (DVD Магия)",
+        "Авторский (одноголосый закадровый) (Гаевский)",
+        "Авторский (одноголосый закадровый) (Гаврилов)",
+        "Авторский (одноголосый закадровый) (Иванов)",
+        "Авторский (одноголосый закадровый) (Товбин)",
+        "Original (English)",
+        "Профессиональный (двухголосый закадровый)",
+        "Профессиональный (двухголосый закадровый) (Гланц + Королёва)",
+        "Профессиональный (многоголосый закадровый) (Первый канал | ОРТ)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2021-02-09 10:04:24",
+      "iframe_src": ""
+    },
+    {
       "id": 1482,
       "title": "Менталист",
       "kp_id": "412344",
@@ -1486,6 +1443,27 @@
       "episodes_count": 150,
       "episodes": 12,
       "update": "2021-01-05 21:10:40",
+      "iframe_src": ""
+    },
+    {
+      "id": 9557,
+      "title": "Она улыбается, она в западне!",
+      "kp_id": "797674",
+      "imdb_id": "tt3173910",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-02-09 12:05:22",
+      "orig_title": "Hasee Toh Phasee",
+      "year": "2014-02-07",
+      "translations": [
+        "Любительский (многоголосый закадровый)",
+        "Профессиональный (многоголосый закадровый) (Индийское кино)",
+        "Любительский (многоголосый закадровый) (ICG)",
+        "Профессиональный (многоголосый закадровый) (Индия ТВ)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (многоголосый закадровый)",
+      "update": "2021-02-09 10:48:08",
       "iframe_src": ""
     },
     {
@@ -1509,26 +1487,72 @@
       "iframe_src": ""
     },
     {
-      "id": 9,
-      "title": "Агенты Щ.И.Т.",
-      "kp_id": "701756",
-      "imdb_id": "tt2364582",
+      "id": 7210,
+      "title": "Гангстер",
+      "kp_id": "3733",
+      "imdb_id": "tt0119311",
       "world_art_id": null,
-      "type": "serial",
-      "add": "2016-03-10 15:58:34",
-      "orig_title": "Agents of S.H.I.E.L.D.",
-      "year": "2013-09-24",
+      "type": "movie",
+      "add": "2016-11-08 15:39:44",
+      "orig_title": "Hoodlum",
+      "year": "1997-08-27",
       "translations": [
-        "Профессиональный (многоголосый закадровый) (LostFilm)",
-        "Полное дублирование (Невафильм)",
-        "Любительский (многоголосый закадровый) (ColdFilm)",
-        "Любительский (многоголосый закадровый) (Octopus)",
-        "Любительский (многоголосый закадровый) (WestFilm)"
+        "Профессиональный (двухголосый закадровый)",
+        "Авторский (одноголосый закадровый) (Живов)",
+        "Original (English)",
+        "Любительский (одноголосый закадровый) (Штамп Дмитрий | sf@irat)",
+        "Профессиональный (двухголосый закадровый) (Союз Видео)",
+        "Профессиональный (многоголосый закадровый) (Первый ТВЧ)"
       ],
-      "seasons_count": 7,
-      "episodes_count": 136,
-      "episodes": 13,
-      "update": "2021-01-02 19:49:05",
+      "quality": "bd",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2021-02-09 10:10:30",
+      "iframe_src": ""
+    },
+    {
+      "id": 6861,
+      "title": "Городские пижоны",
+      "kp_id": "1603",
+      "imdb_id": "tt0101587",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-31 12:18:48",
+      "orig_title": "City Slickers",
+      "year": "1991-06-07",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)",
+        "Авторский (одноголосый закадровый) (Дохалов)",
+        "Авторский (одноголосый закадровый) (Горчаков)",
+        "Original (English)",
+        "Профессиональный (двухголосый закадровый) (НТВ)",
+        "Профессиональный (двухголосый закадровый) (SDI Media)",
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2021-02-09 10:45:37",
+      "iframe_src": ""
+    },
+    {
+      "id": 693,
+      "title": "Небесный капитан и Мир будущего",
+      "kp_id": "13625",
+      "imdb_id": "tt0346156",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-04-05 21:40:06",
+      "orig_title": "Sky Captain and the World of Tomorrow",
+      "year": "2004-09-14",
+      "translations": [
+        "Полное дублирование",
+        "Авторский (одноголосый закадровый) (Живов)",
+        "Полное дублирование",
+        "Original (English)",
+        "Профессиональный (двухголосый закадровый) (Tycoon)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2021-02-09 10:53:58",
       "iframe_src": ""
     }
   ]

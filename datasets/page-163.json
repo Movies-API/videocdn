@@ -1,363 +1,347 @@
 {
   "data": [
     {
-      "id": 45831,
-      "title": "Рождественский дом",
-      "kp_id": "1448683",
-      "imdb_id": "tt12950902",
+      "id": 45852,
+      "title": "Урод в замке",
+      "kp_id": "1292398",
+      "imdb_id": "tt10701458",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-12-03 22:13:40",
-      "orig_title": "The Christmas House",
-      "year": "2020-11-22",
+      "add": "2020-12-04 21:04:19",
+      "orig_title": "Castle Freak",
+      "year": "2020-12-04",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "hdtv",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-12-04 10:58:29",
-      "iframe_src": ""
-    },
-    {
-      "id": 45830,
-      "title": "Рождество своими руками",
-      "kp_id": "1432363",
-      "imdb_id": "tt13189624",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-12-03 22:11:36",
-      "orig_title": "Homemade Christmas",
-      "year": "2020-11-22",
-      "translations": [
-        "Любительский (многоголосый закадровый) (AlphaProject)"
+        "Любительский (многоголосый закадровый) (@MUZOBOZ@)"
       ],
       "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (AlphaProject)",
-      "update": "2020-12-04 10:56:48",
+      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
+      "update": "2020-12-05 07:19:27",
       "iframe_src": ""
     },
     {
-      "id": 45829,
-      "title": "Рождество на винодельне",
-      "kp_id": "1355609",
-      "imdb_id": "tt11828420",
+      "id": 45851,
+      "title": "Бесплатный обед",
+      "kp_id": "1388811",
+      "imdb_id": "tt12537570",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-12-03 22:09:16",
-      "orig_title": "Christmas on the Vine",
-      "year": "2020-11-13",
+      "add": "2020-12-04 21:02:32",
+      "orig_title": "Free Lunch Express",
+      "year": "2020-12-04",
       "translations": [
-        "Любительский (многоголосый закадровый) (AlphaProject)"
+        "Любительский (многоголосый закадровый) (@MUZOBOZ@)"
       ],
       "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (AlphaProject)",
-      "update": "2020-12-04 10:48:06",
+      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
+      "update": "2020-12-05 07:19:01",
       "iframe_src": ""
     },
     {
-      "id": 45828,
-      "title": "Бруклинская рождественская ёлка",
-      "kp_id": "1409916",
-      "imdb_id": "tt12557978",
+      "id": 45848,
+      "title": "Лейтенант Джанглс",
+      "kp_id": "898178",
+      "imdb_id": "tt4408104",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-12-03 22:08:05",
-      "orig_title": "A Christmas Tree Grows in Colorado",
-      "year": "2020-11-24",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "hdtv",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-12-04 10:59:36",
-      "iframe_src": ""
-    },
-    {
-      "id": 45754,
-      "title": "Полицейские хроники: туннель",
-      "kp_id": "1168094",
-      "imdb_id": "tt8183544",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-12-01 18:51:46",
-      "orig_title": "De Buurtpolitie: De Tunnel",
-      "year": "2018-02-07",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-12-04 08:13:28",
-      "iframe_src": ""
-    },
-    {
-      "id": 45753,
-      "title": "Виртуозы",
-      "kp_id": "1051678",
-      "imdb_id": "tt7235946",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-12-01 18:49:01",
-      "orig_title": "Class Acts",
-      "year": "2018-01-07",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-12-04 08:13:42",
-      "iframe_src": ""
-    },
-    {
-      "id": 45749,
-      "title": "Собрание",
-      "kp_id": "1122474",
-      "imdb_id": "tt8063274",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-12-01 18:39:53",
-      "orig_title": "Asamblea",
-      "year": "2019-03-16",
-      "translations": [
-        "Любительский (многоголосый закадровый) (AlphaProject)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (AlphaProject)",
-      "update": "2020-12-04 08:14:12",
-      "iframe_src": ""
-    },
-    {
-      "id": 45748,
-      "title": "Кровавый обман",
-      "kp_id": "1188077",
-      "imdb_id": "tt8941450",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-12-01 18:38:11",
-      "orig_title": "The Blood Thins",
-      "year": "2019-09-15",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-12-04 08:14:44",
-      "iframe_src": ""
-    },
-    {
-      "id": 45745,
-      "title": "Затмение: Восхождение Инка",
-      "kp_id": "1116550",
-      "imdb_id": "tt8206646",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-12-01 18:34:23",
-      "orig_title": "Eclipse: The Rise of Ink",
-      "year": "2018-03-26",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-12-04 08:15:01",
-      "iframe_src": ""
-    },
-    {
-      "id": 45742,
-      "title": "Домик на дереве",
-      "kp_id": "1201078",
-      "imdb_id": "tt9060324",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-12-01 18:30:56",
-      "orig_title": "Casa din copac",
-      "year": "2019-09-01",
+      "add": "2020-12-04 20:52:06",
+      "orig_title": "Lieutenant Jangles",
+      "year": "2018-01-28",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "bd",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-12-04 08:15:17",
+      "update": "2020-12-05 07:17:34",
       "iframe_src": ""
     },
     {
-      "id": 45632,
-      "title": "Мечта маленького ослика",
-      "kp_id": "259370",
+      "id": 45847,
+      "title": "Рождество в усадьбе",
+      "kp_id": "1347432",
+      "imdb_id": "tt11753704",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-12-04 20:34:56",
+      "orig_title": "Christmas Inn Farmstead",
+      "year": "2020-11-21",
+      "translations": [
+        "Любительский (многоголосый закадровый) (AlphaProject)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (AlphaProject)",
+      "update": "2020-12-05 07:16:27",
+      "iframe_src": ""
+    },
+    {
+      "id": 45844,
+      "title": "Доброе утро, Рождество!",
+      "kp_id": "1420175",
+      "imdb_id": "tt13109730",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-12-04 20:23:11",
+      "orig_title": "Good Morning Christmas!",
+      "year": "2020-11-25",
+      "translations": [
+        "Любительский (многоголосый закадровый) (AlphaProject)"
+      ],
+      "quality": "hdtv",
+      "translation": "Любительский (многоголосый закадровый) (AlphaProject)",
+      "update": "2020-12-05 07:16:09",
+      "iframe_src": ""
+    },
+    {
+      "id": 45693,
+      "title": "Волчья яма",
+      "kp_id": "45824",
+      "imdb_id": "tt0175307",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-11-29 16:32:15",
+      "orig_title": "Volchya yama",
+      "year": "1984-05-21",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "vhs",
+      "translation": "Полное дублирование",
+      "update": "2020-12-04 13:53:44",
+      "iframe_src": ""
+    },
+    {
+      "id": 45692,
+      "title": "Волшебник Ох",
+      "kp_id": "491812",
+      "imdb_id": "tt6409464",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-11-29 16:29:50",
+      "orig_title": "Volshebnik Okh",
+      "year": "1971-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2020-12-04 13:52:56",
+      "iframe_src": ""
+    },
+    {
+      "id": 45691,
+      "title": "Дело №",
+      "kp_id": "540988",
       "imdb_id": null,
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-11-25 19:03:18",
-      "orig_title": "Мечта маленького ослика",
-      "year": "1984-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2020-12-04 13:35:19",
-      "iframe_src": ""
-    },
-    {
-      "id": 45630,
-      "title": "Лермонтов",
-      "kp_id": "45073",
-      "imdb_id": "tt0091399",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-11-25 18:57:19",
-      "orig_title": "Lermontov",
-      "year": "1987-01-30",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2020-12-04 13:34:14",
-      "iframe_src": ""
-    },
-    {
-      "id": 45629,
-      "title": "Крик дельфина",
-      "kp_id": "44980",
-      "imdb_id": "tt0091357",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-11-25 18:54:51",
-      "orig_title": "Krik delfina",
-      "year": "1987-04-13",
+      "add": "2020-11-29 16:27:52",
+      "orig_title": "Дело №",
+      "year": "1964-01-01",
       "translations": [
         "Оригинальная дорожка"
       ],
       "quality": "sat",
       "translation": "Оригинальная дорожка",
-      "update": "2020-12-04 13:33:28",
+      "update": "2020-12-04 13:52:03",
       "iframe_src": ""
     },
     {
-      "id": 45628,
-      "title": "Хозяин ветров",
-      "kp_id": "259380",
-      "imdb_id": "tt7355814",
+      "id": 45690,
+      "title": "Женщина и четверо ее мужчин",
+      "kp_id": "45305",
+      "imdb_id": "tt0088451",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-11-25 18:52:42",
-      "orig_title": "Khozyain vetrov",
-      "year": "1984-01-01",
+      "add": "2020-11-29 16:21:11",
+      "orig_title": "Zhenshchina i chetvero yeyo muzhchin",
+      "year": "1984-12-24",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "webdl",
+      "translation": "Полное дублирование",
+      "update": "2020-12-04 13:51:07",
+      "iframe_src": ""
+    },
+    {
+      "id": 45689,
+      "title": "Коррупция",
+      "kp_id": "447112",
+      "imdb_id": "tt5738652",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-11-29 16:15:52",
+      "orig_title": "Korruptsiya",
+      "year": "1990-01-01",
       "translations": [
         "Оригинальная дорожка"
       ],
-      "quality": "dvdrip",
+      "quality": "sat",
       "translation": "Оригинальная дорожка",
-      "update": "2020-12-04 13:31:52",
+      "update": "2020-12-04 13:49:32",
       "iframe_src": ""
     },
     {
-      "id": 45626,
-      "title": "Человек в рамке",
-      "kp_id": "314355",
-      "imdb_id": "tt0487563",
+      "id": 45688,
+      "title": "Лермонтов",
+      "kp_id": "45072",
+      "imdb_id": "tt0037015",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-11-25 18:46:09",
-      "orig_title": "Chelovek v ramke",
-      "year": "1966-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2020-12-04 13:31:10",
-      "iframe_src": ""
-    },
-    {
-      "id": 45625,
-      "title": "Ты враг или друг?",
-      "kp_id": "1412541",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-11-25 18:44:03",
-      "orig_title": "Ты враг или друг?",
-      "year": "1972-01-01",
+      "add": "2020-11-29 16:13:59",
+      "orig_title": "Lermontov",
+      "year": "1943-07-07",
       "translations": [
         "Оригинальная дорожка"
       ],
       "quality": "webdl",
       "translation": "Оригинальная дорожка",
-      "update": "2020-12-04 13:27:18",
+      "update": "2020-12-04 13:48:27",
       "iframe_src": ""
     },
     {
-      "id": 45624,
-      "title": "Где-то плачет иволга...",
-      "kp_id": "44482",
-      "imdb_id": "tt0083994",
+      "id": 45687,
+      "title": "Рассказы о любви",
+      "kp_id": "470897",
+      "imdb_id": "tt5516890",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-11-25 18:41:03",
-      "orig_title": "Gde-to plachet ivolga...",
-      "year": "1982-02-21",
+      "add": "2020-11-29 16:11:45",
+      "orig_title": "Rasskazy o lyubvi",
+      "year": "1980-01-04",
       "translations": [
         "Оригинальная дорожка"
       ],
-      "quality": "tv",
+      "quality": "vhs",
       "translation": "Оригинальная дорожка",
-      "update": "2020-12-04 13:26:31",
+      "update": "2020-12-04 13:47:38",
       "iframe_src": ""
     },
     {
-      "id": 45623,
-      "title": "Динозавры ХХ века",
-      "kp_id": "44213",
-      "imdb_id": "tt0099433",
+      "id": 45686,
+      "title": "Тронка",
+      "kp_id": "584351",
+      "imdb_id": "tt5303484",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-11-25 18:38:52",
-      "orig_title": "Dinozavry XX veka",
-      "year": "1990-01-29",
+      "add": "2020-11-29 16:07:02",
+      "orig_title": "Tronka",
+      "year": "1972-04-24",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "iptv",
+      "translation": "Оригинальная дорожка",
+      "update": "2020-12-04 13:46:54",
+      "iframe_src": ""
+    },
+    {
+      "id": 45656,
+      "title": "Приключение на даче",
+      "kp_id": "695302",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-11-26 22:48:22",
+      "orig_title": "Приключение на даче",
+      "year": "1980-01-01",
       "translations": [
         "Оригинальная дорожка"
       ],
       "quality": "dvdrip",
       "translation": "Оригинальная дорожка",
-      "update": "2020-12-04 13:25:27",
+      "update": "2020-12-04 13:46:16",
       "iframe_src": ""
     },
     {
-      "id": 45622,
-      "title": "Однажды вечером",
-      "kp_id": "1199959",
+      "id": 45655,
+      "title": "Приговоренный",
+      "kp_id": "43246",
+      "imdb_id": "tt0311673",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-11-26 22:44:14",
+      "orig_title": "Prigovoryonnyy",
+      "year": "1989-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "sat",
+      "translation": "Оригинальная дорожка",
+      "update": "2020-12-04 13:45:18",
+      "iframe_src": ""
+    },
+    {
+      "id": 45537,
+      "title": "Мой дедушка — инопланетянин",
+      "kp_id": "1101573",
+      "imdb_id": "tt7662644",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-11-23 20:43:38",
+      "orig_title": "Moj dida je pao s Marsa",
+      "year": "2019-03-21",
+      "translations": [
+        "Полное дублирование (iTunes)"
+      ],
+      "quality": "webdl",
+      "translation": "Полное дублирование (iTunes)",
+      "update": "2020-12-04 21:25:37",
+      "iframe_src": ""
+    },
+    {
+      "id": 44859,
+      "title": "Любовь без размера",
+      "kp_id": "1398964",
       "imdb_id": null,
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-11-25 18:36:44",
-      "orig_title": "Однажды вечером",
-      "year": "1982-01-01",
+      "add": "2020-10-27 20:14:09",
+      "orig_title": "Любовь без размера",
+      "year": "2020-10-22",
       "translations": [
         "Оригинальная дорожка"
       ],
       "quality": "webdl",
       "translation": "Оригинальная дорожка",
-      "update": "2020-12-04 13:24:12",
+      "update": "2020-12-04 21:21:25",
       "iframe_src": ""
     },
     {
-      "id": 44347,
-      "title": "Били, бьем и будем бить",
-      "kp_id": "818450",
-      "imdb_id": null,
+      "id": 44601,
+      "title": "Лето'85",
+      "kp_id": "1275788",
+      "imdb_id": "tt10457128",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-10-12 16:43:52",
-      "orig_title": "Били, бьем и будем бить",
-      "year": "1941-01-01",
+      "add": "2020-10-19 19:40:12",
+      "orig_title": "Été 85",
+      "year": "2020-07-14",
       "translations": [
-        "Оригинальная дорожка"
+        "Профессиональный (многоголосый закадровый)",
+        "Профессиональный (многоголосый закадровый) (Мельница)"
       ],
       "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2020-12-04 13:23:11",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-12-04 17:03:12",
+      "iframe_src": ""
+    },
+    {
+      "id": 7673,
+      "title": "Крайние меры",
+      "kp_id": "1372292",
+      "imdb_id": "tt12125238",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-05-30 15:52:33",
+      "orig_title": "Ek Thi Begum",
+      "year": "2020-04-08",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Octopus)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 14,
+      "episodes": 14,
+      "update": "2020-05-31 14:08:45",
       "iframe_src": ""
     },
     {
@@ -494,25 +478,6 @@
       "iframe_src": ""
     },
     {
-      "id": 7660,
-      "title": "Джеффри Эпштейн: грязный богач",
-      "kp_id": "1379795",
-      "imdb_id": "tt12312250",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-05-29 04:06:11",
-      "orig_title": "Jeffrey Epstein: Filthy Rich",
-      "year": "2020-05-27",
-      "translations": [
-        "Профессиональный (двухголосый закадровый) (IdeaFilm)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 4,
-      "episodes": 4,
-      "update": "2020-05-29 16:49:45",
-      "iframe_src": ""
-    },
-    {
       "id": 7659,
       "title": "Саутклифф",
       "kp_id": "780551",
@@ -551,27 +516,6 @@
       "iframe_src": ""
     },
     {
-      "id": 7639,
-      "title": "Грант",
-      "kp_id": "1188798",
-      "imdb_id": "tt8690814",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-05-26 17:29:35",
-      "orig_title": "Grant",
-      "year": "2020-05-25",
-      "translations": [
-        "Любительский (многоголосый закадровый) (KerobTV)",
-        "Профессиональный (многоголосый закадровый) (IdeaFilm)",
-        "Любительский (многоголосый закадровый) (ColdFilm)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 3,
-      "episodes": 3,
-      "update": "2020-05-29 16:46:59",
-      "iframe_src": ""
-    },
-    {
       "id": 7638,
       "title": "Кот Ик",
       "kp_id": "95236",
@@ -589,25 +533,6 @@
       "episodes_count": 60,
       "episodes": 9,
       "update": "2020-05-30 14:43:37",
-      "iframe_src": ""
-    },
-    {
-      "id": 7558,
-      "title": "Адмиралы района",
-      "kp_id": "1313588",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-05-18 13:20:13",
-      "orig_title": "Адмиралы района",
-      "year": "2020-05-18",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 16,
-      "episodes": 16,
-      "update": "2020-05-29 16:43:39",
       "iframe_src": ""
     },
     {
@@ -734,6 +659,61 @@
       "iframe_src": ""
     },
     {
+      "id": 25347,
+      "title": "Версия полковника Зорина",
+      "kp_id": "45731",
+      "imdb_id": "tt0314841",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-04-26 07:58:49",
+      "orig_title": "Versiya polkovnika Zorina",
+      "year": "1979-06-30",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "hdtv",
+      "translation": "Оригинальная дорожка",
+      "update": "2020-12-04 13:54:57",
+      "iframe_src": ""
+    },
+    {
+      "id": 24929,
+      "title": "Журавушка",
+      "kp_id": "45350",
+      "imdb_id": "tt0063838",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-04-20 20:00:37",
+      "orig_title": "Zhuravushka",
+      "year": "1969-04-07",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "webdl",
+      "translation": "Оригинальная дорожка",
+      "update": "2020-12-04 13:50:22",
+      "iframe_src": ""
+    },
+    {
+      "id": 1627,
+      "title": "Чисто московские убийства",
+      "kp_id": "1048580",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2017-10-11 09:23:50",
+      "orig_title": "Чисто московские убийства",
+      "year": "2017-10-08",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 2,
+      "episodes_count": 16,
+      "episodes": 8,
+      "update": "2020-05-31 19:23:37",
+      "iframe_src": ""
+    },
+    {
       "id": 674,
       "title": "Мамаша",
       "kp_id": "735359",
@@ -753,6 +733,28 @@
       "episodes_count": 152,
       "episodes": 20,
       "update": "2020-05-30 18:06:34",
+      "iframe_src": ""
+    },
+    {
+      "id": 57,
+      "title": "Супергёрл",
+      "kp_id": "880643",
+      "imdb_id": "tt4016454",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2016-04-11 18:04:44",
+      "orig_title": "Supergirl",
+      "year": "2015-07-11",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (LostFilm)",
+        "Любительский (многоголосый закадровый) (Octopus)",
+        "Профессиональный (многоголосый закадровый) (NewStudio)",
+        "Профессиональный (многоголосый закадровый) (TVShows)"
+      ],
+      "seasons_count": 5,
+      "episodes_count": 106,
+      "episodes": 19,
+      "update": "2020-05-31 11:42:43",
       "iframe_src": ""
     }
   ]
