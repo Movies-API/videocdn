@@ -1,368 +1,366 @@
 {
   "data": [
     {
-      "id": 13365,
-      "title": "Пес Прерии",
-      "kp_id": "798841",
-      "imdb_id": "tt3159412",
+      "id": 13577,
+      "title": "Им должен быть ты",
+      "kp_id": "889355",
+      "imdb_id": "tt4414438",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-09-05 23:55:24",
-      "orig_title": "Prairie Dog",
-      "year": "2015-01-30",
+      "add": "2017-09-21 22:14:22",
+      "orig_title": "It Had to Be You",
+      "year": "2015-10-31",
       "translations": [
-        "Любительский (двухголосый закадровый) (DeadSno & den904)"
+        "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
-      "translation": "Любительский (двухголосый закадровый) (DeadSno & den904)",
-      "update": "2017-09-06 05:46:08",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2017-09-22 13:29:58",
       "iframe_src": ""
     },
     {
-      "id": 13363,
-      "title": "Сексуальная учительница",
-      "kp_id": "278503",
-      "imdb_id": "tt0956208",
+      "id": 13576,
+      "title": "Дом на озере вязов",
+      "kp_id": null,
+      "imdb_id": "tt6333200",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-09-05 23:43:51",
-      "orig_title": "Nuga geunyeo-wa jasseulkka?",
-      "year": "2006-11-16",
+      "add": "2017-09-21 22:12:33",
+      "orig_title": "House on Elm Lake",
+      "year": "2017-09-11",
       "translations": [
-        "Любительский (многоголосый закадровый)"
+        "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый)",
-      "update": "2017-09-06 05:46:36",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2017-09-22 13:26:54",
       "iframe_src": ""
     },
     {
-      "id": 13351,
-      "title": "Лен и компания",
-      "kp_id": "845404",
-      "imdb_id": "tt3675204",
+      "id": 13574,
+      "title": "В мае делай всё, что тебе нравится",
+      "kp_id": "673576",
+      "imdb_id": "tt2296747",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-09-04 23:17:55",
-      "orig_title": "Len and Company",
-      "year": "2015-06-20",
+      "add": "2017-09-21 22:07:50",
+      "orig_title": "En mai, fais ce qu'il te plaît",
+      "year": "2015-10-10",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "dvdrip",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2017-09-06 05:50:04",
+      "update": "2017-09-22 13:17:13",
       "iframe_src": ""
     },
     {
-      "id": 13338,
-      "title": "Ещё одно зло",
-      "kp_id": "850929",
-      "imdb_id": "tt4185566",
+      "id": 13573,
+      "title": "Задержанный",
+      "kp_id": "988430",
+      "imdb_id": "tt5810368",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-09-04 22:18:50",
-      "orig_title": "Another Evil",
-      "year": "2016-03-12",
+      "add": "2017-09-21 22:05:20",
+      "orig_title": "The Detained",
+      "year": "2017-09-01",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
-      "quality": "bd",
+      "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2017-09-06 05:29:55",
+      "update": "2017-09-22 13:16:13",
       "iframe_src": ""
     },
     {
-      "id": 13336,
-      "title": "Подозрение жены",
-      "kp_id": "931472",
-      "imdb_id": "tt4867024",
+      "id": 13571,
+      "title": "Не волнуйся, малыш",
+      "kp_id": "804938",
+      "imdb_id": "tt3252594",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-09-04 22:10:42",
-      "orig_title": "Evidence of Truth",
-      "year": "2016-05-02",
+      "add": "2017-09-21 21:59:18",
+      "orig_title": "Don't Worry Baby",
+      "year": "2015-04-16",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
-      "quality": "hdtv",
+      "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2017-09-06 06:23:56",
+      "update": "2017-09-22 04:31:34",
       "iframe_src": ""
     },
     {
-      "id": 13332,
-      "title": "Червяк",
-      "kp_id": "1043765",
-      "imdb_id": "tt6892950",
+      "id": 13570,
+      "title": "Цирк Кейна",
+      "kp_id": "1021050",
+      "imdb_id": "tt6164014",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-09-04 21:55:07",
-      "orig_title": "Jireongi",
-      "year": "2017-04-20",
+      "add": "2017-09-21 21:53:44",
+      "orig_title": "Circus Kane",
+      "year": "2017-09-08",
       "translations": [
-        "Любительский (двухголосый закадровый) (DeadSno & den904)"
+        "Любительский (многоголосый закадровый) (Синема УС)"
       ],
-      "quality": "hdrip",
-      "translation": "Любительский (двухголосый закадровый) (DeadSno & den904)",
-      "update": "2017-09-06 06:25:23",
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2017-09-22 13:11:09",
       "iframe_src": ""
     },
     {
-      "id": 13310,
-      "title": "Отважный маленький тостер",
-      "kp_id": "24152",
-      "imdb_id": "tt0092695",
+      "id": 13568,
+      "title": "Лодка",
+      "kp_id": "416565",
+      "imdb_id": "tt1242533",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-09-04 10:46:46",
-      "orig_title": "The Brave Little Toaster",
-      "year": "1987-07-10",
+      "add": "2017-09-21 21:42:27",
+      "orig_title": "Boat",
+      "year": "2009-05-28",
+      "translations": [
+        "Любительский (одноголосый закадровый) (den904)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Любительский (одноголосый закадровый) (den904)",
+      "update": "2017-09-22 13:05:15",
+      "iframe_src": ""
+    },
+    {
+      "id": 13565,
+      "title": "Кровавая охота",
+      "kp_id": "765863",
+      "imdb_id": "tt2901896",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-09-21 21:34:48",
+      "orig_title": "Blood Hunt",
+      "year": "2017-06-27",
+      "translations": [
+        "Любительский (одноголосый закадровый) (Хихикающий доктор)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Любительский (одноголосый закадровый) (Хихикающий доктор)",
+      "update": "2017-09-22 13:03:53",
+      "iframe_src": ""
+    },
+    {
+      "id": 13554,
+      "title": "Мужчины идут в бой",
+      "kp_id": "906693",
+      "imdb_id": "tt4604496",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-09-20 23:23:50",
+      "orig_title": "Men Go to Battle",
+      "year": "2015-04-17",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2017-09-22 13:00:47",
+      "iframe_src": ""
+    },
+    {
+      "id": 13553,
+      "title": "Самосуд",
+      "kp_id": "764202",
+      "imdb_id": "tt2931148",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-09-20 23:21:41",
+      "orig_title": "Mob Handed",
+      "year": "2016-06-13",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2017-09-22 05:12:42",
+      "iframe_src": ""
+    },
+    {
+      "id": 13551,
+      "title": "Принц на Рождество",
+      "kp_id": "905526",
+      "imdb_id": "tt4648986",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-09-20 23:16:34",
+      "orig_title": "Small Town Prince",
+      "year": "2015-11-29",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2017-09-22 05:09:03",
+      "iframe_src": ""
+    },
+    {
+      "id": 13550,
+      "title": "Желание освободит тебя",
+      "kp_id": "865301",
+      "imdb_id": "tt3859320",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-09-20 23:14:09",
+      "orig_title": "Desire Will Set You Free",
+      "year": "2015-08-28",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2017-09-22 05:07:57",
+      "iframe_src": ""
+    },
+    {
+      "id": 13549,
+      "title": "Отец",
+      "kp_id": "933847",
+      "imdb_id": "tt4741170",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-09-20 23:11:28",
+      "orig_title": "Babai",
+      "year": "2015-06-28",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2017-09-22 05:06:55",
+      "iframe_src": ""
+    },
+    {
+      "id": 13548,
+      "title": "Горан",
+      "kp_id": "917544",
+      "imdb_id": "tt4757570",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-09-20 23:08:52",
+      "orig_title": "Goran",
+      "year": "2016-08-02",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2017-09-22 04:43:26",
+      "iframe_src": ""
+    },
+    {
+      "id": 13547,
+      "title": "Пробираясь сквозь рожь",
+      "kp_id": "858484",
+      "imdb_id": "tt4048168",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-09-20 23:06:23",
+      "orig_title": "Coming Through the Rye",
+      "year": "2015-11-04",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2017-09-22 04:25:59",
+      "iframe_src": ""
+    },
+    {
+      "id": 13545,
+      "title": "Едва я открою глаза",
+      "kp_id": "940107",
+      "imdb_id": "tt4400174",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-09-20 23:01:46",
+      "orig_title": "À peine j'ouvre les yeux",
+      "year": "2017-09-05",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2017-09-22 04:22:30",
+      "iframe_src": ""
+    },
+    {
+      "id": 13544,
+      "title": "Кровать мертвецов",
+      "kp_id": "920498",
+      "imdb_id": "tt4730706",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-09-20 22:59:05",
+      "orig_title": "Bed of the Dead",
+      "year": "2016-07-16",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Любительский (одноголосый закадровый) (Хихикающий доктор)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2017-09-22 13:08:24",
+      "iframe_src": ""
+    },
+    {
+      "id": 12232,
+      "title": "Гадкий я 3",
+      "kp_id": "820599",
+      "imdb_id": "tt3469046",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-06-29 22:12:37",
+      "orig_title": "Despicable Me 3",
+      "year": "2017-06-14",
       "translations": [
         "Полное дублирование"
       ],
-      "quality": "dvdrip",
+      "quality": "bd",
       "translation": "Полное дублирование",
-      "update": "2017-09-07 05:03:22",
+      "update": "2017-09-22 04:40:35",
       "iframe_src": ""
     },
     {
-      "id": 13308,
-      "title": "Выводок",
-      "kp_id": "17516",
-      "imdb_id": "tt0078908",
+      "id": 11314,
+      "title": "Молчи",
+      "kp_id": "685047",
+      "imdb_id": "tt2181298",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-09-04 10:44:13",
-      "orig_title": "The Brood",
-      "year": "1979-05-25",
-      "translations": [
-        "Авторский (одноголосый закадровый) (Визгунов)"
-      ],
-      "quality": "bd",
-      "translation": "Авторский (одноголосый закадровый) (Визгунов)",
-      "update": "2017-09-07 05:00:36",
-      "iframe_src": ""
-    },
-    {
-      "id": 13307,
-      "title": "Очень русский детектив",
-      "kp_id": "404377",
-      "imdb_id": "tt1334035",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-09-04 06:47:27",
-      "orig_title": "Ochen russkiy detektiv",
-      "year": "2008-11-20",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2017-09-07 04:58:48",
-      "iframe_src": ""
-    },
-    {
-      "id": 13298,
-      "title": "Душа убийцы",
-      "kp_id": "25054",
-      "imdb_id": "tt0271200",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-08-31 12:27:47",
-      "orig_title": "Soul Assassin",
-      "year": "2001-08-23",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2017-09-07 04:56:20",
-      "iframe_src": ""
-    },
-    {
-      "id": 13297,
-      "title": "Абсолютные новички",
-      "kp_id": "6597",
-      "imdb_id": "tt0090585",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-08-31 12:26:15",
-      "orig_title": "Absolute Beginners",
-      "year": "1986-04-04",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2017-09-07 04:55:02",
-      "iframe_src": ""
-    },
-    {
-      "id": 13296,
-      "title": "Патруль времени",
-      "kp_id": "434077",
-      "imdb_id": "tt1337055",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-08-31 12:04:30",
-      "orig_title": "Mei loi ging chat",
-      "year": "2010-04-08",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2017-09-07 04:51:12",
-      "iframe_src": ""
-    },
-    {
-      "id": 13295,
-      "title": "Волшебное дерево",
-      "kp_id": "484633",
-      "imdb_id": "tt1533795",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-08-31 12:03:14",
-      "orig_title": "Magiczne drzewo",
-      "year": "2009-09-18",
-      "translations": [
-        "Профессиональный (двухголосый закадровый) (НТВ)"
-      ],
-      "quality": "hdtv",
-      "translation": "Профессиональный (двухголосый закадровый) (НТВ)",
-      "update": "2017-09-07 04:50:06",
-      "iframe_src": ""
-    },
-    {
-      "id": 13294,
-      "title": "Белый слон",
-      "kp_id": "495237",
-      "imdb_id": "tt1578882",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-08-31 12:02:06",
-      "orig_title": "Elephant White",
-      "year": "2011-05-17",
-      "translations": [
-        "Профессиональный (двухголосый закадровый) (НТВ)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (двухголосый закадровый) (НТВ)",
-      "update": "2017-09-07 04:48:46",
-      "iframe_src": ""
-    },
-    {
-      "id": 13293,
-      "title": "Сырые дрова",
-      "kp_id": "421361",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-08-31 12:01:02",
-      "orig_title": "Сырые дрова",
-      "year": "2007-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2017-09-07 04:47:12",
-      "iframe_src": ""
-    },
-    {
-      "id": 11873,
-      "title": "Чужеродный",
-      "kp_id": "697733",
-      "imdb_id": "tt2324928",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-06-09 13:58:13",
-      "orig_title": "Alienate",
-      "year": "2016-02-23",
-      "translations": [
-        "Любительский (одноголосый закадровый) (datynet)",
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (одноголосый закадровый) (datynet)",
-      "update": "2017-09-06 05:44:44",
-      "iframe_src": ""
-    },
-    {
-      "id": 10823,
-      "title": "Блюз больного кота",
-      "kp_id": "907767",
-      "imdb_id": "tt4185862",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-04-09 20:55:47",
-      "orig_title": "Cat Sick Blues",
-      "year": "2015-10-29",
+      "add": "2017-05-01 21:43:30",
+      "orig_title": "Don't Speak",
+      "year": "2015-10-10",
       "translations": [
         "Любительский (одноголосый закадровый) (Хихикающий доктор)",
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
       "translation": "Любительский (одноголосый закадровый) (Хихикающий доктор)",
-      "update": "2017-09-06 05:21:26",
+      "update": "2017-09-22 04:33:22",
       "iframe_src": ""
     },
     {
-      "id": 9712,
-      "title": "Тёмная паутина",
-      "kp_id": "950265",
-      "imdb_id": "tt5247042",
+      "id": 10995,
+      "title": "Эксперимент «Офис»",
+      "kp_id": "893603",
+      "imdb_id": "tt1082807",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-02-15 14:34:14",
-      "orig_title": "Darkweb",
-      "year": "2016-03-08",
+      "add": "2017-04-16 21:36:38",
+      "orig_title": "The Belko Experiment",
+      "year": "2016-09-10",
       "translations": [
-        "Любительский (одноголосый закадровый)",
-        "Любительский (многоголосый закадровый) (Синема УС)"
+        "Любительский (многоголосый закадровый) (Колобок)",
+        "Полное дублирование"
       ],
-      "quality": "hdrip",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2017-09-06 06:08:28",
-      "iframe_src": ""
-    },
-    {
-      "id": 9199,
-      "title": "Требуется водитель",
-      "kp_id": "840592",
-      "imdb_id": "tt3733606",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-01-26 05:28:47",
-      "orig_title": "Who's Driving Doug",
-      "year": "2016-02-26",
-      "translations": [
-        "Любительский (двухголосый закадровый)",
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (двухголосый закадровый)",
-      "update": "2017-09-06 06:14:32",
-      "iframe_src": ""
-    },
-    {
-      "id": 9174,
-      "title": "Грязная ложь",
-      "kp_id": "819209",
-      "imdb_id": "tt3449322",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-01-25 06:04:15",
-      "orig_title": "Dirty Lies",
-      "year": "2016-06-16",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Parovoz Production)",
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Любительский (многоголосый закадровый) (Parovoz Production)",
-      "update": "2017-09-06 05:51:52",
+      "quality": "bd",
+      "translation": "Любительский (многоголосый закадровый) (Колобок)",
+      "update": "2017-09-22 04:37:34",
       "iframe_src": ""
     }
   ]

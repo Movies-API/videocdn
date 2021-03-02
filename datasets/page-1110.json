@@ -1,367 +1,365 @@
 {
   "data": [
     {
-      "id": 29010,
-      "title": "Всего лишь люди",
-      "kp_id": "1001536",
-      "imdb_id": "tt6029796",
+      "id": 29189,
+      "title": "Расцвет любви",
+      "kp_id": "1025599",
+      "imdb_id": "tt6455992",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-07-15 06:13:40",
-      "orig_title": "Only Humans",
-      "year": "2018-03-09",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (AlphaProject)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый) (AlphaProject)",
-      "update": "2019-07-15 07:21:20",
-      "iframe_src": ""
-    },
-    {
-      "id": 29009,
-      "title": "На её плечах",
-      "kp_id": "1112208",
-      "imdb_id": "tt7689484",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-07-15 06:11:48",
-      "orig_title": "On Her Shoulders",
-      "year": "2018-01-20",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-07-15 06:38:43",
-      "iframe_src": ""
-    },
-    {
-      "id": 29005,
-      "title": "Пустошь",
-      "kp_id": "983388",
-      "imdb_id": "tt5770836",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-07-15 06:02:35",
-      "orig_title": "Desolate",
-      "year": "2018-02-09",
+      "add": "2019-07-20 07:07:23",
+      "orig_title": "Love Blossoms",
+      "year": "2017-02-14",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-07-15 07:08:30",
+      "update": "2019-07-20 18:41:21",
       "iframe_src": ""
     },
     {
-      "id": 29003,
-      "title": "Почти обыкновенное лето",
-      "kp_id": "1208010",
-      "imdb_id": "tt9185542",
+      "id": 29188,
+      "title": "Мы вам перезвоним",
+      "kp_id": "1038586",
+      "imdb_id": "tt6559642",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-07-15 05:55:55",
-      "orig_title": "Croce e delizia",
-      "year": "2019-02-28",
+      "add": "2019-07-20 07:03:43",
+      "orig_title": "We'll Get Back to You",
+      "year": "2017-03-03",
       "translations": [
-        "Профессиональный (многоголосый закадровый) (AlphaProject)"
+        "Любительский (многоголосый закадровый) (Синема УС)"
       ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый) (AlphaProject)",
-      "update": "2019-07-15 06:39:39",
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-07-20 18:40:12",
       "iframe_src": ""
     },
     {
-      "id": 29001,
-      "title": "Тайна Анри Пика",
-      "kp_id": "1137091",
-      "imdb_id": "tt8263936",
+      "id": 29185,
+      "title": "Спасательный отряд животных",
+      "kp_id": "1216683",
+      "imdb_id": "tt9372986",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-07-15 05:50:03",
-      "orig_title": "Le mystère Henri Pick",
-      "year": "2019-02-24",
+      "add": "2019-07-20 06:59:06",
+      "orig_title": "Dong wu chu ji",
+      "year": "2019-04-26",
       "translations": [
-        "Профессиональный (многоголосый закадровый) (AlphaProject)"
+        "Любительский (многоголосый закадровый) (Колобок)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Колобок)",
+      "update": "2019-07-20 18:39:01",
+      "iframe_src": ""
+    },
+    {
+      "id": 29155,
+      "title": "Полнолуние девственниц",
+      "kp_id": "95842",
+      "imdb_id": "tt0070547",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-07-19 03:49:45",
+      "orig_title": "Il plenilunio delle vergini",
+      "year": "1973-03-14",
+      "translations": [
+        "Любительский (одноголосый закадровый)"
       ],
       "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый) (AlphaProject)",
-      "update": "2019-07-15 07:10:07",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2019-07-19 06:11:07",
       "iframe_src": ""
     },
     {
-      "id": 29000,
-      "title": "Остров",
-      "kp_id": "1223511",
-      "imdb_id": "tt9125432",
+      "id": 29154,
+      "title": "Черный ястреб",
+      "kp_id": "134255",
+      "imdb_id": "tt0117446",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-07-15 05:47:04",
-      "orig_title": "The Island",
-      "year": "2018-08-10",
+      "add": "2019-07-19 03:47:54",
+      "orig_title": "Raven Hawk",
+      "year": "1996-07-20",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Сербин Юрий)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Авторский (одноголосый закадровый) (Сербин Юрий)",
+      "update": "2019-07-19 06:08:52",
+      "iframe_src": ""
+    },
+    {
+      "id": 29153,
+      "title": "Принцесса дракон",
+      "kp_id": "77493",
+      "imdb_id": "tt0165256",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-07-19 03:46:18",
+      "orig_title": "Hissatsu onna kenshi",
+      "year": "1976-01-31",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Кузнецов Сергей)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Авторский (одноголосый закадровый) (Кузнецов Сергей)",
+      "update": "2019-07-19 06:08:17",
+      "iframe_src": ""
+    },
+    {
+      "id": 29152,
+      "title": "Любовь во время оккупации",
+      "kp_id": "663913",
+      "imdb_id": "tt2178929",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-07-19 03:44:36",
+      "orig_title": "Amour et sexe sous l'occupation",
+      "year": "2011-10-11",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2019-07-19 06:06:54",
+      "iframe_src": ""
+    },
+    {
+      "id": 29151,
+      "title": "Любовь в лифте",
+      "kp_id": "583659",
+      "imdb_id": "tt1721022",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-07-19 03:42:54",
+      "orig_title": "Love in an Elevator",
+      "year": "2010-01-01",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "sat",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-07-19 06:05:39",
+      "iframe_src": ""
+    },
+    {
+      "id": 29150,
+      "title": "Поцелуй меня, убей меня",
+      "kp_id": "875386",
+      "imdb_id": "tt3912214",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-07-19 03:39:30",
+      "orig_title": "Kiss Me, Kill Me",
+      "year": "2015-09-18",
+      "translations": [
+        "Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "Original (English)",
+      "update": "2019-07-19 06:17:26",
+      "iframe_src": ""
+    },
+    {
+      "id": 29149,
+      "title": "Тарбозавр 3D",
+      "kp_id": "521715",
+      "imdb_id": "tt2248068",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-07-19 03:38:07",
+      "orig_title": "Jeombaki: hanbandoui gongryong 3D",
+      "year": "2012-01-26",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2019-07-19 06:25:34",
+      "iframe_src": ""
+    },
+    {
+      "id": 29148,
+      "title": "Похищенные Далеками",
+      "kp_id": "308207",
+      "imdb_id": "tt0945478",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-07-19 03:35:14",
+      "orig_title": "Abducted by the Daleks",
+      "year": "2005-01-01",
+      "translations": [
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2019-07-19 06:01:15",
+      "iframe_src": ""
+    },
+    {
+      "id": 29137,
+      "title": "Чертовы куклы",
+      "kp_id": "224229",
+      "imdb_id": "tt0384882",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-07-18 22:39:50",
+      "orig_title": "Chyortovy kukly",
+      "year": "1993-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "sat",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-07-19 07:26:05",
+      "iframe_src": ""
+    },
+    {
+      "id": 29109,
+      "title": "Заклятие Яран Гоян",
+      "kp_id": "1175766",
+      "imdb_id": "tt8669100",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-07-18 20:01:41",
+      "orig_title": "Jaran Goyang",
+      "year": "2018-07-05",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Колобок)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Колобок)",
+      "update": "2019-07-19 12:28:29",
+      "iframe_src": ""
+    },
+    {
+      "id": 29108,
+      "title": "Да здравствует король!",
+      "kp_id": "1112118",
+      "imdb_id": "tt10449184",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-07-18 19:55:44",
+      "orig_title": "Long Live the King",
+      "year": "2019-06-19",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Колобок)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Колобок)",
+      "update": "2019-07-19 12:26:50",
+      "iframe_src": ""
+    },
+    {
+      "id": 29107,
+      "title": "Семейные фотографии",
+      "kp_id": "1221328",
+      "imdb_id": "tt9431144",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-07-18 19:52:16",
+      "orig_title": "Family Pictures",
+      "year": "2019-06-29",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (AlphaProject)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый) (AlphaProject)",
+      "update": "2019-07-19 12:26:10",
+      "iframe_src": ""
+    },
+    {
+      "id": 29106,
+      "title": "Пленённая модель",
+      "kp_id": "1210089",
+      "imdb_id": "tt9312100",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-07-18 19:47:33",
+      "orig_title": "A Model Kidnapping",
+      "year": "2019-07-06",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "hdtv",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-07-19 12:23:36",
+      "iframe_src": ""
+    },
+    {
+      "id": 29105,
+      "title": "Медведи-соседи: Большое уменьшение",
+      "kp_id": "1112659",
+      "imdb_id": "tt8028526",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-07-18 19:44:47",
+      "orig_title": "Xiong chu mei zhi bian xing ji",
+      "year": "2018-02-16",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-07-15 06:40:39",
+      "update": "2019-07-19 12:22:45",
       "iframe_src": ""
     },
     {
-      "id": 28918,
-      "title": "Лето в веснушках",
-      "kp_id": "857432",
-      "imdb_id": "tt4203198",
+      "id": 28665,
+      "title": "Паранормальное явление 3",
+      "kp_id": "573239",
+      "imdb_id": "tt1778304",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-07-12 20:14:13",
-      "orig_title": "Strazdanota vasara",
-      "year": "1988-07-01",
+      "add": "2019-07-06 16:25:50",
+      "orig_title": "Paranormal Activity 3",
+      "year": "2011-10-14",
       "translations": [
-        "Любительский (двухголосый закадровый) (Levelin)"
+        "Полное дублирование"
       ],
-      "quality": "tv",
-      "translation": "Любительский (двухголосый закадровый) (Levelin)",
-      "update": "2019-07-15 07:29:54",
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2019-07-20 05:40:15",
       "iframe_src": ""
     },
     {
-      "id": 28917,
-      "title": "Сыну пора жениться",
-      "kp_id": "725264",
+      "id": 27668,
+      "title": "Игра",
+      "kp_id": "1108404",
       "imdb_id": null,
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-07-12 20:11:11",
-      "orig_title": "Сыну пора жениться",
-      "year": "1959-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "sat",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-07-15 07:28:22",
-      "iframe_src": ""
-    },
-    {
-      "id": 28916,
-      "title": "В погоне за славой",
-      "kp_id": "636153",
-      "imdb_id": "tt5108366",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-07-12 20:05:12",
-      "orig_title": "V pogone za slavoy",
-      "year": "1957-04-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "sat",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-07-15 07:06:44",
-      "iframe_src": ""
-    },
-    {
-      "id": 28915,
-      "title": "Узник старой усадьбы",
-      "kp_id": "948998",
-      "imdb_id": "tt6803002",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-07-12 20:01:12",
-      "orig_title": "Uznik Staroi Usadby",
-      "year": "2014-05-25",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-07-15 07:06:14",
-      "iframe_src": ""
-    },
-    {
-      "id": 28914,
-      "title": "За власть Советов",
-      "kp_id": "45188",
-      "imdb_id": "tt0049977",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-07-12 19:57:23",
-      "orig_title": "Za vlast Sovetov",
-      "year": "1956-08-02",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "sat",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-07-15 07:04:10",
-      "iframe_src": ""
-    },
-    {
-      "id": 28913,
-      "title": "Заколдованные",
-      "kp_id": "41320",
-      "imdb_id": "tt0111816",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-07-12 19:54:21",
-      "orig_title": "Zakoldovannye",
-      "year": "1994-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-07-15 07:02:44",
-      "iframe_src": ""
-    },
-    {
-      "id": 28912,
-      "title": "Заноза",
-      "kp_id": "43398",
-      "imdb_id": "tt0235089",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-07-12 19:50:32",
-      "orig_title": "Abezara",
-      "year": "1956-12-30",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "sat",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-07-15 07:01:34",
-      "iframe_src": ""
-    },
-    {
-      "id": 28911,
-      "title": "Жених без диплома",
-      "kp_id": "42496",
-      "imdb_id": "tt0270711",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-07-12 19:41:39",
-      "orig_title": "Udiplomo sasidzo",
-      "year": "1961-08-25",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "sat",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-07-15 06:58:26",
-      "iframe_src": ""
-    },
-    {
-      "id": 28910,
-      "title": "Заторможенный рефлекс",
-      "kp_id": "596093",
-      "imdb_id": "tt6340198",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-07-12 19:35:44",
-      "orig_title": "Zatormozhennyy refleks",
-      "year": "2004-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvb",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-07-15 06:55:33",
-      "iframe_src": ""
-    },
-    {
-      "id": 28909,
-      "title": "Интим не предлагать",
-      "kp_id": "1006644",
-      "imdb_id": "tt9299158",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-07-12 19:31:39",
-      "orig_title": "Intim ne predlagat",
-      "year": "2016-10-21",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-07-15 06:49:53",
-      "iframe_src": ""
-    },
-    {
-      "id": 21300,
-      "title": "Отторжение",
-      "kp_id": "423018",
-      "imdb_id": "tt1822279",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-01-07 16:27:53",
-      "orig_title": "Ottorzhenie",
-      "year": "2010-06-17",
-      "translations": [
-        "Оригинальная дорожка",
-        "Оригинальная дорожка"
-      ],
-      "quality": "hdtv",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-07-15 06:47:03",
-      "iframe_src": ""
-    },
-    {
-      "id": 9108,
-      "title": "Рыба-мечта",
-      "kp_id": "935012",
-      "imdb_id": "tt6298908",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-01-22 13:05:02",
-      "orig_title": "Dreamfish",
-      "year": "2016-12-02",
-      "translations": [
-        "Оригинальная дорожка",
-        "Оригинальная дорожка"
-      ],
-      "quality": "hdtv",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-07-15 06:45:33",
-      "iframe_src": ""
-    },
-    {
-      "id": 8740,
-      "title": "Кузнец моего счастья",
-      "kp_id": "1008537",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-01-09 09:36:46",
-      "orig_title": "Кузнец моего счастья",
-      "year": "2017-01-08",
-      "translations": [
-        "Оригинальная дорожка",
-        "Оригинальная дорожка"
-      ],
-      "quality": "hdtv",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-07-15 06:43:11",
-      "iframe_src": ""
-    },
-    {
-      "id": 7818,
-      "title": "Землетрясение",
-      "kp_id": "839961",
-      "imdb_id": "tt5270810",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-12-02 07:25:16",
-      "orig_title": "Zemletryasenie",
-      "year": "2016-09-13",
+      "add": "2019-06-11 15:40:15",
+      "orig_title": "Игра",
+      "year": "2019-06-06",
       "translations": [
         "Оригинальная дорожка",
         "Оригинальная дорожка"
       ],
       "quality": "webdl",
       "translation": "Оригинальная дорожка",
-      "update": "2019-07-15 07:00:57",
+      "update": "2019-07-19 05:57:41",
+      "iframe_src": ""
+    },
+    {
+      "id": 20672,
+      "title": "Большой брат",
+      "kp_id": "1087454",
+      "imdb_id": "tt7336572",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-12-11 23:15:04",
+      "orig_title": "Dai si hing",
+      "year": "2018-08-01",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Колобок)",
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Колобок)",
+      "update": "2019-07-19 05:58:38",
       "iframe_src": ""
     }
   ]

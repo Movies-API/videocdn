@@ -1,367 +1,367 @@
 {
   "data": [
     {
-      "id": 38589,
-      "title": "Будет ещё круче",
-      "kp_id": "774397",
-      "imdb_id": "tt3005850",
+      "id": 38751,
+      "title": "Гость в Лондоне",
+      "kp_id": "1025827",
+      "imdb_id": "tt6173826",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-03-26 23:53:18",
-      "orig_title": "Sooper Se Ooper",
-      "year": "2013-10-25",
+      "add": "2020-03-31 21:10:33",
+      "orig_title": "Guest iin London",
+      "year": "2017-07-06",
       "translations": [
-        "Профессиональный (многоголосый закадровый) (ZEE TV)"
-      ],
-      "quality": "hdrip",
-      "translation": "Профессиональный (многоголосый закадровый) (ZEE TV)",
-      "update": "2020-03-31 07:47:50",
-      "iframe_src": ""
-    },
-    {
-      "id": 38588,
-      "title": "Список желаний",
-      "kp_id": "1119344",
-      "imdb_id": "tt7886846",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-03-26 23:50:06",
-      "orig_title": "Bucket List",
-      "year": "2018-05-25",
-      "translations": [
-        "Любительский (многоголосый закадровый)"
+        "Любительский (многоголосый закадровый) (FanStudio)"
       ],
       "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый)",
-      "update": "2020-03-31 07:47:06",
+      "translation": "Любительский (многоголосый закадровый) (FanStudio)",
+      "update": "2020-04-06 14:19:05",
       "iframe_src": ""
     },
     {
-      "id": 38587,
-      "title": "Авантюрист",
-      "kp_id": "18746",
-      "imdb_id": "tt0337625",
+      "id": 38750,
+      "title": "Добрые друзья",
+      "kp_id": "69419",
+      "imdb_id": "tt0102071",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-03-26 23:47:32",
-      "orig_title": "Gambler",
-      "year": "1995-12-08",
+      "add": "2020-03-31 21:03:32",
+      "orig_title": "Hum",
+      "year": "1991-02-01",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (Формат AB)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый) (Формат AB)",
+      "update": "2020-04-06 14:14:30",
+      "iframe_src": ""
+    },
+    {
+      "id": 38749,
+      "title": "Измена, ставшая роковой",
+      "kp_id": "275083",
+      "imdb_id": "tt0875692",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-03-31 21:00:23",
+      "orig_title": "Aggar: Passion Betrayal Terror",
+      "year": "2007-09-14",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-04-06 14:13:33",
+      "iframe_src": ""
+    },
+    {
+      "id": 38748,
+      "title": "Саами",
+      "kp_id": "153749",
+      "imdb_id": "tt0376144",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-03-31 20:54:57",
+      "orig_title": "Saamy",
+      "year": "2003-05-01",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (SDI Media)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый) (SDI Media)",
+      "update": "2020-04-06 14:09:58",
+      "iframe_src": ""
+    },
+    {
+      "id": 38747,
+      "title": "Шакалака Бум Бум",
+      "kp_id": "264728",
+      "imdb_id": "tt0845535",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-03-31 20:50:39",
+      "orig_title": "Shakalaka Boom Boom",
+      "year": "2007-04-06",
       "translations": [
         "Профессиональный (двухголосый закадровый)"
       ],
-      "quality": "dvdrip",
+      "quality": "hdtv",
       "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2020-03-31 07:46:22",
+      "update": "2020-04-06 14:04:58",
       "iframe_src": ""
     },
     {
-      "id": 38586,
-      "title": "Авантюристы",
-      "kp_id": "172594",
-      "imdb_id": "tt0157917",
+      "id": 38746,
+      "title": "Нападение Гхази",
+      "kp_id": "1009697",
+      "imdb_id": "tt6299040",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-03-26 23:12:41",
-      "orig_title": "Lakhon Ki Baat",
-      "year": "1984-07-06",
+      "add": "2020-03-31 20:46:10",
+      "orig_title": "The Ghazi Attack",
+      "year": "2017-02-17",
+      "translations": [
+        "Любительский (многоголосый закадровый) (FanStudio)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (многоголосый закадровый) (FanStudio)",
+      "update": "2020-04-06 14:01:17",
+      "iframe_src": ""
+    },
+    {
+      "id": 38744,
+      "title": "Мы не хуже других",
+      "kp_id": "116003",
+      "imdb_id": "tt0076167",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-03-31 20:35:49",
+      "orig_title": "Hum Kisise Kum Naheen",
+      "year": "1977-08-25",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "dvdrip",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-03-31 07:44:56",
+      "update": "2020-04-06 13:53:21",
       "iframe_src": ""
     },
     {
-      "id": 38534,
-      "title": "Безумно влюблённый",
-      "kp_id": "702731",
-      "imdb_id": "tt2359810",
+      "id": 38726,
+      "title": "Акхил: Сила Солнца",
+      "kp_id": "930156",
+      "imdb_id": "tt4974356",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-03-25 19:20:29",
-      "orig_title": "Raanjhanaa",
-      "year": "2013-06-20",
+      "add": "2020-03-31 13:00:13",
+      "orig_title": "Akhil",
+      "year": "2015-11-10",
       "translations": [
-        "Профессиональный (многоголосый закадровый) (Red Media)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый) (Red Media)",
-      "update": "2020-03-31 07:43:58",
-      "iframe_src": ""
-    },
-    {
-      "id": 38533,
-      "title": "Клянусь вами",
-      "kp_id": "85035",
-      "imdb_id": "tt0175423",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-03-25 19:16:41",
-      "orig_title": "Aap Ki Kasam",
-      "year": "1974-04-17",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-03-31 07:43:16",
-      "iframe_src": ""
-    },
-    {
-      "id": 38532,
-      "title": "Обвиняемый",
-      "kp_id": "262749",
-      "imdb_id": "tt0495893",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-03-25 19:12:43",
-      "orig_title": "Shikaar",
-      "year": "2000-01-01",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (ZEE TV)"
-      ],
-      "quality": "sat",
-      "translation": "Профессиональный (многоголосый закадровый) (ZEE TV)",
-      "update": "2020-03-31 07:42:45",
-      "iframe_src": ""
-    },
-    {
-      "id": 38531,
-      "title": "Когти",
-      "kp_id": "639053",
-      "imdb_id": "tt2091384",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-03-25 19:01:48",
-      "orig_title": "Panjaa",
-      "year": "2011-12-08",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (Red Media)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый) (Red Media)",
-      "update": "2020-03-31 07:41:41",
-      "iframe_src": ""
-    },
-    {
-      "id": 38530,
-      "title": "Цыгане",
-      "kp_id": "82256",
-      "imdb_id": "tt0186857",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-03-25 18:40:48",
-      "orig_title": "Banjaran",
-      "year": "1991-11-08",
-      "translations": [
-        "Любительский (одноголосый закадровый)"
+        "Любительский (многоголосый закадровый) (Sound-Group)"
       ],
       "quality": "webdl",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2020-03-31 07:22:36",
+      "translation": "Любительский (многоголосый закадровый) (Sound-Group)",
+      "update": "2020-04-06 13:47:49",
       "iframe_src": ""
     },
     {
-      "id": 38529,
-      "title": "В пылающем огне",
-      "kp_id": "208335",
-      "imdb_id": "tt0247915",
+      "id": 38724,
+      "title": "Дети без матери",
+      "kp_id": "263835",
+      "imdb_id": "tt0156364",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-03-25 18:38:20",
-      "orig_title": "Agnee",
-      "year": "1988-11-18",
+      "add": "2020-03-31 12:48:54",
+      "orig_title": "Bin Maa Ke Bachche",
+      "year": "1980-01-01",
       "translations": [
-        "Профессиональный (многоголосый закадровый) (Формат AB)"
+        "Полное дублирование"
       ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый) (Формат AB)",
-      "update": "2020-03-31 07:21:56",
+      "quality": "vhs",
+      "translation": "Полное дублирование",
+      "update": "2020-04-06 13:09:46",
       "iframe_src": ""
     },
     {
-      "id": 38528,
-      "title": "Защита",
-      "kp_id": "85053",
-      "imdb_id": "tt0246261",
+      "id": 38723,
+      "title": "Душа моя",
+      "kp_id": "86619",
+      "imdb_id": "tt0359492",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-03-25 18:26:34",
-      "orig_title": "Surakksha",
-      "year": "1979-06-22",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (Формат AB)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый) (Формат AB)",
-      "update": "2020-03-31 07:19:55",
-      "iframe_src": ""
-    },
-    {
-      "id": 38526,
-      "title": "Жил-был воин",
-      "kp_id": "504534",
-      "imdb_id": "tt1621994",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-03-25 18:15:56",
-      "orig_title": "Anaganaga O Dheerudu",
-      "year": "2011-01-14",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "hdtv",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-03-31 07:18:31",
-      "iframe_src": ""
-    },
-    {
-      "id": 38491,
-      "title": "Жара",
-      "kp_id": "595063",
-      "imdb_id": "tt1946389",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-03-24 20:52:50",
-      "orig_title": "Seema Tapakai",
-      "year": "2011-05-13",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (Red Media)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый) (Red Media)",
-      "update": "2020-03-31 07:16:38",
-      "iframe_src": ""
-    },
-    {
-      "id": 38490,
-      "title": "Поющая раковина",
-      "kp_id": "217662",
-      "imdb_id": "tt0155789",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-03-24 20:49:53",
-      "orig_title": "Kadolara Kavithaigal",
-      "year": "1986-07-05",
+      "add": "2020-03-31 12:46:34",
+      "orig_title": "Jaanoo",
+      "year": "1985-10-30",
       "translations": [
         "Полное дублирование"
       ],
       "quality": "dvdrip",
       "translation": "Полное дублирование",
-      "update": "2020-03-31 07:15:58",
+      "update": "2020-04-06 13:09:21",
       "iframe_src": ""
     },
     {
-      "id": 38489,
-      "title": "Огонь",
-      "kp_id": "41757",
-      "imdb_id": "tt0116308",
+      "id": 37186,
+      "title": "Лучший игрок",
+      "kp_id": "34933",
+      "imdb_id": "tt0114317",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-03-24 20:45:23",
-      "orig_title": "Fire",
-      "year": "1996-09-06",
-      "translations": [
-        "Авторский (одноголосый закадровый) (Карповский)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Авторский (одноголосый закадровый) (Карповский)",
-      "update": "2020-03-31 07:15:13",
-      "iframe_src": ""
-    },
-    {
-      "id": 38488,
-      "title": "Огонь и пламя",
-      "kp_id": "224757",
-      "imdb_id": "tt0154104",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-03-24 20:39:57",
-      "orig_title": "Aag Aur Shola",
-      "year": "1986-01-01",
+      "add": "2020-03-01 17:02:02",
+      "orig_title": "Sabse Bada Khiladi",
+      "year": "1995-06-09",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "dvdrip",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-03-31 07:13:00",
+      "update": "2020-04-06 14:08:27",
       "iframe_src": ""
     },
     {
-      "id": 36581,
-      "title": "Тень",
-      "kp_id": "680351",
-      "imdb_id": "tt2386295",
+      "id": 36870,
+      "title": "Босс",
+      "kp_id": "766657",
+      "imdb_id": "tt2571140",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-02-19 18:02:28",
-      "orig_title": "Shadow",
-      "year": "2013-04-25",
+      "add": "2020-02-24 18:44:50",
+      "orig_title": "Boss",
+      "year": "2013-10-15",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (SDI Media)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый) (SDI Media)",
+      "update": "2020-04-06 13:11:13",
+      "iframe_src": ""
+    },
+    {
+      "id": 32590,
+      "title": "Да, моя радость!",
+      "kp_id": "857822",
+      "imdb_id": "tt4271820",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-11-01 12:39:51",
+      "orig_title": "OK Kanmani",
+      "year": "2015-04-16",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (SDI Media)",
+        "Любительский (двухголосый закадровый) (datynet & Galina Vasyukova)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый) (SDI Media)",
+      "update": "2020-04-06 14:16:19",
+      "iframe_src": ""
+    },
+    {
+      "id": 21178,
+      "title": "Саркар Радж",
+      "kp_id": "230912",
+      "imdb_id": "tt0490210",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-01-03 08:14:25",
+      "orig_title": "Sarkar Raj",
+      "year": "2008-06-05",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-04-06 14:11:10",
+      "iframe_src": ""
+    },
+    {
+      "id": 14342,
+      "title": "Джентльмен",
+      "kp_id": "979533",
+      "imdb_id": "tt5613834",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-11-12 21:44:57",
+      "orig_title": "A Gentleman",
+      "year": "2017-08-25",
+      "translations": [
+        "Любительский (многоголосый закадровый) (FanStudio)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (многоголосый закадровый) (FanStudio)",
+      "update": "2020-04-06 13:51:59",
+      "iframe_src": ""
+    },
+    {
+      "id": 13152,
+      "title": "Запретные желания",
+      "kp_id": "504647",
+      "imdb_id": "tt1625856",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-08-27 14:27:23",
+      "orig_title": "Badrinath",
+      "year": "2011-06-09",
       "translations": [
         "Профессиональный (многоголосый закадровый) (Red Media)"
       ],
       "quality": "bd",
       "translation": "Профессиональный (многоголосый закадровый) (Red Media)",
-      "update": "2020-03-31 07:17:36",
+      "update": "2020-04-06 13:46:40",
       "iframe_src": ""
     },
     {
-      "id": 32409,
-      "title": "Скажи, что любишь!",
-      "kp_id": "85199",
-      "imdb_id": "tt0234000",
+      "id": 10303,
+      "title": "Боевик Джексон",
+      "kp_id": "440616",
+      "imdb_id": "tt0403935",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-10-27 21:32:15",
-      "orig_title": "Kaho Naa... Pyaar Hai",
-      "year": "2000-01-14",
+      "add": "2017-03-14 13:20:02",
+      "orig_title": "Action Jackson",
+      "year": "2014-12-04",
       "translations": [
-        "Профессиональный (многоголосый закадровый)",
-        "Профессиональный (двухголосый закадровый)"
+        "Профессиональный (многоголосый закадровый) (SDI Media)",
+        "Любительский (одноголосый закадровый)"
       ],
       "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-03-31 07:40:47",
+      "translation": "Профессиональный (многоголосый закадровый) (SDI Media)",
+      "update": "2020-04-06 13:50:03",
       "iframe_src": ""
     },
     {
-      "id": 22063,
-      "title": "Пэдмен",
-      "kp_id": "1055274",
-      "imdb_id": "tt7218518",
+      "id": 9665,
+      "title": "Бунтарь",
+      "kp_id": "927806",
+      "imdb_id": "tt4864932",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-02-05 04:54:27",
-      "orig_title": "Padman",
-      "year": "2018-02-09",
+      "add": "2017-02-14 07:55:56",
+      "orig_title": "Baaghi",
+      "year": "2016-04-28",
       "translations": [
-        "Профессиональный (многоголосый закадровый) (ZEE TV)",
-        "Любительский (многоголосый закадровый)"
+        "Профессиональный (многоголосый закадровый) (ZEE TV)"
       ],
       "quality": "bd",
       "translation": "Профессиональный (многоголосый закадровый) (ZEE TV)",
-      "update": "2020-03-31 07:14:41",
+      "update": "2020-04-06 14:18:10",
       "iframe_src": ""
     },
     {
-      "id": 14422,
-      "title": "Детектив",
-      "kp_id": "1052019",
-      "imdb_id": "tt7190460",
+      "id": 4960,
+      "title": "Султан",
+      "kp_id": "922393",
+      "imdb_id": "tt4832640",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-11-22 06:49:37",
-      "orig_title": "Thupparivaalan",
-      "year": "2017-09-13",
+      "add": "2016-09-01 15:29:49",
+      "orig_title": "Sultan",
+      "year": "2016-07-05",
       "translations": [
-        "Любительский (двухголосый закадровый) (RecentFilms)",
-        "Профессиональный (многоголосый закадровый) (GreenРай Studio)",
-        "Профессиональный (многоголосый закадровый) (SDI Media)"
+        "Любительский (двухголосый закадровый)",
+        "Любительский (многоголосый закадровый) (Honey&Hoseena)"
       ],
       "quality": "webdl",
-      "translation": "Любительский (двухголосый закадровый) (RecentFilms)",
-      "update": "2020-03-31 07:37:45",
+      "translation": "Любительский (двухголосый закадровый)",
+      "update": "2020-04-06 14:03:20",
+      "iframe_src": ""
+    },
+    {
+      "id": 4435,
+      "title": "Летящий Пенджаб",
+      "kp_id": "888232",
+      "imdb_id": "tt4434004",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-08-16 05:45:44",
+      "orig_title": "Udta Punjab",
+      "year": "2016-06-17",
+      "translations": [
+        "Любительский (двухголосый закадровый)",
+        "Любительский (многоголосый закадровый) (Honey&Hoseena)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (двухголосый закадровый)",
+      "update": "2020-04-06 13:55:52",
       "iframe_src": ""
     }
   ]

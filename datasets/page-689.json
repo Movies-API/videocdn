@@ -1,363 +1,374 @@
 {
   "data": [
     {
-      "id": 36608,
-      "title": "Убийственный удар",
-      "kp_id": "259880",
-      "imdb_id": "tt0431193",
+      "id": 36895,
+      "title": "Королевишна Синди",
+      "kp_id": "1142231",
+      "imdb_id": "tt8200456",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-02-19 20:43:21",
-      "orig_title": "Killer Bash",
-      "year": "2005-03-01",
+      "add": "2020-02-24 23:24:24",
+      "orig_title": "Cindy La Regia",
+      "year": "2020-01-24",
       "translations": [
-        "Профессиональный (двухголосый закадровый)"
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-02-25 08:02:49",
+      "iframe_src": ""
+    },
+    {
+      "id": 36832,
+      "title": "Тревожные небеса",
+      "kp_id": "477703",
+      "imdb_id": "tt1518861",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-02-24 09:16:39",
+      "orig_title": "Turbulent Skies",
+      "year": "2010-02-28",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (РенТВ)"
       ],
       "quality": "dvdrip",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2020-02-20 13:09:00",
+      "translation": "Профессиональный (многоголосый закадровый) (РенТВ)",
+      "update": "2020-02-25 09:24:41",
       "iframe_src": ""
     },
     {
-      "id": 36607,
-      "title": "Внутри вихря",
-      "kp_id": "400221",
-      "imdb_id": "tt1142804",
+      "id": 36831,
+      "title": "Выстрел в самое сердце",
+      "kp_id": "1172211",
+      "imdb_id": "tt8672350",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-02-19 20:41:11",
-      "orig_title": "Within the Whirlwind",
-      "year": "2009-09-18",
+      "add": "2020-02-24 08:55:06",
+      "orig_title": "Shot to the Heart",
+      "year": "2018-09-02",
       "translations": [
-        "Профессиональный (многоголосый закадровый) (Культура)"
+        "Любительский (многоголосый закадровый) (Синема УС)"
       ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый) (Культура)",
-      "update": "2020-02-20 13:10:03",
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-02-25 09:17:05",
       "iframe_src": ""
     },
     {
-      "id": 36606,
-      "title": "Шику Шавьер",
-      "kp_id": "416417",
-      "imdb_id": "tt1234559",
+      "id": 36829,
+      "title": "Король страданий",
+      "kp_id": "1104962",
+      "imdb_id": "tt6138706",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-02-19 20:38:37",
-      "orig_title": "Chico Xavier",
-      "year": "2010-04-02",
+      "add": "2020-02-24 08:48:41",
+      "orig_title": "Mr. Hurt",
+      "year": "2017-02-02",
       "translations": [
-        "Любительский (одноголосый закадровый)"
+        "Любительский (многоголосый закадровый) (Синема УС)"
       ],
-      "quality": "dvdrip",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2020-02-20 13:10:58",
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-02-25 09:14:02",
       "iframe_src": ""
     },
     {
-      "id": 36604,
-      "title": "Мистерия",
-      "kp_id": "554427",
-      "imdb_id": "tt1701218",
+      "id": 36813,
+      "title": "Мужество",
+      "kp_id": "396687",
+      "imdb_id": "tt1101665",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-02-19 20:31:55",
-      "orig_title": "Mysteria",
-      "year": "2011-10-23",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (НТВ)"
-      ],
-      "quality": "hdrip",
-      "translation": "Профессиональный (многоголосый закадровый) (НТВ)",
-      "update": "2020-02-20 13:12:50",
-      "iframe_src": ""
-    },
-    {
-      "id": 36603,
-      "title": "Жестокая схватка",
-      "kp_id": "282713",
-      "imdb_id": "tt0961202",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-02-19 20:29:55",
-      "orig_title": "Final Engagement",
-      "year": "2007-01-01",
+      "add": "2020-02-23 17:42:41",
+      "orig_title": "Shaurya: It Takes Courage to Make Right... Right",
+      "year": "2008-04-04",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "dvdrip",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-02-20 13:13:24",
+      "update": "2020-02-25 12:03:14",
       "iframe_src": ""
     },
     {
-      "id": 36602,
-      "title": "Будучи там",
-      "kp_id": "541",
-      "imdb_id": "tt0078841",
+      "id": 36797,
+      "title": "Саами 2",
+      "kp_id": "1046542",
+      "imdb_id": "tt6863784",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-02-19 20:25:00",
-      "orig_title": "Being There",
-      "year": "1979-12-20",
+      "add": "2020-02-23 17:07:29",
+      "orig_title": "Saamy²",
+      "year": "2018-09-20",
       "translations": [
-        "Полное дублирование"
+        "Любительский (двухголосый закадровый)"
       ],
-      "quality": "hdrip",
-      "translation": "Полное дублирование",
-      "update": "2020-02-20 13:14:13",
+      "quality": "webdl",
+      "translation": "Любительский (двухголосый закадровый)",
+      "update": "2020-02-25 08:07:41",
       "iframe_src": ""
     },
     {
-      "id": 36587,
-      "title": "Веселые мошенники возвращаются",
-      "kp_id": "394527",
-      "imdb_id": "tt1092005",
+      "id": 36796,
+      "title": "Шоу Капила Шармы",
+      "kp_id": null,
+      "imdb_id": "tt5747326",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-02-19 18:18:59",
-      "orig_title": "Golmaal Returns",
-      "year": "2008-10-29",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (Red Media)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый) (Red Media)",
-      "update": "2020-02-20 14:57:26",
-      "iframe_src": ""
-    },
-    {
-      "id": 36586,
-      "title": "Веселые мошенники 3",
-      "kp_id": "490401",
-      "imdb_id": "tt1562859",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-02-19 18:10:50",
-      "orig_title": "Golmaal 3",
-      "year": "2010-11-05",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (Red Media)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый) (Red Media)",
-      "update": "2020-02-20 14:55:21",
-      "iframe_src": ""
-    },
-    {
-      "id": 36583,
-      "title": "Герой Нарасима Редди",
-      "kp_id": "1057175",
-      "imdb_id": "tt7283064",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-02-19 18:05:36",
-      "orig_title": "Sye Raa Narasimha Reddy",
-      "year": "2019-09-27",
+      "add": "2020-02-23 17:01:46",
+      "orig_title": "The Kapil Sharma Show",
+      "year": "2019-01-01",
       "translations": [
         "Любительский (многоголосый закадровый) (Honey&Hoseena)"
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Honey&Hoseena)",
-      "update": "2020-02-20 14:54:30",
+      "update": "2020-02-25 08:03:24",
       "iframe_src": ""
     },
     {
-      "id": 36579,
-      "title": "Трепет",
-      "kp_id": "607649",
-      "imdb_id": "tt1954381",
+      "id": 36795,
+      "title": "Совесть",
+      "kp_id": null,
+      "imdb_id": "tt1537041",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-02-19 17:57:11",
-      "orig_title": "Dhada",
-      "year": "2011-08-11",
+      "add": "2020-02-23 16:52:51",
+      "orig_title": "Thana Theke Aschi",
+      "year": "1965-01-01",
       "translations": [
-        "Профессиональный (многоголосый закадровый) (Red Media)"
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2020-02-25 08:02:12",
+      "iframe_src": ""
+    },
+    {
+      "id": 36631,
+      "title": "День животных",
+      "kp_id": "29920",
+      "imdb_id": "tt0075913",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-02-20 09:55:42",
+      "orig_title": "Day of the Animals",
+      "year": "1977-05-13",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый) (Red Media)",
-      "update": "2020-02-20 14:52:38",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-02-25 09:33:53",
       "iframe_src": ""
     },
     {
-      "id": 36577,
-      "title": "Подмена",
-      "kp_id": "34903",
-      "imdb_id": "tt0255097",
+      "id": 36630,
+      "title": "Затойчи: Последний",
+      "kp_id": "461953",
+      "imdb_id": "tt1400558",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-02-19 17:54:09",
-      "orig_title": "Deewane",
-      "year": "2000-08-11",
+      "add": "2020-02-20 09:49:46",
+      "orig_title": "Zatôichi: The Last",
+      "year": "2010-05-29",
+      "translations": [
+        "Любительский (двухголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Любительский (двухголосый закадровый)",
+      "update": "2020-02-25 09:32:03",
+      "iframe_src": ""
+    },
+    {
+      "id": 36627,
+      "title": "Пари",
+      "kp_id": "106196",
+      "imdb_id": "tt0452003",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-02-20 09:32:07",
+      "orig_title": "The Bet",
+      "year": "2006-03-04",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "hdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-02-25 09:28:35",
+      "iframe_src": ""
+    },
+    {
+      "id": 36626,
+      "title": "Частный детектив",
+      "kp_id": "39794",
+      "imdb_id": "tt0074123",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-02-20 09:04:08",
+      "orig_title": "L'alpagueur",
+      "year": "1986-03-07",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2020-02-25 09:27:36",
+      "iframe_src": ""
+    },
+    {
+      "id": 36625,
+      "title": "Преследование",
+      "kp_id": "427255",
+      "imdb_id": "tt1303230",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-02-20 09:01:28",
+      "orig_title": "427255",
+      "year": "2009-12-09",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (Первый канал | ОРТ)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый) (Первый канал | ОРТ)",
+      "update": "2020-02-25 09:26:00",
+      "iframe_src": ""
+    },
+    {
+      "id": 32312,
+      "title": "Саахо",
+      "kp_id": "1044632",
+      "imdb_id": "tt6836936",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-25 05:03:13",
+      "orig_title": "Saaho",
+      "year": "2019-08-30",
+      "translations": [
+        "Любительский (многоголосый закадровый) (OnisFilms)",
+        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Любительский (многоголосый закадровый) (Honey&Hoseena)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (OnisFilms)",
+      "update": "2020-02-25 08:09:49",
+      "iframe_src": ""
+    },
+    {
+      "id": 31701,
+      "title": "Три секунды",
+      "kp_id": "651909",
+      "imdb_id": "tt1833116",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-10 20:11:43",
+      "orig_title": "The Informer",
+      "year": "2019-01-31",
+      "translations": [
+        "Полное дублирование (iTunes)",
+        "Полное дублирование",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование (iTunes)",
+      "update": "2020-02-25 10:38:05",
+      "iframe_src": ""
+    },
+    {
+      "id": 17036,
+      "title": "Жизнь – театр",
+      "kp_id": "1090962",
+      "imdb_id": "tt7392212",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-06-04 22:43:31",
+      "orig_title": "Rangasthalam",
+      "year": "2018-03-29",
       "translations": [
         "Профессиональный (многоголосый закадровый) (SDI Media)"
       ],
       "quality": "webdl",
       "translation": "Профессиональный (многоголосый закадровый) (SDI Media)",
-      "update": "2020-02-20 14:52:00",
+      "update": "2020-02-25 08:11:09",
       "iframe_src": ""
     },
     {
-      "id": 36576,
-      "title": "Добыча",
-      "kp_id": "568768",
-      "imdb_id": "tt1726861",
+      "id": 15517,
+      "title": "Чудо-ребёнок",
+      "kp_id": "940351",
+      "imdb_id": "tt5017936",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-02-19 17:42:19",
-      "orig_title": "La proie",
-      "year": "2011-04-13",
+      "add": "2018-03-09 18:00:29",
+      "orig_title": "Prodigy",
+      "year": "2017-03-04",
       "translations": [
-        "Любительский (одноголосый закадровый)  (zamez)"
+        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
       ],
       "quality": "bd",
-      "translation": "Любительский (одноголосый закадровый)  (zamez)",
-      "update": "2020-02-20 16:36:10",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-02-25 10:33:42",
       "iframe_src": ""
     },
     {
-      "id": 36575,
-      "title": "Без тебя 2",
-      "kp_id": "978049",
-      "imdb_id": "tt5717110",
+      "id": 8658,
+      "title": "Неуловимый Прем",
+      "kp_id": "839147",
+      "imdb_id": "tt3595298",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-02-19 17:19:03",
-      "orig_title": "Tum Bin 2",
-      "year": "2016-11-17",
+      "add": "2017-01-07 09:03:08",
+      "orig_title": "Prem Ratan Dhan Payo",
+      "year": "2015-11-11",
       "translations": [
-        "Любительский (многоголосый закадровый) (FanStudio)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (FanStudio)",
-      "update": "2020-02-20 14:50:41",
-      "iframe_src": ""
-    },
-    {
-      "id": 36574,
-      "title": "Скиталец",
-      "kp_id": "317950",
-      "imdb_id": "tt1020937",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-02-19 17:15:47",
-      "orig_title": "Awarapan",
-      "year": "2007-06-29",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "hdtv",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-02-20 14:49:56",
-      "iframe_src": ""
-    },
-    {
-      "id": 36557,
-      "title": "Как остаться в живых",
-      "kp_id": "161170",
-      "imdb_id": "tt0327698",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-02-19 16:16:20",
-      "orig_title": "The Even Stevens Movie",
-      "year": "2013-06-13",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-02-20 16:35:30",
-      "iframe_src": ""
-    },
-    {
-      "id": 36537,
-      "title": "Закон есть закон",
-      "kp_id": "27035",
-      "imdb_id": "tt0051851",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-02-19 12:05:43",
-      "orig_title": "La legge è legge",
-      "year": "1958-09-17",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "dvdrip",
-      "translation": "Полное дублирование",
-      "update": "2020-02-20 16:34:12",
-      "iframe_src": ""
-    },
-    {
-      "id": 36536,
-      "title": "Собиратель костей",
-      "kp_id": "20999",
-      "imdb_id": "tt0139076",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-02-19 12:02:37",
-      "orig_title": "Bone Daddy",
-      "year": "1998-06-19",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-02-20 16:33:22",
-      "iframe_src": ""
-    },
-    {
-      "id": 36535,
-      "title": "Боец поневоле",
-      "kp_id": "666876",
-      "imdb_id": "tt1884312",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-02-19 11:14:32",
-      "orig_title": "Forced to Fight",
-      "year": "2013-10-01",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (НТВ)"
+        "Любительский (многоголосый закадровый)",
+        "Профессиональный (двухголосый закадровый)"
       ],
       "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый) (НТВ)",
-      "update": "2020-02-20 16:32:40",
-      "iframe_src": ""
-    },
-    {
-      "id": 14840,
-      "title": "Весёлые мошенники 4",
-      "kp_id": "577480",
-      "imdb_id": "tt1806913",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-01-08 21:30:26",
-      "orig_title": "Golmaal Again",
-      "year": "2017-10-19",
-      "translations": [
-        "Любительский (многоголосый закадровый) (FanStudio)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (многоголосый закадровый) (FanStudio)",
-      "update": "2020-02-20 14:56:35",
-      "iframe_src": ""
-    },
-    {
-      "id": 8832,
-      "title": "Герой",
-      "kp_id": "922507",
-      "imdb_id": "tt4467202",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-01-11 13:08:03",
-      "orig_title": "Hero",
-      "year": "2015-09-10",
-      "translations": [
-        "Любительский (многоголосый закадровый)"
-      ],
-      "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый)",
-      "update": "2020-02-20 14:58:17",
+      "update": "2020-02-25 08:13:33",
+      "iframe_src": ""
+    },
+    {
+      "id": 7616,
+      "title": "Клянусь тобой, любимая",
+      "kp_id": "952798",
+      "imdb_id": "tt5255710",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-11-24 14:12:42",
+      "orig_title": "Sanam Teri Kasam",
+      "year": "2016-02-05",
+      "translations": [
+        "Любительский (двухголосый закадровый)",
+        "Профессиональный (двухголосый закадровый)",
+        "Профессиональный (многоголосый закадровый) (ZEE TV)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (двухголосый закадровый)",
+      "update": "2020-02-25 08:05:10",
+      "iframe_src": ""
+    },
+    {
+      "id": 1849,
+      "title": "ПиКей",
+      "kp_id": "675597",
+      "imdb_id": "tt2338151",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-05-04 05:00:42",
+      "orig_title": "PK",
+      "year": "2014-12-18",
+      "translations": [
+        "Любительский (двухголосый закадровый)",
+        "Профессиональный (многоголосый закадровый) (SDI Media)",
+        "Любительский (многоголосый закадровый) (ICG)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (двухголосый закадровый)",
+      "update": "2020-02-25 08:14:14",
       "iframe_src": ""
     }
   ]

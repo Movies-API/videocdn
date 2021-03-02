@@ -1,370 +1,365 @@
 {
   "data": [
     {
-      "id": 18867,
-      "title": "Венера",
-      "kp_id": "1074459",
-      "imdb_id": "tt6852284",
+      "id": 19081,
+      "title": "Воскрешение",
+      "kp_id": "1048174",
+      "imdb_id": "tt7243750",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-09-08 23:21:25",
-      "orig_title": "Venus",
-      "year": "2017-10-09",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-09-10 08:03:56",
-      "iframe_src": ""
-    },
-    {
-      "id": 18866,
-      "title": "Ремейк",
-      "kp_id": "860853",
-      "imdb_id": "tt3564924",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-09-08 23:18:12",
-      "orig_title": "The Remake",
-      "year": "2016-10-21",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-09-10 08:00:47",
-      "iframe_src": ""
-    },
-    {
-      "id": 18865,
-      "title": "Зелёные мясники",
-      "kp_id": "60182",
-      "imdb_id": "tt0342492",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-09-08 23:13:56",
-      "orig_title": "De grønne slagtere",
-      "year": "2003-03-08",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2018-09-10 07:59:12",
-      "iframe_src": ""
-    },
-    {
-      "id": 18864,
-      "title": "Зверь внутри: как создавался \"Волк\"",
-      "kp_id": null,
-      "imdb_id": "tt7964004",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-09-08 23:12:06",
-      "orig_title": "The Beast Inside: Creating 'Wolf'",
-      "year": "2017-11-20",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-09-10 07:58:05",
-      "iframe_src": ""
-    },
-    {
-      "id": 18863,
-      "title": "Глубокая красная любовь",
-      "kp_id": "801995",
-      "imdb_id": "tt3215844",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-09-08 23:03:22",
-      "orig_title": "Sekiseki renren",
-      "year": "2013-12-21",
-      "translations": [
-        "Любительский (двухголосый закадровый) (DeadSno & den904)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (двухголосый закадровый) (DeadSno & den904)",
-      "update": "2018-09-10 07:54:54",
-      "iframe_src": ""
-    },
-    {
-      "id": 18862,
-      "title": "Морские котики против Демонов",
-      "kp_id": "860134",
-      "imdb_id": "tt3717234",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-09-08 22:58:39",
-      "orig_title": "Navy SEALS v Demons",
-      "year": "2017-06-09",
+      "add": "2018-09-20 06:46:51",
+      "orig_title": "Heesaeng boohwalja",
+      "year": "2017-10-12",
       "translations": [
         "Любительский (многоголосый закадровый) (Колобок)"
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Колобок)",
-      "update": "2018-09-10 07:32:07",
+      "update": "2018-09-20 10:36:31",
       "iframe_src": ""
     },
     {
-      "id": 18861,
-      "title": "Порочные от природы",
-      "kp_id": "934064",
-      "imdb_id": "tt5039992",
+      "id": 19080,
+      "title": "Самая убиваемая женщина в мире",
+      "kp_id": "1013155",
+      "imdb_id": "tt6186696",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-09-08 22:56:36",
-      "orig_title": "Natural Vice",
-      "year": "2018-07-04",
+      "add": "2018-09-20 06:40:25",
+      "orig_title": "La femme la plus assassinée du monde",
+      "year": "2018-06-27",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-09-10 07:31:21",
+      "update": "2018-09-20 09:27:46",
       "iframe_src": ""
     },
     {
-      "id": 18860,
-      "title": "Замужем за педофилом",
+      "id": 19079,
+      "title": "Аборт в США",
       "kp_id": null,
-      "imdb_id": "tt8925724",
+      "imdb_id": "tt8948614",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-09-08 22:51:54",
-      "orig_title": "Married to a Paedophile",
-      "year": "2018-09-03",
+      "add": "2018-09-20 06:37:52",
+      "orig_title": "Reversing Roe",
+      "year": "2018-09-13",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
-      "quality": "hdtv",
+      "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-09-10 07:26:00",
+      "update": "2018-09-20 09:29:27",
       "iframe_src": ""
     },
     {
-      "id": 18857,
-      "title": "Встреча выпускников 2: Свадьба и похороны",
-      "kp_id": "1074514",
-      "imdb_id": "tt7199796",
+      "id": 19078,
+      "title": "Баха",
+      "kp_id": "1073758",
+      "imdb_id": "tt6701492",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-09-08 22:37:59",
-      "orig_title": "Klassikokkutulek 2: Pulmad ja matused",
-      "year": "2018-02-16",
+      "add": "2018-09-20 06:34:00",
+      "orig_title": "Baja",
+      "year": "2018-04-13",
       "translations": [
-        "Профессиональный (многоголосый закадровый) (GreenРай Studio)"
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2018-09-20 08:40:45",
+      "iframe_src": ""
+    },
+    {
+      "id": 19074,
+      "title": "Эмма",
+      "kp_id": "809122",
+      "imdb_id": "tt3319070",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-09-20 06:26:42",
+      "orig_title": "Emma",
+      "year": "2016-06-07",
+      "translations": [
+        "Любительский (двухголосый закадровый) (Колобок)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (двухголосый закадровый) (Колобок)",
+      "update": "2018-09-20 08:39:08",
+      "iframe_src": ""
+    },
+    {
+      "id": 19073,
+      "title": "Диана",
+      "kp_id": "775915",
+      "imdb_id": "tt3021984",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-09-20 06:25:08",
+      "orig_title": "Diane",
+      "year": "2017-08-24",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2018-09-20 08:37:50",
+      "iframe_src": ""
+    },
+    {
+      "id": 19072,
+      "title": "Чемпионы",
+      "kp_id": "1081287",
+      "imdb_id": "tt6793580",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-09-20 06:23:40",
+      "orig_title": "Campeones",
+      "year": "2018-04-03",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2018-09-20 10:11:46",
+      "iframe_src": ""
+    },
+    {
+      "id": 19069,
+      "title": "Прогулки с монстрами будущего",
+      "kp_id": "381644",
+      "imdb_id": "tt0455253",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-09-20 06:17:38",
+      "orig_title": "The Future Is Wild",
+      "year": "2009-12-10",
+      "translations": [
+        "Профессиональный (одноголосый закадровый)"
       ],
       "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый) (GreenРай Studio)",
-      "update": "2018-09-10 07:17:29",
+      "translation": "Профессиональный (одноголосый закадровый)",
+      "update": "2018-09-20 08:04:45",
       "iframe_src": ""
     },
     {
-      "id": 18854,
-      "title": "Как подцепить девчонок",
-      "kp_id": "985380",
-      "imdb_id": "tt5706876",
+      "id": 18985,
+      "title": "Цыганка",
+      "kp_id": "277681",
+      "imdb_id": "tt0107065",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-09-08 22:28:49",
-      "orig_title": "How to Get Girls",
-      "year": "2017-05-17",
+      "add": "2018-09-16 08:33:26",
+      "orig_title": "Gypsy",
+      "year": "1993-12-12",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
+        "Авторский (одноголосый закадровый) (Кузнецов Сергей)"
       ],
       "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-09-10 07:09:53",
+      "translation": "Авторский (одноголосый закадровый) (Кузнецов Сергей)",
+      "update": "2018-09-19 07:12:38",
       "iframe_src": ""
     },
     {
-      "id": 18853,
-      "title": "Голод",
-      "kp_id": "409281",
-      "imdb_id": "tt1219336",
+      "id": 18940,
+      "title": "Подсолнух",
+      "kp_id": "276729",
+      "imdb_id": "tt0923714",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-09-08 22:25:56",
-      "orig_title": "The Donner Party",
-      "year": "2009-10-23",
+      "add": "2018-09-12 07:30:22",
+      "orig_title": "Haebaragi",
+      "year": "2006-11-23",
+      "translations": [
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "hdtv",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2018-09-19 06:50:26",
+      "iframe_src": ""
+    },
+    {
+      "id": 18916,
+      "title": "Мозги набекрень",
+      "kp_id": "195260",
+      "imdb_id": "tt0466771",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-09-11 19:03:20",
+      "orig_title": "Puff, Puff, Pass",
+      "year": "2006-05-09",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "webdl",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2018-09-10 07:08:56",
+      "update": "2018-09-19 07:11:24",
       "iframe_src": ""
     },
     {
-      "id": 18849,
-      "title": "Жизнь после",
-      "kp_id": "895554",
-      "imdb_id": "tt3174768",
+      "id": 18915,
+      "title": "Парень что надо",
+      "kp_id": "28209",
+      "imdb_id": "tt0089393",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-09-08 22:13:34",
-      "orig_title": "La vida después",
-      "year": "2015-10-23",
+      "add": "2018-09-11 19:02:25",
+      "orig_title": "Just One of the Guys",
+      "year": "1985-04-26",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
+        "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-09-10 07:19:24",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2018-09-19 07:09:28",
       "iframe_src": ""
     },
     {
-      "id": 18828,
-      "title": "Дай себе волю",
-      "kp_id": "973266",
-      "imdb_id": "tt4932388",
+      "id": 18914,
+      "title": "Время падения",
+      "kp_id": "9352",
+      "imdb_id": "tt0113014",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-09-06 23:51:23",
-      "orig_title": "Lasciati andare",
-      "year": "2017-04-13",
+      "add": "2018-09-11 19:00:58",
+      "orig_title": "Fall Time",
+      "year": "1995-05-13",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2018-09-19 07:06:51",
+      "iframe_src": ""
+    },
+    {
+      "id": 18913,
+      "title": "Враг моего врага",
+      "kp_id": "2639",
+      "imdb_id": "tt0171227",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-09-11 18:59:13",
+      "orig_title": "Diplomatic Siege",
+      "year": "1999-09-15",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2018-09-19 07:03:32",
+      "iframe_src": ""
+    },
+    {
+      "id": 18912,
+      "title": "Миддлтон",
+      "kp_id": "470525",
+      "imdb_id": "tt1483324",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-09-11 18:58:02",
+      "orig_title": "At Middleton",
+      "year": "2013-05-17",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2018-09-19 07:01:55",
+      "iframe_src": ""
+    },
+    {
+      "id": 18911,
+      "title": "Симулянт",
+      "kp_id": "16926",
+      "imdb_id": "tt0267891",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-09-11 18:56:07",
+      "orig_title": "The Ringer",
+      "year": "2005-12-23",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2018-09-19 06:59:35",
+      "iframe_src": ""
+    },
+    {
+      "id": 18910,
+      "title": "Раба любви",
+      "kp_id": "42030",
+      "imdb_id": "tt0075119",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-09-11 18:54:41",
+      "orig_title": "Raba lyubvi",
+      "year": "1977-01-21",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "webdl",
+      "translation": "Оригинальная дорожка",
+      "update": "2018-09-19 06:49:01",
+      "iframe_src": ""
+    },
+    {
+      "id": 18909,
+      "title": "Твой счастливый случай",
+      "kp_id": "486661",
+      "imdb_id": "tt1545556",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-09-11 18:41:14",
+      "orig_title": "Your Lucky Day",
+      "year": "2010-05-22",
+      "translations": [
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2018-09-19 06:47:50",
+      "iframe_src": ""
+    },
+    {
+      "id": 18906,
+      "title": "Единственный выстрел",
+      "kp_id": "489469",
+      "imdb_id": "tt1540741",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-09-11 18:37:17",
+      "orig_title": "A Single Shot",
+      "year": "2013-02-09",
+      "translations": [
+        "Любительский (одноголосый закадровый)",
+        "Профессиональный (многоголосый закадровый) (iTunes)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2018-09-19 07:05:51",
+      "iframe_src": ""
+    },
+    {
+      "id": 10398,
+      "title": "От имени моей дочери",
+      "kp_id": "859862",
+      "imdb_id": "tt4228810",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-03-19 19:43:41",
+      "orig_title": "Au nom de ma fille",
+      "year": "2016-02-14",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)",
-        "Профессиональный (многоголосый закадровый) (GreenРай Studio)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-09-10 07:20:31",
-      "iframe_src": ""
-    },
-    {
-      "id": 18325,
-      "title": "Маленький большой герой",
-      "kp_id": "1115100",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-08-15 22:44:34",
-      "orig_title": "Monkey King Reloaded",
-      "year": "2018-07-14",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "webdl",
-      "translation": "Полное дублирование",
-      "update": "2018-09-10 07:28:37",
-      "iframe_src": ""
-    },
-    {
-      "id": 18193,
-      "title": "Аура",
-      "kp_id": "1103930",
-      "imdb_id": "tt7631320",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-08-09 23:25:12",
-      "orig_title": "Aura",
-      "year": "2018-11-08",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Любительский (двухголосый закадровый) (HiWayGrope)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-09-10 08:07:35",
-      "iframe_src": ""
-    },
-    {
-      "id": 17943,
-      "title": "Нежность",
-      "kp_id": "982623",
-      "imdb_id": "tt5765192",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-07-29 11:26:41",
-      "orig_title": "La tenerezza",
-      "year": "2017-04-22",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (GreenРай Studio)",
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый) (GreenРай Studio)",
-      "update": "2018-09-10 07:18:30",
-      "iframe_src": ""
-    },
-    {
-      "id": 17647,
-      "title": "Лето мечты",
-      "kp_id": "1000385",
-      "imdb_id": "tt6008686",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-07-09 00:20:19",
-      "orig_title": "Summer of Dreams",
-      "year": "2016-08-27",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Любительский (многоголосый закадровый) (GreenРай Studio)"
-      ],
-      "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-09-10 07:35:13",
-      "iframe_src": ""
-    },
-    {
-      "id": 17201,
-      "title": "Южный ветер",
-      "kp_id": "909126",
-      "imdb_id": "tt4669210",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-06-15 23:55:21",
-      "orig_title": "Notias",
-      "year": "2016-01-14",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Профессиональный (многоголосый закадровый) (GreenРай Studio)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-09-10 07:32:49",
-      "iframe_src": ""
-    },
-    {
-      "id": 10099,
-      "title": "Вуду",
-      "kp_id": "861473",
-      "imdb_id": "tt3350996",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-02-27 14:10:26",
-      "orig_title": "VooDoo",
-      "year": "2017-02-24",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Любительский (многоголосый закадровый) (Колобок)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-09-10 08:05:40",
-      "iframe_src": ""
-    },
-    {
-      "id": 1263,
-      "title": "Я улыбаюсь в ответ",
-      "kp_id": "841912",
-      "imdb_id": "tt3640682",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-04-19 12:17:28",
-      "orig_title": "I Smile Back",
-      "year": "2015-01-25",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Parovoz Production)",
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (многоголосый закадровый) (Parovoz Production)",
-      "update": "2018-09-10 07:11:48",
+      "update": "2018-09-19 21:52:03",
       "iframe_src": ""
     }
   ]

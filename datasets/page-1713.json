@@ -1,367 +1,365 @@
 {
   "data": [
     {
-      "id": 16750,
-      "title": "Земля, забытая временем",
-      "kp_id": "78791",
-      "imdb_id": "tt0073260",
+      "id": 16960,
+      "title": "Ноно – мальчик-детектив",
+      "kp_id": "738115",
+      "imdb_id": "tt1441083",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-05-10 23:15:59",
-      "orig_title": "The Land That Time Forgot",
-      "year": "1974-11-29",
+      "add": "2018-05-30 10:17:23",
+      "orig_title": "Nono, het Zigzag Kind",
+      "year": "2012-09-09",
       "translations": [
-        "Авторский (одноголосый закадровый) (Живов)"
-      ],
-      "quality": "bd",
-      "translation": "Авторский (одноголосый закадровый) (Живов)",
-      "update": "2018-05-11 12:14:04",
-      "iframe_src": ""
-    },
-    {
-      "id": 16749,
-      "title": "За гранью",
-      "kp_id": "605157",
-      "imdb_id": "tt2015474",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-05-10 23:14:09",
-      "orig_title": "Over Kanten",
-      "year": "2012-05-03",
-      "translations": [
-        "Авторский (одноголосый закадровый) (Белов)"
-      ],
-      "quality": "bd",
-      "translation": "Авторский (одноголосый закадровый) (Белов)",
-      "update": "2018-05-11 12:07:01",
-      "iframe_src": ""
-    },
-    {
-      "id": 16745,
-      "title": "Трансеры",
-      "kp_id": "7431",
-      "imdb_id": "tt0090192",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-05-10 23:06:26",
-      "orig_title": "Trancers",
-      "year": "1984-11-07",
-      "translations": [
-        "Авторский (одноголосый закадровый) (Карцев)"
-      ],
-      "quality": "bd",
-      "translation": "Авторский (одноголосый закадровый) (Карцев)",
-      "update": "2018-05-11 11:44:02",
-      "iframe_src": ""
-    },
-    {
-      "id": 16744,
-      "title": "Нанга-Парбат",
-      "kp_id": "445276",
-      "imdb_id": "tt1361349",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-05-10 22:54:53",
-      "orig_title": "Nanga Parbat",
-      "year": "2010-01-14",
-      "translations": [
-        "Авторский (одноголосый закадровый) (Чадов)"
-      ],
-      "quality": "bd",
-      "translation": "Авторский (одноголосый закадровый) (Чадов)",
-      "update": "2018-05-11 12:06:09",
-      "iframe_src": ""
-    },
-    {
-      "id": 16743,
-      "title": "Дикие желания",
-      "kp_id": "485287",
-      "imdb_id": "tt0183551",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-05-10 22:53:22",
-      "orig_title": "Mädchen im Nachtverkehr",
-      "year": "1976-07-30",
-      "translations": [
-        "Авторский (одноголосый закадровый) (Алексеев)"
-      ],
-      "quality": "bd",
-      "translation": "Авторский (одноголосый закадровый) (Алексеев)",
-      "update": "2018-05-11 12:09:26",
-      "iframe_src": ""
-    },
-    {
-      "id": 16742,
-      "title": "Король приключений",
-      "kp_id": "23593",
-      "imdb_id": "tt0110463",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-05-10 22:50:22",
-      "orig_title": "Mao xian wang",
-      "year": "1996-02-10",
-      "translations": [
-        "Авторский (одноголосый закадровый) (Кашкин)"
-      ],
-      "quality": "bd",
-      "translation": "Авторский (одноголосый закадровый) (Кашкин)",
-      "update": "2018-05-11 12:10:16",
-      "iframe_src": ""
-    },
-    {
-      "id": 16741,
-      "title": "Лагерь любви",
-      "kp_id": "82079",
-      "imdb_id": "tt0074548",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-05-10 22:45:17",
-      "orig_title": "Frauen im Liebeslager",
-      "year": "1977-10-13",
-      "translations": [
-        "Авторский (одноголосый закадровый) (Алексеев)"
-      ],
-      "quality": "bd",
-      "translation": "Авторский (одноголосый закадровый) (Алексеев)",
-      "update": "2018-05-11 12:13:03",
-      "iframe_src": ""
-    },
-    {
-      "id": 16740,
-      "title": "Дикие псы",
-      "kp_id": "175495",
-      "imdb_id": "tt0071275",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-05-10 22:43:28",
-      "orig_title": "Cani arrabbiati",
-      "year": "1998-02-24",
-      "translations": [
-        "Авторский (одноголосый закадровый) (Дольский)"
-      ],
-      "quality": "bd",
-      "translation": "Авторский (одноголосый закадровый) (Дольский)",
-      "update": "2018-05-11 12:15:08",
-      "iframe_src": ""
-    },
-    {
-      "id": 16735,
-      "title": "Юлий Цезарь без прикрас",
-      "kp_id": null,
-      "imdb_id": "tt8009518",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-05-10 20:28:41",
-      "orig_title": "Julius Caesar Revealed",
-      "year": "2018-02-12",
-      "translations": [
-        "Профессиональный (одноголосый закадровый) (Viasat History)"
-      ],
-      "quality": "hdtv",
-      "translation": "Профессиональный (одноголосый закадровый) (Viasat History)",
-      "update": "2018-05-11 04:29:38",
-      "iframe_src": ""
-    },
-    {
-      "id": 16734,
-      "title": "Призрак",
-      "kp_id": "982516",
-      "imdb_id": "tt5637736",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-05-10 20:24:47",
-      "orig_title": "Wraith",
-      "year": "2017-04-05",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
+        "Любительский (одноголосый закадровый)"
       ],
       "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-05-11 04:06:36",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2018-05-31 03:47:25",
       "iframe_src": ""
     },
     {
-      "id": 16730,
-      "title": "Друзья на всю жизнь",
-      "kp_id": "685317",
-      "imdb_id": "tt2190252",
+      "id": 16954,
+      "title": "Долина",
+      "kp_id": "23897",
+      "imdb_id": "tt0069451",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-05-10 20:13:58",
-      "orig_title": "Fjällbackamorden: Vänner för livet",
-      "year": "2013-01-02",
+      "add": "2018-05-30 10:02:01",
+      "orig_title": "La vallée",
+      "year": "1972-06-06",
       "translations": [
-        "Профессиональный (многоголосый закадровый)"
+        "Авторский (одноголосый закадровый) (Алексеев Антон)"
       ],
       "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2018-05-11 04:12:56",
+      "translation": "Авторский (одноголосый закадровый) (Алексеев Антон)",
+      "update": "2018-05-31 03:50:06",
       "iframe_src": ""
     },
     {
-      "id": 16729,
-      "title": "В глазах смотрящего",
-      "kp_id": "693515",
-      "imdb_id": "tt2259268",
+      "id": 16951,
+      "title": "Я – группи",
+      "kp_id": "102064",
+      "imdb_id": "tt0065877",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-05-10 20:12:04",
-      "orig_title": "Fjällbackamorden: I betraktarens öga",
-      "year": "2012-12-26",
+      "add": "2018-05-30 09:55:03",
+      "orig_title": "Ich - Ein Groupie",
+      "year": "1970-11-26",
       "translations": [
-        "Профессиональный (многоголосый закадровый)"
+        "Авторский (одноголосый закадровый) (Алексеев Антон)"
       ],
       "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2018-05-11 04:13:53",
+      "translation": "Авторский (одноголосый закадровый) (Алексеев Антон)",
+      "update": "2018-05-31 03:58:05",
       "iframe_src": ""
     },
     {
-      "id": 16727,
-      "title": "Случайные знакомые",
-      "kp_id": "725504",
-      "imdb_id": "tt2610378",
+      "id": 16949,
+      "title": "Голливудские шлюхи с бензопилами",
+      "kp_id": "34249",
+      "imdb_id": "tt0095312",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-05-10 19:54:47",
-      "orig_title": "Sluchaynye znakomye",
-      "year": "2012-01-04",
+      "add": "2018-05-30 09:51:03",
+      "orig_title": "Hollywood Chainsaw Hookers",
+      "year": "1988-04-29",
       "translations": [
-        "Оригинальная дорожка"
+        "Авторский (одноголосый закадровый) (Дольский Андрей)"
       ],
-      "quality": "hdtv",
-      "translation": "Оригинальная дорожка",
-      "update": "2018-05-11 04:35:22",
+      "quality": "bd",
+      "translation": "Авторский (одноголосый закадровый) (Дольский Андрей)",
+      "update": "2018-05-31 04:05:58",
       "iframe_src": ""
     },
     {
-      "id": 16726,
-      "title": "Дом на пляже",
-      "kp_id": "1099920",
-      "imdb_id": "tt7598968",
+      "id": 16948,
+      "title": "Учитель и чудовища",
+      "kp_id": "5122",
+      "imdb_id": "tt0116531",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-05-10 19:52:02",
-      "orig_title": "The Beach House",
-      "year": "2018-04-28",
+      "add": "2018-05-30 09:47:38",
+      "orig_title": "High School High",
+      "year": "1996-10-25",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "hdtv",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-05-11 04:36:18",
-      "iframe_src": ""
-    },
-    {
-      "id": 16725,
-      "title": "Недостижимая история",
-      "kp_id": "810956",
-      "imdb_id": "tt3365280",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-05-10 19:48:37",
-      "orig_title": "The Unattainable Story",
-      "year": "2017-01-10",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
+        "Профессиональный (многоголосый закадровый) (Первый канал | ОРТ)"
       ],
       "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-05-11 04:37:05",
+      "translation": "Профессиональный (многоголосый закадровый) (Первый канал | ОРТ)",
+      "update": "2018-05-31 04:04:35",
       "iframe_src": ""
     },
     {
-      "id": 16724,
-      "title": "Ночной вой",
-      "kp_id": null,
-      "imdb_id": "tt7583968",
+      "id": 16947,
+      "title": "Привет, призрак",
+      "kp_id": "581202",
+      "imdb_id": "tt1848926",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-05-10 19:37:03",
-      "orig_title": "Night Howl",
-      "year": "2017-12-12",
+      "add": "2018-05-30 09:44:00",
+      "orig_title": "Hellowoo goseuteu",
+      "year": "2010-12-23",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-05-11 04:41:55",
-      "iframe_src": ""
-    },
-    {
-      "id": 14674,
-      "title": "Анна",
-      "kp_id": "1018697",
-      "imdb_id": "tt6427854",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-12-17 22:24:04",
-      "orig_title": "Anna",
-      "year": "2017-03-01",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)",
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2018-05-10 04:49:30",
-      "iframe_src": ""
-    },
-    {
-      "id": 8801,
-      "title": "Отчаянный папа",
-      "kp_id": "1988",
-      "imdb_id": "tt0106877",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-01-10 19:08:54",
-      "orig_title": "Father Hood",
-      "year": "1993-08-27",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)",
         "Любительский (одноголосый закадровый)"
       ],
       "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2018-05-11 12:11:44",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2018-05-31 04:00:10",
       "iframe_src": ""
     },
     {
-      "id": 2789,
-      "title": "Подозрительные лица",
-      "kp_id": "340",
-      "imdb_id": "tt0114814",
+      "id": 16946,
+      "title": "Парни и куколки",
+      "kp_id": "7162",
+      "imdb_id": "tt0048140",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-05-31 14:59:45",
-      "orig_title": "The Usual Suspects",
-      "year": "1995-01-25",
+      "add": "2018-05-30 09:38:07",
+      "orig_title": "Guys and Dolls",
+      "year": "1955-11-03",
       "translations": [
-        "Профессиональный (многоголосый закадровый)",
-        "Авторский (одноголосый закадровый) (Чадов)"
+        "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2018-05-11 11:42:41",
+      "update": "2018-05-31 04:03:51",
       "iframe_src": ""
     },
     {
-      "id": 2632,
-      "title": "Интервью",
-      "kp_id": "745743",
-      "imdb_id": "tt2788710",
+      "id": 16934,
+      "title": "В поисках мамы",
+      "kp_id": "1006143",
+      "imdb_id": "tt6087632",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-05-26 17:46:53",
-      "orig_title": "The Interview",
-      "year": "2014-12-11",
+      "add": "2018-05-27 21:42:39",
+      "orig_title": "Finding Mother",
+      "year": "2017-02-09",
       "translations": [
-        "Любительский (многоголосый закадровый) (Jetvis Studio)",
-        "Авторский (одноголосый закадровый) (Есарев)"
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2018-05-30 05:27:49",
+      "iframe_src": ""
+    },
+    {
+      "id": 16933,
+      "title": "Диверсанты: Обратный отсчёт",
+      "kp_id": null,
+      "imdb_id": "tt8420672",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-05-27 21:40:54",
+      "orig_title": "War Raiders",
+      "year": "2018-05-11",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2018-05-30 05:26:52",
+      "iframe_src": ""
+    },
+    {
+      "id": 16932,
+      "title": "Исчезновение",
+      "kp_id": "729208",
+      "imdb_id": "tt2610248",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-05-27 21:38:54",
+      "orig_title": "Verdwijnen",
+      "year": "2017-03-02",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2018-05-30 05:26:26",
+      "iframe_src": ""
+    },
+    {
+      "id": 16926,
+      "title": "Смертельное пересечение",
+      "kp_id": null,
+      "imdb_id": "tt5622660",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-05-27 21:22:37",
+      "orig_title": "Fatal Crossing (7x7)",
+      "year": "2017-01-01",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2018-05-30 05:17:54",
+      "iframe_src": ""
+    },
+    {
+      "id": 16920,
+      "title": "Счастливый билет",
+      "kp_id": "1038744",
+      "imdb_id": "tt6591520",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-05-27 00:09:36",
+      "orig_title": "Kaikki oikein",
+      "year": "2018-01-12",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "bd",
-      "translation": "Любительский (многоголосый закадровый) (Jetvis Studio)",
-      "update": "2018-05-11 11:42:41",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2018-05-30 04:25:46",
+      "iframe_src": ""
+    },
+    {
+      "id": 16916,
+      "title": "Ярость Кулака и Золотой Флис",
+      "kp_id": "723992",
+      "imdb_id": "tt2490148",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-05-26 23:55:05",
+      "orig_title": "Fury of the Fist and the Golden Fleece",
+      "year": "2018-05-25",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2018-05-30 04:06:40",
+      "iframe_src": ""
+    },
+    {
+      "id": 16914,
+      "title": "И её сестра",
+      "kp_id": "864943",
+      "imdb_id": "tt4161586",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-05-26 23:49:13",
+      "orig_title": "Et ta soeur",
+      "year": "2015-10-23",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (GreenРай Studio)"
+      ],
+      "quality": "hdtv",
+      "translation": "Профессиональный (многоголосый закадровый) (GreenРай Studio)",
+      "update": "2018-05-30 03:59:16",
+      "iframe_src": ""
+    },
+    {
+      "id": 16913,
+      "title": "Завтра, после войны",
+      "kp_id": "921625",
+      "imdb_id": "tt4032632",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-05-26 23:47:28",
+      "orig_title": "Tomorrow after the war",
+      "year": "2015-10-14",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (GreenРай Studio)"
+      ],
+      "quality": "hdtv",
+      "translation": "Профессиональный (многоголосый закадровый) (GreenРай Studio)",
+      "update": "2018-05-30 03:57:36",
+      "iframe_src": ""
+    },
+    {
+      "id": 16912,
+      "title": "Компьютерный герой",
+      "kp_id": "951358",
+      "imdb_id": "tt3615952",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-05-26 23:45:37",
+      "orig_title": "eHero",
+      "year": "2018-01-01",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2018-05-30 03:55:11",
+      "iframe_src": ""
+    },
+    {
+      "id": 16910,
+      "title": "Папин дом",
+      "kp_id": "1086367",
+      "imdb_id": "tt7436316",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-05-26 23:41:41",
+      "orig_title": "Ba ba de mu fang zi",
+      "year": "2016-08-26",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Колобок)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Колобок)",
+      "update": "2018-05-30 03:52:32",
+      "iframe_src": ""
+    },
+    {
+      "id": 16793,
+      "title": "Всё разрушено и пляшет",
+      "kp_id": "988308",
+      "imdb_id": "tt5176794",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-05-16 06:15:33",
+      "orig_title": "Everything is Broken up and Dances",
+      "year": "2016-06-06",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Колобок)",
+        "Профессиональный (многоголосый закадровый) (GreenРай Studio)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Колобок)",
+      "update": "2018-05-30 04:00:22",
+      "iframe_src": ""
+    },
+    {
+      "id": 16176,
+      "title": "Страна синоби",
+      "kp_id": "995281",
+      "imdb_id": "tt5769414",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-04-10 22:20:13",
+      "orig_title": "Shinobi no kuni",
+      "year": "2017-06-21",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Колобок)",
+        "Профессиональный (многоголосый закадровый) (GreenРай Studio)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (многоголосый закадровый) (Колобок)",
+      "update": "2018-05-30 05:10:00",
+      "iframe_src": ""
+    },
+    {
+      "id": 15183,
+      "title": "Проклятое выпускное фото 2",
+      "kp_id": "1121092",
+      "imdb_id": "tt7773446",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-02-15 20:50:25",
+      "orig_title": "Haunted Road 2",
+      "year": "2017-10-12",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Колобок)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (многоголосый закадровый) (Колобок)",
+      "update": "2018-05-31 04:01:18",
       "iframe_src": ""
     }
   ]

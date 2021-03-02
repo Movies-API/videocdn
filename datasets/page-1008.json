@@ -1,372 +1,366 @@
 {
   "data": [
     {
-      "id": 30749,
-      "title": "Отзвуки эха 2: Возвращение",
-      "kp_id": "258848",
-      "imdb_id": "tt0805619",
+      "id": 30954,
+      "title": "Железный крест",
+      "kp_id": "14595",
+      "imdb_id": "tt0074695",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-09-10 22:00:54",
-      "orig_title": "Stir of Echoes: The Homecoming",
-      "year": "2007-08-11",
+      "add": "2019-09-18 17:18:28",
+      "orig_title": "Cross of Iron",
+      "year": "1977-01-28",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (Первый канал | ОРТ)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый) (Первый канал | ОРТ)",
+      "update": "2019-09-19 04:28:03",
+      "iframe_src": ""
+    },
+    {
+      "id": 30953,
+      "title": "Буча в Гуче",
+      "kp_id": "391988",
+      "imdb_id": "tt0906014",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-09-18 17:06:55",
+      "orig_title": "Guca!",
+      "year": "2006-11-14",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "dvdrip",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-09-11 07:33:03",
+      "update": "2019-09-19 04:31:02",
       "iframe_src": ""
     },
     {
-      "id": 30748,
-      "title": "Дом на краю света",
-      "kp_id": "1653",
-      "imdb_id": "tt0359423",
+      "id": 30952,
+      "title": "Королева варваров 2: Сражение за скипетр Аркариса",
+      "kp_id": "37203",
+      "imdb_id": "tt0103768",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-09-10 20:31:35",
-      "orig_title": "A Home at the End of the World",
-      "year": "2004-06-09",
+      "add": "2019-09-18 16:48:31",
+      "orig_title": "Barbarian Queen II: The Empress Strikes Back",
+      "year": "1990-03-23",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Дохалов Вартан)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Авторский (одноголосый закадровый) (Дохалов Вартан)",
+      "update": "2019-09-19 04:35:14",
+      "iframe_src": ""
+    },
+    {
+      "id": 30951,
+      "title": "Королева варваров",
+      "kp_id": "63999",
+      "imdb_id": "tt0088771",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-09-18 16:42:04",
+      "orig_title": "Barbarian Queen",
+      "year": "1985-04-26",
       "translations": [
         "Профессиональный (двухголосый закадровый)"
       ],
       "quality": "dvdrip",
       "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2019-09-11 07:32:08",
+      "update": "2019-09-19 04:36:30",
       "iframe_src": ""
     },
     {
-      "id": 30747,
-      "title": "Эйс Вентура младший",
-      "kp_id": "260988",
-      "imdb_id": "tt0844029",
+      "id": 30949,
+      "title": "Милашка Рита",
+      "kp_id": "21657",
+      "imdb_id": "tt0339323",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-09-10 20:28:31",
-      "orig_title": "Ace Ventura: Pet Detective Jr.",
-      "year": "2009-03-01",
+      "add": "2019-09-18 15:01:18",
+      "orig_title": "Lovely Rita, sainte patronne des cas désespérés",
+      "year": "2003-09-24",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "dvdrip",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-09-11 07:28:41",
+      "update": "2019-09-19 04:46:20",
       "iframe_src": ""
     },
     {
-      "id": 30745,
-      "title": "Би-2. Горизонт событий. Documentary",
-      "kp_id": "1267335",
-      "imdb_id": null,
+      "id": 30946,
+      "title": "Нервы на пределе",
+      "kp_id": "6038",
+      "imdb_id": "tt0102032",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-09-10 20:25:53",
-      "orig_title": "Би-2. Горизонт событий. Documentary",
-      "year": "2019-06-09",
+      "add": "2019-09-18 14:50:17",
+      "orig_title": "High Strung",
+      "year": "1992-01-08",
       "translations": [
-        "Оригинальная дорожка"
+        "Профессиональный (двухголосый закадровый)",
+        "Авторский (одноголосый закадровый) (Визгунов Сергей)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2019-09-19 04:33:13",
+      "iframe_src": ""
+    },
+    {
+      "id": 30944,
+      "title": "Наму, кит-убийца",
+      "kp_id": "25572",
+      "imdb_id": "tt0060737",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-09-18 11:21:01",
+      "orig_title": "Namu, the Killer Whale",
+      "year": "1966-08-01",
+      "translations": [
+        "Профессиональный (двухголосый закадровый) (НТВ)"
       ],
       "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-09-11 07:35:22",
+      "translation": "Профессиональный (двухголосый закадровый) (НТВ)",
+      "update": "2019-09-19 05:18:55",
       "iframe_src": ""
     },
     {
-      "id": 30732,
-      "title": "Сезон во Франции",
-      "kp_id": "1048201",
-      "imdb_id": "tt7177156",
+      "id": 30935,
+      "title": "Предначертанное",
+      "kp_id": "876604",
+      "imdb_id": "tt4106264",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-09-10 19:52:26",
-      "orig_title": "Une saison en France",
-      "year": "2017-09-08",
+      "add": "2019-09-17 22:44:10",
+      "orig_title": "Foreseen",
+      "year": "2019-01-08",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-09-11 09:41:53",
+      "update": "2019-09-19 05:26:53",
       "iframe_src": ""
     },
     {
-      "id": 30728,
-      "title": "Только ты",
-      "kp_id": "1099110",
-      "imdb_id": "tt7531138",
+      "id": 30864,
+      "title": "Повторяющие реальность",
+      "kp_id": "493948",
+      "imdb_id": "tt1580426",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-09-10 19:45:04",
-      "orig_title": "Only You",
-      "year": "2018-10-19",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-09-11 09:44:18",
-      "iframe_src": ""
-    },
-    {
-      "id": 30725,
-      "title": "Свидетели",
-      "kp_id": "1135582",
-      "imdb_id": "tt8394314",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-09-10 19:37:52",
-      "orig_title": "Witnesses",
-      "year": "2019-09-09",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-09-11 09:44:57",
-      "iframe_src": ""
-    },
-    {
-      "id": 30718,
-      "title": "100 шагов",
-      "kp_id": "1278180",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-09-10 19:18:35",
-      "orig_title": "100 шагов",
-      "year": "2019-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-09-11 07:34:04",
-      "iframe_src": ""
-    },
-    {
-      "id": 30715,
-      "title": "Тюремный рок",
-      "kp_id": "16060",
-      "imdb_id": "tt0050556",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-09-10 06:20:21",
-      "orig_title": "Jailhouse Rock",
-      "year": "1957-10-17",
+      "add": "2019-09-14 21:21:47",
+      "orig_title": "Repeaters",
+      "year": "2010-09-13",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-09-11 07:47:14",
+      "update": "2019-09-19 05:28:19",
       "iframe_src": ""
     },
     {
-      "id": 30685,
-      "title": "Наука сна",
-      "kp_id": "1793",
-      "imdb_id": "tt0354899",
+      "id": 30803,
+      "title": "Бывшие",
+      "kp_id": "1050901",
+      "imdb_id": "tt6947294",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-09-08 11:56:35",
-      "orig_title": "La science des rêves",
-      "year": "2006-02-11",
+      "add": "2019-09-12 05:39:07",
+      "orig_title": "Les ex",
+      "year": "2017-06-14",
       "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-09-11 14:18:46",
-      "iframe_src": ""
-    },
-    {
-      "id": 28037,
-      "title": "Ритмы",
-      "kp_id": "1165994",
-      "imdb_id": "tt8530978",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-06-19 22:15:18",
-      "orig_title": "Beats",
-      "year": "2019-06-19",
-      "translations": [
-        "Полное дублирование",
-        "Original (English)",
-        "Любительский (многоголосый закадровый) (Синема УС)"
+        "Профессиональный (многоголосый закадровый) (Первый канал | ОРТ)"
       ],
       "quality": "webdl",
-      "translation": "Полное дублирование",
-      "update": "2019-09-11 07:55:23",
+      "translation": "Профессиональный (многоголосый закадровый) (Первый канал | ОРТ)",
+      "update": "2019-09-19 05:59:53",
       "iframe_src": ""
     },
     {
-      "id": 12682,
-      "title": "Соседка",
-      "kp_id": "6293",
-      "imdb_id": "tt0265208",
+      "id": 30802,
+      "title": "Рассеянный",
+      "kp_id": "95353",
+      "imdb_id": "tt0072884",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-07-30 05:39:15",
-      "orig_title": "The Girl Next Door",
-      "year": "2004-02-18",
+      "add": "2019-09-12 05:38:02",
+      "orig_title": "Le distrait",
+      "year": "1970-12-09",
       "translations": [
-        "Полное дублирование",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2019-09-11 07:40:03",
-      "iframe_src": ""
-    },
-    {
-      "id": 4049,
-      "title": "Три икса",
-      "kp_id": "6032",
-      "imdb_id": "tt0295701",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-07-20 10:26:13",
-      "orig_title": "xXx",
-      "year": "2002-08-09",
-      "translations": [
-        "Полное дублирование",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2019-09-11 07:37:48",
-      "iframe_src": ""
-    },
-    {
-      "id": 3684,
-      "title": "Двойной просчет",
-      "kp_id": "8144",
-      "imdb_id": "tt0150377",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-07-05 16:09:29",
-      "orig_title": "Double Jeopardy",
-      "year": "1999-09-21",
-      "translations": [
-        "Профессиональный (двухголосый закадровый) (iTunes)"
+        "Профессиональный (многоголосый закадровый) (НТВ)"
       ],
       "quality": "webdl",
-      "translation": "Профессиональный (двухголосый закадровый) (iTunes)",
-      "update": "2019-09-11 07:30:44",
+      "translation": "Профессиональный (многоголосый закадровый) (НТВ)",
+      "update": "2019-09-19 05:58:33",
       "iframe_src": ""
     },
     {
-      "id": 1422,
-      "title": "Казино Рояль",
-      "kp_id": "49844",
-      "imdb_id": "tt0381061",
+      "id": 30801,
+      "title": "Побег",
+      "kp_id": "64055",
+      "imdb_id": "tt0077295",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-04-21 12:41:38",
-      "orig_title": "Casino Royale",
-      "year": "2006-11-14",
+      "add": "2019-09-12 05:35:31",
+      "orig_title": "La carapate",
+      "year": "1978-10-11",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (Союз Видео)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый) (Союз Видео)",
+      "update": "2019-09-19 05:56:51",
+      "iframe_src": ""
+    },
+    {
+      "id": 30800,
+      "title": "Джемини",
+      "kp_id": "153741",
+      "imdb_id": "tt0327761",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-09-12 05:34:10",
+      "orig_title": "Gemini",
+      "year": "2002-04-12",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (Red Media)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый) (Red Media)",
+      "update": "2019-09-19 05:55:40",
+      "iframe_src": ""
+    },
+    {
+      "id": 30774,
+      "title": "Разочарование",
+      "kp_id": "182277",
+      "imdb_id": "tt0104404",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-09-11 15:26:30",
+      "orig_title": "Heer Ranjha",
+      "year": "1992-08-07",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2019-09-19 05:41:04",
+      "iframe_src": ""
+    },
+    {
+      "id": 30772,
+      "title": "Гоблины 2",
+      "kp_id": "15923",
+      "imdb_id": "tt0093091",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-09-11 15:24:10",
+      "orig_title": "Ghoulies II",
+      "year": "1987-09-22",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "hdtv",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2019-09-19 05:38:44",
+      "iframe_src": ""
+    },
+    {
+      "id": 30771,
+      "title": "Гоблины",
+      "kp_id": "32553",
+      "imdb_id": "tt0089200",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-09-11 15:22:46",
+      "orig_title": "Ghoulies",
+      "year": "1984-11-08",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "hdtv",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2019-09-19 05:37:35",
+      "iframe_src": ""
+    },
+    {
+      "id": 30770,
+      "title": "Шамантакамани",
+      "kp_id": "1077059",
+      "imdb_id": "tt7125262",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-09-11 15:20:14",
+      "orig_title": "Shamantakamani",
+      "year": "2017-07-14",
+      "translations": [
+        "Любительский (двухголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (двухголосый закадровый)",
+      "update": "2019-09-19 05:36:08",
+      "iframe_src": ""
+    },
+    {
+      "id": 14807,
+      "title": "Три билборда на границе Эббинга, Миссури",
+      "kp_id": "944098",
+      "imdb_id": "tt5027774",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-01-04 23:19:42",
+      "orig_title": "Three Billboards Outside Ebbing, Missouri",
+      "year": "2017-09-04",
       "translations": [
         "Полное дублирование",
         "Original (English)"
       ],
       "quality": "bd",
       "translation": "Полное дублирование",
-      "update": "2019-09-11 07:44:11",
+      "update": "2019-09-19 05:31:23",
       "iframe_src": ""
     },
     {
-      "id": 1418,
-      "title": "Золотой глаз",
-      "kp_id": "3556",
-      "imdb_id": "tt0113189",
+      "id": 5971,
+      "title": "Прерванная жизнь",
+      "kp_id": "5058",
+      "imdb_id": "tt0172493",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-04-21 12:11:13",
-      "orig_title": "Golden Eye",
-      "year": "1995-11-13",
-      "translations": [
-        "Полное дублирование",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2019-09-11 07:43:24",
-      "iframe_src": ""
-    },
-    {
-      "id": 709,
-      "title": "Люди Икс 2",
-      "kp_id": "298",
-      "imdb_id": "tt0290334",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-04-06 20:45:24",
-      "orig_title": "X2",
-      "year": "2003-04-24",
-      "translations": [
-        "Полное дублирование",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2019-09-11 07:38:43",
-      "iframe_src": ""
-    },
-    {
-      "id": 689,
-      "title": "8 Миля",
-      "kp_id": "581",
-      "imdb_id": "tt0298203",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-04-05 21:31:37",
-      "orig_title": "8 Mile",
-      "year": "2002-09-08",
-      "translations": [
-        "Полное дублирование",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2019-09-11 07:45:02",
-      "iframe_src": ""
-    },
-    {
-      "id": 523,
-      "title": "Хуже, чем ложь",
-      "kp_id": "893535",
-      "imdb_id": "tt3658772",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-04-04 11:48:55",
-      "orig_title": "Misconduct",
-      "year": "2016-02-05",
-      "translations": [
-        "Полное дублирование",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2019-09-11 07:40:54",
-      "iframe_src": ""
-    },
-    {
-      "id": 318,
-      "title": "Высшая лига 2",
-      "kp_id": "4981",
-      "imdb_id": "tt0110442",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-03-23 10:30:16",
-      "orig_title": "Major League II",
-      "year": "1994-03-30",
+      "add": "2016-10-07 11:34:50",
+      "orig_title": "Girl, Interrupted",
+      "year": "1999-12-08",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "webdl",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-09-11 14:17:35",
+      "update": "2019-09-19 04:29:09",
+      "iframe_src": ""
+    },
+    {
+      "id": 5397,
+      "title": "Состояние исступления",
+      "kp_id": "1664",
+      "imdb_id": "tt0100685",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-09-21 18:36:45",
+      "orig_title": "State of Grace",
+      "year": "1990-09-14",
+      "translations": [
+        "Полное дублирование",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2019-09-19 05:32:56",
       "iframe_src": ""
     }
   ]

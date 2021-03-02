@@ -1,363 +1,363 @@
 {
   "data": [
     {
-      "id": 6460,
-      "title": "Молодой Шерлок Холмс",
-      "kp_id": "7112",
-      "imdb_id": "tt0090357",
+      "id": 6660,
+      "title": "Моя левая нога",
+      "kp_id": "18784",
+      "imdb_id": "tt0097937",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-10-18 15:03:19",
-      "orig_title": "Young Sherlock Holmes",
-      "year": "1985-12-04",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-10-19 14:39:31",
-      "iframe_src": ""
-    },
-    {
-      "id": 6458,
-      "title": "Балбесы",
-      "kp_id": "3926",
-      "imdb_id": "tt0089218",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-18 14:57:37",
-      "orig_title": "The Goonies",
-      "year": "1985-06-07",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-10-19 14:45:15",
-      "iframe_src": ""
-    },
-    {
-      "id": 6457,
-      "title": "Лицо любви",
-      "kp_id": "582122",
-      "imdb_id": "tt1839642",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-18 14:55:10",
-      "orig_title": "The Face of Love",
-      "year": "2013-09-12",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-10-19 14:48:20",
-      "iframe_src": ""
-    },
-    {
-      "id": 6456,
-      "title": "Цветы лиловые полей",
-      "kp_id": "3749",
-      "imdb_id": "tt0088939",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-18 14:53:55",
-      "orig_title": "The Color Purple",
-      "year": "1985-12-16",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-10-19 14:52:13",
-      "iframe_src": ""
-    },
-    {
-      "id": 6421,
-      "title": "Маппеты на Манхэттене",
-      "kp_id": "6465",
-      "imdb_id": "tt0087755",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-18 05:54:02",
-      "orig_title": "The Muppets Take Manhattan",
-      "year": "1984-07-13",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-10-19 10:19:57",
-      "iframe_src": ""
-    },
-    {
-      "id": 6420,
-      "title": "Свободные",
-      "kp_id": "14848",
-      "imdb_id": "tt0087277",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-18 05:52:12",
-      "orig_title": "Footloose",
-      "year": "1984-02-17",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-10-19 09:43:43",
-      "iframe_src": ""
-    },
-    {
-      "id": 6416,
-      "title": "Мартовские коты",
-      "kp_id": "5313",
-      "imdb_id": "tt0246989",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-17 18:43:10",
-      "orig_title": "Tomcats",
-      "year": "2001-03-30",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-10-19 10:18:04",
-      "iframe_src": ""
-    },
-    {
-      "id": 6415,
-      "title": "Секрет моего успеха",
-      "kp_id": "17602",
-      "imdb_id": "tt0093936",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-17 18:41:54",
-      "orig_title": "The Secret of My Success",
-      "year": "1987-04-07",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2016-10-19 10:16:35",
-      "iframe_src": ""
-    },
-    {
-      "id": 6414,
-      "title": "Отбой",
-      "kp_id": "15565",
-      "imdb_id": "tt0083169",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-17 18:39:30",
-      "orig_title": "Taps",
-      "year": "1981-12-09",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-10-19 10:14:05",
-      "iframe_src": ""
-    },
-    {
-      "id": 6413,
-      "title": "Рискованный бизнес",
-      "kp_id": "3928",
-      "imdb_id": "tt0086200",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-17 18:38:36",
-      "orig_title": "Risky Business",
-      "year": "1983-08-05",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-10-19 10:12:29",
-      "iframe_src": ""
-    },
-    {
-      "id": 6411,
-      "title": "Недетское кино",
-      "kp_id": "5127",
-      "imdb_id": "tt0277371",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-17 18:36:03",
-      "orig_title": "Not Another Teen Movie",
-      "year": "2001-12-07",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-10-19 10:08:09",
-      "iframe_src": ""
-    },
-    {
-      "id": 6410,
-      "title": "Маппеты в космосе",
-      "kp_id": "4801",
-      "imdb_id": "tt0158811",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-17 18:34:50",
-      "orig_title": "Muppets from Space",
-      "year": "1999-07-14",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-10-19 10:06:01",
-      "iframe_src": ""
-    },
-    {
-      "id": 6408,
-      "title": "Рождественская сказка Маппетов",
-      "kp_id": "9201",
-      "imdb_id": "tt0104940",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-17 18:32:37",
-      "orig_title": "The Muppet Christmas Carol",
-      "year": "1992-12-11",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-10-19 10:01:24",
-      "iframe_src": ""
-    },
-    {
-      "id": 6407,
-      "title": "Спекулянт",
-      "kp_id": "4495",
-      "imdb_id": "tt0123221",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-17 18:31:32",
-      "orig_title": "Just the Ticket",
-      "year": "1999-02-26",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "hdtv",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-10-19 09:55:12",
-      "iframe_src": ""
-    },
-    {
-      "id": 6406,
-      "title": "Приключения Джо Грязнули",
-      "kp_id": "4197",
-      "imdb_id": "tt0245686",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-17 18:30:14",
-      "orig_title": "Joe Dirt",
-      "year": "2001-04-11",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-10-19 09:40:49",
-      "iframe_src": ""
-    },
-    {
-      "id": 6405,
-      "title": "Инферно",
-      "kp_id": "78939",
-      "imdb_id": "tt0139151",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-17 18:29:09",
-      "orig_title": "Inferno",
-      "year": "1999-07-28",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-10-19 09:39:34",
-      "iframe_src": ""
-    },
-    {
-      "id": 6403,
-      "title": "Салон красоты",
-      "kp_id": "64329",
-      "imdb_id": "tt0388500",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-17 18:26:53",
-      "orig_title": "Beauty Shop",
-      "year": "2005-03-24",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-10-19 09:36:25",
-      "iframe_src": ""
-    },
-    {
-      "id": 6402,
-      "title": "Плохие девчонки",
-      "kp_id": "1813",
-      "imdb_id": "tt0109198",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-17 18:25:49",
-      "orig_title": "Bad Girls",
-      "year": "1994-04-22",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-10-19 09:31:22",
-      "iframe_src": ""
-    },
-    {
-      "id": 6401,
-      "title": "Вoлчонок",
-      "kp_id": "17603",
-      "imdb_id": "tt0090142",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-17 18:19:15",
-      "orig_title": "Teen Wolf",
-      "year": "1985-08-23",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-10-19 09:29:06",
-      "iframe_src": ""
-    },
-    {
-      "id": 6400,
-      "title": "Волчонок 2",
-      "kp_id": "23075",
-      "imdb_id": "tt0094118",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-17 18:17:35",
-      "orig_title": "Teen Wolf Too",
-      "year": "1987-11-20",
+      "add": "2016-10-25 15:26:34",
+      "orig_title": "My Left Foot: The Story of Christy Brown",
+      "year": "1989-02-24",
       "translations": [
         "Профессиональный (двухголосый закадровый)"
       ],
       "quality": "webdl",
       "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2016-10-19 09:27:11",
+      "update": "2016-10-26 09:37:14",
+      "iframe_src": ""
+    },
+    {
+      "id": 6659,
+      "title": "Убей меня снова",
+      "kp_id": "14838",
+      "imdb_id": "tt0097662",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-25 15:25:18",
+      "orig_title": "Kill Me Again",
+      "year": "1989-10-27",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2016-10-26 09:35:54",
+      "iframe_src": ""
+    },
+    {
+      "id": 6658,
+      "title": "Большие огненные шары",
+      "kp_id": "8951",
+      "imdb_id": "tt0097457",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-25 15:24:20",
+      "orig_title": "Great Balls of Fire!",
+      "year": "1989-06-30",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "hdtv",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2016-10-26 09:34:12",
+      "iframe_src": ""
+    },
+    {
+      "id": 6654,
+      "title": "Голубая сталь",
+      "kp_id": "17323",
+      "imdb_id": "tt0099160",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-25 15:19:09",
+      "orig_title": "Blue Steel",
+      "year": "1989-05-26",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2016-10-26 09:12:51",
+      "iframe_src": ""
+    },
+    {
+      "id": 6650,
+      "title": "Шансы есть",
+      "kp_id": "5022",
+      "imdb_id": "tt0097044",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-25 15:14:27",
+      "orig_title": "Chances Are",
+      "year": "1989-03-10",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "webdl",
+      "translation": "Полное дублирование",
+      "update": "2016-10-26 09:07:45",
+      "iframe_src": ""
+    },
+    {
+      "id": 6647,
+      "title": "Невиновный",
+      "kp_id": "4184",
+      "imdb_id": "tt0097579",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-25 15:10:34",
+      "orig_title": "An Innocent Man",
+      "year": "1989-10-06",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2016-10-26 06:30:47",
+      "iframe_src": ""
+    },
+    {
+      "id": 6640,
+      "title": "Оглушающий океан",
+      "kp_id": "910176",
+      "imdb_id": "tt4677128",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-25 11:24:39",
+      "orig_title": "Sonic Sea",
+      "year": "2016-04-22",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "hdtv",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2016-10-25 14:28:06",
+      "iframe_src": ""
+    },
+    {
+      "id": 6637,
+      "title": "Музей восковых фигур",
+      "kp_id": "5608",
+      "imdb_id": "tt0096426",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-25 05:44:53",
+      "orig_title": "Waxwork",
+      "year": "1988-06-17",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-10-26 06:22:00",
+      "iframe_src": ""
+    },
+    {
+      "id": 6636,
+      "title": "Всё наоборот",
+      "kp_id": "1672",
+      "imdb_id": "tt0096380",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-25 05:43:45",
+      "orig_title": "Vice Versa",
+      "year": "1988-03-11",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-10-26 06:20:18",
+      "iframe_src": ""
+    },
+    {
+      "id": 6635,
+      "title": "Убить священника",
+      "kp_id": "6782",
+      "imdb_id": "tt0096280",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-25 05:42:39",
+      "orig_title": "To Kill a Priest",
+      "year": "1988-09-07",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-10-26 06:18:50",
+      "iframe_src": ""
+    },
+    {
+      "id": 6634,
+      "title": "Змей и радуга",
+      "kp_id": "15943",
+      "imdb_id": "tt0096071",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-25 05:41:38",
+      "orig_title": "The Serpent and the Rainbow",
+      "year": "1988-02-05",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-10-26 06:17:34",
+      "iframe_src": ""
+    },
+    {
+      "id": 6633,
+      "title": "Капля",
+      "kp_id": "7409",
+      "imdb_id": "tt0094761",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-25 05:40:39",
+      "orig_title": "The Blob",
+      "year": "1988-08-05",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-10-26 06:15:11",
+      "iframe_src": ""
+    },
+    {
+      "id": 6632,
+      "title": "Грозовой понедельник",
+      "kp_id": "5232",
+      "imdb_id": "tt0096180",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-25 05:39:37",
+      "orig_title": "Stormy Monday",
+      "year": "1988-04-22",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-10-26 06:13:51",
+      "iframe_src": ""
+    },
+    {
+      "id": 6631,
+      "title": "Спящий лагерь 3",
+      "kp_id": "52417",
+      "imdb_id": "tt0096119",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-25 05:38:21",
+      "orig_title": "Sleepaway Camp III: Teenage Wasteland",
+      "year": "1989-08-04",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "hdtv",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-10-26 06:11:47",
+      "iframe_src": ""
+    },
+    {
+      "id": 6630,
+      "title": "Спящий лагерь 2",
+      "kp_id": "47811",
+      "imdb_id": "tt0096118",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-25 05:37:04",
+      "orig_title": "Sleepaway Camp II: Unhappy Campers",
+      "year": "1988-08-26",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "hdtv",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-10-26 06:08:31",
+      "iframe_src": ""
+    },
+    {
+      "id": 6629,
+      "title": "Спящий лагерь",
+      "kp_id": "64760",
+      "imdb_id": "tt0086320",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-25 05:35:51",
+      "orig_title": "Sleepaway Camp",
+      "year": "1983-11-18",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-10-26 06:05:36",
+      "iframe_src": ""
+    },
+    {
+      "id": 6628,
+      "title": "Герой и Ужас",
+      "kp_id": "25410",
+      "imdb_id": "tt0095296",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-25 05:33:10",
+      "orig_title": "Hero and the Terror",
+      "year": "1988-08-26",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-10-26 06:04:10",
+      "iframe_src": ""
+    },
+    {
+      "id": 6627,
+      "title": "Забавная ферма",
+      "kp_id": "23989",
+      "imdb_id": "tt0095188",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-25 05:32:09",
+      "orig_title": "Funny Farm",
+      "year": "1988-06-03",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-10-26 06:02:10",
+      "iframe_src": ""
+    },
+    {
+      "id": 6626,
+      "title": "Коэн и Тейт",
+      "kp_id": "14903",
+      "imdb_id": "tt0097074",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-25 05:31:15",
+      "orig_title": "Cohen and Tate",
+      "year": "1988-10-12",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-10-26 06:00:06",
+      "iframe_src": ""
+    },
+    {
+      "id": 6623,
+      "title": "Билокси блюз",
+      "kp_id": "6913",
+      "imdb_id": "tt0094746",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-25 05:27:30",
+      "orig_title": "Biloxi Blues",
+      "year": "1988-03-25",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-10-26 05:54:40",
       "iframe_src": ""
     }
   ]

@@ -1,372 +1,364 @@
 {
   "data": [
     {
-      "id": 30942,
-      "title": "Бой",
-      "kp_id": "1061874",
-      "imdb_id": "tt7511368",
+      "id": 31155,
+      "title": "Благодать Люсии",
+      "kp_id": "1073025",
+      "imdb_id": "tt7133528",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-09-17 23:00:56",
-      "orig_title": "The Fight",
-      "year": "2018-10-17",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-09-18 04:14:27",
-      "iframe_src": ""
-    },
-    {
-      "id": 30941,
-      "title": "Страж",
-      "kp_id": "1218067",
-      "imdb_id": "tt9378320",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-09-17 22:58:38",
-      "orig_title": "Watchman",
-      "year": "2019-04-12",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-09-18 04:15:07",
-      "iframe_src": ""
-    },
-    {
-      "id": 30940,
-      "title": "Новички",
-      "kp_id": "1115977",
-      "imdb_id": "tt7773340",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-09-17 22:55:35",
-      "orig_title": "Su ren te gong",
-      "year": "2019-07-12",
-      "translations": [
-        "Любительский (многоголосый закадровый) (@MUZOBOZ@)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-      "update": "2019-09-18 04:18:04",
-      "iframe_src": ""
-    },
-    {
-      "id": 30930,
-      "title": "История девушки",
-      "kp_id": "1046114",
-      "imdb_id": "tt1699509",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-09-17 11:13:18",
-      "orig_title": "Story of a Girl",
-      "year": "2017-06-22",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-09-17 17:44:49",
-      "iframe_src": ""
-    },
-    {
-      "id": 30929,
-      "title": "Любовь стоя",
-      "kp_id": "1118661",
-      "imdb_id": "tt8299896",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-09-17 11:11:29",
-      "orig_title": "L'amour debout",
+      "add": "2019-09-23 23:16:50",
+      "orig_title": "Troppa grazia",
       "year": "2018-05-17",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
-      "quality": "webdl",
+      "quality": "bd",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-09-17 17:45:32",
+      "update": "2019-09-24 04:47:28",
       "iframe_src": ""
     },
     {
-      "id": 30928,
-      "title": "Украденная у чирлидерши личность",
-      "kp_id": "1255881",
-      "imdb_id": "tt10082950",
+      "id": 31154,
+      "title": "Определения",
+      "kp_id": "999337",
+      "imdb_id": "tt5993068",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-09-17 11:09:33",
-      "orig_title": "Identity Theft of a Cheerleader",
-      "year": "2019-09-07",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (AlphaProject)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый) (AlphaProject)",
-      "update": "2019-09-17 17:45:56",
-      "iframe_src": ""
-    },
-    {
-      "id": 30927,
-      "title": "Сибэл",
-      "kp_id": "1172317",
-      "imdb_id": "tt8696440",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-09-17 11:07:45",
-      "orig_title": "Sibel",
-      "year": "2018-08-03",
+      "add": "2019-09-23 22:34:52",
+      "orig_title": "The Definites",
+      "year": "2017-01-01",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-09-17 17:42:45",
+      "update": "2019-09-24 04:41:44",
       "iframe_src": ""
     },
     {
-      "id": 30926,
-      "title": "Истории мертвых: Ферма",
-      "kp_id": "1240576",
-      "imdb_id": "tt9817680",
+      "id": 31153,
+      "title": "Уроки хладнокровия",
+      "kp_id": "595833",
+      "imdb_id": "tt1876466",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-09-17 11:05:38",
-      "orig_title": "Stories of the Dead - Die Farm",
-      "year": "2019-07-01",
+      "add": "2019-09-23 22:33:40",
+      "orig_title": "Taught in Cold Blood",
+      "year": "2017-03-28",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-09-24 04:42:50",
+      "iframe_src": ""
+    },
+    {
+      "id": 31152,
+      "title": "Тихая паника",
+      "kp_id": null,
+      "imdb_id": "tt7722156",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-09-23 22:31:45",
+      "orig_title": "Silent Panic",
+      "year": "2018-01-01",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-09-24 04:43:49",
+      "iframe_src": ""
+    },
+    {
+      "id": 31151,
+      "title": "Между двумя водами",
+      "kp_id": "1023603",
+      "imdb_id": "tt6157294",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-09-23 22:20:56",
+      "orig_title": "Entre dos aguas",
+      "year": "2018-09-27",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "bd",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-09-17 17:43:30",
+      "update": "2019-09-24 04:52:18",
       "iframe_src": ""
     },
     {
-      "id": 30925,
-      "title": "Последний крик",
-      "kp_id": "1070363",
-      "imdb_id": "tt7097358",
+      "id": 31150,
+      "title": "Акты отчаяния",
+      "kp_id": null,
+      "imdb_id": "tt3219686",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-09-17 11:03:43",
-      "orig_title": "The Final Scream",
-      "year": "2019-08-05",
+      "add": "2019-09-23 22:19:37",
+      "orig_title": "Acts of Desperation",
+      "year": "2018-12-09",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-09-17 17:44:01",
+      "update": "2019-09-24 04:52:46",
       "iframe_src": ""
     },
     {
-      "id": 30923,
-      "title": "Черный лес",
-      "kp_id": "1172492",
-      "imdb_id": "tt8702008",
+      "id": 31149,
+      "title": "Семь",
+      "kp_id": "1204707",
+      "imdb_id": "tt9165458",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-09-17 07:01:36",
-      "orig_title": "El bosque negro",
-      "year": "2018-05-17",
+      "add": "2019-09-23 22:17:36",
+      "orig_title": "Seven",
+      "year": "2019-06-05",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-09-18 04:11:08",
+      "update": "2019-09-24 04:53:19",
       "iframe_src": ""
     },
     {
-      "id": 30922,
-      "title": "90 мл",
-      "kp_id": "1150038",
-      "imdb_id": "tt8268916",
+      "id": 31148,
+      "title": "Цветок-близнец",
+      "kp_id": "1096386",
+      "imdb_id": "tt4389006",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-09-17 07:00:12",
-      "orig_title": "90 ML",
-      "year": "2019-03-01",
+      "add": "2019-09-23 22:05:17",
+      "orig_title": "Fiore gemello",
+      "year": "2018-09-08",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-09-24 04:55:07",
+      "iframe_src": ""
+    },
+    {
+      "id": 31147,
+      "title": "Прекрасный литературный клуб мадам Янкеловой",
+      "kp_id": "1062962",
+      "imdb_id": "tt6965662",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-09-23 22:03:58",
+      "orig_title": "HaMoadon LeSafrut Yaffa Shel Hagveret Yanlekova",
+      "year": "2017-09-06",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-09-18 04:12:30",
+      "update": "2019-09-24 04:55:56",
       "iframe_src": ""
     },
     {
-      "id": 28238,
-      "title": "Детские игры",
-      "kp_id": "1179256",
-      "imdb_id": "tt8663516",
+      "id": 31146,
+      "title": "Мастер возвращается",
+      "kp_id": null,
+      "imdb_id": "tt10497998",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-06-24 21:48:03",
-      "orig_title": "Child's Play",
-      "year": "2019-06-18",
+      "add": "2019-09-23 21:45:59",
+      "orig_title": "Master Returns",
+      "year": "2018-02-09",
       "translations": [
-        "Полное дублирование",
-        "Original (English)"
+        "Любительский (многоголосый закадровый) (Колобок)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Колобок)",
+      "update": "2019-09-24 07:20:59",
+      "iframe_src": ""
+    },
+    {
+      "id": 31145,
+      "title": "Пауза",
+      "kp_id": "1155668",
+      "imdb_id": "tt6590856",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-09-23 21:43:56",
+      "orig_title": "Pause",
+      "year": "2018-07-04",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-09-24 07:21:41",
+      "iframe_src": ""
+    },
+    {
+      "id": 31144,
+      "title": "Плохая доза",
+      "kp_id": "1241499",
+      "imdb_id": "tt6499516",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-09-23 21:38:54",
+      "orig_title": "Bad Dose",
+      "year": "2019-01-30",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-09-24 07:22:53",
+      "iframe_src": ""
+    },
+    {
+      "id": 31143,
+      "title": "Влечение к телу",
+      "kp_id": null,
+      "imdb_id": "tt6092060",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-09-23 21:36:56",
+      "orig_title": "Bound to the Body",
+      "year": "2017-01-01",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-09-24 07:23:22",
+      "iframe_src": ""
+    },
+    {
+      "id": 31141,
+      "title": "Радакришна",
+      "kp_id": "1041214",
+      "imdb_id": "tt6138680",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-09-23 21:30:37",
+      "orig_title": "Radha",
+      "year": "2017-05-11",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-09-24 07:24:30",
+      "iframe_src": ""
+    },
+    {
+      "id": 31108,
+      "title": "Братья-Американцы",
+      "kp_id": "1165444",
+      "imdb_id": "tt6610888",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-09-22 19:18:15",
+      "orig_title": "American Brothers",
+      "year": "2019-03-12",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-09-24 04:45:21",
+      "iframe_src": ""
+    },
+    {
+      "id": 31095,
+      "title": "Сказка на ночь",
+      "kp_id": "7154",
+      "imdb_id": "tt0057878",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-09-22 16:42:19",
+      "orig_title": "Bedtime Story",
+      "year": "1964-06-10",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (5-й канал СПб)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый) (5-й канал СПб)",
+      "update": "2019-09-24 05:54:28",
+      "iframe_src": ""
+    },
+    {
+      "id": 31094,
+      "title": "Дезире",
+      "kp_id": "84986",
+      "imdb_id": "tt0116084",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-09-22 16:36:54",
+      "orig_title": "Désiré",
+      "year": "1996-04-10",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-09-24 05:55:59",
+      "iframe_src": ""
+    },
+    {
+      "id": 22330,
+      "title": "Охотники на ведьм",
+      "kp_id": "1081800",
+      "imdb_id": "tt7106246",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-02-16 23:24:41",
+      "orig_title": "Zlogonje",
+      "year": "2018-03-10",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Авторский (одноголосый закадровый) (Данилов Владислав | Kenum)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-09-24 04:48:58",
+      "iframe_src": ""
+    },
+    {
+      "id": 22296,
+      "title": "Сестра",
+      "kp_id": "1209744",
+      "imdb_id": "tt9535950",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-02-14 20:09:28",
+      "orig_title": "Eonni",
+      "year": "2019-01-01",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2019-09-17 05:36:51",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-09-24 04:50:28",
       "iframe_src": ""
     },
     {
-      "id": 19665,
-      "title": "Дикая жизнь",
-      "kp_id": "1005852",
-      "imdb_id": "tt5929754",
+      "id": 5042,
+      "title": "Уже скучаю по тебе",
+      "kp_id": "667863",
+      "imdb_id": "tt2245003",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-10-22 00:17:23",
-      "orig_title": "Wildlife",
-      "year": "2018-01-20",
+      "add": "2016-09-06 08:42:02",
+      "orig_title": "Miss You Already",
+      "year": "2015-09-12",
       "translations": [
-        "Полное дублирование",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2019-09-17 05:33:50",
-      "iframe_src": ""
-    },
-    {
-      "id": 16929,
-      "title": "Рассказ",
-      "kp_id": "849268",
-      "imdb_id": "tt4015500",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-05-27 21:29:42",
-      "orig_title": "The Tale",
-      "year": "2018-01-20",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)",
-        "Original (English)"
+        "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-09-17 05:32:42",
-      "iframe_src": ""
-    },
-    {
-      "id": 15125,
-      "title": "Пятьдесят оттенков свободы",
-      "kp_id": "893488",
-      "imdb_id": "tt4477536",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-02-09 21:43:13",
-      "orig_title": "Fifty Shades Freed",
-      "year": "2018-02-06",
-      "translations": [
-        "Полное дублирование",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2019-09-17 05:25:48",
-      "iframe_src": ""
-    },
-    {
-      "id": 12474,
-      "title": "Малыш на драйве",
-      "kp_id": "902939",
-      "imdb_id": "tt3890160",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-07-13 04:56:43",
-      "orig_title": "Baby Driver",
-      "year": "2017-03-11",
-      "translations": [
-        "Полное дублирование (iTunes)",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование (iTunes)",
-      "update": "2019-09-17 05:24:16",
-      "iframe_src": ""
-    },
-    {
-      "id": 11849,
-      "title": "Чудо-женщина",
-      "kp_id": "102383",
-      "imdb_id": "tt0451279",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-06-08 00:34:07",
-      "orig_title": "Wonder Woman",
-      "year": "2017-05-15",
-      "translations": [
-        "Полное дублирование (iTunes)",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование (iTunes)",
-      "update": "2019-09-17 05:35:31",
-      "iframe_src": ""
-    },
-    {
-      "id": 9635,
-      "title": "На пятьдесят оттенков темнее",
-      "kp_id": "893487",
-      "imdb_id": "tt4465564",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-02-13 10:22:24",
-      "orig_title": "Fifty Shades Darker",
-      "year": "2017-02-07",
-      "translations": [
-        "Полное дублирование",
-        "Original (English)"
-      ],
-      "quality": "webdl",
-      "translation": "Полное дублирование",
-      "update": "2019-09-17 05:24:59",
-      "iframe_src": ""
-    },
-    {
-      "id": 1137,
-      "title": "Куда приводят мечты",
-      "kp_id": "15139",
-      "imdb_id": "tt0120889",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-04-14 19:56:17",
-      "orig_title": "What Dreams May Come",
-      "year": "1998-09-28",
-      "translations": [
-        "Полное дублирование",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2019-09-17 05:40:26",
-      "iframe_src": ""
-    },
-    {
-      "id": 14,
-      "title": "Пятьдесят оттенков серого",
-      "kp_id": "688832",
-      "imdb_id": "tt2322441",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-02-05 21:48:54",
-      "orig_title": "Fifty Shades of Grey",
-      "year": "2015-02-09",
-      "translations": [
-        "Полное дублирование",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2019-09-17 05:27:31",
+      "update": "2019-09-24 07:22:17",
       "iframe_src": ""
     }
   ]

@@ -1,377 +1,365 @@
 {
   "data": [
     {
-      "id": 39596,
-      "title": "Сумочка",
-      "kp_id": null,
-      "imdb_id": "tt11713972",
+      "id": 39843,
+      "title": "Чернобыль. Хроника трудных недель",
+      "kp_id": "596174",
+      "imdb_id": "tt7154796",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-04-20 10:03:30",
-      "orig_title": "The Hand Bag",
-      "year": "2020-01-28",
+      "add": "2020-04-26 09:14:55",
+      "orig_title": "Chernobyl. Khronika trudnykh nedel",
+      "year": "1986-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "sat",
+      "translation": "Оригинальная дорожка",
+      "update": "2020-04-26 09:52:22",
+      "iframe_src": ""
+    },
+    {
+      "id": 39842,
+      "title": "Два билета в рай",
+      "kp_id": "110010",
+      "imdb_id": "tt0463963",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-04-26 08:07:31",
+      "orig_title": "Two Tickets to Paradise",
+      "year": "2006-04-06",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "hdtv",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2020-04-26 09:48:22",
+      "iframe_src": ""
+    },
+    {
+      "id": 39839,
+      "title": "Все о любви",
+      "kp_id": "1057551",
+      "imdb_id": "tt7324726",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-04-26 07:39:17",
+      "orig_title": "All About Love",
+      "year": "2017-04-21",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-04-20 16:42:24",
+      "update": "2020-04-26 09:27:15",
       "iframe_src": ""
     },
     {
-      "id": 39595,
-      "title": "Карате",
-      "kp_id": "1263098",
-      "imdb_id": null,
+      "id": 39838,
+      "title": "Молодые мамочки",
+      "kp_id": "1193378",
+      "imdb_id": "tt8686460",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-04-20 10:00:00",
-      "orig_title": "Gongsudo",
-      "year": "2020-04-09",
+      "add": "2020-04-26 07:32:14",
+      "orig_title": "Baby Mamas",
+      "year": "2018-10-12",
       "translations": [
-        "Любительский (двухголосый закадровый) (Колобок)"
+        "Любительский (многоголосый закадровый) (AlphaProject)"
       ],
       "quality": "webdl",
-      "translation": "Любительский (двухголосый закадровый) (Колобок)",
-      "update": "2020-04-20 16:43:09",
+      "translation": "Любительский (многоголосый закадровый) (AlphaProject)",
+      "update": "2020-04-26 09:28:15",
       "iframe_src": ""
     },
     {
-      "id": 39576,
-      "title": "Родные",
-      "kp_id": "1007068",
-      "imdb_id": null,
+      "id": 39837,
+      "title": "Если ты уйдешь",
+      "kp_id": "1083841",
+      "imdb_id": "tt7292306",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-04-19 18:02:58",
-      "orig_title": "Родные",
-      "year": "2017-10-12",
+      "add": "2020-04-26 07:12:14",
+      "orig_title": "If You're Gone",
+      "year": "2019-03-05",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-04-26 08:47:59",
+      "iframe_src": ""
+    },
+    {
+      "id": 39836,
+      "title": "Блудный сын нашего времени",
+      "kp_id": "1017258",
+      "imdb_id": "tt6208096",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-04-26 07:08:36",
+      "orig_title": "Modern Prodigal",
+      "year": "2019-09-12",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-04-26 08:12:46",
+      "iframe_src": ""
+    },
+    {
+      "id": 39835,
+      "title": "Посмертное золото",
+      "kp_id": "1195014",
+      "imdb_id": "tt8976418",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-04-26 07:05:56",
+      "orig_title": "Sethum Aayiram Pon",
+      "year": "2020-04-01",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-04-26 08:49:05",
+      "iframe_src": ""
+    },
+    {
+      "id": 39833,
+      "title": "Фантоцци уходит на пенсию",
+      "kp_id": "103359",
+      "imdb_id": "tt0095134",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-04-26 05:35:43",
+      "orig_title": "Fantozzi va in pensione",
+      "year": "1988-12-22",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-04-26 07:06:50",
+      "iframe_src": ""
+    },
+    {
+      "id": 39832,
+      "title": "После",
+      "kp_id": "818780",
+      "imdb_id": "tt3145422",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-04-26 05:32:46",
+      "orig_title": "The After",
+      "year": "2014-02-06",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (NewStudio)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый) (NewStudio)",
+      "update": "2020-04-26 07:06:52",
+      "iframe_src": ""
+    },
+    {
+      "id": 39831,
+      "title": "Объект Дельта",
+      "kp_id": "1235973",
+      "imdb_id": "tt9675796",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-04-26 05:05:11",
+      "orig_title": "Subject Delta",
+      "year": "2019-01-20",
       "translations": [
         "Оригинальная дорожка"
       ],
-      "quality": "hdrip",
+      "quality": "webdl",
       "translation": "Оригинальная дорожка",
-      "update": "2020-04-20 17:05:13",
+      "update": "2020-04-26 07:06:57",
       "iframe_src": ""
     },
     {
-      "id": 39573,
-      "title": "Пробуждение Габриэллы",
-      "kp_id": "58423",
-      "imdb_id": "tt0208697",
+      "id": 39830,
+      "title": "Сквозь горизонт",
+      "kp_id": "1158429",
+      "imdb_id": "tt5373766",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-04-19 17:56:18",
-      "orig_title": "The Awakening of Gabriella",
-      "year": "1999-10-05",
+      "add": "2020-04-26 04:46:52",
+      "orig_title": "Le milieu de l'horizon",
+      "year": "2019-09-01",
       "translations": [
-        "Профессиональный (многоголосый закадровый)"
+        "Любительский (многоголосый закадровый) (Синема УС)"
       ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-04-20 17:04:43",
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-04-26 09:25:44",
       "iframe_src": ""
     },
     {
-      "id": 39454,
-      "title": "Тату",
-      "kp_id": "77262",
-      "imdb_id": "tt0286204",
+      "id": 39829,
+      "title": "Реджеп Иведик 6",
+      "kp_id": "1138336",
+      "imdb_id": "tt7399138",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-04-17 21:35:01",
-      "orig_title": "Tattoo",
-      "year": "2002-04-04",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2020-04-20 20:07:56",
-      "iframe_src": ""
-    },
-    {
-      "id": 39453,
-      "title": "Белая лента",
-      "kp_id": "400873",
-      "imdb_id": "tt1149362",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-04-17 21:32:55",
-      "orig_title": "Das weiße Band - Eine deutsche Kindergeschichte",
-      "year": "2009-05-21",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-04-20 20:08:48",
-      "iframe_src": ""
-    },
-    {
-      "id": 39452,
-      "title": "Дневники зомби",
-      "kp_id": "272767",
-      "imdb_id": "tt0876294",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-04-17 21:30:22",
-      "orig_title": "The Zombie Diaries",
-      "year": "2006-10-29",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-04-20 20:09:48",
-      "iframe_src": ""
-    },
-    {
-      "id": 39448,
-      "title": "Стив Джобс. Потерянное интервью",
-      "kp_id": "680925",
-      "imdb_id": "tt2104994",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-04-17 21:19:54",
-      "orig_title": "Steve Jobs: The Lost Interview",
-      "year": "2012-05-11",
-      "translations": [
-        "Профессиональный (одноголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (одноголосый закадровый)",
-      "update": "2020-04-20 20:13:19",
-      "iframe_src": ""
-    },
-    {
-      "id": 39447,
-      "title": "Эпидемия",
-      "kp_id": "22558",
-      "imdb_id": "tt0092972",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-04-17 21:17:39",
-      "orig_title": "Epidemic",
-      "year": "1987-09-11",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-04-20 20:14:04",
-      "iframe_src": ""
-    },
-    {
-      "id": 39230,
-      "title": "Горе и радость",
-      "kp_id": "784555",
-      "imdb_id": "tt3089978",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-04-13 09:03:40",
-      "orig_title": "Sorg og glæde",
-      "year": "2013-11-07",
-      "translations": [
-        "Любительский (одноголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2020-04-20 12:16:55",
-      "iframe_src": ""
-    },
-    {
-      "id": 39225,
-      "title": "Бела Кисс: Пролог",
-      "kp_id": "582627",
-      "imdb_id": "tt1830495",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-04-13 08:51:44",
-      "orig_title": "Bela Kiss: Prologue",
-      "year": "2013-01-10",
-      "translations": [
-        "Любительский (двухголосый закадровый)"
-      ],
-      "quality": "hdrip",
-      "translation": "Любительский (двухголосый закадровый)",
-      "update": "2020-04-20 12:18:03",
-      "iframe_src": ""
-    },
-    {
-      "id": 39037,
-      "title": "Аким",
-      "kp_id": "1320413",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-04-09 03:43:23",
-      "orig_title": "Аким",
+      "add": "2020-04-26 04:46:05",
+      "orig_title": "Recep Ivedik 6",
       "year": "2019-11-07",
       "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2020-04-20 16:41:13",
-      "iframe_src": ""
-    },
-    {
-      "id": 38762,
-      "title": "Космос",
-      "kp_id": "1174544",
-      "imdb_id": "tt8710832",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-04-01 07:44:34",
-      "orig_title": "Space",
-      "year": "2020-03-31",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Original (English)"
+        "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-04-20 09:02:05",
+      "update": "2020-04-26 07:15:18",
       "iframe_src": ""
     },
     {
-      "id": 38691,
-      "title": "Граница",
-      "kp_id": "1319519",
-      "imdb_id": "tt11050682",
+      "id": 39828,
+      "title": "Рустум",
+      "kp_id": "1194477",
+      "imdb_id": "tt8919390",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-03-30 10:47:28",
-      "orig_title": "Frontier",
-      "year": "2020-02-15",
+      "add": "2020-04-26 04:45:17",
+      "orig_title": "Rustum",
+      "year": "2019-06-28",
       "translations": [
-        "Любительский (двухголосый закадровый)",
-        "Original (English)"
+        "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
-      "translation": "Любительский (двухголосый закадровый)",
-      "update": "2020-04-20 08:56:37",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-04-26 07:26:28",
       "iframe_src": ""
     },
     {
-      "id": 38070,
-      "title": "Один вдох",
-      "kp_id": "1112295",
-      "imdb_id": "tt8291918",
+      "id": 39827,
+      "title": "Глядя в будущее",
+      "kp_id": "1165148",
+      "imdb_id": "tt8488542",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-03-16 10:25:50",
-      "orig_title": "Один вдох",
-      "year": "2020-03-05",
+      "add": "2020-04-26 04:44:38",
+      "orig_title": "Und der Zukunft zugewandt",
+      "year": "2018-11-28",
       "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2020-04-20 16:43:58",
-      "iframe_src": ""
-    },
-    {
-      "id": 32633,
-      "title": "Следи за дорогой",
-      "kp_id": "1217771",
-      "imdb_id": "tt8970448",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-11-03 08:35:10",
-      "orig_title": "Adopt a Highway",
-      "year": "2019-03-10",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)",
-        "Любительский (многоголосый закадровый) (AlphaProject)",
-        "Любительский (многоголосый закадровый) (Voice Project Studio)",
-        "Original (English)",
-        "Профессиональный (многоголосый закадровый) (iTunes)"
+        "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-04-20 20:14:48",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-04-26 07:14:04",
       "iframe_src": ""
     },
     {
-      "id": 31113,
-      "title": "Свадебный год",
-      "kp_id": "1146280",
-      "imdb_id": "tt8367184",
+      "id": 39812,
+      "title": "К звездам",
+      "kp_id": "1124734",
+      "imdb_id": "tt6886080",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-09-22 19:31:55",
-      "orig_title": "The Wedding Year",
-      "year": "2019-09-20",
+      "add": "2020-04-25 03:42:42",
+      "orig_title": "To the Stars",
+      "year": "2019-01-25",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Original (English)",
+        "Любительский (многоголосый закадровый) (@MUZOBOZ@)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
+      "update": "2020-04-25 16:23:55",
+      "iframe_src": ""
+    },
+    {
+      "id": 38635,
+      "title": "Отель для самоубийц",
+      "kp_id": "1204245",
+      "imdb_id": "tt8765580",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-03-28 12:30:31",
+      "orig_title": "Selvmordsturisten",
+      "year": "2019-10-03",
+      "translations": [
         "Полное дублирование (iTunes)"
       ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-04-20 20:10:23",
+      "quality": "bd",
+      "translation": "Полное дублирование (iTunes)",
+      "update": "2020-04-26 11:44:29",
       "iframe_src": ""
     },
     {
-      "id": 19719,
-      "title": "Суперинтендант",
-      "kp_id": "992893",
-      "imdb_id": "tt5884784",
+      "id": 34795,
+      "title": "Открытая могила",
+      "kp_id": "630854",
+      "imdb_id": "tt2071550",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-10-22 23:50:24",
-      "orig_title": "The Super",
-      "year": "2017-10-14",
+      "add": "2020-01-06 15:47:49",
+      "orig_title": "Open Grave",
+      "year": "2014-01-03",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-        "Любительский (двухголосый закадровый) (HiWayGrope)",
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
-        "Original (English)",
-        "Профессиональный (многоголосый закадровый) (iTunes)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-04-20 16:41:26",
-      "iframe_src": ""
-    },
-    {
-      "id": 3764,
-      "title": "Девушка с жемчужной серёжкой",
-      "kp_id": "8076",
-      "imdb_id": "tt0335119",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-07-07 13:16:28",
-      "orig_title": "Girl with a Pearl Earring",
-      "year": "2003-08-31",
-      "translations": [
-        "Авторский (одноголосый закадровый) (Сербин)",
-        "Профессиональный (многоголосый закадровый)"
+        "Любительский (двухголосый закадровый) (DeadSno & den904)",
+        "Авторский (одноголосый закадровый) (Белов Вадим)"
       ],
       "quality": "bd",
-      "translation": "Авторский (одноголосый закадровый) (Сербин)",
-      "update": "2020-04-20 20:12:45",
+      "translation": "Любительский (двухголосый закадровый) (DeadSno & den904)",
+      "update": "2020-04-26 13:11:26",
       "iframe_src": ""
     },
     {
-      "id": 2149,
-      "title": "Босиком по мостовой",
-      "kp_id": "81584",
-      "imdb_id": "tt0405743",
+      "id": 24951,
+      "title": "Возвращение домой: фильм Бейонсе",
+      "kp_id": "1254103",
+      "imdb_id": "tt10147546",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-05-12 18:40:02",
-      "orig_title": "Barfuss",
-      "year": "2005-03-31",
+      "add": "2019-04-21 00:23:46",
+      "orig_title": "Homecoming: A Film by Beyoncé",
+      "year": "2019-04-17",
       "translations": [
-        "Полное дублирование"
+        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
       ],
-      "quality": "hdtv",
-      "translation": "Полное дублирование",
-      "update": "2020-04-20 20:11:19",
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-04-26 08:45:47",
+      "iframe_src": ""
+    },
+    {
+      "id": 22887,
+      "title": "Прогулка. Наездница. Родео",
+      "kp_id": "1180591",
+      "imdb_id": "tt5848416",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-03-10 17:14:37",
+      "orig_title": "Walk. Ride. Rodeo.",
+      "year": "2019-03-08",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
+      "update": "2020-04-25 16:25:52",
+      "iframe_src": ""
+    },
+    {
+      "id": 13878,
+      "title": "Где деньги",
+      "kp_id": "977810",
+      "imdb_id": "tt5716848",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-10-17 21:26:45",
+      "orig_title": "Where's the Money",
+      "year": "2017-10-20",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
+      "update": "2020-04-25 16:38:14",
       "iframe_src": ""
     }
   ]

@@ -1,364 +1,363 @@
 {
   "data": [
     {
-      "id": 25056,
-      "title": "Трэйси",
-      "kp_id": "1129405",
-      "imdb_id": "tt7762748",
+      "id": 25230,
+      "title": "Космические Стражи 2",
+      "kp_id": "1164063",
+      "imdb_id": "tt8560130",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-04-21 19:37:24",
-      "orig_title": "Tracey",
-      "year": "2018-10-28",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-04-22 05:36:03",
-      "iframe_src": ""
-    },
-    {
-      "id": 25055,
-      "title": "Сино не может сказать своё имя",
-      "kp_id": "1115729",
-      "imdb_id": "tt8185584",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-04-21 19:35:15",
-      "orig_title": "Shino-chan wa jibun no namae ga Ienai",
-      "year": "2018-07-14",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-04-22 05:34:36",
-      "iframe_src": ""
-    },
-    {
-      "id": 25045,
-      "title": "Мир принадлежит им",
-      "kp_id": "1098806",
-      "imdb_id": "tt6831724",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-04-21 19:16:30",
-      "orig_title": "El mundo es suyo",
-      "year": "2018-04-18",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-04-22 05:33:03",
-      "iframe_src": ""
-    },
-    {
-      "id": 25044,
-      "title": "Дагенхам",
-      "kp_id": "963588",
-      "imdb_id": "tt5478700",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-04-21 19:14:57",
-      "orig_title": "Dagenham",
-      "year": "2018-10-13",
+      "add": "2019-04-24 07:48:05",
+      "orig_title": "Space Guardians 2",
+      "year": "2018-12-11",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-04-22 05:57:43",
+      "update": "2019-04-24 09:20:39",
       "iframe_src": ""
     },
     {
-      "id": 25015,
-      "title": "Лимузин цвета белой ночи",
-      "kp_id": "273497",
-      "imdb_id": "tt0469785",
+      "id": 25228,
+      "title": "Родная душа",
+      "kp_id": "1002553",
+      "imdb_id": "tt6054290",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-04-21 10:44:06",
-      "orig_title": "Limuzins Janu nakts krasa",
-      "year": "1981-04-13",
+      "add": "2019-04-24 07:41:08",
+      "orig_title": "Qi yue yu an sheng",
+      "year": "2016-09-14",
       "translations": [
-        "Полное дублирование"
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-04-24 09:19:52",
+      "iframe_src": ""
+    },
+    {
+      "id": 25226,
+      "title": "Дурдом Мекка",
+      "kp_id": "944503",
+      "imdb_id": "tt4693788",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-04-24 07:29:37",
+      "orig_title": "Madhouse Mecca",
+      "year": "2018-04-05",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-04-24 08:59:22",
+      "iframe_src": ""
+    },
+    {
+      "id": 25225,
+      "title": "Расстояния",
+      "kp_id": null,
+      "imdb_id": "tt6256452",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-04-24 07:26:23",
+      "orig_title": "Les distàncies",
+      "year": "2018-09-07",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-04-24 09:18:12",
+      "iframe_src": ""
+    },
+    {
+      "id": 25224,
+      "title": "Окружной суд",
+      "kp_id": "977884",
+      "imdb_id": "tt5595160",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-04-24 07:21:50",
+      "orig_title": "Landgericht",
+      "year": "2017-01-30",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-04-24 09:06:31",
+      "iframe_src": ""
+    },
+    {
+      "id": 25221,
+      "title": "Девушка из ниоткуда",
+      "kp_id": "894443",
+      "imdb_id": "tt4554186",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-04-24 07:12:15",
+      "orig_title": "Girl from Nowhere",
+      "year": "2017-01-25",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-04-24 08:55:04",
+      "iframe_src": ""
+    },
+    {
+      "id": 25170,
+      "title": "Щит Отечества",
+      "kp_id": "471132",
+      "imdb_id": "tt5258630",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-04-23 07:58:07",
+      "orig_title": "Shchit otechestva",
+      "year": "2007-12-17",
+      "translations": [
+        "Оригинальная дорожка"
       ],
       "quality": "dvdrip",
-      "translation": "Полное дублирование",
-      "update": "2019-04-22 06:04:33",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-04-24 06:49:29",
       "iframe_src": ""
     },
     {
-      "id": 24955,
-      "title": "Учитель музыки",
-      "kp_id": "837217",
-      "imdb_id": "tt3257794",
+      "id": 25169,
+      "title": "Трое с площади Карронад",
+      "kp_id": "441248",
+      "imdb_id": "tt2117658",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-04-21 00:33:16",
-      "orig_title": "Music Teacher",
-      "year": "2019-04-19",
+      "add": "2019-04-23 07:42:17",
+      "orig_title": "Troe s ploshchadi Karronad",
+      "year": "2008-01-01",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-04-21 08:01:46",
-      "iframe_src": ""
-    },
-    {
-      "id": 24947,
-      "title": "Аравия",
-      "kp_id": "1049620",
-      "imdb_id": "tt6400280",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-04-21 00:14:39",
-      "orig_title": "Arábia",
-      "year": "2017-02-01",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
+        "Оригинальная дорожка"
       ],
       "quality": "dvdrip",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-04-21 08:09:32",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-04-24 06:48:28",
       "iframe_src": ""
     },
     {
-      "id": 24911,
-      "title": "Ты - лучший!",
-      "kp_id": "983054",
-      "imdb_id": "tt5731710",
+      "id": 25168,
+      "title": "Уравнение со всеми известными",
+      "kp_id": "417757",
+      "imdb_id": "tt3340994",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-04-19 23:18:13",
-      "orig_title": "The Best Thing!",
-      "year": "2017-10-06",
+      "add": "2019-04-23 07:26:03",
+      "orig_title": "Uravnenie so vsemi izvestnymi",
+      "year": "2008-01-01",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
+        "Оригинальная дорожка"
       ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-04-21 07:54:23",
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-04-24 06:47:37",
       "iframe_src": ""
     },
     {
-      "id": 24910,
-      "title": "Банда любовниц",
-      "kp_id": "1136042",
-      "imdb_id": "tt7859254",
+      "id": 25167,
+      "title": "Вы не оставите меня",
+      "kp_id": "271514",
+      "imdb_id": "tt1503000",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-04-19 23:11:28",
-      "orig_title": "Sidechic Gang",
-      "year": "2018-03-13",
+      "add": "2019-04-23 07:22:35",
+      "orig_title": "Vy ne ostavite menya",
+      "year": "2006-11-30",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
+        "Оригинальная дорожка"
       ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-04-21 07:57:42",
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-04-24 06:47:00",
       "iframe_src": ""
     },
     {
-      "id": 24906,
-      "title": "Остров",
-      "kp_id": "12349",
-      "imdb_id": "tt0080934",
+      "id": 25166,
+      "title": "Это начиналось так...",
+      "kp_id": "42020",
+      "imdb_id": "tt0049191",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-04-19 22:55:59",
-      "orig_title": "The Island",
-      "year": "1980-06-13",
+      "add": "2019-04-23 07:19:02",
+      "orig_title": "Eto nachinalos tak...",
+      "year": "1956-12-25",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "sat",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-04-24 06:45:56",
+      "iframe_src": ""
+    },
+    {
+      "id": 25165,
+      "title": "Женские слезы",
+      "kp_id": "460494",
+      "imdb_id": "tt3069614",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-04-23 07:07:16",
+      "orig_title": "Zhenskie slyozy",
+      "year": "2006-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-04-24 06:45:00",
+      "iframe_src": ""
+    },
+    {
+      "id": 25164,
+      "title": "Атлант расправил плечи: Часть 2",
+      "kp_id": "599733",
+      "imdb_id": "tt1985017",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-04-23 06:59:37",
+      "orig_title": "Atlas Shrugged II: The Strike",
+      "year": "2012-10-12",
+      "translations": [
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2019-04-24 07:55:03",
+      "iframe_src": ""
+    },
+    {
+      "id": 25158,
+      "title": "7 дней. 7 ночей",
+      "kp_id": "84254",
+      "imdb_id": "tt0054091",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-04-23 06:35:03",
+      "orig_title": "Moderato cantabile",
+      "year": "1960-05-25",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
-      "quality": "bd",
+      "quality": "dvdrip",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-04-22 06:28:26",
+      "update": "2019-04-24 07:56:37",
       "iframe_src": ""
     },
     {
-      "id": 24905,
-      "title": "Мой Мундиаль",
-      "kp_id": "1038726",
-      "imdb_id": "tt6508918",
+      "id": 25156,
+      "title": "Звездные каникулы",
+      "kp_id": "435359",
+      "imdb_id": null,
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-04-19 22:33:43",
-      "orig_title": "Mi Mundial",
-      "year": "2017-06-22",
+      "add": "2019-04-22 22:00:12",
+      "orig_title": "Звездные каникулы",
+      "year": "2006-12-31",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-04-21 07:52:49",
-      "iframe_src": ""
-    },
-    {
-      "id": 24904,
-      "title": "В поисках Умм Кульсум",
-      "kp_id": "1014202",
-      "imdb_id": "tt6281148",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-04-19 22:32:13",
-      "orig_title": "Looking for Oum Kulthum",
-      "year": "2017-09-02",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-04-21 07:56:32",
-      "iframe_src": ""
-    },
-    {
-      "id": 24903,
-      "title": "Мастер своего дела",
-      "kp_id": null,
-      "imdb_id": "tt6360394",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-04-19 22:30:19",
-      "orig_title": "Jack of all Trades",
-      "year": "2018-03-03",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-04-21 08:08:04",
-      "iframe_src": ""
-    },
-    {
-      "id": 24902,
-      "title": "Я больше никогда не вернусь",
-      "kp_id": "1005216",
-      "imdb_id": "tt5939018",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-04-19 22:28:46",
-      "orig_title": "I Shall Never Return",
-      "year": "2017-03-10",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Колобок)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Колобок)",
-      "update": "2019-04-21 07:59:07",
-      "iframe_src": ""
-    },
-    {
-      "id": 24901,
-      "title": "Путешествие семьи Вёлер на Майорку",
-      "kp_id": "1133795",
-      "imdb_id": "tt7948826",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-04-19 22:22:43",
-      "orig_title": "Mallorca: Reise ins Leben",
-      "year": "2019-02-23",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "hdtv",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-04-21 07:51:27",
-      "iframe_src": ""
-    },
-    {
-      "id": 24900,
-      "title": "Любить нельзя расстаться",
-      "kp_id": "1148696",
-      "imdb_id": "tt8405810",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-04-19 22:19:44",
-      "orig_title": "El amor menos pensado",
-      "year": "2018-08-02",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (iTunes)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый) (iTunes)",
-      "update": "2019-04-21 08:08:52",
-      "iframe_src": ""
-    },
-    {
-      "id": 24899,
-      "title": "И снова Клэнси",
-      "kp_id": "988539",
-      "imdb_id": "tt5833658",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-04-19 22:14:11",
-      "orig_title": "Clancy Once Again",
-      "year": "2017-11-27",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-04-21 07:55:11",
-      "iframe_src": ""
-    },
-    {
-      "id": 24895,
-      "title": "История панк-рока: Fat Wreck Chords",
-      "kp_id": "1008795",
-      "imdb_id": "tt5280980",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-04-19 22:07:17",
-      "orig_title": "A Fat Wreck",
-      "year": "2016-04-15",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-04-21 08:10:30",
-      "iframe_src": ""
-    },
-    {
-      "id": 23352,
-      "title": "Изобретальница: Жажда крови в Силиконовой Долине",
-      "kp_id": "1160654",
-      "imdb_id": "tt8488126",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-03-21 22:26:18",
-      "orig_title": "The Inventor: Out for Blood in Silicon Valley",
-      "year": "2019-01-24",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (Jaskier)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый) (Jaskier)",
-      "update": "2019-04-21 08:00:53",
-      "iframe_src": ""
-    },
-    {
-      "id": 19816,
-      "title": "Несокрушимый",
-      "kp_id": "1007496",
-      "imdb_id": "tt9415552",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-10-28 15:08:25",
-      "orig_title": "Nesokrushimyy",
-      "year": "2018-10-25",
-      "translations": [
-        "Оригинальная дорожка",
         "Оригинальная дорожка"
       ],
-      "quality": "webdl",
+      "quality": "dvdrip",
       "translation": "Оригинальная дорожка",
-      "update": "2019-04-22 06:11:39",
+      "update": "2019-04-24 06:44:22",
+      "iframe_src": ""
+    },
+    {
+      "id": 25155,
+      "title": "Аттестат зрелости",
+      "kp_id": "43552",
+      "imdb_id": "tt0046730",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-04-22 21:52:32",
+      "orig_title": "Attestat zrelosti",
+      "year": "1954-06-21",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-04-24 06:42:42",
+      "iframe_src": ""
+    },
+    {
+      "id": 25154,
+      "title": "Билет в красный театр, или смерть гробокопателя",
+      "kp_id": "41501",
+      "imdb_id": "tt0103814",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-04-22 21:48:14",
+      "orig_title": "Bilet v krasnyy teatr, ili smert grobokopatelya",
+      "year": "1992-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "vhs",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-04-24 06:41:31",
+      "iframe_src": ""
+    },
+    {
+      "id": 25153,
+      "title": "Зоккомон",
+      "kp_id": "500326",
+      "imdb_id": "tt1605790",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-04-22 21:46:52",
+      "orig_title": "Zokkomon",
+      "year": "2011-04-17",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (СТС)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый) (СТС)",
+      "update": "2019-04-24 06:40:28",
+      "iframe_src": ""
+    },
+    {
+      "id": 25152,
+      "title": "Благочестивая Марта",
+      "kp_id": "77249",
+      "imdb_id": "tt0193017",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-04-22 21:44:34",
+      "orig_title": "Blagochestivaya Marta",
+      "year": "1980-10-06",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-04-24 06:39:26",
+      "iframe_src": ""
+    },
+    {
+      "id": 25151,
+      "title": "Загнанных лошадей пристреливают, не правда ли?",
+      "kp_id": "15559",
+      "imdb_id": "tt0065088",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-04-22 21:41:35",
+      "orig_title": "They Shoot Horses, Don't They?",
+      "year": "1969-12-10",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2019-04-24 06:27:17",
       "iframe_src": ""
     }
   ]

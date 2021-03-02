@@ -1,365 +1,364 @@
 {
   "data": [
     {
-      "id": 32007,
-      "title": "Город глазами кота",
-      "kp_id": "1224733",
-      "imdb_id": "tt8214666",
+      "id": 32281,
+      "title": "Сектор 17",
+      "kp_id": "841834",
+      "imdb_id": "tt3709718",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-10-17 21:13:31",
-      "orig_title": "Wild Amsterdam",
-      "year": "2018-01-01",
+      "add": "2019-10-23 20:05:12",
+      "orig_title": "Transit 17",
+      "year": "2019-10-01",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-10-23 21:26:31",
+      "iframe_src": ""
+    },
+    {
+      "id": 32277,
+      "title": "Светлое Рождество",
+      "kp_id": "9049",
+      "imdb_id": "tt0047673",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-23 12:42:40",
+      "orig_title": "White Christmas",
+      "year": "1954-10-14",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2019-10-23 19:39:06",
+      "iframe_src": ""
+    },
+    {
+      "id": 32153,
+      "title": "В 3:10 на Юму",
+      "kp_id": "29951",
+      "imdb_id": "tt0050086",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-20 15:47:02",
+      "orig_title": "3:10 to Yuma",
+      "year": "1957-08-07",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2019-10-24 07:58:39",
+      "iframe_src": ""
+    },
+    {
+      "id": 32152,
+      "title": "Входите без стука",
+      "kp_id": "54549",
+      "imdb_id": "tt0377800",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-20 15:44:36",
+      "orig_title": "Don't Come Knocking",
+      "year": "2005-05-19",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "dvdrip",
+      "translation": "Полное дублирование",
+      "update": "2019-10-24 07:57:59",
+      "iframe_src": ""
+    },
+    {
+      "id": 32151,
+      "title": "Смертельное падение",
+      "kp_id": "21076",
+      "imdb_id": "tt0062868",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-20 15:43:02",
+      "orig_title": "Deadfall",
+      "year": "1968-09-11",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (Первый канал | ОРТ)"
+      ],
+      "quality": "hdtv",
+      "translation": "Профессиональный (многоголосый закадровый) (Первый канал | ОРТ)",
+      "update": "2019-10-24 07:56:56",
+      "iframe_src": ""
+    },
+    {
+      "id": 32150,
+      "title": "Чудо доброй ведьмы",
+      "kp_id": "804783",
+      "imdb_id": "tt3197176",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-20 15:41:40",
+      "orig_title": "The Good Witch's Wonder",
+      "year": "2014-10-25",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (FOX)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый) (FOX)",
+      "update": "2019-10-24 07:55:41",
+      "iframe_src": ""
+    },
+    {
+      "id": 32149,
+      "title": "Стрейнджлэнд",
+      "kp_id": "18222",
+      "imdb_id": "tt0124102",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-20 15:40:27",
+      "orig_title": "Strangeland",
+      "year": "1998-10-02",
+      "translations": [
+        "Профессиональный (двухголосый закадровый) (Екатеринбург Арт)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (двухголосый закадровый) (Екатеринбург Арт)",
+      "update": "2019-10-24 07:55:04",
+      "iframe_src": ""
+    },
+    {
+      "id": 32148,
+      "title": "Дистанционное управление",
+      "kp_id": "297730",
+      "imdb_id": "tt0107944",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-20 15:37:50",
+      "orig_title": "Remote",
+      "year": "1993-09-22",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Дохалов Вартан)"
+      ],
+      "quality": "webdl",
+      "translation": "Авторский (одноголосый закадровый) (Дохалов Вартан)",
+      "update": "2019-10-24 07:53:07",
+      "iframe_src": ""
+    },
+    {
+      "id": 32146,
+      "title": "Вернуть отправителю",
+      "kp_id": "77738",
+      "imdb_id": "tt0396190",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-20 15:34:11",
+      "orig_title": "Return to Sender",
+      "year": "2004-09-17",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "dvdrip",
+      "translation": "Полное дублирование",
+      "update": "2019-10-24 07:52:10",
+      "iframe_src": ""
+    },
+    {
+      "id": 32145,
+      "title": "Мерцающие огни",
+      "kp_id": "614",
+      "imdb_id": "tt0236027",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-20 15:32:25",
+      "orig_title": "Blinkende lygter",
+      "year": "2000-11-03",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2019-10-24 07:50:33",
+      "iframe_src": ""
+    },
+    {
+      "id": 32144,
+      "title": "Больной от любви",
+      "kp_id": "684002",
+      "imdb_id": "tt2404299",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-20 15:31:00",
+      "orig_title": "Lovesick",
+      "year": "2014-04-24",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-10-24 07:49:25",
+      "iframe_src": ""
+    },
+    {
+      "id": 32143,
+      "title": "Спасательный челнок",
+      "kp_id": "229231",
+      "imdb_id": "tt0107415",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-20 15:29:32",
+      "orig_title": "Lifepod",
+      "year": "1993-06-28",
       "translations": [
         "Полное дублирование"
       ],
       "quality": "webdl",
       "translation": "Полное дублирование",
-      "update": "2019-10-18 05:31:41",
+      "update": "2019-10-24 07:48:39",
       "iframe_src": ""
     },
     {
-      "id": 32006,
-      "title": "Прошлое",
-      "kp_id": "1151768",
-      "imdb_id": "tt8011712",
+      "id": 32141,
+      "title": "Человечность",
+      "kp_id": "112586",
+      "imdb_id": "tt0197569",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-10-17 21:11:55",
-      "orig_title": "The Past",
-      "year": "2018-05-11",
+      "add": "2019-10-20 15:25:33",
+      "orig_title": "L' Humanité",
+      "year": "1999-05-17",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
+        "Профессиональный (двухголосый закадровый)"
       ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-10-18 05:32:49",
+      "quality": "bd",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2019-10-24 07:47:42",
       "iframe_src": ""
     },
     {
-      "id": 32005,
-      "title": "Гидра",
-      "kp_id": null,
-      "imdb_id": "tt8503162",
+      "id": 32140,
+      "title": "Фокусники",
+      "kp_id": "261525",
+      "imdb_id": "tt0841027",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-10-17 21:10:12",
-      "orig_title": "The Hydra",
-      "year": "2019-05-07",
+      "add": "2019-10-20 15:12:02",
+      "orig_title": "Magicians",
+      "year": "2007-05-18",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-10-18 05:23:13",
-      "iframe_src": ""
-    },
-    {
-      "id": 32003,
-      "title": "Обрывки",
-      "kp_id": null,
-      "imdb_id": "tt6039606",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-17 21:06:07",
-      "orig_title": "Scraps",
-      "year": "2019-02-13",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-10-18 05:25:23",
-      "iframe_src": ""
-    },
-    {
-      "id": 32002,
-      "title": "Беги",
-      "kp_id": null,
-      "imdb_id": "tt4460430",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-17 21:04:32",
-      "orig_title": "Run",
-      "year": "2017-03-19",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-10-18 05:34:25",
-      "iframe_src": ""
-    },
-    {
-      "id": 32001,
-      "title": "Не один",
-      "kp_id": "995473",
-      "imdb_id": "tt5781440",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-17 21:02:28",
-      "orig_title": "Not Alone",
-      "year": "2019-02-21",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-10-18 05:26:39",
-      "iframe_src": ""
-    },
-    {
-      "id": 32000,
-      "title": "Базз",
-      "kp_id": "1309160",
-      "imdb_id": "tt10720210",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-17 20:58:12",
-      "orig_title": "Buzz",
-      "year": "2019-09-20",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-10-18 05:29:26",
-      "iframe_src": ""
-    },
-    {
-      "id": 31994,
-      "title": "0,0 МГц",
-      "kp_id": "1171952",
-      "imdb_id": "tt10341248",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-17 11:40:05",
-      "orig_title": "0.0MHz",
-      "year": "2019-05-29",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Колобок)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Колобок)",
-      "update": "2019-10-18 05:36:53",
-      "iframe_src": ""
-    },
-    {
-      "id": 31993,
-      "title": "Охота по-американски",
-      "kp_id": "1187560",
-      "imdb_id": "tt8918392",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-17 11:35:16",
-      "orig_title": "American Hunt",
-      "year": "2019-12-10",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-10-18 05:35:01",
-      "iframe_src": ""
-    },
-    {
-      "id": 31992,
-      "title": "Апокалипсис 2077",
-      "kp_id": "1167304",
-      "imdb_id": "tt8484370",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-17 11:25:58",
-      "orig_title": "Apocalyptic 2077",
-      "year": "2019-04-28",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-10-18 05:34:26",
-      "iframe_src": ""
-    },
-    {
-      "id": 31989,
-      "title": "Лес любви",
-      "kp_id": "1303164",
-      "imdb_id": "tt10589914",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-17 11:09:38",
-      "orig_title": "Ai-naki Mori de Sakebe",
-      "year": "2019-10-11",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-10-18 05:28:00",
-      "iframe_src": ""
-    },
-    {
-      "id": 31987,
-      "title": "Замкнутый круг",
-      "kp_id": "95451",
-      "imdb_id": "tt0116019",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-17 06:22:08",
-      "orig_title": "Full Circle",
-      "year": "1996-09-09",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
+        "Полное дублирование"
       ],
       "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-10-18 05:37:54",
+      "translation": "Полное дублирование",
+      "update": "2019-10-24 07:29:36",
       "iframe_src": ""
     },
     {
-      "id": 31986,
-      "title": "Сглазили",
-      "kp_id": "764601",
-      "imdb_id": "tt2934844",
+      "id": 32139,
+      "title": "Призрачный мир Эль Супербисто",
+      "kp_id": "254764",
+      "imdb_id": "tt0419724",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-10-17 06:14:36",
-      "orig_title": "Jinxed",
-      "year": "2013-11-29",
+      "add": "2019-10-20 15:09:24",
+      "orig_title": "The Haunted World of El Superbeasto",
+      "year": "2009-09-12",
       "translations": [
-        "Полное дублирование (SDI Media)"
-      ],
-      "quality": "webdl",
-      "translation": "Полное дублирование (SDI Media)",
-      "update": "2019-10-18 05:36:46",
-      "iframe_src": ""
-    },
-    {
-      "id": 31978,
-      "title": "Шоу \"Слежка\"",
-      "kp_id": "1016176",
-      "imdb_id": "tt5988012",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-16 20:05:31",
-      "orig_title": "Eyes and Prize",
-      "year": "2018-03-03",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-10-17 11:42:15",
-      "iframe_src": ""
-    },
-    {
-      "id": 31976,
-      "title": "Готический урожай",
-      "kp_id": "1102061",
-      "imdb_id": "tt7657364",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-16 20:01:47",
-      "orig_title": "Gothic Harvest",
-      "year": "2018-08-01",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-10-17 11:42:50",
-      "iframe_src": ""
-    },
-    {
-      "id": 31962,
-      "title": "Лампедуза зимой",
-      "kp_id": "934173",
-      "imdb_id": "tt4952502",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-16 17:25:25",
-      "orig_title": "Lampedusa im Winter",
-      "year": "2015-08-12",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-10-18 05:35:33",
-      "iframe_src": ""
-    },
-    {
-      "id": 31961,
-      "title": "Человек из Колорадо",
-      "kp_id": "11205",
-      "imdb_id": "tt0041625",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-16 10:24:37",
-      "orig_title": "The Man from Colorado",
-      "year": "1948-08-07",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-10-17 12:47:29",
-      "iframe_src": ""
-    },
-    {
-      "id": 30704,
-      "title": "Одесса",
-      "kp_id": "1176435",
-      "imdb_id": "tt10140922",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-09-09 19:54:12",
-      "orig_title": "Odessa",
-      "year": "2019-09-06",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-10-18 05:35:47",
-      "iframe_src": ""
-    },
-    {
-      "id": 30392,
-      "title": "Крыша мира",
-      "kp_id": "3902",
-      "imdb_id": "tt0120353",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-08-30 07:21:17",
-      "orig_title": "Top of the World",
-      "year": "1997-09-10",
-      "translations": [
-        "Профессиональный (двухголосый закадровый) (НТВ)",
-        "Original (English)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (двухголосый закадровый) (НТВ)",
-      "update": "2019-10-17 09:44:21",
-      "iframe_src": ""
-    },
-    {
-      "id": 6089,
-      "title": "Мертвый омут",
-      "kp_id": "17640",
-      "imdb_id": "tt0097162",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-11 05:55:11",
-      "orig_title": "Dead Calm",
-      "year": "1989-04-07",
-      "translations": [
-        "Полное дублирование",
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-10-24 07:28:38",
+      "iframe_src": ""
+    },
+    {
+      "id": 32136,
+      "title": "Почему я похитила своего босса",
+      "kp_id": "878387",
+      "imdb_id": "tt4260948",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-20 15:05:22",
+      "orig_title": "Warum ich meinen Boss entführte",
+      "year": "2014-10-14",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (FOX)"
+      ],
+      "quality": "hdtv",
+      "translation": "Профессиональный (многоголосый закадровый) (FOX)",
+      "update": "2019-10-24 07:25:13",
+      "iframe_src": ""
+    },
+    {
+      "id": 32131,
+      "title": "Бионикл 3: В паутине теней",
+      "kp_id": "161176",
+      "imdb_id": "tt0471588",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-20 14:48:06",
+      "orig_title": "Bionicle 3: Web of Shadows",
+      "year": "2005-10-11",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "dvdrip",
       "translation": "Полное дублирование",
-      "update": "2019-10-18 05:39:47",
+      "update": "2019-10-23 13:46:11",
+      "iframe_src": ""
+    },
+    {
+      "id": 32130,
+      "title": "Бионикл 2: Легенда Метру Нуи",
+      "kp_id": "64062",
+      "imdb_id": "tt0387658",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-20 14:46:53",
+      "orig_title": "Bionicle 2: Legends of Metru Nui",
+      "year": "2004-10-06",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "dvdrip",
+      "translation": "Полное дублирование",
+      "update": "2019-10-23 13:44:57",
+      "iframe_src": ""
+    },
+    {
+      "id": 32128,
+      "title": "Наступит завтра или нет?",
+      "kp_id": "50510",
+      "imdb_id": "tt0347304",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-20 13:41:49",
+      "orig_title": "Kal Ho Naa Ho",
+      "year": "2003-11-27",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (Формат AB)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый) (Формат AB)",
+      "update": "2019-10-23 13:44:14",
+      "iframe_src": ""
+    },
+    {
+      "id": 30314,
+      "title": "Из Китая с любовью",
+      "kp_id": "53096",
+      "imdb_id": "tt0109962",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-08-27 17:23:32",
+      "orig_title": "Gwok chaan Ling Ling Chat",
+      "year": "1994-09-14",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Живов Юрий)",
+        "Авторский (одноголосый закадровый) (Горчаков Василий)"
+      ],
+      "quality": "bd",
+      "translation": "Авторский (одноголосый закадровый) (Живов Юрий)",
+      "update": "2019-10-24 07:31:04",
       "iframe_src": ""
     }
   ]

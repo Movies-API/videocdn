@@ -1,365 +1,363 @@
 {
   "data": [
     {
-      "id": 30895,
-      "title": "Останься со мной",
-      "kp_id": "1219796",
-      "imdb_id": "tt8637534",
+      "id": 31111,
+      "title": "Портреты",
+      "kp_id": "1063993",
+      "imdb_id": "tt6786948",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-09-15 20:45:12",
-      "orig_title": "Yanimda Kal",
-      "year": "2018-12-21",
+      "add": "2019-09-22 19:28:46",
+      "orig_title": "Portraits",
+      "year": "2018-05-07",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-09-16 05:41:51",
+      "update": "2019-09-23 09:57:53",
       "iframe_src": ""
     },
     {
-      "id": 30893,
-      "title": "Уик-энд",
-      "kp_id": "1125864",
-      "imdb_id": "tt8111130",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-09-15 20:42:21",
-      "orig_title": "The Weekend",
-      "year": "2018-09-11",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-09-16 05:33:28",
-      "iframe_src": ""
-    },
-    {
-      "id": 30891,
-      "title": "Едва выкарабкался",
-      "kp_id": "1195788",
-      "imdb_id": "tt9042456",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-09-15 20:39:19",
-      "orig_title": "The Skin of the Teeth",
-      "year": "2018-10-23",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-09-16 05:42:40",
-      "iframe_src": ""
-    },
-    {
-      "id": 30890,
-      "title": "Чёрная нить",
-      "kp_id": "1020660",
-      "imdb_id": "tt6141334",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-09-15 20:36:56",
-      "orig_title": "The Black String",
-      "year": "2018-10-25",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-09-16 05:43:55",
-      "iframe_src": ""
-    },
-    {
-      "id": 30887,
-      "title": "Мятежницы",
-      "kp_id": "1000788",
-      "imdb_id": "tt6049106",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-09-15 20:31:56",
-      "orig_title": "Riot Girls",
-      "year": "2019-07-06",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (AlphaProject)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый) (AlphaProject)",
-      "update": "2019-09-16 05:45:00",
-      "iframe_src": ""
-    },
-    {
-      "id": 30884,
-      "title": "Рассказы Леди Белладонны прямиком из ада",
-      "kp_id": "1181934",
-      "imdb_id": "tt8855888",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-09-15 20:23:44",
-      "orig_title": "Lady Belladonna's Tales From The Inferno",
-      "year": "2018-10-05",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-09-16 05:34:27",
-      "iframe_src": ""
-    },
-    {
-      "id": 30883,
-      "title": "Пурам Джорджеттана",
-      "kp_id": "1020788",
-      "imdb_id": "tt6188518",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-09-15 20:19:59",
-      "orig_title": "Georgettan's Pooram",
-      "year": "2017-04-01",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-09-16 05:47:45",
-      "iframe_src": ""
-    },
-    {
-      "id": 30880,
-      "title": "Анатомия",
-      "kp_id": "589",
-      "imdb_id": "tt0187696",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-09-15 19:37:13",
-      "orig_title": "Anatomie",
-      "year": "2000-02-03",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (Первый канал | ОРТ)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый) (Первый канал | ОРТ)",
-      "update": "2019-09-16 05:50:36",
-      "iframe_src": ""
-    },
-    {
-      "id": 30879,
-      "title": "Гангстер",
-      "kp_id": "725130",
-      "imdb_id": "tt2587198",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-09-15 19:33:27",
-      "orig_title": "Antapal",
-      "year": "2012-06-14",
-      "translations": [
-        "Любительский (одноголосый закадровый)"
-      ],
-      "quality": "hdrip",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2019-09-16 05:52:33",
-      "iframe_src": ""
-    },
-    {
-      "id": 30878,
-      "title": "Анатомия порока",
-      "kp_id": "9561",
-      "imdb_id": "tt0253040",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-09-15 19:22:21",
-      "orig_title": "Diary of a Sex Addict",
-      "year": "2001-11-13",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (СТС)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый) (СТС)",
-      "update": "2019-09-16 05:59:12",
-      "iframe_src": ""
-    },
-    {
-      "id": 30877,
-      "title": "Дядюшки-гангстеры",
-      "kp_id": "54360",
-      "imdb_id": "tt0057591",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-09-15 18:59:00",
-      "orig_title": "Les tontons flingueurs",
-      "year": "1963-10-04",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (DVD Магия)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый) (DVD Магия)",
-      "update": "2019-09-16 06:00:22",
-      "iframe_src": ""
-    },
-    {
-      "id": 30876,
-      "title": "Неродной",
-      "kp_id": "738128",
+      "id": 31109,
+      "title": "Патент",
+      "kp_id": "1045384",
       "imdb_id": null,
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-09-15 18:49:32",
-      "orig_title": "Неродной",
-      "year": "2013-01-01",
+      "add": "2019-09-22 19:22:55",
+      "orig_title": "Патент",
+      "year": "2017-01-01",
       "translations": [
         "Оригинальная дорожка"
       ],
       "quality": "hdtv",
       "translation": "Оригинальная дорожка",
-      "update": "2019-09-16 06:06:46",
+      "update": "2019-09-23 09:58:55",
       "iframe_src": ""
     },
     {
-      "id": 30875,
-      "title": "Оливер Твист",
-      "kp_id": "8205",
-      "imdb_id": "tt0040662",
+      "id": 31067,
+      "title": "Услуга",
+      "kp_id": "596445",
+      "imdb_id": "tt1971397",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-09-15 18:44:01",
-      "orig_title": "Oliver Twist",
-      "year": "1948-06-28",
+      "add": "2019-09-22 14:52:15",
+      "orig_title": "Favor",
+      "year": "2013-04-05",
+      "translations": [
+        "Любительский (одноголосый закадровый) (datynet)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (одноголосый закадровый) (datynet)",
+      "update": "2019-09-23 09:53:45",
+      "iframe_src": ""
+    },
+    {
+      "id": 31066,
+      "title": "Уик-Энд в Августе",
+      "kp_id": "1179931",
+      "imdb_id": "tt8806710",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-09-22 14:38:57",
+      "orig_title": "Ein Wochenende im August",
+      "year": "2019-08-03",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "hdtv",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-09-23 09:38:09",
+      "iframe_src": ""
+    },
+    {
+      "id": 31065,
+      "title": "Призрачный патруль",
+      "kp_id": "826382",
+      "imdb_id": "tt3503068",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-09-22 14:36:36",
+      "orig_title": "Deadtectives",
+      "year": "2018-10-01",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-09-23 09:39:06",
+      "iframe_src": ""
+    },
+    {
+      "id": 31063,
+      "title": "Голубой янтарь",
+      "kp_id": "1163498",
+      "imdb_id": "tt8384298",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-09-22 14:28:42",
+      "orig_title": "Dan lan hu po",
+      "year": "2018-06-28",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Колобок)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Колобок)",
+      "update": "2019-09-23 09:49:33",
+      "iframe_src": ""
+    },
+    {
+      "id": 31050,
+      "title": "Бумажный детектив: Секрет игры",
+      "kp_id": "258374",
+      "imdb_id": "tt0466388",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-09-20 21:19:55",
+      "orig_title": "Mystery Woman: Game Time",
+      "year": "2005-08-21",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "hdtv",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-09-23 10:58:59",
+      "iframe_src": ""
+    },
+    {
+      "id": 31049,
+      "title": "Таинственная женщина: Искупление",
+      "kp_id": "364481",
+      "imdb_id": "tt0453382",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-09-20 21:18:29",
+      "orig_title": "Mystery Woman: Redemption",
+      "year": "2006-08-22",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "hdtv",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-09-23 10:58:27",
+      "iframe_src": ""
+    },
+    {
+      "id": 31048,
+      "title": "Бумажный детектив: Предвидение убийства",
+      "kp_id": "258323",
+      "imdb_id": "tt0439719",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-09-20 21:16:55",
+      "orig_title": "Mystery Woman: Vision of a Murder",
+      "year": "2005-06-05",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "hdtv",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-09-23 10:57:40",
+      "iframe_src": ""
+    },
+    {
+      "id": 31047,
+      "title": "Люди в белом",
+      "kp_id": "295412",
+      "imdb_id": "tt0156789",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-09-20 21:16:07",
+      "orig_title": "Men in White",
+      "year": "1998-08-16",
       "translations": [
         "Полное дублирование"
       ],
-      "quality": "bd",
+      "quality": "sat",
       "translation": "Полное дублирование",
-      "update": "2019-09-16 06:10:08",
+      "update": "2019-09-23 10:57:04",
       "iframe_src": ""
     },
     {
-      "id": 30874,
-      "title": "Онг Бак 3",
-      "kp_id": "500576",
-      "imdb_id": "tt1653690",
+      "id": 31046,
+      "title": "Таинственная женщина: Песнь об убийстве",
+      "kp_id": "258324",
+      "imdb_id": "tt0433604",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-09-15 18:40:59",
-      "orig_title": "Ong-bak 3",
-      "year": "2010-04-29",
+      "add": "2019-09-20 21:15:27",
+      "orig_title": "Mystery Woman: Sing Me a Murder",
+      "year": "2005-02-25",
       "translations": [
-        "Профессиональный (двухголосый закадровый) (CP Digital)"
+        "Профессиональный (многоголосый закадровый)"
       ],
-      "quality": "bd",
-      "translation": "Профессиональный (двухголосый закадровый) (CP Digital)",
-      "update": "2019-09-16 06:11:07",
+      "quality": "hdtv",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-09-23 10:55:40",
       "iframe_src": ""
     },
     {
-      "id": 30873,
-      "title": "Мальчик по прозвищу Стерва",
-      "kp_id": "399094",
-      "imdb_id": "tt1080767",
+      "id": 31045,
+      "title": "Бумажный детектив: Роковые снимки",
+      "kp_id": "258325",
+      "imdb_id": "tt0427575",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-09-15 18:37:22",
-      "orig_title": "Oira sukeban",
-      "year": "2006-02-04",
+      "add": "2019-09-20 21:13:56",
+      "orig_title": "Mystery Woman: Snapshot",
+      "year": "2005-01-28",
       "translations": [
-        "Любительский (одноголосый закадровый)"
+        "Профессиональный (многоголосый закадровый)"
       ],
-      "quality": "hdrip",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2019-09-16 06:13:31",
+      "quality": "hdtv",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-09-23 10:55:05",
       "iframe_src": ""
     },
     {
-      "id": 30872,
-      "title": "Стерва",
-      "kp_id": "9702",
-      "imdb_id": "tt0235866",
+      "id": 31043,
+      "title": "Бумажный детектив: Таинственный уик-энд",
+      "kp_id": "258326",
+      "imdb_id": "tt0427576",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-09-15 18:32:32",
-      "orig_title": "Vipera",
-      "year": "2001-05-11",
+      "add": "2019-09-20 21:08:10",
+      "orig_title": "Mystery Woman: Mystery Weekend",
+      "year": "2005-01-07",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "hdtv",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-09-23 10:52:42",
+      "iframe_src": ""
+    },
+    {
+      "id": 31042,
+      "title": "Соблазнение Джо Тайнана",
+      "kp_id": "1903",
+      "imdb_id": "tt0079875",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-09-20 20:57:28",
+      "orig_title": "The Seduction of Joe Tynan",
+      "year": "1979-08-17",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "dvdrip",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-09-16 06:18:57",
+      "update": "2019-09-23 10:51:54",
       "iframe_src": ""
     },
     {
-      "id": 29480,
-      "title": "Голоса с того света",
-      "kp_id": "1122009",
-      "imdb_id": "tt7986672",
+      "id": 31041,
+      "title": "Женщина французского лейтенанта",
+      "kp_id": "1901",
+      "imdb_id": "tt0082416",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-07-29 05:00:38",
-      "orig_title": "Morto Não Fala",
-      "year": "2018-07-17",
-      "translations": [
-        "Полное дублирование (iTunes)"
-      ],
-      "quality": "webdl",
-      "translation": "Полное дублирование (iTunes)",
-      "update": "2019-09-16 05:35:57",
-      "iframe_src": ""
-    },
-    {
-      "id": 11555,
-      "title": "Пробуждение Зодиака",
-      "kp_id": "1032767",
-      "imdb_id": "tt6294892",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-05-15 23:12:49",
-      "orig_title": "Awakening the Zodiac",
-      "year": "2017-06-09",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Профессиональный (многоголосый закадровый)",
-        "Любительский (одноголосый закадровый) (Хихикающий доктор)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-09-16 05:54:59",
-      "iframe_src": ""
-    },
-    {
-      "id": 7650,
-      "title": "Дом из песка и тумана",
-      "kp_id": "7611",
-      "imdb_id": "tt0315983",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-11-27 12:26:29",
-      "orig_title": "House of Sand and Fog",
-      "year": "2003-12-19",
+      "add": "2019-09-20 20:55:46",
+      "orig_title": "The French Lieutenant's Woman",
+      "year": "1981-09-18",
       "translations": [
         "Полное дублирование"
       ],
       "quality": "bd",
       "translation": "Полное дублирование",
-      "update": "2019-09-16 06:01:27",
+      "update": "2019-09-23 10:51:16",
       "iframe_src": ""
     },
     {
-      "id": 1594,
-      "title": "Человек, которого не было",
-      "kp_id": "554",
-      "imdb_id": "tt0243133",
+      "id": 31036,
+      "title": "Субира",
+      "kp_id": "1194564",
+      "imdb_id": "tt9019698",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-04-24 10:22:41",
-      "orig_title": "The Man Who Wasn't There",
-      "year": "2001-05-13",
+      "add": "2019-09-20 20:47:12",
+      "orig_title": "Subira",
+      "year": "2017-10-10",
       "translations": [
-        "Профессиональный (двухголосый закадровый)"
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-09-23 10:43:03",
+      "iframe_src": ""
+    },
+    {
+      "id": 31028,
+      "title": "Хороший мальчик",
+      "kp_id": "482423",
+      "imdb_id": "tt1533013",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-09-20 20:32:29",
+      "orig_title": "Beautiful Boy",
+      "year": "2010-09-12",
+      "translations": [
+        "Профессиональный (двухголосый закадровый) (НТВ)"
       ],
       "quality": "bd",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2019-09-16 06:17:50",
+      "translation": "Профессиональный (двухголосый закадровый) (НТВ)",
+      "update": "2019-09-23 10:41:38",
+      "iframe_src": ""
+    },
+    {
+      "id": 31025,
+      "title": "Жёсткая краска",
+      "kp_id": "1112729",
+      "imdb_id": "tt7925066",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-09-20 20:24:01",
+      "orig_title": "Tinta Bruta",
+      "year": "2018-02-18",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-09-23 10:10:15",
+      "iframe_src": ""
+    },
+    {
+      "id": 31024,
+      "title": "Не навреди",
+      "kp_id": "102765",
+      "imdb_id": "tt0118526",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-09-20 20:20:06",
+      "orig_title": "...First Do No Harm",
+      "year": "1997-02-16",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Алексеев Антон)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Авторский (одноголосый закадровый) (Алексеев Антон)",
+      "update": "2019-09-23 10:09:16",
+      "iframe_src": ""
+    },
+    {
+      "id": 31019,
+      "title": "Беспокойное сердце",
+      "kp_id": "1896",
+      "imdb_id": "tt0089816",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-09-20 20:02:40",
+      "orig_title": "Plenty",
+      "year": "1985-09-10",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-09-23 10:08:30",
       "iframe_src": ""
     }
   ]

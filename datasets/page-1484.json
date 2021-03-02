@@ -1,176 +1,321 @@
 {
   "data": [
     {
-      "id": 21293,
-      "title": "Школа молодежи: Падение нравов",
-      "kp_id": "885676",
-      "imdb_id": "tt4565210",
+      "id": 21534,
+      "title": "Улицы",
+      "kp_id": "979734",
+      "imdb_id": "tt5565806",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-01-07 03:23:02",
-      "orig_title": "Cheongchunhakdang: punggimunran bossam yasa",
-      "year": "2014-03-27",
+      "add": "2019-01-15 23:02:25",
+      "orig_title": "The Streetz",
+      "year": "2017-09-30",
       "translations": [
-        "Любительский (одноголосый закадровый) (GREEN TEA)"
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-01-16 07:23:31",
+      "iframe_src": ""
+    },
+    {
+      "id": 21531,
+      "title": "Общение повсюду",
+      "kp_id": "1198122",
+      "imdb_id": "tt9033628",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-01-15 22:54:25",
+      "orig_title": "Mingle All the Way",
+      "year": "2018-12-07",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "hdtv",
-      "translation": "Любительский (одноголосый закадровый) (GREEN TEA)",
-      "update": "2019-01-07 12:28:57",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-01-16 07:36:29",
       "iframe_src": ""
     },
     {
-      "id": 21291,
-      "title": "Месть Софи",
-      "kp_id": "427114",
-      "imdb_id": "tt1303833",
+      "id": 21528,
+      "title": "Свободная Рейн: двенадцать рождественских соседей",
+      "kp_id": null,
+      "imdb_id": "tt9315418",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-01-07 03:05:25",
-      "orig_title": "Fei chang wan mei",
-      "year": "2009-08-14",
+      "add": "2019-01-15 22:47:30",
+      "orig_title": "Free Rein: The Twelve Neighs of Christmas",
+      "year": "2018-12-07",
       "translations": [
-        "Любительский (двухголосый закадровый) (GREEN TEA)"
+        "Любительский (многоголосый закадровый) (Синема УС)"
       ],
-      "quality": "dvdrip",
-      "translation": "Любительский (двухголосый закадровый) (GREEN TEA)",
-      "update": "2019-01-07 12:33:50",
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-01-16 07:27:09",
       "iframe_src": ""
     },
     {
-      "id": 21288,
-      "title": "По голову в Рождестве",
-      "kp_id": "1100362",
-      "imdb_id": "tt7605066",
+      "id": 21527,
+      "title": "Рыбонавт в кино",
+      "kp_id": null,
+      "imdb_id": "tt7804254",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-01-07 02:23:14",
-      "orig_title": "Wrapped Up In Christmas",
-      "year": "2017-11-25",
+      "add": "2019-01-15 22:45:35",
+      "orig_title": "Peixonauta: O Filme",
+      "year": "2018-01-25",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-01-16 07:39:49",
+      "iframe_src": ""
+    },
+    {
+      "id": 21526,
+      "title": "Монеты на Рождество",
+      "kp_id": "1178936",
+      "imdb_id": "tt8851036",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-01-15 22:42:51",
+      "orig_title": "Coins for Christmas",
+      "year": "2018-12-16",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "hdtv",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-01-16 07:30:20",
+      "iframe_src": ""
+    },
+    {
+      "id": 21524,
+      "title": "Кровные узы",
+      "kp_id": "843383",
+      "imdb_id": "tt4054008",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-01-15 22:39:33",
+      "orig_title": "The Dark Rite",
+      "year": "2019-01-15",
       "translations": [
         "Профессиональный (многоголосый закадровый) (AlphaProject)"
       ],
-      "quality": "hdtv",
+      "quality": "webdl",
       "translation": "Профессиональный (многоголосый закадровый) (AlphaProject)",
-      "update": "2019-01-07 10:06:13",
+      "update": "2019-01-16 07:24:45",
       "iframe_src": ""
     },
     {
-      "id": 21287,
-      "title": "Серийный кролик 5: Эпичная охота",
-      "kp_id": "1155699",
-      "imdb_id": "tt7938472",
+      "id": 21521,
+      "title": "Сквозь шторм",
+      "kp_id": "327590",
+      "imdb_id": "tt0126707",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-01-07 02:16:36",
-      "orig_title": "Serial Rabbit V: The Epic Hunt",
-      "year": "2017-01-01",
+      "add": "2019-01-15 10:05:27",
+      "orig_title": "Two Came Back",
+      "year": "1997-09-28",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-01-16 07:45:26",
+      "iframe_src": ""
+    },
+    {
+      "id": 21519,
+      "title": "Понимание опиоидной эпидемии",
+      "kp_id": null,
+      "imdb_id": "tt7990532",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-01-15 10:00:00",
+      "orig_title": "Understanding the Opioid Epidemic",
+      "year": "2018-01-17",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-01-16 07:48:46",
+      "iframe_src": ""
+    },
+    {
+      "id": 21512,
+      "title": "Женская интуиция 2",
+      "kp_id": "278152",
+      "imdb_id": "tt3069640",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-01-15 09:30:28",
+      "orig_title": "Zhenskaya intuitsiya 2",
+      "year": "2005-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-01-15 21:21:29",
+      "iframe_src": ""
+    },
+    {
+      "id": 21510,
+      "title": "Герой-неудачник",
+      "kp_id": "1140360",
+      "imdb_id": "tt8020856",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-01-15 09:23:32",
+      "orig_title": "The Loser Hero",
+      "year": "2018-09-09",
       "translations": [
         "Любительский (многоголосый закадровый) (Колобок)"
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Колобок)",
-      "update": "2019-01-07 10:07:32",
+      "update": "2019-01-15 21:28:03",
       "iframe_src": ""
     },
     {
-      "id": 21284,
-      "title": "С любовью, Сесил",
-      "kp_id": "952838",
-      "imdb_id": "tt5275884",
+      "id": 21507,
+      "title": "Ночь живых придурков",
+      "kp_id": "62623",
+      "imdb_id": "tt0378417",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-01-07 02:11:07",
-      "orig_title": "Love, Cecil",
-      "year": "2017-09-02",
+      "add": "2019-01-15 09:08:55",
+      "orig_title": "Die Nacht der lebenden Loser",
+      "year": "2004-11-04",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2019-01-15 21:34:12",
+      "iframe_src": ""
+    },
+    {
+      "id": 21506,
+      "title": "Уоллес и Громит: Проклятие кролика-оборотня",
+      "kp_id": "22399",
+      "imdb_id": "tt0312004",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-01-15 09:06:33",
+      "orig_title": "The Curse of the Were-Rabbit",
+      "year": "2005-09-04",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "hdtv",
+      "translation": "Полное дублирование",
+      "update": "2019-01-15 21:35:46",
+      "iframe_src": ""
+    },
+    {
+      "id": 21505,
+      "title": "Врата",
+      "kp_id": "1045951",
+      "imdb_id": "tt7095726",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-01-15 08:52:36",
+      "orig_title": "Gate",
+      "year": "2018-02-28",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Колобок)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Колобок)",
+      "update": "2019-01-15 21:37:49",
+      "iframe_src": ""
+    },
+    {
+      "id": 21504,
+      "title": "Кусочек Рождества",
+      "kp_id": "1179317",
+      "imdb_id": "tt8796786",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-01-15 08:45:03",
+      "orig_title": "A Twist of Christmas",
+      "year": "2018-12-01",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (AlphaProject)"
+      ],
+      "quality": "hdtv",
+      "translation": "Профессиональный (многоголосый закадровый) (AlphaProject)",
+      "update": "2019-01-15 21:38:22",
+      "iframe_src": ""
+    },
+    {
+      "id": 21503,
+      "title": "Храброе сердце",
+      "kp_id": "1226484",
+      "imdb_id": "tt8161490",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-01-15 08:39:11",
+      "orig_title": "The Brave Heart or the Day We Enabled the Sleepwalking Protocol",
+      "year": "2018-04-28",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "webdl",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-01-15 21:41:45",
+      "iframe_src": ""
+    },
+    {
+      "id": 21502,
+      "title": "История Антуана Фишера",
+      "kp_id": "6987",
+      "imdb_id": "tt0168786",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-01-15 08:34:20",
+      "orig_title": "Antwone Fisher",
+      "year": "2002-09-12",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-01-07 10:08:18",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-01-15 21:49:14",
       "iframe_src": ""
     },
     {
-      "id": 21282,
-      "title": "Двойная Лоттхен",
-      "kp_id": "992061",
-      "imdb_id": "tt5843312",
+      "id": 21487,
+      "title": "Зверь из Брей-Роуд",
+      "kp_id": "1178295",
+      "imdb_id": "tt8841148",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-01-07 02:02:05",
-      "orig_title": "Das doppelte Lottchen",
-      "year": "2017-04-16",
+      "add": "2019-01-13 21:02:34",
+      "orig_title": "The Bray Road Beast",
+      "year": "2018-10-05",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "hdrip",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-01-07 12:07:47",
-      "iframe_src": ""
-    },
-    {
-      "id": 21281,
-      "title": "Боб Лазар: 51-й полигон и летающие тарелки",
-      "kp_id": null,
-      "imdb_id": "tt9107368",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-01-07 01:55:57",
-      "orig_title": "Bob Lazar: Area 51 & Flying Saucers",
-      "year": "2018-12-08",
-      "translations": [
+        "Любительский (двухголосый закадровый) (HiWayGrope)",
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-01-07 10:02:46",
+      "translation": "Любительский (двухголосый закадровый) (HiWayGrope)",
+      "update": "2019-01-16 08:01:08",
       "iframe_src": ""
     },
     {
-      "id": 21268,
-      "title": "Администратор",
-      "kp_id": "1216684",
-      "imdb_id": "tt4486838",
+      "id": 19570,
+      "title": "Далекий свидетель",
+      "kp_id": "825731",
+      "imdb_id": "tt3509978",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-01-06 00:28:32",
-      "orig_title": "The Receptionist",
-      "year": "2016-11-20",
-      "translations": [
-        "Профессиональный (двухголосый закадровый) (СВ-Дубль)"
-      ],
-      "quality": "sat",
-      "translation": "Профессиональный (двухголосый закадровый) (СВ-Дубль)",
-      "update": "2019-01-07 12:10:22",
-      "iframe_src": ""
-    },
-    {
-      "id": 21266,
-      "title": "Хорошее яблоко",
-      "kp_id": "997726",
-      "imdb_id": "tt5972780",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-01-06 00:08:27",
-      "orig_title": "Bonne pomme",
-      "year": "2017-08-25",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (Первый канал | ОРТ)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый) (Первый канал | ОРТ)",
-      "update": "2019-01-07 12:18:16",
-      "iframe_src": ""
-    },
-    {
-      "id": 20914,
-      "title": "Грегуар",
-      "kp_id": "1005362",
-      "imdb_id": "tt6084676",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-12-22 23:56:26",
-      "orig_title": "Gregoire",
+      "add": "2018-10-15 09:28:33",
+      "orig_title": "Furthest Witness",
       "year": "2017-01-01",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)",
@@ -178,199 +323,45 @@
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-01-07 12:14:18",
+      "update": "2019-01-15 21:31:14",
       "iframe_src": ""
     },
     {
-      "id": 20699,
-      "title": "Бессмертный кулак: Легенда Уинг Чан",
-      "kp_id": "1075089",
-      "imdb_id": "tt7222304",
+      "id": 6994,
+      "title": "Сканирование мозга",
+      "kp_id": "13879",
+      "imdb_id": "tt0109327",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-12-12 22:49:09",
-      "orig_title": "Immortal Fist: The Legend of Wing Chun",
-      "year": "2017-08-21",
+      "add": "2016-11-03 05:42:28",
+      "orig_title": "Brainscan",
+      "year": "1994-04-22",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Любительский (двухголосый закадровый) (HiWayGrope)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-01-07 12:13:22",
-      "iframe_src": ""
-    },
-    {
-      "id": 19833,
-      "title": "Красный глаз",
-      "kp_id": "926039",
-      "imdb_id": "tt4828330",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-10-28 21:43:17",
-      "orig_title": "Red Eye",
-      "year": "2017-05-27",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Любительский (одноголосый закадровый) (datynet)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-01-07 12:06:53",
-      "iframe_src": ""
-    },
-    {
-      "id": 19716,
-      "title": "Королева Голливудского бульвара",
-      "kp_id": "931464",
-      "imdb_id": "tt4843208",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-10-22 23:41:42",
-      "orig_title": "The Queen of Hollywood Blvd",
-      "year": "2017-03-01",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Любительский (двухголосый закадровый) (HiWayGrope)",
-        "Любительский (двухголосый закадровый) (LakeFilms)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-01-07 10:01:45",
-      "iframe_src": ""
-    },
-    {
-      "id": 19562,
-      "title": "Дьявольский кузнец",
-      "kp_id": "1010113",
-      "imdb_id": "tt5592878",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-10-14 20:36:22",
-      "orig_title": "Errementari",
-      "year": "2017-10-12",
-      "translations": [
-        "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-        "Любительский (двухголосый закадровый) (LakeFilms)",
-        "Любительский (одноголосый закадровый) (Хихикающий доктор)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-      "update": "2019-01-07 12:17:16",
-      "iframe_src": ""
-    },
-    {
-      "id": 19442,
-      "title": "Пугающий роман",
-      "kp_id": "654626",
-      "imdb_id": "tt2132405",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-10-07 21:44:22",
-      "orig_title": "Ossakhan yeonae",
-      "year": "2011-12-01",
-      "translations": [
-        "Любительский (двухголосый закадровый) (GREEN TEA)"
+        "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
-      "translation": "Любительский (двухголосый закадровый) (GREEN TEA)",
-      "update": "2019-01-07 12:31:52",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-01-16 07:43:53",
       "iframe_src": ""
     },
     {
-      "id": 18858,
-      "title": "Тоска",
-      "kp_id": "988883",
-      "imdb_id": "tt5545984",
+      "id": 5081,
+      "title": "X+Y",
+      "kp_id": "794247",
+      "imdb_id": "tt3149038",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-09-08 22:45:02",
-      "orig_title": "Ga'agua",
-      "year": "2017-07-18",
+      "add": "2016-09-06 09:27:19",
+      "orig_title": "X+Y",
+      "year": "2014-09-05",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Любительский (двухголосый закадровый) (LakeFilms)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-01-07 12:15:12",
-      "iframe_src": ""
-    },
-    {
-      "id": 17104,
-      "title": "Изнасилование",
-      "kp_id": "1026312",
-      "imdb_id": "tt6368270",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-06-10 18:15:18",
-      "orig_title": "Le viol",
-      "year": "2017-06-21",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Любительский (двухголосый закадровый)",
         "Профессиональный (многоголосый закадровый) (GreenРай Studio)",
-        "Любительский (двухголосый закадровый) (LakeFilms)"
-      ],
-      "quality": "hdtv",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-01-07 12:10:55",
-      "iframe_src": ""
-    },
-    {
-      "id": 14994,
-      "title": "В погоне за драконами",
-      "kp_id": "1002610",
-      "imdb_id": "tt6015328",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-01-29 16:52:38",
-      "orig_title": "Chui lung",
-      "year": "2017-09-28",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Любительский (двухголосый закадровый) (Sound-Group)"
+        "Любительский (многоголосый закадровый)"
       ],
       "quality": "bd",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-01-07 12:08:42",
-      "iframe_src": ""
-    },
-    {
-      "id": 13640,
-      "title": "Том из Финляндии",
-      "kp_id": "951073",
-      "imdb_id": "tt5226984",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-09-26 21:37:52",
-      "orig_title": "Tom of Finland",
-      "year": "2017-01-27",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Любительский (двухголосый закадровый) (LakeFilms)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-01-07 12:09:31",
-      "iframe_src": ""
-    },
-    {
-      "id": 10776,
-      "title": "История призрачной девушки",
-      "kp_id": "840265",
-      "imdb_id": "tt3892620",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-04-06 12:12:29",
-      "orig_title": "Sonyeogoedam",
-      "year": "2014-07-02",
-      "translations": [
-        "Любительский (двухголосый закадровый) (DeadSno & den904)",
-        "Любительский (двухголосый закадровый) (GREEN TEA)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (двухголосый закадровый) (DeadSno & den904)",
-      "update": "2019-01-07 12:33:06",
+      "translation": "Любительский (двухголосый закадровый)",
+      "update": "2019-01-15 21:25:53",
       "iframe_src": ""
     }
   ]

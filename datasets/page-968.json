@@ -1,364 +1,364 @@
 {
   "data": [
     {
-      "id": 31422,
-      "title": "Будь счастлив!",
-      "kp_id": "1155297",
-      "imdb_id": "tt8176462",
+      "id": 31675,
+      "title": "Искушение замужней женщины",
+      "kp_id": "103730",
+      "imdb_id": "tt0405507",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-10-02 22:34:31",
-      "orig_title": "Be Happy! (the musical)",
-      "year": "2019-06-16",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-10-03 06:17:09",
-      "iframe_src": ""
-    },
-    {
-      "id": 31421,
-      "title": "МАЛЬМОИ: Секретная миссия",
-      "kp_id": "1112638",
-      "imdb_id": "tt9602258",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-02 22:32:53",
-      "orig_title": "Malmoi",
-      "year": "2019-01-09",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Колобок)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Колобок)",
-      "update": "2019-10-03 06:33:12",
-      "iframe_src": ""
-    },
-    {
-      "id": 31418,
-      "title": "Сестра Эйми",
-      "kp_id": "1165068",
-      "imdb_id": "tt8456696",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-02 22:23:06",
-      "orig_title": "Sister Aimee",
-      "year": "2019-01-26",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-10-03 06:39:06",
-      "iframe_src": ""
-    },
-    {
-      "id": 31417,
-      "title": "Дьявольская месть",
-      "kp_id": "1228112",
-      "imdb_id": "tt9469842",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-02 22:21:23",
-      "orig_title": "Devil's Revenge",
-      "year": "2019-10-01",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-10-03 06:42:20",
-      "iframe_src": ""
-    },
-    {
-      "id": 31416,
-      "title": "Однажды в Дэдвуде",
-      "kp_id": "1253805",
-      "imdb_id": "tt10049848",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-02 22:19:38",
-      "orig_title": "Once Upon a Time in Deadwood",
-      "year": "2019-10-01",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-10-03 06:39:59",
-      "iframe_src": ""
-    },
-    {
-      "id": 31415,
-      "title": "В поисках величия",
-      "kp_id": "1227719",
-      "imdb_id": "tt8236398",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-02 22:16:13",
-      "orig_title": "In Search of Greatness",
-      "year": "2018-10-19",
+      "add": "2019-10-09 19:03:45",
+      "orig_title": "Murder",
+      "year": "2004-04-02",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-10-03 06:40:54",
-      "iframe_src": ""
-    },
-    {
-      "id": 31411,
-      "title": "Настоящий Дон Кихот",
-      "kp_id": "1080782",
-      "imdb_id": "tt6863222",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-02 22:04:31",
-      "orig_title": "The True Don Quixote",
-      "year": "2019-09-28",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-10-03 06:52:49",
-      "iframe_src": ""
-    },
-    {
-      "id": 31410,
-      "title": "Дом там, где живёт убийца",
-      "kp_id": "1200393",
-      "imdb_id": "tt9086910",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-02 22:01:07",
-      "orig_title": "No Place Like Home",
-      "year": "2019-10-01",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-10-03 06:51:32",
-      "iframe_src": ""
-    },
-    {
-      "id": 31409,
-      "title": "Морпехи: Закон о репатриации",
-      "kp_id": "1291484",
-      "imdb_id": "tt10767720",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-02 21:59:35",
-      "orig_title": "Jarhead: Law of Return",
-      "year": "2019-10-01",
-      "translations": [
-        "Любительский (многоголосый закадровый) (@MUZOBOZ@)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-      "update": "2019-10-03 06:50:22",
-      "iframe_src": ""
-    },
-    {
-      "id": 31408,
-      "title": "Кресло-убийца",
-      "kp_id": "1301803",
-      "imdb_id": "tt10927122",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-02 21:56:48",
-      "orig_title": "Killer Sofa",
-      "year": "2019-10-01",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-10-03 06:49:21",
-      "iframe_src": ""
-    },
-    {
-      "id": 31406,
-      "title": "Дом чемпионов",
-      "kp_id": null,
-      "imdb_id": "tt10199260",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-02 21:52:17",
-      "orig_title": "House of Champions",
-      "year": "2019-01-01",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "hdtv",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-10-03 06:48:14",
-      "iframe_src": ""
-    },
-    {
-      "id": 31405,
-      "title": "Спросите Джейн",
-      "kp_id": "1039121",
-      "imdb_id": "tt6466058",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-02 21:48:37",
-      "orig_title": "Ask for Jane",
-      "year": "2018-10-07",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (AlphaProject)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый) (AlphaProject)",
-      "update": "2019-10-03 06:47:40",
-      "iframe_src": ""
-    },
-    {
-      "id": 31404,
-      "title": "Лайла и Маджну",
-      "kp_id": "1161763",
-      "imdb_id": "tt8011276",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-02 21:46:49",
-      "orig_title": "Laila Majnu",
-      "year": "2018-09-07",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Honey&Hoseena)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Honey&Hoseena)",
-      "update": "2019-10-03 06:47:09",
-      "iframe_src": ""
-    },
-    {
-      "id": 31403,
-      "title": "Для Акима",
-      "kp_id": "1044493",
-      "imdb_id": "tt5119268",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-02 21:45:27",
-      "orig_title": "For Ahkeem",
-      "year": "2017-02-17",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "dvdrip",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-10-03 06:46:12",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-10-10 05:21:21",
       "iframe_src": ""
     },
     {
-      "id": 31402,
-      "title": "Видоизменённая кожа",
-      "kp_id": "1131551",
-      "imdb_id": "tt8236848",
+      "id": 31666,
+      "title": "Праздника не будет",
+      "kp_id": "3714",
+      "imdb_id": "tt0140653",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-10-02 21:39:09",
-      "orig_title": "Altered Skin",
-      "year": "2018-01-01",
+      "add": "2019-10-09 18:09:18",
+      "orig_title": "L'ultimo capodanno",
+      "year": "1998-03-06",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-10-10 05:28:38",
+      "iframe_src": ""
+    },
+    {
+      "id": 31665,
+      "title": "Как рыбка без воды",
+      "kp_id": "3710",
+      "imdb_id": "tt0164008",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-09 18:07:45",
+      "orig_title": "Comme un poisson hors de l'eau",
+      "year": "1999-05-05",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-10-10 05:19:52",
+      "iframe_src": ""
+    },
+    {
+      "id": 31655,
+      "title": "Чудовище озера Крейтер",
+      "kp_id": "8882",
+      "imdb_id": "tt0075888",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-09 17:53:07",
+      "orig_title": "The Crater Lake Monster",
+      "year": "1977-03-01",
+      "translations": [
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "hdrip",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2019-10-10 05:23:40",
+      "iframe_src": ""
+    },
+    {
+      "id": 31654,
+      "title": "Несокрушимая, история матери",
+      "kp_id": "1088014",
+      "imdb_id": "tt6517902",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-09 17:52:29",
+      "orig_title": "Enduring: A Mother's Story",
+      "year": "2017-08-18",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-10-03 06:44:32",
+      "update": "2019-10-10 05:25:22",
       "iframe_src": ""
     },
     {
-      "id": 31164,
-      "title": "Солнцестояние",
-      "kp_id": "1178137",
-      "imdb_id": "tt8772262",
+      "id": 31652,
+      "title": "Женщина с Ганга",
+      "kp_id": "20937",
+      "imdb_id": "tt0070057",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-09-25 09:14:58",
-      "orig_title": "Midsommar",
-      "year": "2019-06-24",
+      "add": "2019-10-09 17:48:27",
+      "orig_title": "La femme du Gange",
+      "year": "1974-04-03",
       "translations": [
-        "Полное дублирование"
+        "Любительский (одноголосый закадровый)"
       ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2019-10-03 06:12:01",
+      "quality": "dvdrip",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2019-10-10 05:26:29",
       "iframe_src": ""
     },
     {
-      "id": 30691,
-      "title": "Хрупкое прощание",
-      "kp_id": "1023565",
-      "imdb_id": "tt6446550",
+      "id": 31650,
+      "title": "Женщины-полицейские",
+      "kp_id": "104187",
+      "imdb_id": "tt0072006",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-09-08 21:01:03",
-      "orig_title": "The Parting Glass",
-      "year": "2018-06-24",
+      "add": "2019-10-09 17:40:35",
+      "orig_title": "Policewomen",
+      "year": "1974-02-08",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Гаврилов Андрей)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Авторский (одноголосый закадровый) (Гаврилов Андрей)",
+      "update": "2019-10-10 05:27:20",
+      "iframe_src": ""
+    },
+    {
+      "id": 31649,
+      "title": "Женщина-полицейский",
+      "kp_id": "57478",
+      "imdb_id": "tt0079145",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-09 17:36:52",
+      "orig_title": "La femme flic",
+      "year": "1980-01-08",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2019-10-10 05:29:27",
+      "iframe_src": ""
+    },
+    {
+      "id": 31647,
+      "title": "Сестра оборотня",
+      "kp_id": "61257",
+      "imdb_id": "tt0353489",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-09 17:23:50",
+      "orig_title": "Ginger Snaps 2: Unleashed",
+      "year": "2004-01-30",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (Союз Видео)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый) (Союз Видео)",
+      "update": "2019-10-10 05:33:50",
+      "iframe_src": ""
+    },
+    {
+      "id": 31610,
+      "title": "Каким ты меня хочешь",
+      "kp_id": "3719",
+      "imdb_id": "tt0115926",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-08 22:04:10",
+      "orig_title": "Come mi vuoi",
+      "year": "1997-08-13",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Дьяконов Константин)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Авторский (одноголосый закадровый) (Дьяконов Константин)",
+      "update": "2019-10-09 11:54:44",
+      "iframe_src": ""
+    },
+    {
+      "id": 31608,
+      "title": "Непокорный",
+      "kp_id": "3712",
+      "imdb_id": "tt0187330",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-08 22:00:53",
+      "orig_title": "Méditerranées",
+      "year": "2007-02-05",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2019-10-09 11:56:02",
+      "iframe_src": ""
+    },
+    {
+      "id": 31607,
+      "title": "Наслаждение",
+      "kp_id": "3715",
+      "imdb_id": "tt0166308",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-08 21:59:12",
+      "orig_title": "Le Plaisir (et ses petits tracas)",
+      "year": "1998-08-05",
+      "translations": [
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2019-10-09 11:57:02",
+      "iframe_src": ""
+    },
+    {
+      "id": 31594,
+      "title": "Шири",
+      "kp_id": "64036",
+      "imdb_id": "tt0192657",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-08 20:02:53",
+      "orig_title": "Swiri",
+      "year": "1999-02-13",
+      "translations": [
+        "Любительский (двухголосый закадровый) (Колобок)"
+      ],
+      "quality": "hdtv",
+      "translation": "Любительский (двухголосый закадровый) (Колобок)",
+      "update": "2019-10-09 11:15:48",
+      "iframe_src": ""
+    },
+    {
+      "id": 31593,
+      "title": "Триумф духа",
+      "kp_id": "2843",
+      "imdb_id": "tt0098513",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-08 19:29:08",
+      "orig_title": "Triumph of the Spirit",
+      "year": "1989-12-08",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "webdl",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-10-03 06:38:12",
+      "update": "2019-10-09 11:58:01",
       "iframe_src": ""
     },
     {
-      "id": 30437,
-      "title": "Трудности выживания",
-      "kp_id": "1049514",
-      "imdb_id": "tt10892304",
+      "id": 31592,
+      "title": "36 ступеней Шаолиня",
+      "kp_id": "86298",
+      "imdb_id": "tt0078243",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-08-31 23:43:46",
-      "orig_title": "Trudnosti vyzhivaniy",
-      "year": "2019-08-22",
+      "add": "2019-10-08 19:20:33",
+      "orig_title": "Shao Lin san shi liu fang",
+      "year": "1978-02-02",
       "translations": [
-        "Оригинальная дорожка"
+        "Профессиональный (двухголосый закадровый)"
       ],
-      "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-10-03 06:36:40",
+      "quality": "bd",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2019-10-09 11:59:55",
       "iframe_src": ""
     },
     {
-      "id": 30423,
-      "title": "Эбигейл",
-      "kp_id": "991656",
-      "imdb_id": "tt7025388",
+      "id": 31589,
+      "title": "Мутанты 3: Страж",
+      "kp_id": "85082",
+      "imdb_id": "tt0330634",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-08-31 23:02:24",
-      "orig_title": "Abigail",
-      "year": "2019-08-23",
+      "add": "2019-10-08 18:26:28",
+      "orig_title": "Mimic: Sentinel",
+      "year": "2003-04-14",
       "translations": [
-        "Полное дублирование"
+        "Профессиональный (многоголосый закадровый)"
       ],
-      "quality": "webdl",
-      "translation": "Полное дублирование",
-      "update": "2019-10-03 06:09:14",
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-10-09 12:29:32",
       "iframe_src": ""
     },
     {
-      "id": 29290,
-      "title": "Хруст костей",
-      "kp_id": "854664",
-      "imdb_id": "tt3741188",
+      "id": 31588,
+      "title": "Риск стрелка Шарпа",
+      "kp_id": "404556",
+      "imdb_id": "tt1181849",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-07-22 21:47:24",
-      "orig_title": "Bonejangles",
-      "year": "2017-07-18",
+      "add": "2019-10-08 18:22:14",
+      "orig_title": "Sharpe's Peril",
+      "year": "2008-11-02",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Любительский (одноголосый закадровый) (Хихикающий доктор)"
+        "Профессиональный (многоголосый закадровый)"
       ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-10-03 06:45:28",
+      "quality": "hdtv",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-10-09 13:15:48",
+      "iframe_src": ""
+    },
+    {
+      "id": 30956,
+      "title": "Последний кулак ярости",
+      "kp_id": "79593",
+      "imdb_id": "tt0076698",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-09-18 17:30:41",
+      "orig_title": "She nu yu chao",
+      "year": "1978-06-29",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2019-10-09 12:01:17",
+      "iframe_src": ""
+    },
+    {
+      "id": 19939,
+      "title": "Марлина, убийца в четырёх актах",
+      "kp_id": "1045083",
+      "imdb_id": "tt5923026",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-11-03 22:57:47",
+      "orig_title": "Marlina si pembunuh dalam empat babak",
+      "year": "2017-05-24",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
+      "update": "2019-10-09 13:23:50",
+      "iframe_src": ""
+    },
+    {
+      "id": 7228,
+      "title": "Мутанты",
+      "kp_id": "4923",
+      "imdb_id": "tt0119675",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-11-09 05:05:45",
+      "orig_title": "Mimic",
+      "year": "1997-08-22",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)",
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-10-09 12:10:58",
       "iframe_src": ""
     }
   ]

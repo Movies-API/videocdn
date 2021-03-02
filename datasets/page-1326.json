@@ -1,371 +1,364 @@
 {
   "data": [
     {
-      "id": 24737,
-      "title": "На берегу большой реки",
-      "kp_id": "46256",
-      "imdb_id": "tt0230558",
+      "id": 24894,
+      "title": "Дрифтер",
+      "kp_id": "574863",
+      "imdb_id": "tt5104740",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-04-17 10:55:04",
-      "orig_title": "Na beregu bolshoy reki",
+      "add": "2019-04-19 09:52:00",
+      "orig_title": "Drifter",
+      "year": "2011-01-21",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-04-20 08:16:48",
+      "iframe_src": ""
+    },
+    {
+      "id": 24893,
+      "title": "Гидравлика",
+      "kp_id": "542239",
+      "imdb_id": "tt5204956",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-04-19 09:49:59",
+      "orig_title": "Gidravlika",
+      "year": "2010-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "hdtv",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-04-20 08:18:54",
+      "iframe_src": ""
+    },
+    {
+      "id": 24892,
+      "title": "Распутница",
+      "kp_id": "198368",
+      "imdb_id": "tt0064643",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-04-19 09:46:30",
+      "orig_title": "La matriarca",
+      "year": "1968-12-23",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Алексеев Антон)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Авторский (одноголосый закадровый) (Алексеев Антон)",
+      "update": "2019-04-20 08:19:46",
+      "iframe_src": ""
+    },
+    {
+      "id": 24891,
+      "title": "Лунная радуга",
+      "kp_id": "45125",
+      "imdb_id": "tt0089618",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-04-19 09:43:39",
+      "orig_title": "Lunnaya raduga",
+      "year": "1984-01-24",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-04-20 08:21:54",
+      "iframe_src": ""
+    },
+    {
+      "id": 24868,
+      "title": "Глазами волка",
+      "kp_id": "464890",
+      "imdb_id": "tt3725122",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-04-18 23:44:41",
+      "orig_title": "Glazami volka",
+      "year": "2006-05-18",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "sat",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-04-19 10:48:13",
+      "iframe_src": ""
+    },
+    {
+      "id": 24867,
+      "title": "Полет аиста над капустным полем",
+      "kp_id": "466457",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-04-18 23:27:20",
+      "orig_title": "Полет аиста над капустным полем",
+      "year": "2004-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "sat",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-04-19 10:49:30",
+      "iframe_src": ""
+    },
+    {
+      "id": 24866,
+      "title": "Посвящение в любовь",
+      "kp_id": "402563",
+      "imdb_id": "tt1160757",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-04-18 23:10:25",
+      "orig_title": "Posvyashchenie v lyubov",
+      "year": "1994-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "sat",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-04-19 10:51:23",
+      "iframe_src": ""
+    },
+    {
+      "id": 24865,
+      "title": "Приехали на конкурс повара",
+      "kp_id": "420106",
+      "imdb_id": "tt2032517",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-04-18 23:01:26",
+      "orig_title": "Priekhali na konkurs povara",
+      "year": "1978-12-26",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-04-19 10:52:17",
+      "iframe_src": ""
+    },
+    {
+      "id": 24864,
+      "title": "Русский крест",
+      "kp_id": "482080",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-04-18 22:46:16",
+      "orig_title": "Русский крест",
+      "year": "2010-04-03",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "sat",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-04-19 10:54:15",
+      "iframe_src": ""
+    },
+    {
+      "id": 24863,
+      "title": "Останки",
+      "kp_id": "597438",
+      "imdb_id": "tt1870527",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-04-18 22:29:34",
+      "orig_title": "Remains",
+      "year": "2011-12-06",
+      "translations": [
+        "Профессиональный (двухголосый закадровый) (НТВ)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (двухголосый закадровый) (НТВ)",
+      "update": "2019-04-19 10:56:10",
+      "iframe_src": ""
+    },
+    {
+      "id": 24862,
+      "title": "Рыжик",
+      "kp_id": "42162",
+      "imdb_id": "tt0170534",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-04-18 22:25:55",
+      "orig_title": "Ryzhik",
+      "year": "1961-03-20",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-04-19 10:56:45",
+      "iframe_src": ""
+    },
+    {
+      "id": 24861,
+      "title": "Самая счастливая",
+      "kp_id": "497660",
+      "imdb_id": "tt9506296",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-04-18 22:13:16",
+      "orig_title": "Samaya schastlivaya",
+      "year": "2010-02-13",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "sat",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-04-19 10:57:19",
+      "iframe_src": ""
+    },
+    {
+      "id": 24860,
+      "title": "Школа для толстушек",
+      "kp_id": "490359",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-04-18 22:05:15",
+      "orig_title": "Школа для толстушек",
+      "year": "2010-05-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "sat",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-04-19 10:58:23",
+      "iframe_src": ""
+    },
+    {
+      "id": 24859,
+      "title": "Трудно быть Мачо",
+      "kp_id": "450144",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-04-18 21:53:45",
+      "orig_title": "Трудно быть Мачо",
+      "year": "2008-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-04-19 10:59:15",
+      "iframe_src": ""
+    },
+    {
+      "id": 24858,
+      "title": "Выйти замуж за генерала",
+      "kp_id": "471790",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-04-18 21:45:06",
+      "orig_title": "Выйти замуж за генерала",
+      "year": "2008-02-23",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "sat",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-04-19 07:48:25",
+      "iframe_src": ""
+    },
+    {
+      "id": 24857,
+      "title": "Золотой автомобиль",
+      "kp_id": "623401",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-04-18 21:36:00",
+      "orig_title": "Золотой автомобиль",
+      "year": "2010-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "sat",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-04-19 07:47:37",
+      "iframe_src": ""
+    },
+    {
+      "id": 24856,
+      "title": "Была не была",
+      "kp_id": "397379",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-04-18 21:25:57",
+      "orig_title": "Была не была",
+      "year": "2006-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-04-19 07:46:25",
+      "iframe_src": ""
+    },
+    {
+      "id": 24854,
+      "title": "Финиковая косточка",
+      "kp_id": "10296",
+      "imdb_id": "tt0072253",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-04-18 21:15:30",
+      "orig_title": "The Tamarind Seed",
+      "year": "1974-07-11",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-04-19 07:44:05",
+      "iframe_src": ""
+    },
+    {
+      "id": 24853,
+      "title": "Жду и надеюсь",
+      "kp_id": "400070",
+      "imdb_id": "tt2454220",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-04-18 21:09:01",
+      "orig_title": "Zhdu i nadeyus",
       "year": "1980-01-01",
       "translations": [
         "Оригинальная дорожка"
       ],
       "quality": "dvdrip",
       "translation": "Оригинальная дорожка",
-      "update": "2019-04-17 11:17:32",
+      "update": "2019-04-19 07:37:40",
       "iframe_src": ""
     },
     {
-      "id": 24734,
-      "title": "Псы",
-      "kp_id": "404123",
-      "imdb_id": "tt1316626",
+      "id": 5734,
+      "title": "Цена страха",
+      "kp_id": "847",
+      "imdb_id": "tt0164184",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-04-17 10:41:38",
-      "orig_title": "Psy",
-      "year": "1989-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-04-17 11:19:00",
-      "iframe_src": ""
-    },
-    {
-      "id": 24689,
-      "title": "Идеальное свидание",
-      "kp_id": "1154641",
-      "imdb_id": "tt8201170",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-04-16 14:19:16",
-      "orig_title": "The Perfect Date",
-      "year": "2019-04-12",
-      "translations": [
-        "Original (English)",
-        "Полное дублирование"
-      ],
-      "quality": "bd",
-      "translation": "Original (English)",
-      "update": "2019-04-17 09:24:18",
-      "iframe_src": ""
-    },
-    {
-      "id": 24685,
-      "title": "Русский бунт",
-      "kp_id": "40718",
-      "imdb_id": "tt0167380",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-04-16 08:13:07",
-      "orig_title": "Russkiy bunt",
-      "year": "2000-04-27",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-04-17 07:49:38",
-      "iframe_src": ""
-    },
-    {
-      "id": 24684,
-      "title": "Замок",
-      "kp_id": "41323",
-      "imdb_id": "tt0111817",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-04-16 08:10:53",
-      "orig_title": "Zamok",
-      "year": "1994-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-04-17 07:49:05",
-      "iframe_src": ""
-    },
-    {
-      "id": 24683,
-      "title": "Берем всё на себя",
-      "kp_id": "46093",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-04-16 08:07:07",
-      "orig_title": "Берем всё на себя",
-      "year": "1981-02-14",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-04-17 07:46:39",
-      "iframe_src": ""
-    },
-    {
-      "id": 24682,
-      "title": "Скульптор смерти",
-      "kp_id": "446119",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-04-16 07:46:25",
-      "orig_title": "Скульптор смерти",
-      "year": "2007-12-09",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-04-17 07:45:31",
-      "iframe_src": ""
-    },
-    {
-      "id": 24681,
-      "title": "Приключения Васи Куролесова",
-      "kp_id": "259992",
-      "imdb_id": "tt0260295",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-04-16 07:44:24",
-      "orig_title": "Priklyucheniya Vasi Kurolesova",
-      "year": "1981-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "bd",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-04-17 07:45:50",
-      "iframe_src": ""
-    },
-    {
-      "id": 24680,
-      "title": "Подарок черного колдуна",
-      "kp_id": "43041",
-      "imdb_id": "tt0078095",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-04-16 07:42:52",
-      "orig_title": "Podarok chyornogo kolduna",
-      "year": "1979-09-23",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-04-17 07:44:01",
-      "iframe_src": ""
-    },
-    {
-      "id": 24679,
-      "title": "Любимая женщина механика Гаврилова",
-      "kp_id": "45137",
-      "imdb_id": "tt0155841",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-04-16 07:40:43",
-      "orig_title": "Lyubimaya zhenshchina mekhanika Gavrilova",
-      "year": "1982-03-08",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-04-17 07:42:48",
-      "iframe_src": ""
-    },
-    {
-      "id": 24676,
-      "title": "Алиса в Зазеркалье",
-      "kp_id": "43458",
-      "imdb_id": "tt0211192",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-04-16 07:33:19",
-      "orig_title": "Alisa v Zazerkale",
-      "year": "1982-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-04-17 07:40:49",
-      "iframe_src": ""
-    },
-    {
-      "id": 24675,
-      "title": "Алиса в стране чудес",
-      "kp_id": "43457",
-      "imdb_id": "tt0211191",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-04-16 07:31:12",
-      "orig_title": "Alisa v strane chudes",
-      "year": "1984-12-26",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-04-17 07:38:31",
-      "iframe_src": ""
-    },
-    {
-      "id": 24674,
-      "title": "Поверь, всё будет хорошо...",
-      "kp_id": "661241",
-      "imdb_id": "tt4558284",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-04-16 07:14:40",
-      "orig_title": "Pover, vse budet khorosho...",
-      "year": "2012-05-26",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "sat",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-04-17 07:37:15",
-      "iframe_src": ""
-    },
-    {
-      "id": 24535,
-      "title": "СекСказка",
-      "kp_id": "41044",
-      "imdb_id": "tt0295598",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-04-13 21:49:58",
-      "orig_title": "Sekskazka",
-      "year": "1991-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "vhs",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-04-17 09:20:09",
-      "iframe_src": ""
-    },
-    {
-      "id": 21762,
-      "title": "Клаустрофобы",
-      "kp_id": "1065805",
-      "imdb_id": "tt5886046",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-01-24 11:04:05",
-      "orig_title": "Escape Room",
-      "year": "2019-01-03",
-      "translations": [
-        "Полное дублирование",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2019-04-17 09:29:15",
-      "iframe_src": ""
-    },
-    {
-      "id": 21310,
-      "title": "Сегодня в меню",
-      "kp_id": "415010",
-      "imdb_id": "tt1153053",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-01-07 16:52:49",
-      "orig_title": "Today's Special",
-      "year": "2009-10-16",
+      "add": "2016-09-30 06:03:18",
+      "orig_title": "The Sum of All Fears",
+      "year": "2002-05-29",
       "translations": [
         "Профессиональный (многоголосый закадровый)",
-        "Original (English)"
+        "Полное дублирование (Пифагор)"
       ],
-      "quality": "webdl",
+      "quality": "bd",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-04-17 09:31:09",
-      "iframe_src": ""
-    },
-    {
-      "id": 21309,
-      "title": "Навстречу шторму",
-      "kp_id": "309010",
-      "imdb_id": "tt0992993",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-01-07 16:51:38",
-      "orig_title": "Into the Storm",
-      "year": "2009-05-31",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (Amedia)",
-        "Original (English)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый) (Amedia)",
-      "update": "2019-04-17 09:31:57",
-      "iframe_src": ""
-    },
-    {
-      "id": 18231,
-      "title": "Шпион, который меня кинул",
-      "kp_id": "1044982",
-      "imdb_id": "tt6663582",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-08-12 09:20:14",
-      "orig_title": "The Spy Who Dumped Me",
-      "year": "2018-08-01",
-      "translations": [
-        "Полное дублирование",
-        "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2019-04-17 09:25:27",
-      "iframe_src": ""
-    },
-    {
-      "id": 5270,
-      "title": "Кровь за кровь",
-      "kp_id": "86314",
-      "imdb_id": "tt0430105",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-09-15 08:27:00",
-      "orig_title": "Four Brothers",
-      "year": "2005-08-12",
-      "translations": [
-        "Полное дублирование",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2019-04-17 09:28:01",
-      "iframe_src": ""
-    },
-    {
-      "id": 405,
-      "title": "Прометей",
-      "kp_id": "467099",
-      "imdb_id": "tt1446714",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-04-01 15:18:15",
-      "orig_title": "Prometheus",
-      "year": "2012-05-30",
-      "translations": [
-        "Полное дублирование",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2019-04-17 09:26:45",
+      "update": "2019-04-19 07:40:57",
       "iframe_src": ""
     }
   ]

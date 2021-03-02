@@ -1,363 +1,363 @@
 {
   "data": [
     {
-      "id": 1796,
-      "title": "Гленгарри Глен Росс (Американцы)",
-      "kp_id": "4872",
-      "imdb_id": "tt0104348",
+      "id": 1994,
+      "title": "Настоящая любовь",
+      "kp_id": "4149",
+      "imdb_id": "tt0108399",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-05-03 05:04:36",
-      "orig_title": "Glengarry Glen Ross",
-      "year": "1992-09-16",
+      "add": "2016-05-09 05:22:42",
+      "orig_title": "True Romance",
+      "year": "1993-09-10",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-05-03 09:51:04",
+      "update": "2016-05-10 07:11:55",
       "iframe_src": ""
     },
     {
-      "id": 1793,
-      "title": "Собачий полдень",
-      "kp_id": "500",
-      "imdb_id": "tt0072890",
+      "id": 1993,
+      "title": "Троя",
+      "kp_id": "3442",
+      "imdb_id": "tt0332452",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-05-03 04:59:10",
-      "orig_title": "Dog Day Afternoon",
-      "year": "1975-09-21",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-05-03 09:42:07",
-      "iframe_src": ""
-    },
-    {
-      "id": 1792,
-      "title": "Разыскивающий",
-      "kp_id": "4878",
-      "imdb_id": "tt0080569",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-05-03 04:57:39",
-      "orig_title": "Cruising",
-      "year": "1980-02-08",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "hdtv",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-05-03 09:46:36",
-      "iframe_src": ""
-    },
-    {
-      "id": 1788,
-      "title": "Притворись моим мужем",
-      "kp_id": "450557",
-      "imdb_id": "tt1381418",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-05-03 04:48:47",
-      "orig_title": "You May Not Kiss the Bride",
-      "year": "2011-04-06",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-05-03 07:42:46",
-      "iframe_src": ""
-    },
-    {
-      "id": 1787,
-      "title": "Певец на свадьбе",
-      "kp_id": "1803",
-      "imdb_id": "tt0120888",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-05-03 04:47:06",
-      "orig_title": "The Wedding Singer",
-      "year": "1998-02-13",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-05-03 07:35:46",
-      "iframe_src": ""
-    },
-    {
-      "id": 1786,
-      "title": "Пушистые против Зубастых 3D",
-      "kp_id": "586318",
-      "imdb_id": "tt1867086",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-05-03 04:45:08",
-      "orig_title": "The Outback",
-      "year": "2012-01-12",
+      "add": "2016-05-09 05:21:13",
+      "orig_title": "Troy",
+      "year": "2004-05-09",
       "translations": [
         "Полное дублирование"
       ],
       "quality": "bd",
       "translation": "Полное дублирование",
-      "update": "2016-05-03 06:17:50",
+      "update": "2016-05-10 07:07:20",
       "iframe_src": ""
     },
     {
-      "id": 1785,
-      "title": "Животное",
-      "kp_id": "4187",
-      "imdb_id": "tt0255798",
+      "id": 1992,
+      "title": "Умереть молодой",
+      "kp_id": "77188",
+      "imdb_id": "tt0100797",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-05-03 04:42:54",
-      "orig_title": "The Animal",
-      "year": "2001-03-21",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2016-05-03 06:41:28",
-      "iframe_src": ""
-    },
-    {
-      "id": 1781,
-      "title": "Счастливчик Гилмор",
-      "kp_id": "3690",
-      "imdb_id": "tt0116483",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-05-02 18:01:42",
-      "orig_title": "Happy Gilmore",
-      "year": "1996-02-16",
+      "add": "2016-05-09 05:19:30",
+      "orig_title": "Too Young to Die?",
+      "year": "1990-02-26",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-05-03 06:20:09",
+      "update": "2016-05-10 07:03:32",
       "iframe_src": ""
     },
     {
-      "id": 1780,
-      "title": "Мужчина по вызову 2",
-      "kp_id": "61341",
-      "imdb_id": "tt0367652",
+      "id": 1991,
+      "title": "Тельма и Луиза",
+      "kp_id": "2614",
+      "imdb_id": "tt0103074",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-05-02 17:59:50",
-      "orig_title": "Deuce Bigalow: European Gigolo",
-      "year": "2005-08-06",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "webdl",
-      "translation": "Полное дублирование",
-      "update": "2016-05-03 06:46:32",
-      "iframe_src": ""
-    },
-    {
-      "id": 1779,
-      "title": "Мужчина по вызову",
-      "kp_id": "4198",
-      "imdb_id": "tt0205000",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-05-02 17:57:48",
-      "orig_title": "Deuce Bigalow: Male Gigolo",
-      "year": "1999-12-02",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-05-03 06:43:24",
-      "iframe_src": ""
-    },
-    {
-      "id": 1777,
-      "title": "Большой папа",
-      "kp_id": "4188",
-      "imdb_id": "tt0142342",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-05-02 17:53:28",
-      "orig_title": "Big Daddy",
-      "year": "1999-06-17",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2016-05-03 06:26:27",
-      "iframe_src": ""
-    },
-    {
-      "id": 1776,
-      "title": "Сказки на ночь",
-      "kp_id": "279770",
-      "imdb_id": "tt0960731",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-05-02 17:46:53",
-      "orig_title": "Bedtime Stories",
-      "year": "2008-12-24",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2016-05-03 06:38:15",
-      "iframe_src": ""
-    },
-    {
-      "id": 1775,
-      "title": "Дикая вишня",
-      "kp_id": "409460",
-      "imdb_id": "tt1222329",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-05-02 17:14:04",
-      "orig_title": "Wild Cherry",
-      "year": "2009-04-10",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-05-03 06:51:18",
-      "iframe_src": ""
-    },
-    {
-      "id": 1774,
-      "title": "Большой Стэн",
-      "kp_id": "231150",
-      "imdb_id": "tt0490086",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-05-02 17:11:20",
-      "orig_title": "Big Stan",
-      "year": "2007-11-05",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2016-05-03 06:48:46",
-      "iframe_src": ""
-    },
-    {
-      "id": 1773,
-      "title": "Враг государства №1: Легенда",
-      "kp_id": "271936",
-      "imdb_id": "tt0411272",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-05-01 10:21:38",
-      "orig_title": "L'ennemi public n°1",
-      "year": "2008-10-22",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2016-05-01 14:31:33",
-      "iframe_src": ""
-    },
-    {
-      "id": 1772,
-      "title": "Враг государства №1",
-      "kp_id": "424044",
-      "imdb_id": "tt1259014",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-05-01 10:20:02",
-      "orig_title": "L'instinct de mort",
-      "year": "2008-09-11",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2016-05-01 14:26:37",
-      "iframe_src": ""
-    },
-    {
-      "id": 1765,
-      "title": "Город грехов 2: Женщина, ради которой стоит убивать",
-      "kp_id": "103391",
-      "imdb_id": "tt0458481",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-05-01 07:24:58",
-      "orig_title": "Sin City: A Dame to Kill For",
-      "year": "2014-08-19",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2016-05-01 14:18:21",
-      "iframe_src": ""
-    },
-    {
-      "id": 1747,
-      "title": "От заката до рассвета 3: Дочь палача",
-      "kp_id": "77155",
-      "imdb_id": "tt0120695",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-04-30 16:51:21",
-      "orig_title": "From Dusk Till Dawn 3: The Hangman's Daughter",
-      "year": "1999-10-31",
+      "add": "2016-05-09 05:18:09",
+      "orig_title": "Thelma & Louise",
+      "year": "1991-05-24",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-05-01 13:53:17",
+      "update": "2016-05-10 06:58:48",
       "iframe_src": ""
     },
     {
-      "id": 1746,
-      "title": "От заката до рассвета 2: Кровавые деньги из Техаса",
-      "kp_id": "77154",
-      "imdb_id": "tt0120860",
+      "id": 1990,
+      "title": "Древо жизни",
+      "kp_id": "256408",
+      "imdb_id": "tt0478304",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-04-30 16:49:28",
-      "orig_title": "From Dusk Till Dawn 2: Texas Blood Money",
-      "year": "1999-03-16",
+      "add": "2016-05-09 05:16:43",
+      "orig_title": "The Tree of Life",
+      "year": "2011-05-16",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2016-05-10 06:52:10",
+      "iframe_src": ""
+    },
+    {
+      "id": 1989,
+      "title": "Мексиканец",
+      "kp_id": "753",
+      "imdb_id": "tt0236493",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-05-09 05:15:01",
+      "orig_title": "The Mexican",
+      "year": "2001-03-02",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2016-05-10 06:43:07",
+      "iframe_src": ""
+    },
+    {
+      "id": 1987,
+      "title": "Советник",
+      "kp_id": "662834",
+      "imdb_id": "tt2193215",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-05-09 05:11:44",
+      "orig_title": "The Counselor",
+      "year": "2013-10-03",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2016-05-10 06:35:19",
+      "iframe_src": ""
+    },
+    {
+      "id": 1986,
+      "title": "Как трусливый Роберт Форд убил Джесси Джеймса",
+      "kp_id": "102127",
+      "imdb_id": "tt0443680",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-05-09 05:05:18",
+      "orig_title": "The Assassination of Jesse James by the Coward Robert Ford",
+      "year": "2007-09-02",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-05-01 13:51:09",
+      "update": "2016-05-10 06:31:07",
       "iframe_src": ""
     },
     {
-      "id": 919,
-      "title": "Мое большое греческое лето",
-      "kp_id": "261210",
-      "imdb_id": "tt0865559",
+      "id": 1984,
+      "title": "Семь лет в Тибете",
+      "kp_id": "5423",
+      "imdb_id": "tt0120102",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-04-09 18:20:12",
-      "orig_title": "My Life in Ruins",
-      "year": "2009-03-03",
+      "add": "2016-05-09 05:01:24",
+      "orig_title": "Seven Years in Tibet",
+      "year": "1997-09-03",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-05-01 14:11:48",
+      "update": "2016-05-10 06:23:28",
+      "iframe_src": ""
+    },
+    {
+      "id": 1982,
+      "title": "Ограбление казино",
+      "kp_id": "572027",
+      "imdb_id": "tt1764234",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-05-09 04:58:01",
+      "orig_title": "Killing Them Softly",
+      "year": "2012-05-22",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2016-05-10 06:15:08",
+      "iframe_src": ""
+    },
+    {
+      "id": 1981,
+      "title": "Калифорния",
+      "kp_id": "12093",
+      "imdb_id": "tt0107302",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-05-09 04:56:27",
+      "orig_title": "Kalifornia",
+      "year": "1993-09-03",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-05-10 06:11:46",
+      "iframe_src": ""
+    },
+    {
+      "id": 1980,
+      "title": "Интервью с вампиром",
+      "kp_id": "8151",
+      "imdb_id": "tt0110148",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-05-09 04:55:09",
+      "orig_title": "Interview with the Vampire: The Vampire Chronicles",
+      "year": "1994-11-09",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2016-05-10 06:01:25",
+      "iframe_src": ""
+    },
+    {
+      "id": 1977,
+      "title": "Вавилон",
+      "kp_id": "102125",
+      "imdb_id": "tt0449467",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-05-09 04:49:56",
+      "orig_title": "Babel",
+      "year": "2006-05-23",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2016-05-10 05:50:57",
+      "iframe_src": ""
+    },
+    {
+      "id": 1976,
+      "title": "Там, где течет река",
+      "kp_id": "8839",
+      "imdb_id": "tt0105265",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-05-09 04:47:57",
+      "orig_title": "A River Runs Through It",
+      "year": "1992-09-13",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-05-10 05:48:07",
+      "iframe_src": ""
+    },
+    {
+      "id": 1975,
+      "title": "Очень страшное кино 5",
+      "kp_id": "255379",
+      "imdb_id": "tt0795461",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-05-08 11:07:42",
+      "orig_title": "Scary Movie 5",
+      "year": "2013-04-11",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2016-05-09 13:58:26",
+      "iframe_src": ""
+    },
+    {
+      "id": 1974,
+      "title": "Очень страшное кино 4",
+      "kp_id": "32655",
+      "imdb_id": "tt0362120",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-05-08 11:03:47",
+      "orig_title": "Scary Movie 4",
+      "year": "2006-04-12",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2016-05-09 13:56:10",
+      "iframe_src": ""
+    },
+    {
+      "id": 1973,
+      "title": "Очень страшное кино 3",
+      "kp_id": "5002",
+      "imdb_id": "tt0306047",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-05-08 11:02:23",
+      "orig_title": "Scary Movie 3",
+      "year": "2003-10-20",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2016-05-09 13:53:25",
+      "iframe_src": ""
+    },
+    {
+      "id": 1972,
+      "title": "Очень страшное кино 2",
+      "kp_id": "5931",
+      "imdb_id": "tt0257106",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-05-08 11:01:20",
+      "orig_title": "Scary Movie 2",
+      "year": "2001-07-04",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2016-05-09 13:51:43",
+      "iframe_src": ""
+    },
+    {
+      "id": 1971,
+      "title": "Очень страшное кино",
+      "kp_id": "5932",
+      "imdb_id": "tt0175142",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-05-08 10:59:39",
+      "orig_title": "Scary Movie",
+      "year": "2000-07-07",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2016-05-09 13:50:23",
+      "iframe_src": ""
+    },
+    {
+      "id": 1955,
+      "title": "Охотник на оленей",
+      "kp_id": "428",
+      "imdb_id": "tt0077416",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-05-07 09:28:38",
+      "orig_title": "The Deer Hunter",
+      "year": "1978-12-08",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-05-10 05:43:43",
       "iframe_src": ""
     }
   ]

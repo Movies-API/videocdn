@@ -1,363 +1,365 @@
 {
   "data": [
     {
-      "id": 8566,
-      "title": "Детективы Агаты Кристи: Убийство в трех актах",
-      "kp_id": "94352",
-      "imdb_id": "tt0091572",
+      "id": 8766,
+      "title": "Канадский бекон",
+      "kp_id": "4933",
+      "imdb_id": "tt0109370",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-01-04 07:07:34",
-      "orig_title": "Murder in Three Acts",
-      "year": "1986-09-30",
+      "add": "2017-01-09 13:32:08",
+      "orig_title": "Canadian Bacon",
+      "year": "1995-06-08",
       "translations": [
-        "Полное дублирование"
+        "Профессиональный (многоголосый закадровый)"
       ],
-      "quality": "webdl",
-      "translation": "Полное дублирование",
-      "update": "2017-01-04 11:21:06",
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2017-01-10 10:24:25",
       "iframe_src": ""
     },
     {
-      "id": 8565,
-      "title": "Любовь на сене",
-      "kp_id": "501896",
-      "imdb_id": "tt2591658",
+      "id": 8765,
+      "title": "Дети кукурузы",
+      "kp_id": "7456",
+      "imdb_id": "tt0087050",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-01-04 07:06:45",
-      "orig_title": "Lyubov na sene",
-      "year": "2010-04-04",
+      "add": "2017-01-09 13:30:18",
+      "orig_title": "Children of the Corn",
+      "year": "1984-03-09",
       "translations": [
-        "Оригинальная дорожка"
+        "Профессиональный (многоголосый закадровый)"
       ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2017-01-04 11:23:38",
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2017-01-10 10:26:52",
       "iframe_src": ""
     },
     {
-      "id": 8564,
-      "title": "Летний шторм",
-      "kp_id": "85101",
-      "imdb_id": "tt0420206",
+      "id": 8764,
+      "title": "Слежка 2: Снова в засаде",
+      "kp_id": "4051",
+      "imdb_id": "tt0106292",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-01-04 07:05:55",
-      "orig_title": "Sommersturm",
-      "year": "2004-09-02",
+      "add": "2017-01-09 13:28:28",
+      "orig_title": "Another Stakeout",
+      "year": "1993-07-23",
       "translations": [
-        "Авторский (одноголосый закадровый) (Кузнецов)"
+        "Профессиональный (многоголосый закадровый)"
       ],
-      "quality": "dvdrip",
-      "translation": "Авторский (одноголосый закадровый) (Кузнецов)",
-      "update": "2017-01-04 11:22:56",
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2017-01-10 10:28:22",
       "iframe_src": ""
     },
     {
-      "id": 8563,
-      "title": "Курочка Ряба",
-      "kp_id": "41279",
-      "imdb_id": "tt0110289",
+      "id": 8763,
+      "title": "Мистическая пицца",
+      "kp_id": "1114",
+      "imdb_id": "tt0095690",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-01-04 07:04:33",
-      "orig_title": "Kurochka Ryaba",
-      "year": "1995-02-08",
+      "add": "2017-01-09 12:40:18",
+      "orig_title": "Mystic Pizza",
+      "year": "1988-10-21",
       "translations": [
-        "Оригинальная дорожка"
+        "Профессиональный (многоголосый закадровый)"
       ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2017-01-04 11:20:40",
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2017-01-10 10:29:32",
       "iframe_src": ""
     },
     {
-      "id": 8562,
-      "title": "Джеки Чан: Мои трюки",
-      "kp_id": "251957",
-      "imdb_id": "tt0242546",
+      "id": 8762,
+      "title": "Черри 2000",
+      "kp_id": "2700",
+      "imdb_id": "tt0092746",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-01-04 07:03:18",
-      "orig_title": "Jackie Chan: My Stunts",
-      "year": "1999-03-30",
+      "add": "2017-01-09 12:38:56",
+      "orig_title": "Cherry 2000",
+      "year": "1987-11-12",
       "translations": [
         "Профессиональный (двухголосый закадровый)"
       ],
-      "quality": "dvdrip",
+      "quality": "bd",
       "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2017-01-04 11:14:30",
+      "update": "2017-01-10 10:31:07",
       "iframe_src": ""
     },
     {
-      "id": 8561,
-      "title": "Опасные связи",
-      "kp_id": "198378",
-      "imdb_id": "tt0053002",
+      "id": 8699,
+      "title": "Против всех правил",
+      "kp_id": "1008678",
+      "imdb_id": null,
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-01-04 07:02:24",
-      "orig_title": "Les liaisons dangereuses",
-      "year": "1959-09-09",
-      "translations": [
-        "Любительский (многоголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Любительский (многоголосый закадровый)",
-      "update": "2017-01-04 11:21:32",
-      "iframe_src": ""
-    },
-    {
-      "id": 8560,
-      "title": "Статский советник",
-      "kp_id": "94111",
-      "imdb_id": "tt0450158",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-01-04 07:01:06",
-      "orig_title": "Statskiy sovetnik",
-      "year": "2005-04-21",
+      "add": "2017-01-08 09:30:16",
+      "orig_title": "Против всех правил",
+      "year": "2017-01-07",
       "translations": [
         "Оригинальная дорожка"
       ],
-      "quality": "dvdrip",
+      "quality": "hdtv",
       "translation": "Оригинальная дорожка",
-      "update": "2017-01-04 11:15:11",
+      "update": "2017-01-10 08:18:18",
       "iframe_src": ""
     },
     {
-      "id": 8555,
-      "title": "Кунг-фу Вин Чунь",
-      "kp_id": "586652",
-      "imdb_id": "tt1900886",
+      "id": 8698,
+      "title": "Фото на документы",
+      "kp_id": "794702",
+      "imdb_id": "tt3655648",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-01-04 06:50:57",
-      "orig_title": "Gong fu yong chun",
-      "year": "2010-10-12",
+      "add": "2017-01-08 09:26:32",
+      "orig_title": "Foto na dokumenty",
+      "year": "2013-08-24",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "webdl",
+      "translation": "Оригинальная дорожка",
+      "update": "2017-01-10 08:19:16",
+      "iframe_src": ""
+    },
+    {
+      "id": 8696,
+      "title": "Белая белая ночь",
+      "kp_id": "797014",
+      "imdb_id": "tt4312900",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-01-08 09:18:39",
+      "orig_title": "Belaya belaya noch",
+      "year": "2015-11-07",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "webdl",
+      "translation": "Оригинальная дорожка",
+      "update": "2017-01-10 08:20:40",
+      "iframe_src": ""
+    },
+    {
+      "id": 8692,
+      "title": "Ты лучше смотри в оба",
+      "kp_id": "22654",
+      "imdb_id": "tt0081793",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-01-08 08:47:51",
+      "orig_title": "You Better Watch Out",
+      "year": "1980-11-01",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Дольский Андрей)"
+      ],
+      "quality": "bd",
+      "translation": "Авторский (одноголосый закадровый) (Дольский Андрей)",
+      "update": "2017-01-10 08:28:22",
+      "iframe_src": ""
+    },
+    {
+      "id": 8690,
+      "title": "Первопроходец",
+      "kp_id": "678931",
+      "imdb_id": "tt2369205",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-01-08 08:42:44",
+      "orig_title": "Pionér",
+      "year": "2013-08-30",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2017-01-10 08:22:51",
+      "iframe_src": ""
+    },
+    {
+      "id": 8689,
+      "title": "Свидетельство",
+      "kp_id": "555759",
+      "imdb_id": "tt1640218",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-01-08 08:39:49",
+      "orig_title": "Evidence",
+      "year": "2012-03-12",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2017-01-10 08:26:31",
+      "iframe_src": ""
+    },
+    {
+      "id": 8673,
+      "title": "Божественные тайны сестричек Я-Я",
+      "kp_id": "5249",
+      "imdb_id": "tt0279778",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-01-07 10:10:45",
+      "orig_title": "Divine Secrets of the Ya-Ya Sisterhood",
+      "year": "2002-06-03",
+      "translations": [
+        "Профессиональный (многоголосый)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый)",
+      "update": "2017-01-10 08:33:18",
+      "iframe_src": ""
+    },
+    {
+      "id": 8672,
+      "title": "О Рэй",
+      "kp_id": "866177",
+      "imdb_id": "tt4158624",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-01-07 09:59:47",
+      "orig_title": "About Ray",
+      "year": "2015-09-12",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2017-01-10 08:38:46",
+      "iframe_src": ""
+    },
+    {
+      "id": 8639,
+      "title": "Сексуальная киллерша",
+      "kp_id": "390539",
+      "imdb_id": "tt1056416",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-01-06 11:26:39",
+      "orig_title": "Sexykiller, morirás por ella",
+      "year": "2008-09-12",
+      "translations": [
+        "Любительский (двухголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (двухголосый закадровый)",
+      "update": "2017-01-10 08:40:28",
+      "iframe_src": ""
+    },
+    {
+      "id": 8638,
+      "title": "Белые ирландские пьяницы",
+      "kp_id": "487366",
+      "imdb_id": "tt1550524",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-01-06 11:21:33",
+      "orig_title": "White Irish Drinkers",
+      "year": "2010-09-13",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2017-01-10 08:42:05",
+      "iframe_src": ""
+    },
+    {
+      "id": 8219,
+      "title": "Человек, который все знал",
+      "kp_id": "451365",
+      "imdb_id": "tt1187041",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-12-21 08:33:59",
+      "orig_title": "The Answer Man",
+      "year": "2009-01-18",
       "translations": [
         "Любительский (одноголосый закадровый)"
       ],
-      "quality": "hdtv",
+      "quality": "bd",
       "translation": "Любительский (одноголосый закадровый)",
-      "update": "2017-01-04 09:59:43",
+      "update": "2017-01-10 08:57:43",
       "iframe_src": ""
     },
     {
-      "id": 8554,
-      "title": "Вакантна жизнь шеф-повара",
-      "kp_id": "765099",
-      "imdb_id": null,
+      "id": 8213,
+      "title": "Этот демон внутри",
+      "kp_id": "772869",
+      "imdb_id": "tt3511542",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-01-03 10:53:35",
-      "orig_title": "Вакантна жизнь шеф-повара",
-      "year": "2016-03-10",
+      "add": "2016-12-21 07:01:03",
+      "orig_title": "Mo jing",
+      "year": "2014-02-08",
       "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2017-01-04 10:33:00",
-      "iframe_src": ""
-    },
-    {
-      "id": 8553,
-      "title": "Утомленные солнцем",
-      "kp_id": "40848",
-      "imdb_id": "tt0111579",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-01-03 10:45:49",
-      "orig_title": "Utomlennye solntsem",
-      "year": "1994-05-21",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2017-01-04 10:05:15",
-      "iframe_src": ""
-    },
-    {
-      "id": 8528,
-      "title": "Без комментариев",
-      "kp_id": "842252",
-      "imdb_id": "tt4599292",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-01-02 16:12:30",
-      "orig_title": "No Comment",
-      "year": "2015-11-06",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2017-01-04 11:10:58",
-      "iframe_src": ""
-    },
-    {
-      "id": 8527,
-      "title": "#Нереальная любовь",
-      "kp_id": "696434",
-      "imdb_id": "tt3524032",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-01-02 16:10:16",
-      "orig_title": "#Nerealnaya lyubov",
-      "year": "2014-02-13",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2017-01-04 11:08:57",
-      "iframe_src": ""
-    },
-    {
-      "id": 8526,
-      "title": "Некрасивая Любовь",
-      "kp_id": "932492",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-01-02 16:08:42",
-      "orig_title": "Некрасивая Любовь",
-      "year": "2015-10-10",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2017-01-04 11:06:55",
-      "iframe_src": ""
-    },
-    {
-      "id": 8525,
-      "title": "Небесный суд",
-      "kp_id": "543331",
-      "imdb_id": "tt2005299",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-01-02 16:06:59",
-      "orig_title": "Nebesnyy sud",
-      "year": "2012-05-31",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2017-01-04 11:05:25",
-      "iframe_src": ""
-    },
-    {
-      "id": 8524,
-      "title": "Моя мама - Снегурочка",
-      "kp_id": "438255",
-      "imdb_id": "tt1775355",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-01-02 16:05:24",
-      "orig_title": "Moya mama - Snegurochka",
-      "year": "2007-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2017-01-04 11:03:35",
-      "iframe_src": ""
-    },
-    {
-      "id": 8523,
-      "title": "Миллионер",
-      "kp_id": "669465",
-      "imdb_id": "tt3084284",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-01-02 16:02:37",
-      "orig_title": "Millioner",
-      "year": "2012-03-08",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2017-01-04 11:01:37",
-      "iframe_src": ""
-    },
-    {
-      "id": 8522,
-      "title": "Между нот, или Тантрическая симфония",
-      "kp_id": "841767",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-01-02 16:00:46",
-      "orig_title": "Между нот, или Тантрическая симфония",
-      "year": "2015-11-19",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2017-01-04 10:59:20",
-      "iframe_src": ""
-    },
-    {
-      "id": 8521,
-      "title": "Дед",
-      "kp_id": "678685",
-      "imdb_id": "tt3641110",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-01-02 15:58:14",
-      "orig_title": "Ded",
-      "year": "2011-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2017-01-04 10:58:26",
-      "iframe_src": ""
-    },
-    {
-      "id": 8520,
-      "title": "Звезда",
-      "kp_id": "41360",
-      "imdb_id": "tt0326450",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-01-02 15:56:54",
-      "orig_title": "Zvezda",
-      "year": "2002-07-11",
-      "translations": [
-        "Оригинальная дорожка"
+        "Любительский (двухголосый закадровый)"
       ],
       "quality": "bd",
-      "translation": "Оригинальная дорожка",
-      "update": "2017-01-04 10:35:01",
+      "translation": "Любительский (двухголосый закадровый)",
+      "update": "2017-01-10 08:57:47",
       "iframe_src": ""
     },
     {
-      "id": 8519,
-      "title": "Утомленные солнцем 2: Цитадель",
-      "kp_id": "481101",
-      "imdb_id": "tt1912518",
+      "id": 8161,
+      "title": "Эрнест спасает Рождество",
+      "kp_id": "2489",
+      "imdb_id": "tt0095107",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-01-02 15:54:59",
-      "orig_title": "Utomlennye solntsem 2",
-      "year": "2011-05-05",
+      "add": "2016-12-18 16:38:02",
+      "orig_title": "Ernest Saves Christmas",
+      "year": "1988-11-11",
       "translations": [
-        "Оригинальная дорожка"
+        "Авторский (одноголосый закадровый) (Михалёв Алексей)"
+      ],
+      "quality": "webdl",
+      "translation": "Авторский (одноголосый закадровый) (Михалёв Алексей)",
+      "update": "2017-01-10 08:59:39",
+      "iframe_src": ""
+    },
+    {
+      "id": 4758,
+      "title": "Такой же предатель, как и мы",
+      "kp_id": "603452",
+      "imdb_id": "tt1995390",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-08-29 05:08:53",
+      "orig_title": "Our Kind of Traitor",
+      "year": "2016-05-01",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)",
+        "Профессиональный (многоголосый закадровый) (iTunes)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2017-01-10 08:30:57",
+      "iframe_src": ""
+    },
+    {
+      "id": 4173,
+      "title": "Знакомьтесь, семейка Блэков",
+      "kp_id": "845467",
+      "imdb_id": "tt4191580",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-07-26 11:55:22",
+      "orig_title": "Meet the Blacks",
+      "year": "2016-04-01",
+      "translations": [
+        "Любительский (двухголосый закадровый)",
+        "Профессиональный (многоголосый закадровый) (iTunes)"
       ],
       "quality": "bd",
-      "translation": "Оригинальная дорожка",
-      "update": "2017-01-04 10:07:19",
+      "translation": "Любительский (двухголосый закадровый)",
+      "update": "2017-01-10 08:17:36",
       "iframe_src": ""
     }
   ]

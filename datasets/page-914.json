@@ -1,366 +1,367 @@
 {
   "data": [
     {
-      "id": 32423,
-      "title": "Полицейские огни",
-      "kp_id": "900603",
-      "imdb_id": "tt4224752",
+      "id": 32731,
+      "title": "Миньоны-скауты",
+      "kp_id": "1293153",
+      "imdb_id": "tt10627776",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-10-28 07:26:04",
-      "orig_title": "Highlighters",
-      "year": "2019-01-08",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-10-28 10:09:34",
-      "iframe_src": ""
-    },
-    {
-      "id": 32421,
-      "title": "Не ради Оскара",
-      "kp_id": "1295377",
-      "imdb_id": "tt10843676",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-28 07:22:03",
-      "orig_title": "Not the Oscars",
-      "year": "2019-02-24",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-10-28 10:09:05",
-      "iframe_src": ""
-    },
-    {
-      "id": 32420,
-      "title": "Мальчик, который кричал \"Волк!\"",
-      "kp_id": "1190107",
-      "imdb_id": "tt8871394",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-28 07:18:11",
-      "orig_title": "Quand on crie au loup",
-      "year": "2019-07-03",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-10-28 10:07:31",
-      "iframe_src": ""
-    },
-    {
-      "id": 32419,
-      "title": "Она была такой милашкой",
-      "kp_id": "1019928",
-      "imdb_id": "tt6421998",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-28 07:15:22",
-      "orig_title": "She Was So Pretty: Be Good for Goodness Sake",
-      "year": "2017-10-20",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Колобок)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Колобок)",
-      "update": "2019-10-28 10:06:53",
-      "iframe_src": ""
-    },
-    {
-      "id": 32418,
-      "title": "Дом самоубийц",
-      "kp_id": "1259173",
-      "imdb_id": "tt9575498",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-28 07:13:05",
-      "orig_title": "The Haunting of the Suicide House",
-      "year": "2019-01-09",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-10-28 10:05:54",
-      "iframe_src": ""
-    },
-    {
-      "id": 32416,
-      "title": "Я стеснительный, но я лечусь",
-      "kp_id": "22911",
-      "imdb_id": "tt0077768",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-28 07:01:15",
-      "orig_title": "Je suis timide... mais je me soigne",
-      "year": "1978-08-23",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2019-10-28 10:02:49",
-      "iframe_src": ""
-    },
-    {
-      "id": 32415,
-      "title": "Налево от лифта",
-      "kp_id": "21378",
-      "imdb_id": "tt0096517",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-28 06:58:05",
-      "orig_title": "À gauche en sortant de l'ascenseur",
-      "year": "1988-08-31",
+      "add": "2019-11-05 17:49:42",
+      "orig_title": "Minion Scouts",
+      "year": "2019-08-27",
       "translations": [
         "Полное дублирование"
       ],
-      "quality": "dvdrip",
+      "quality": "bd",
       "translation": "Полное дублирование",
-      "update": "2019-10-28 10:02:07",
+      "update": "2019-11-06 04:31:43",
       "iframe_src": ""
     },
     {
-      "id": 32413,
-      "title": "Воровские кошки-мышки",
-      "kp_id": null,
-      "imdb_id": "tt10515574",
+      "id": 32726,
+      "title": "Однажды зимней ночью",
+      "kp_id": "1063634",
+      "imdb_id": "tt6692264",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-10-27 21:51:27",
-      "orig_title": "The Thief Who Stared at the Thief",
-      "year": "2018-06-08",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Колобок)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Колобок)",
-      "update": "2019-10-28 08:12:10",
-      "iframe_src": ""
-    },
-    {
-      "id": 32412,
-      "title": "Легенда пустыни Гоби",
-      "kp_id": "1279771",
-      "imdb_id": "tt10462646",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-27 21:48:14",
-      "orig_title": "The Legend of Gobi",
-      "year": "2019-09-02",
+      "add": "2019-11-05 17:24:19",
+      "orig_title": "One Winter Night",
+      "year": "2019-12-13",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-10-28 08:11:31",
+      "update": "2019-11-06 04:33:35",
       "iframe_src": ""
     },
     {
-      "id": 32411,
-      "title": "Сердце хочет кричать",
-      "kp_id": "1044030",
-      "imdb_id": "tt6738046",
+      "id": 32725,
+      "title": "Принцесса в замке",
+      "kp_id": "1214439",
+      "imdb_id": "tt8541394",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-10-27 21:45:41",
-      "orig_title": "Kokoro ga sakebitagatterunda.",
-      "year": "2017-07-22",
-      "translations": [
-        "Любительский (двухголосый закадровый) (STEPonee)"
-      ],
-      "quality": "hdtv",
-      "translation": "Любительский (двухголосый закадровый) (STEPonee)",
-      "update": "2019-10-28 08:10:00",
-      "iframe_src": ""
-    },
-    {
-      "id": 32410,
-      "title": "Тату",
-      "kp_id": null,
-      "imdb_id": "tt9742582",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-27 21:41:55",
-      "orig_title": "Tatu",
-      "year": "2017-07-22",
+      "add": "2019-11-05 17:21:03",
+      "orig_title": "Princess in the Castle",
+      "year": "2019-10-31",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-10-28 08:09:02",
+      "update": "2019-11-06 04:32:51",
       "iframe_src": ""
     },
     {
-      "id": 32403,
-      "title": "Бадшах",
-      "kp_id": "669655",
-      "imdb_id": "tt2204243",
+      "id": 32723,
+      "title": "Вакерсдорф",
+      "kp_id": "1054624",
+      "imdb_id": "tt7271882",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-10-27 20:48:21",
-      "orig_title": "Baadshah",
-      "year": "2013-04-04",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (Red Media)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый) (Red Media)",
-      "update": "2019-10-28 07:56:50",
-      "iframe_src": ""
-    },
-    {
-      "id": 32402,
-      "title": "Синяя весна",
-      "kp_id": "55507",
-      "imdb_id": "tt0309291",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-27 20:18:17",
-      "orig_title": "Aoi haru",
-      "year": "2001-09-10",
-      "translations": [
-        "Любительский (двухголосый закадровый) (GREEN TEA)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (двухголосый закадровый) (GREEN TEA)",
-      "update": "2019-10-28 07:56:13",
-      "iframe_src": ""
-    },
-    {
-      "id": 32358,
-      "title": "Меня зовут Долемайт",
-      "kp_id": "1164937",
-      "imdb_id": "tt8526872",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-25 20:55:45",
-      "orig_title": "Dolemite Is My Name",
-      "year": "2019-09-07",
-      "translations": [
-        "Полное дублирование (Netflix)"
-      ],
-      "quality": "webdl",
-      "translation": "Полное дублирование (Netflix)",
-      "update": "2019-10-28 10:04:25",
-      "iframe_src": ""
-    },
-    {
-      "id": 32339,
-      "title": "Дженни Слейт: Боязнь сцены",
-      "kp_id": "1304364",
-      "imdb_id": "tt10971520",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-25 11:28:03",
-      "orig_title": "Jenny Slate: Stage Fright",
-      "year": "2019-10-22",
+      "add": "2019-11-05 17:14:18",
+      "orig_title": "Wackersdorf",
+      "year": "2018-09-20",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
-      "quality": "webdl",
+      "quality": "bd",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-10-28 09:44:06",
+      "update": "2019-11-06 04:34:24",
       "iframe_src": ""
     },
     {
-      "id": 32298,
-      "title": "Снежный цветок",
-      "kp_id": "1181992",
-      "imdb_id": "tt8866450",
+      "id": 32683,
+      "title": "Урожай",
+      "kp_id": "722838",
+      "imdb_id": "tt2543336",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-10-24 18:24:22",
-      "orig_title": "Yuki no Hana",
-      "year": "2019-02-01",
+      "add": "2019-11-04 06:49:47",
+      "orig_title": "The Harvest",
+      "year": "2013-10-19",
       "translations": [
-        "Любительский (двухголосый закадровый) (STEPonee)"
+        "Любительский (двухголосый закадровый) (ColdFilm)"
       ],
       "quality": "webdl",
-      "translation": "Любительский (двухголосый закадровый) (STEPonee)",
-      "update": "2019-10-28 08:15:20",
+      "translation": "Любительский (двухголосый закадровый) (ColdFilm)",
+      "update": "2019-11-05 13:06:02",
       "iframe_src": ""
     },
     {
-      "id": 32226,
-      "title": "Тайны сводницы: убийственная помолвка",
-      "kp_id": "1286731",
-      "imdb_id": "tt8783262",
+      "id": 32681,
+      "title": "В космосе чувств не бывает",
+      "kp_id": "557158",
+      "imdb_id": "tt1686313",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-10-22 07:34:16",
-      "orig_title": "The Matchmaker Mysteries: A Killer Engagement",
-      "year": "2019-10-06",
+      "add": "2019-11-04 06:47:06",
+      "orig_title": "I rymden finns inga känslor",
+      "year": "2010-09-03",
       "translations": [
-        "Любительский (многоголосый закадровый) (AlphaProject)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (AlphaProject)",
-      "update": "2019-10-28 10:10:17",
-      "iframe_src": ""
-    },
-    {
-      "id": 32021,
-      "title": "Сверх(НЕ)естественное",
-      "kp_id": "1137031",
-      "imdb_id": "tt8233874",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-18 18:38:06",
-      "orig_title": "Extra Ordinary",
-      "year": "2019-03-10",
-      "translations": [
-        "Полное дублирование (iTunes)"
+        "Любительский (одноголосый закадровый)"
       ],
       "quality": "bd",
-      "translation": "Полное дублирование (iTunes)",
-      "update": "2019-10-28 10:05:28",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2019-11-05 13:07:52",
       "iframe_src": ""
     },
     {
-      "id": 17630,
-      "title": "Чемпион",
-      "kp_id": "1048511",
-      "imdb_id": "tt8367080",
+      "id": 32677,
+      "title": "Смелый большой панда",
+      "kp_id": "498818",
+      "imdb_id": "tt1576423",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-07-08 22:43:08",
-      "orig_title": "Chaempieon",
-      "year": "2018-05-01",
+      "add": "2019-11-04 06:42:55",
+      "orig_title": "Little Big Panda",
+      "year": "2011-02-03",
       "translations": [
-        "Любительский (многоголосый закадровый) (Колобок)",
-        "Любительский (многоголосый закадровый) (AniDUB)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Колобок)",
-      "update": "2019-10-28 08:13:05",
-      "iframe_src": ""
-    },
-    {
-      "id": 16548,
-      "title": "Я киборг, но это нормально",
-      "kp_id": "264351",
-      "imdb_id": "tt0497137",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-04-30 10:38:18",
-      "orig_title": "Ssaibogeujiman gwaenchanha",
-      "year": "2006-12-07",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)",
-        "Авторский (одноголосый закадровый) (Сербин)",
-        "Любительский (многоголосый закадровый) (AniDUB)"
+        "Полное дублирование"
       ],
       "quality": "bd",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2019-10-28 08:14:15",
+      "translation": "Полное дублирование",
+      "update": "2019-11-05 13:08:58",
+      "iframe_src": ""
+    },
+    {
+      "id": 32556,
+      "title": "Признания",
+      "kp_id": "497657",
+      "imdb_id": "tt1590089",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-31 20:48:46",
+      "orig_title": "Kokuhaku",
+      "year": "2010-06-05",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Сербин Юрий)"
+      ],
+      "quality": "bd",
+      "translation": "Авторский (одноголосый закадровый) (Сербин Юрий)",
+      "update": "2019-11-06 06:59:39",
+      "iframe_src": ""
+    },
+    {
+      "id": 32547,
+      "title": "Мои дождливые дни",
+      "kp_id": "488048",
+      "imdb_id": "tt1538401",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-31 20:12:23",
+      "orig_title": "Tenshi no koi",
+      "year": "2009-10-19",
+      "translations": [
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2019-11-06 06:58:44",
+      "iframe_src": ""
+    },
+    {
+      "id": 32543,
+      "title": "Цвет шафрана",
+      "kp_id": "82321",
+      "imdb_id": "tt0405508",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-31 20:00:04",
+      "orig_title": "Rang De Basanti",
+      "year": "2006-01-26",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-11-06 06:57:34",
+      "iframe_src": ""
+    },
+    {
+      "id": 32541,
+      "title": "Маркета Лазарова",
+      "kp_id": "68319",
+      "imdb_id": "tt0063278",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-31 19:49:35",
+      "orig_title": "Marketa Lazarová",
+      "year": "1967-11-24",
+      "translations": [
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2019-11-06 06:56:36",
+      "iframe_src": ""
+    },
+    {
+      "id": 32516,
+      "title": "Пистолет за десять центов",
+      "kp_id": "654788",
+      "imdb_id": "tt2134170",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-31 11:20:49",
+      "orig_title": "10 Cent Pistol",
+      "year": "2014-04-25",
+      "translations": [
+        "Любительский (многоголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый)",
+      "update": "2019-11-05 19:54:51",
+      "iframe_src": ""
+    },
+    {
+      "id": 32512,
+      "title": "Танцуй, танцуй",
+      "kp_id": "40438",
+      "imdb_id": "tt0317312",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-30 20:54:51",
+      "orig_title": "Dance Dance",
+      "year": "1987-05-15",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "webdl",
+      "translation": "Полное дублирование",
+      "update": "2019-11-06 06:54:53",
+      "iframe_src": ""
+    },
+    {
+      "id": 32507,
+      "title": "Медведица по имени Винни",
+      "kp_id": "153032",
+      "imdb_id": "tt0437088",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-30 20:30:54",
+      "orig_title": "A Bear Named Winnie",
+      "year": "2004-12-12",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-11-06 06:53:24",
+      "iframe_src": ""
+    },
+    {
+      "id": 32502,
+      "title": "Ограбление",
+      "kp_id": "406555",
+      "imdb_id": "tt1193460",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-30 19:31:30",
+      "orig_title": "Bareuge salja",
+      "year": "2007-10-18",
+      "translations": [
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2019-11-06 06:52:09",
+      "iframe_src": ""
+    },
+    {
+      "id": 32483,
+      "title": "Малыш и я",
+      "kp_id": "573706",
+      "imdb_id": "tt1720044",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-29 21:29:27",
+      "orig_title": "Ahgiwa na",
+      "year": "2008-08-13",
+      "translations": [
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2019-11-06 06:51:34",
+      "iframe_src": ""
+    },
+    {
+      "id": 32482,
+      "title": "Свадебная церемония",
+      "kp_id": "506114",
+      "imdb_id": "tt1610452",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-29 21:19:59",
+      "orig_title": "Band Baaja Baaraat",
+      "year": "2010-12-10",
+      "translations": [
+        "Любительский (многоголосый закадровый) (ICG)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (многоголосый закадровый) (ICG)",
+      "update": "2019-11-06 06:49:55",
+      "iframe_src": ""
+    },
+    {
+      "id": 32473,
+      "title": "Наемный убийца",
+      "kp_id": "532",
+      "imdb_id": "tt0097202",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-29 19:28:16",
+      "orig_title": "Dip huet seung hung",
+      "year": "1989-03-24",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-11-06 06:48:02",
+      "iframe_src": ""
+    },
+    {
+      "id": 9291,
+      "title": "Человек из ниоткуда",
+      "kp_id": "484866",
+      "imdb_id": "tt1527788",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-01-30 06:04:42",
+      "orig_title": "Ajeossi",
+      "year": "2010-08-05",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)",
+        "Авторский (одноголосый закадровый) (Сербин Юрий)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-11-06 06:49:12",
+      "iframe_src": ""
+    },
+    {
+      "id": 2191,
+      "title": "Скорость",
+      "kp_id": "1968",
+      "imdb_id": "tt0111257",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-05-15 06:44:18",
+      "orig_title": "Speed",
+      "year": "1994-06-10",
+      "translations": [
+        "Полное дублирование",
+        "Профессиональный (многоголосый закадровый)",
+        "Original (English)",
+        "Авторский (одноголосый закадровый) (Гаврилов Андрей)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2019-11-05 12:50:27",
       "iframe_src": ""
     }
   ]

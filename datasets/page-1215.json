@@ -1,365 +1,363 @@
 {
   "data": [
     {
-      "id": 26902,
-      "title": "Брейк",
-      "kp_id": "1095562",
-      "imdb_id": "tt7343574",
+      "id": 27098,
+      "title": "Киндер-Вилейское привидение",
+      "kp_id": "668615",
+      "imdb_id": "tt2258421",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-05-22 22:24:05",
-      "orig_title": "Break",
-      "year": "2018-07-18",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-05-23 05:14:58",
-      "iframe_src": ""
-    },
-    {
-      "id": 26877,
-      "title": "След в океане",
-      "kp_id": "43839",
-      "imdb_id": "tt0314678",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-05-22 17:26:34",
-      "orig_title": "Sled v okeane",
-      "year": "1965-05-30",
+      "add": "2019-05-26 19:47:28",
+      "orig_title": "Kinder-Vileyskoe prividenie",
+      "year": "2014-03-24",
       "translations": [
         "Оригинальная дорожка"
       ],
-      "quality": "sat",
+      "quality": "dvb",
       "translation": "Оригинальная дорожка",
-      "update": "2019-05-23 05:56:47",
+      "update": "2019-05-27 17:18:05",
       "iframe_src": ""
     },
     {
-      "id": 26876,
-      "title": "Вдовы",
-      "kp_id": "45686",
-      "imdb_id": "tt0178976",
+      "id": 27074,
+      "title": "Три девушки",
+      "kp_id": "265610",
+      "imdb_id": "tt0824276",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-05-22 17:11:35",
-      "orig_title": "Vdovy",
-      "year": "1977-02-13",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-05-23 05:54:58",
-      "iframe_src": ""
-    },
-    {
-      "id": 26875,
-      "title": "Веское основание для убийства",
-      "kp_id": "484378",
-      "imdb_id": "tt3096314",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-05-22 17:06:51",
-      "orig_title": "Veskoe osnovanie dlya ubiystva",
-      "year": "2009-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-05-23 05:53:50",
-      "iframe_src": ""
-    },
-    {
-      "id": 26874,
-      "title": "Ворота в небо",
-      "kp_id": "45842",
-      "imdb_id": "tt0253913",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-05-22 16:58:54",
-      "orig_title": "Vorota v nebo",
-      "year": "1984-02-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "tv",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-05-23 05:50:01",
-      "iframe_src": ""
-    },
-    {
-      "id": 26873,
-      "title": "Возле этих окон",
-      "kp_id": "45874",
-      "imdb_id": "tt0334665",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-05-22 13:17:52",
-      "orig_title": "Vozle etikh okon",
-      "year": "1974-02-25",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "sat",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-05-23 05:49:00",
-      "iframe_src": ""
-    },
-    {
-      "id": 26872,
-      "title": "Я тебя никогда не забуду",
-      "kp_id": "42401",
-      "imdb_id": "tt0086614",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-05-22 13:12:52",
-      "orig_title": "Ya tebya nikogda ne zabudu",
-      "year": "1983-11-28",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-05-23 05:48:18",
-      "iframe_src": ""
-    },
-    {
-      "id": 26871,
-      "title": "Жаворонок",
-      "kp_id": "45283",
-      "imdb_id": "tt0314947",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-05-22 13:07:31",
-      "orig_title": "Zhavoronok",
-      "year": "1965-05-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-05-23 05:47:29",
-      "iframe_src": ""
-    },
-    {
-      "id": 26870,
-      "title": "Авария",
-      "kp_id": "43558",
-      "imdb_id": "tt0147861",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-05-22 13:04:22",
-      "orig_title": "Avariya",
-      "year": "1965-07-12",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "sat",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-05-23 05:46:24",
-      "iframe_src": ""
-    },
-    {
-      "id": 26869,
-      "title": "Белый холст",
-      "kp_id": "420418",
-      "imdb_id": "tt7752576",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-05-22 13:01:12",
-      "orig_title": "Belyy kholst",
-      "year": "2008-08-24",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-05-23 05:45:37",
-      "iframe_src": ""
-    },
-    {
-      "id": 26868,
-      "title": "Болевой прием",
-      "kp_id": "41511",
-      "imdb_id": "tt0317183",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-05-22 12:58:07",
-      "orig_title": "Bolevoy priyom",
-      "year": "1992-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-05-23 05:43:10",
-      "iframe_src": ""
-    },
-    {
-      "id": 26867,
-      "title": "В огне брода нет",
-      "kp_id": "45621",
-      "imdb_id": "tt0062428",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-05-22 12:55:17",
-      "orig_title": "V ogne broda net",
-      "year": "1968-06-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-05-23 05:42:14",
-      "iframe_src": ""
-    },
-    {
-      "id": 26866,
-      "title": "Встреча в горах",
-      "kp_id": "43736",
-      "imdb_id": "tt0235087",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-05-22 12:51:27",
-      "orig_title": "Shekhvedra mtashi",
-      "year": "1967-11-24",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "sat",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-05-23 05:29:57",
-      "iframe_src": ""
-    },
-    {
-      "id": 26862,
-      "title": "Маленький школьный оркестр",
-      "kp_id": "478606",
-      "imdb_id": "tt5074714",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-05-22 12:05:32",
-      "orig_title": "Malenkiy shkolnyy orkestr",
-      "year": "1968-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "tv",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-05-23 05:28:22",
-      "iframe_src": ""
-    },
-    {
-      "id": 26861,
-      "title": "Настоящий тбилисец и другие",
-      "kp_id": "46314",
-      "imdb_id": "tt0280978",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-05-22 11:46:10",
-      "orig_title": "Namdvili tbiliselebi da skhvebi",
-      "year": "1976-05-10",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-05-23 05:26:02",
-      "iframe_src": ""
-    },
-    {
-      "id": 26860,
-      "title": "Небо везде одинаковое...",
-      "kp_id": "762101",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-05-22 11:42:48",
-      "orig_title": "Небо везде одинаковое...",
-      "year": "2012-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "sat",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-05-23 05:19:21",
-      "iframe_src": ""
-    },
-    {
-      "id": 24628,
-      "title": "Триллер",
-      "kp_id": "1195476",
-      "imdb_id": "tt7671414",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-04-14 22:08:10",
-      "orig_title": "Thriller",
-      "year": "2018-09-23",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-05-22 13:34:26",
-      "iframe_src": ""
-    },
-    {
-      "id": 23857,
-      "title": "Сохрани мою душу",
-      "kp_id": "937539",
-      "imdb_id": "tt5031658",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-04-03 22:30:38",
-      "orig_title": "Soul to Keep",
-      "year": "2018-10-10",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-05-22 13:33:31",
-      "iframe_src": ""
-    },
-    {
-      "id": 23749,
-      "title": "Удиви меня",
-      "kp_id": "655450",
-      "imdb_id": "tt2140621",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-04-01 09:47:32",
-      "orig_title": "Udivi menya",
-      "year": "2012-01-22",
+      "add": "2019-05-26 18:02:59",
+      "orig_title": "3 Girls",
+      "year": "2007-04-08",
       "translations": [
         "Оригинальная дорожка"
       ],
       "quality": "hdtv",
       "translation": "Оригинальная дорожка",
-      "update": "2019-05-23 05:56:10",
+      "update": "2019-05-27 17:17:10",
       "iframe_src": ""
     },
     {
-      "id": 16284,
-      "title": "Волга-Волга",
-      "kp_id": "45825",
-      "imdb_id": "tt0030947",
+      "id": 27072,
+      "title": "Бросок",
+      "kp_id": "46229",
+      "imdb_id": "tt0231299",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-04-15 20:21:07",
-      "orig_title": "Volga - Volga",
-      "year": "1938-04-24",
+      "add": "2019-05-26 16:56:03",
+      "orig_title": "Brosok",
+      "year": "1981-01-01",
       "translations": [
         "Оригинальная дорожка"
       ],
-      "quality": "webdl",
+      "quality": "sat",
       "translation": "Оригинальная дорожка",
-      "update": "2019-05-23 05:53:03",
+      "update": "2019-05-27 17:14:47",
+      "iframe_src": ""
+    },
+    {
+      "id": 27071,
+      "title": "Будь счастлива, Юлия!",
+      "kp_id": "46232",
+      "imdb_id": "tt0266368",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-05-26 16:47:07",
+      "orig_title": "Bud schastliva, Yuliya",
+      "year": "1983-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "sat",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-05-27 17:14:08",
+      "iframe_src": ""
+    },
+    {
+      "id": 27069,
+      "title": "Дочки-матери",
+      "kp_id": "44244",
+      "imdb_id": "tt0071428",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-05-26 16:38:22",
+      "orig_title": "Dochki-materi",
+      "year": "1975-03-27",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "hdtv",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-05-27 17:11:38",
+      "iframe_src": ""
+    },
+    {
+      "id": 27068,
+      "title": "Дом на Английской набережной",
+      "kp_id": "470915",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-05-26 16:34:35",
+      "orig_title": "Дом на Английской набережной",
+      "year": "2007-08-15",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "sat",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-05-27 17:09:52",
+      "iframe_src": ""
+    },
+    {
+      "id": 27067,
+      "title": "Два долгих гудка в тумане",
+      "kp_id": "44331",
+      "imdb_id": "tt0182056",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-05-26 16:29:51",
+      "orig_title": "Dva dolgikh gudka v tumane",
+      "year": "1981-07-20",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-05-27 17:08:26",
+      "iframe_src": ""
+    },
+    {
+      "id": 27064,
+      "title": "Фантазия на тему любви",
+      "kp_id": "44400",
+      "imdb_id": "tt0231565",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-05-26 16:19:41",
+      "orig_title": "Fantaziya na temu lyubvi",
+      "year": "1981-04-24",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "iptv",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-05-27 17:05:08",
+      "iframe_src": ""
+    },
+    {
+      "id": 27063,
+      "title": "Гадюка",
+      "kp_id": "44448",
+      "imdb_id": "tt0174675",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-05-26 16:16:09",
+      "orig_title": "Gadyuka",
+      "year": "1966-05-10",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-05-27 17:03:13",
+      "iframe_src": ""
+    },
+    {
+      "id": 27062,
+      "title": "Главный конструктор",
+      "kp_id": "461724",
+      "imdb_id": "tt5497990",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-05-26 16:12:16",
+      "orig_title": "Glavnyy konstruktor",
+      "year": "1980-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-05-27 17:02:33",
+      "iframe_src": ""
+    },
+    {
+      "id": 27061,
+      "title": "Илга-Иволга",
+      "kp_id": "521688",
+      "imdb_id": "tt3002472",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-05-26 14:04:10",
+      "orig_title": "Ilga-Ivolga",
+      "year": "1972-05-10",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "tv",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-05-27 17:01:52",
+      "iframe_src": ""
+    },
+    {
+      "id": 27060,
+      "title": "Любовь по расписанию",
+      "kp_id": "695452",
+      "imdb_id": "tt3816426",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-05-26 13:57:36",
+      "orig_title": "Lyubov po raspisaniyu",
+      "year": "2012-08-19",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "hdtv",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-05-27 16:57:36",
+      "iframe_src": ""
+    },
+    {
+      "id": 27059,
+      "title": "Быть влюбленным",
+      "kp_id": "41529",
+      "imdb_id": "tt0321564",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-05-26 13:53:17",
+      "orig_title": "Byt vlyublyonnym",
+      "year": "1992-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "sat",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-05-27 16:56:31",
+      "iframe_src": ""
+    },
+    {
+      "id": 27036,
+      "title": "Я подарю себе чудо",
+      "kp_id": "496777",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-05-26 11:08:40",
+      "orig_title": "Я подарю себе чудо",
+      "year": "2010-02-07",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "sat",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-05-27 16:54:59",
+      "iframe_src": ""
+    },
+    {
+      "id": 27034,
+      "title": "Как Вас теперь называть?..",
+      "kp_id": "44684",
+      "imdb_id": "tt0198593",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-05-26 10:51:17",
+      "orig_title": "Kak vas teper nazyvat?",
+      "year": "1965-06-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-05-27 16:52:18",
+      "iframe_src": ""
+    },
+    {
+      "id": 27033,
+      "title": "Крутые ступени",
+      "kp_id": "44998",
+      "imdb_id": "tt0177895",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-05-26 10:20:35",
+      "orig_title": "Krutye stupeni",
+      "year": "1957-07-25",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "sat",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-05-27 16:50:21",
+      "iframe_src": ""
+    },
+    {
+      "id": 27025,
+      "title": "Первая любовь",
+      "kp_id": "94314",
+      "imdb_id": "tt0063424",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-05-25 23:38:40",
+      "orig_title": "Pervaya lyubov",
+      "year": "1969-02-09",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-05-27 17:13:03",
+      "iframe_src": ""
+    },
+    {
+      "id": 27009,
+      "title": "Длинное, длинное дело",
+      "kp_id": "161204",
+      "imdb_id": "tt0412653",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-05-25 20:35:03",
+      "orig_title": "Dlinnoe, dlinnoe delo",
+      "year": "1977-05-09",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "tv",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-05-27 17:21:10",
+      "iframe_src": ""
+    },
+    {
+      "id": 27007,
+      "title": "Ждите писем",
+      "kp_id": "45289",
+      "imdb_id": "tt0173493",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-05-25 20:28:53",
+      "orig_title": "Zhdite pisem",
+      "year": "1960-09-18",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-05-27 17:21:48",
+      "iframe_src": ""
+    },
+    {
+      "id": 26998,
+      "title": "Утренний обход",
+      "kp_id": "42544",
+      "imdb_id": "tt0080072",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-05-25 19:45:10",
+      "orig_title": "Utrenniy obkhod",
+      "year": "1980-04-09",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "sat",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-05-27 17:23:37",
       "iframe_src": ""
     }
   ]

@@ -1,367 +1,367 @@
 {
   "data": [
     {
-      "id": 32709,
-      "title": "Аутсайдеры",
-      "kp_id": "397801",
-      "imdb_id": "tt1091751",
+      "id": 32978,
+      "title": "Турбаза «Волчья»",
+      "kp_id": "253896",
+      "imdb_id": "tt0090271",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-11-05 10:24:55",
-      "orig_title": "The Longshots",
-      "year": "2008-08-22",
+      "add": "2019-11-11 20:38:23",
+      "orig_title": "Vlci bouda",
+      "year": "1988-11-10",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "dvdrip",
+      "translation": "Полное дублирование",
+      "update": "2019-11-12 14:11:05",
+      "iframe_src": ""
+    },
+    {
+      "id": 32977,
+      "title": "Йосси и Джаггер",
+      "kp_id": "8039",
+      "imdb_id": "tt0334754",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-11-11 20:35:03",
+      "orig_title": "Yossi & Jagger",
+      "year": "2002-08-01",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2019-11-12 14:16:08",
+      "iframe_src": ""
+    },
+    {
+      "id": 32976,
+      "title": "Ад",
+      "kp_id": "544920",
+      "imdb_id": "tt1692190",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-11-11 20:30:58",
+      "orig_title": "El infierno",
+      "year": "2010-09-03",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Немахов)"
+      ],
+      "quality": "bd",
+      "translation": "Авторский (одноголосый закадровый) (Немахов)",
+      "update": "2019-11-12 14:11:43",
+      "iframe_src": ""
+    },
+    {
+      "id": 32975,
+      "title": "Однажды в Анатолии",
+      "kp_id": "585042",
+      "imdb_id": "tt1827487",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-11-11 20:20:02",
+      "orig_title": "Bir Zamanlar Anadolu'da",
+      "year": "2011-05-21",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
-      "quality": "hdrip",
+      "quality": "bd",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-11-07 05:27:08",
+      "update": "2019-11-12 13:59:06",
       "iframe_src": ""
     },
     {
-      "id": 32708,
-      "title": "Доктор Стрэндж",
-      "kp_id": "327874",
-      "imdb_id": "tt0077469",
+      "id": 32884,
+      "title": "Бог игроков",
+      "kp_id": "5350",
+      "imdb_id": "tt0097244",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-11-05 10:21:34",
-      "orig_title": "Dr. Strange",
-      "year": "1978-09-06",
-      "translations": [
-        "Любительский (одноголосый закадровый)"
-      ],
-      "quality": "vhs",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2019-11-07 05:26:16",
-      "iframe_src": ""
-    },
-    {
-      "id": 32707,
-      "title": "Девять королев",
-      "kp_id": "767",
-      "imdb_id": "tt0247586",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-11-04 23:33:30",
-      "orig_title": "Nueve reinas",
-      "year": "2000-08-31",
-      "translations": [
-        "Профессиональный (двухголосый закадровый) (Elrom)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (двухголосый закадровый) (Elrom)",
-      "update": "2019-11-06 14:12:08",
-      "iframe_src": ""
-    },
-    {
-      "id": 32706,
-      "title": "Однажды в Китае 2",
-      "kp_id": "22069",
-      "imdb_id": "tt0105839",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-11-04 23:29:46",
-      "orig_title": "Wong Fei Hung II: Nam yee tung chi keung",
-      "year": "1992-04-16",
+      "add": "2019-11-09 20:04:57",
+      "orig_title": "Dou san",
+      "year": "1989-12-14",
       "translations": [
         "Профессиональный (двухголосый закадровый)"
       ],
       "quality": "bd",
       "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2019-11-06 14:11:13",
+      "update": "2019-11-12 13:33:44",
       "iframe_src": ""
     },
     {
-      "id": 32705,
-      "title": "Отель «Птичья клетка»",
-      "kp_id": "95557",
-      "imdb_id": "tt0190268",
+      "id": 32881,
+      "title": "Гоемон",
+      "kp_id": "411887",
+      "imdb_id": "tt1054122",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-11-04 23:22:50",
-      "orig_title": "Paran daemun",
-      "year": "1998-10-31",
+      "add": "2019-11-09 01:57:41",
+      "orig_title": "Goemon",
+      "year": "2009-03-19",
+      "translations": [
+        "Профессиональный (двухголосый закадровый) (CP Digital)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (двухголосый закадровый) (CP Digital)",
+      "update": "2019-11-12 13:32:29",
+      "iframe_src": ""
+    },
+    {
+      "id": 32880,
+      "title": "Гензель и Гретель",
+      "kp_id": "399911",
+      "imdb_id": "tt1002567",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-11-09 01:53:43",
+      "orig_title": "Henjel gwa Geuretel",
+      "year": "2007-12-27",
+      "translations": [
+        "Любительский (двухголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (двухголосый закадровый)",
+      "update": "2019-11-12 13:32:01",
+      "iframe_src": ""
+    },
+    {
+      "id": 32879,
+      "title": "Лагаан: Однажды в Индии",
+      "kp_id": "401605",
+      "imdb_id": "tt0169102",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-11-09 01:48:36",
+      "orig_title": "Lagaan: Once Upon a Time in India",
+      "year": "2001-06-15",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "dvdrip",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-11-06 14:10:04",
+      "update": "2019-11-12 13:31:19",
       "iframe_src": ""
     },
     {
-      "id": 32704,
-      "title": "Пьета",
-      "kp_id": "694238",
-      "imdb_id": "tt2299842",
+      "id": 32874,
+      "title": "Тетрадь смерти",
+      "kp_id": "257534",
+      "imdb_id": "tt0758742",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-11-04 22:26:30",
-      "orig_title": "Pieta",
-      "year": "2012-09-04",
+      "add": "2019-11-09 01:08:44",
+      "orig_title": "Death Note",
+      "year": "2006-06-17",
+      "translations": [
+        "Любительский (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (многоголосый закадровый)",
+      "update": "2019-11-12 13:42:35",
+      "iframe_src": ""
+    },
+    {
+      "id": 32865,
+      "title": "Самаритянка",
+      "kp_id": "71120",
+      "imdb_id": "tt0397619",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-11-08 19:17:23",
+      "orig_title": "Samaria",
+      "year": "2004-02-10",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2019-11-12 13:48:36",
+      "iframe_src": ""
+    },
+    {
+      "id": 32848,
+      "title": "Последняя волна",
+      "kp_id": "25465",
+      "imdb_id": "tt0076299",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-11-07 21:25:47",
+      "orig_title": "The Last Wave",
+      "year": "1977-11-05",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-11-06 14:08:57",
+      "update": "2019-11-12 13:43:18",
       "iframe_src": ""
     },
     {
-      "id": 32703,
-      "title": "Сингам",
-      "kp_id": "592201",
-      "imdb_id": "tt1948150",
+      "id": 32762,
+      "title": "Я – Бог",
+      "kp_id": "452803",
+      "imdb_id": "tt1379228",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-11-04 22:20:18",
-      "orig_title": "Singham",
-      "year": "2011-07-22",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (Red Media)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый) (Red Media)",
-      "update": "2019-11-06 14:07:25",
-      "iframe_src": ""
-    },
-    {
-      "id": 32700,
-      "title": "Бесстрашная гиена",
-      "kp_id": "19249",
-      "imdb_id": "tt0079315",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-11-04 21:46:01",
-      "orig_title": "Xiao quan guai zhao",
-      "year": "1979-02-17",
-      "translations": [
-        "Профессиональный (одноголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (одноголосый закадровый)",
-      "update": "2019-11-06 13:52:52",
-      "iframe_src": ""
-    },
-    {
-      "id": 32699,
-      "title": "Девушка на солнце",
-      "kp_id": "724918",
-      "imdb_id": "tt2569772",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-11-04 21:40:15",
-      "orig_title": "Hidamari no kanojo",
-      "year": "2013-10-12",
-      "translations": [
-        "Любительский (одноголосый закадровый) (PashaUp | Павел Морозов)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (одноголосый закадровый) (PashaUp | Павел Морозов)",
-      "update": "2019-11-06 13:50:04",
-      "iframe_src": ""
-    },
-    {
-      "id": 32698,
-      "title": "Высокая цена жизни",
-      "kp_id": "574917",
-      "imdb_id": "tt1479388",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-11-04 21:35:56",
-      "orig_title": "The High Cost of Living",
-      "year": "2010-09-15",
-      "translations": [
-        "Любительский (одноголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2019-11-06 13:48:40",
-      "iframe_src": ""
-    },
-    {
-      "id": 32697,
-      "title": "Потерянный в снегах",
-      "kp_id": "6376",
-      "imdb_id": "tt0337721",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-11-04 21:32:23",
-      "orig_title": "The Snow Walker",
-      "year": "2003-09-11",
+      "add": "2019-11-05 21:16:21",
+      "orig_title": "Naan Kadavul",
+      "year": "2009-01-19",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
-      "quality": "dvdrip",
+      "quality": "hdtv",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-11-06 13:47:48",
+      "update": "2019-11-12 13:41:09",
       "iframe_src": ""
     },
     {
-      "id": 32696,
-      "title": "Под ветвями боярышника",
-      "kp_id": "489856",
-      "imdb_id": "tt1554523",
+      "id": 32614,
+      "title": "Жестокий зимний блюз",
+      "kp_id": "324637",
+      "imdb_id": "tt0969367",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-11-04 21:29:12",
-      "orig_title": "Shan zha shu zhi lian",
-      "year": "2010-09-16",
+      "add": "2019-11-02 18:44:04",
+      "orig_title": "Yeolhyeol-nama",
+      "year": "2006-11-09",
       "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-11-06 13:46:35",
-      "iframe_src": ""
-    },
-    {
-      "id": 32695,
-      "title": "Ни на одного меньше",
-      "kp_id": "57256",
-      "imdb_id": "tt0209189",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-11-04 21:19:54",
-      "orig_title": "Yi ge dou bu neng shao",
-      "year": "1999-09-07",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (Кириллица)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый) (Кириллица)",
-      "update": "2019-11-06 13:43:21",
-      "iframe_src": ""
-    },
-    {
-      "id": 32694,
-      "title": "Сын в отца",
-      "kp_id": "677664",
-      "imdb_id": "tt2331143",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-11-04 21:16:53",
-      "orig_title": "Soshite chichi ni naru",
-      "year": "2013-05-18",
-      "translations": [
-        "Любительский (одноголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2019-11-06 13:42:28",
-      "iframe_src": ""
-    },
-    {
-      "id": 32665,
-      "title": "Прощай, моя наложница",
-      "kp_id": "7699",
-      "imdb_id": "tt0106332",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-11-03 21:25:58",
-      "orig_title": "Ba wang bie ji",
-      "year": "1993-01-01",
-      "translations": [
-        "Авторский (одноголосый закадровый) (Алексеев)"
-      ],
-      "quality": "bd",
-      "translation": "Авторский (одноголосый закадровый) (Алексеев)",
-      "update": "2019-11-06 13:37:58",
-      "iframe_src": ""
-    },
-    {
-      "id": 31200,
-      "title": "Элефант",
-      "kp_id": "1138865",
-      "imdb_id": "tt8460932",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-09-26 09:47:41",
-      "orig_title": "Elefant",
-      "year": "2019-09-19",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-11-06 21:53:36",
-      "iframe_src": ""
-    },
-    {
-      "id": 20749,
-      "title": "Преследователь",
-      "kp_id": "405704",
-      "imdb_id": "tt1190539",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-12-13 21:55:47",
-      "orig_title": "Chugyeokja",
-      "year": "2008-02-14",
-      "translations": [
-        "Авторский (одноголосый закадровый) (Сербин)",
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Авторский (одноголосый закадровый) (Сербин)",
-      "update": "2019-11-06 13:37:05",
-      "iframe_src": ""
-    },
-    {
-      "id": 19477,
-      "title": "Мой питомец",
-      "kp_id": "622050",
-      "imdb_id": "tt2040605",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-10-09 23:47:57",
-      "orig_title": "Neoneun pet",
-      "year": "2011-11-10",
-      "translations": [
-        "Любительский (двухголосый закадровый)",
         "Любительский (двухголосый закадровый)"
       ],
       "quality": "dvdrip",
       "translation": "Любительский (двухголосый закадровый)",
-      "update": "2019-11-06 13:41:53",
+      "update": "2019-11-12 13:47:12",
       "iframe_src": ""
     },
     {
-      "id": 11879,
-      "title": "Новый мир",
-      "kp_id": "737569",
-      "imdb_id": "tt2625030",
+      "id": 32613,
+      "title": "Мой отец и мой сын",
+      "kp_id": "231096",
+      "imdb_id": "tt0476735",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-06-09 14:12:01",
-      "orig_title": "Sinsegye",
-      "year": "2013-02-21",
+      "add": "2019-11-02 18:38:18",
+      "orig_title": "Babam ve Oglum",
+      "year": "2005-11-18",
       "translations": [
-        "Любительский (двухголосый закадровый) (DeadSno & den904)",
-        "Профессиональный (двухголосый закадровый) (НТВ)"
+        "Любительский (одноголосый закадровый)"
       ],
-      "quality": "bd",
-      "translation": "Любительский (двухголосый закадровый) (DeadSno & den904)",
-      "update": "2019-11-06 14:05:16",
+      "quality": "dvdrip",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2019-11-12 13:46:11",
       "iframe_src": ""
     },
     {
-      "id": 10651,
-      "title": "Великолепный",
-      "kp_id": "22803",
-      "imdb_id": "tt0184526",
+      "id": 32511,
+      "title": "Дорога домой",
+      "kp_id": "13732",
+      "imdb_id": "tt0235060",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-03-31 14:21:14",
-      "orig_title": "Boh lei chun",
-      "year": "1999-02-06",
+      "add": "2019-10-30 20:51:50",
+      "orig_title": "Wo de fu qin mu qin",
+      "year": "1999-10-16",
       "translations": [
-        "Профессиональный (многоголосый закадровый) (Первый канал | ОРТ)",
-        "Авторский (одноголосый закадровый) (Кашкин)"
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2019-11-12 13:52:34",
+      "iframe_src": ""
+    },
+    {
+      "id": 32503,
+      "title": "Забытые",
+      "kp_id": "120916",
+      "imdb_id": "tt0042804",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-30 19:38:26",
+      "orig_title": "Los olvidados",
+      "year": "1950-11-09",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-11-12 13:47:12",
+      "iframe_src": ""
+    },
+    {
+      "id": 17963,
+      "title": "Исцеление",
+      "kp_id": "60832",
+      "imdb_id": "tt0123948",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-07-29 19:13:56",
+      "orig_title": "Cure",
+      "year": "1997-11-06",
+      "translations": [
+        "Любительский (одноголосый закадровый) (liosaa)",
+        "Авторский (одноголосый закадровый) (Штейн)"
       ],
       "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый) (Первый канал | ОРТ)",
-      "update": "2019-11-06 13:45:40",
+      "translation": "Любительский (одноголосый закадровый) (liosaa)",
+      "update": "2019-11-12 13:55:19",
+      "iframe_src": ""
+    },
+    {
+      "id": 15637,
+      "title": "Безумный следователь",
+      "kp_id": "279823",
+      "imdb_id": "tt0969269",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-03-15 13:39:58",
+      "orig_title": "San taam",
+      "year": "2007-09-06",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)",
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-11-12 13:51:10",
+      "iframe_src": ""
+    },
+    {
+      "id": 11479,
+      "title": "Горько-сладкий",
+      "kp_id": "939227",
+      "imdb_id": "tt5099660",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-05-09 18:55:07",
+      "orig_title": "Nigakute amai",
+      "year": "2016-09-10",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Любительский (двухголосый закадровый) (STEPonee)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-11-12 13:35:34",
+      "iframe_src": ""
+    },
+    {
+      "id": 5524,
+      "title": "Последний танец",
+      "kp_id": "1980",
+      "imdb_id": "tt0157191",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-09-26 13:39:36",
+      "orig_title": "One Last Dance",
+      "year": "2003-04-04",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)",
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-11-12 13:30:07",
       "iframe_src": ""
     }
   ]

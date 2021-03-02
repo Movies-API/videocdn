@@ -1,368 +1,375 @@
 {
   "data": [
     {
-      "id": 25461,
-      "title": "Террор",
-      "kp_id": "55258",
-      "imdb_id": "tt0141897",
+      "id": 25817,
+      "title": "Короткое замыкание",
+      "kp_id": "1082343",
+      "imdb_id": "tt6369748",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-04-27 20:56:40",
-      "orig_title": "Terror",
-      "year": "1979-10-26",
+      "add": "2019-05-01 21:03:44",
+      "orig_title": "Scurtcircuit",
+      "year": "2018-02-23",
       "translations": [
-        "Любительский (одноголосый закадровый)"
+        "Любительский (многоголосый закадровый) (Синема УС)"
       ],
-      "quality": "bd",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2019-04-29 12:00:56",
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-05-02 05:29:17",
       "iframe_src": ""
     },
     {
-      "id": 25459,
-      "title": "Фальшивое лицо",
-      "kp_id": "38420",
-      "imdb_id": "tt0074510",
+      "id": 25816,
+      "title": "Мой дорогой слон",
+      "kp_id": "1248095",
+      "imdb_id": "tt10192320",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-04-27 20:51:20",
-      "orig_title": "False Face",
-      "year": "1977-01-01",
+      "add": "2019-05-01 20:59:35",
+      "orig_title": "My Dear Elephant",
+      "year": "2019-04-12",
       "translations": [
-        "Авторский (одноголосый закадровый) (Гаврилов)"
+        "Любительский (многоголосый закадровый) (Колобок)"
       ],
-      "quality": "bd",
-      "translation": "Авторский (одноголосый закадровый) (Гаврилов)",
-      "update": "2019-04-29 11:59:34",
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Колобок)",
+      "update": "2019-05-02 05:30:34",
       "iframe_src": ""
     },
     {
-      "id": 25457,
-      "title": "Цирк сгорел, и клоуны разбежались",
-      "kp_id": "40797",
-      "imdb_id": "tt0137432",
+      "id": 25815,
+      "title": "Целостность",
+      "kp_id": "1209804",
+      "imdb_id": "tt9575160",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-04-27 20:45:12",
-      "orig_title": "Tsirk sgorel, i klouny razbezhalis",
-      "year": "1998-07-04",
+      "add": "2019-05-01 20:56:54",
+      "orig_title": "Lian zheng feng yun",
+      "year": "2019-02-05",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (AlphaProject)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый) (AlphaProject)",
+      "update": "2019-05-02 03:41:02",
+      "iframe_src": ""
+    },
+    {
+      "id": 25813,
+      "title": "Так близко...",
+      "kp_id": "898512",
+      "imdb_id": "tt4515190",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-05-01 20:53:42",
+      "orig_title": "Close But No Cigar",
+      "year": "2017-01-01",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-05-02 03:42:33",
+      "iframe_src": ""
+    },
+    {
+      "id": 25812,
+      "title": "Должны умереть 5ятеро",
+      "kp_id": "1258978",
+      "imdb_id": "tt10188152",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-05-01 20:51:53",
+      "orig_title": "5ive Must Die",
+      "year": "2017-10-31",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-05-02 03:39:22",
+      "iframe_src": ""
+    },
+    {
+      "id": 25811,
+      "title": "Суини мочит наповал",
+      "kp_id": "1062429",
+      "imdb_id": "tt7477820",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-05-01 20:49:42",
+      "orig_title": "Sweeney Killing Sweeney",
+      "year": "2018-09-11",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-05-02 03:56:56",
+      "iframe_src": ""
+    },
+    {
+      "id": 25810,
+      "title": "Полтергейст",
+      "kp_id": "1186565",
+      "imdb_id": "tt8262226",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-05-01 20:48:07",
+      "orig_title": "Polterheist",
+      "year": "2018-09-15",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-05-02 03:52:51",
+      "iframe_src": ""
+    },
+    {
+      "id": 25790,
+      "title": "Книга зла",
+      "kp_id": "1206465",
+      "imdb_id": "tt9154944",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-05-01 06:39:38",
+      "orig_title": "Book of Evil",
+      "year": "2018-12-18",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-05-01 12:44:58",
+      "iframe_src": ""
+    },
+    {
+      "id": 25625,
+      "title": "Продавец воздуха",
+      "kp_id": "427886",
+      "imdb_id": "tt3279918",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-04-29 15:23:58",
+      "orig_title": "Prodavetz vozdukha",
+      "year": "1968-03-23",
       "translations": [
         "Оригинальная дорожка"
       ],
       "quality": "dvdrip",
       "translation": "Оригинальная дорожка",
-      "update": "2019-04-29 11:33:02",
+      "update": "2019-05-01 11:47:04",
       "iframe_src": ""
     },
     {
-      "id": 25454,
-      "title": "Тюремный романс",
-      "kp_id": "279826",
-      "imdb_id": "tt0977241",
+      "id": 22536,
+      "title": "Тьма в Гаване",
+      "kp_id": "961749",
+      "imdb_id": "tt5468130",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-04-27 20:38:40",
-      "orig_title": "Tyuremnyy romans",
-      "year": "1993-01-01",
+      "add": "2019-02-25 20:54:52",
+      "orig_title": "Havana Darkness",
+      "year": "2019-02-05",
       "translations": [
-        "Оригинальная дорожка"
+        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
       ],
-      "quality": "hdtv",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-04-29 11:31:46",
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-05-02 05:31:49",
       "iframe_src": ""
     },
     {
-      "id": 25452,
-      "title": "Заваруха на Гавайях",
-      "kp_id": "25400",
-      "imdb_id": "tt0093146",
+      "id": 18350,
+      "title": "102 далматинца",
+      "kp_id": "8174",
+      "imdb_id": "tt0211181",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-04-27 20:36:08",
-      "orig_title": "Hard Ticket to Hawaii",
-      "year": "1987-09-26",
+      "add": "2018-08-16 22:19:36",
+      "orig_title": "102 Dalmatians",
+      "year": "2000-11-22",
       "translations": [
-        "Любительский (одноголосый закадровый)"
+        "Полное дублирование",
+        "Original (English)"
       ],
-      "quality": "bd",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2019-04-29 11:30:20",
+      "quality": "webdl",
+      "translation": "Полное дублирование",
+      "update": "2019-05-01 11:25:57",
       "iframe_src": ""
     },
     {
-      "id": 25448,
-      "title": "Четвертый",
-      "kp_id": "45502",
-      "imdb_id": "tt0068366",
+      "id": 14929,
+      "title": "Дом на продажу",
+      "kp_id": "1100911",
+      "imdb_id": "tt7608028",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-04-27 20:11:00",
-      "orig_title": "Chetvyortyy",
-      "year": "1973-05-07",
+      "add": "2018-01-20 06:09:59",
+      "orig_title": "The Open House",
+      "year": "2018-01-19",
       "translations": [
-        "Оригинальная дорожка"
+        "Профессиональный (многоголосый закадровый) (Jaskier)",
+        "Original (English)"
       ],
-      "quality": "hdtv",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-04-29 11:15:03",
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый) (Jaskier)",
+      "update": "2019-05-01 11:31:59",
       "iframe_src": ""
     },
     {
-      "id": 25447,
-      "title": "Девочки",
-      "kp_id": "455451",
-      "imdb_id": "tt1741685",
+      "id": 14559,
+      "title": "Чудо",
+      "kp_id": "722951",
+      "imdb_id": "tt2543472",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-04-27 20:00:26",
-      "orig_title": "Devochki",
-      "year": "2006-01-01",
+      "add": "2017-12-04 22:34:59",
+      "orig_title": "Wonder",
+      "year": "2017-11-14",
       "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-04-29 11:13:57",
-      "iframe_src": ""
-    },
-    {
-      "id": 25436,
-      "title": "Человек, который слишком много знал",
-      "kp_id": "8982",
-      "imdb_id": "tt0049470",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-04-26 22:41:53",
-      "orig_title": "The Man Who Knew Too Much",
-      "year": "1956-04-29",
-      "translations": [
-        "Полное дублирование"
+        "Полное дублирование",
+        "Original (English)"
       ],
       "quality": "bd",
       "translation": "Полное дублирование",
-      "update": "2019-04-29 11:11:28",
+      "update": "2019-05-01 11:24:43",
       "iframe_src": ""
     },
     {
-      "id": 25430,
-      "title": "Праздник святого Иоргена",
-      "kp_id": "43222",
-      "imdb_id": "tt0021268",
+      "id": 6315,
+      "title": "Элизабеттаун",
+      "kp_id": "61238",
+      "imdb_id": "tt0368709",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-04-26 19:50:15",
-      "orig_title": "Prazdnik svyatogo Yorgena",
-      "year": "1930-08-25",
+      "add": "2016-10-16 07:34:23",
+      "orig_title": "Elizabethtown",
+      "year": "2005-09-04",
       "translations": [
-        "Оригинальная дорожка"
+        "Полное дублирование",
+        "Original (English)"
       ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-04-29 11:08:04",
+      "quality": "webdl",
+      "translation": "Полное дублирование",
+      "update": "2019-05-01 11:28:05",
       "iframe_src": ""
     },
     {
-      "id": 25429,
-      "title": "Небо зовет",
-      "kp_id": "7340",
-      "imdb_id": "tt0053103",
+      "id": 4788,
+      "title": "Муравей Антц",
+      "kp_id": "15123",
+      "imdb_id": "tt0120587",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-04-26 19:46:02",
-      "orig_title": "Nebo zovyot",
-      "year": "1959-09-12",
+      "add": "2016-08-29 08:13:45",
+      "orig_title": "Antz",
+      "year": "1998-09-19",
       "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-04-29 11:07:13",
-      "iframe_src": ""
-    },
-    {
-      "id": 25428,
-      "title": "Чистое небо",
-      "kp_id": "45513",
-      "imdb_id": "tt0053712",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-04-26 19:42:47",
-      "orig_title": "Chistoe nebo",
-      "year": "1961-05-20",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-04-29 11:05:38",
-      "iframe_src": ""
-    },
-    {
-      "id": 25427,
-      "title": "Аэлита, не приставай к мужчинам",
-      "kp_id": "43416",
-      "imdb_id": "tt0126775",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-04-26 19:24:41",
-      "orig_title": "Aelita, ne pristavay k muzhchinam!",
-      "year": "1988-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-04-29 11:04:46",
-      "iframe_src": ""
-    },
-    {
-      "id": 25426,
-      "title": "Акция",
-      "kp_id": "43442",
-      "imdb_id": "tt0092526",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-04-26 19:20:57",
-      "orig_title": "Aktsiya",
-      "year": "1987-10-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-04-29 11:03:19",
-      "iframe_src": ""
-    },
-    {
-      "id": 25425,
-      "title": "Акванавты",
-      "kp_id": "43444",
-      "imdb_id": "tt0197218",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-04-26 19:17:31",
-      "orig_title": "Akvanavty",
-      "year": "1980-10-11",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-04-29 11:00:44",
-      "iframe_src": ""
-    },
-    {
-      "id": 25424,
-      "title": "Аттракцион Захват",
-      "kp_id": "584936",
-      "imdb_id": "tt5114976",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-04-26 19:13:23",
-      "orig_title": "Attraktsion",
-      "year": "2008-01-30",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-04-29 11:00:02",
-      "iframe_src": ""
-    },
-    {
-      "id": 12594,
-      "title": "Кровавый округ: 1983",
-      "kp_id": "422421",
-      "imdb_id": "tt1259573",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-07-21 05:08:20",
-      "orig_title": "Red Riding: In the Year of Our Lord 1983",
-      "year": "2009-02-28",
-      "translations": [
-        "Профессиональный (двухголосый закадровый) (НТВ)",
-        "Любительский (одноголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (двухголосый закадровый) (НТВ)",
-      "update": "2019-04-29 11:53:26",
-      "iframe_src": ""
-    },
-    {
-      "id": 12593,
-      "title": "Кровавый округ: 1980",
-      "kp_id": "422420",
-      "imdb_id": "tt1260581",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-07-21 05:07:05",
-      "orig_title": "Red Riding: In the Year of Our Lord 1980",
-      "year": "2009-02-28",
-      "translations": [
-        "Профессиональный (двухголосый закадровый) (НТВ)",
-        "Любительский (одноголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (двухголосый закадровый) (НТВ)",
-      "update": "2019-04-29 11:52:08",
-      "iframe_src": ""
-    },
-    {
-      "id": 8531,
-      "title": "Анна и король",
-      "kp_id": "5336",
-      "imdb_id": "tt0166485",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-01-02 19:59:56",
-      "orig_title": "Anna and the King",
-      "year": "1999-12-06",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)",
-        "Полное дублирование"
+        "Полное дублирование",
+        "Original (English)"
       ],
       "quality": "hdtv",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-04-29 12:01:46",
+      "translation": "Полное дублирование",
+      "update": "2019-05-01 11:27:06",
       "iframe_src": ""
     },
     {
-      "id": 5557,
-      "title": "Кровавый округ: 1974",
-      "kp_id": "421924",
-      "imdb_id": "tt1259574",
+      "id": 3245,
+      "title": "День матери",
+      "kp_id": "681663",
+      "imdb_id": "tt2395339",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-09-27 11:36:58",
-      "orig_title": "Red Riding: In the Year of Our Lord 1974",
-      "year": "2009-02-28",
+      "add": "2016-06-19 11:40:38",
+      "orig_title": "Mothers and Daughters",
+      "year": "2016-05-06",
       "translations": [
-        "Профессиональный (двухголосый закадровый)",
-        "Любительский (одноголосый закадровый)"
+        "Любительский (двухголосый закадровый)",
+        "Original (English)"
       ],
-      "quality": "bd",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2019-04-29 11:36:20",
+      "quality": "webdl",
+      "translation": "Любительский (двухголосый закадровый)",
+      "update": "2019-05-01 18:30:19",
       "iframe_src": ""
     },
     {
-      "id": 1112,
-      "title": "Чужая страна",
-      "kp_id": "687081",
-      "imdb_id": "tt2325977",
+      "id": 2210,
+      "title": "Сумерки. Сага. Рассвет: Часть 1",
+      "kp_id": "432424",
+      "imdb_id": "tt1324999",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-04-14 17:29:58",
-      "orig_title": "Strangerland",
-      "year": "2015-01-23",
+      "add": "2016-05-15 07:36:29",
+      "orig_title": "The Twilight Saga: Breaking Dawn - Part 1",
+      "year": "2011-10-30",
       "translations": [
-        "Любительский (одноголосый закадровый)",
-        "Профессиональный (многоголосый закадровый)"
+        "Полное дублирование",
+        "Original (English)"
       ],
       "quality": "bd",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2019-04-29 11:09:49",
+      "translation": "Полное дублирование",
+      "update": "2019-05-01 18:26:53",
+      "iframe_src": ""
+    },
+    {
+      "id": 2208,
+      "title": "Сумерки. Сага. Новолуние",
+      "kp_id": "420224",
+      "imdb_id": "tt1259571",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-05-15 07:33:04",
+      "orig_title": "The Twilight Saga: New Moon",
+      "year": "2009-11-18",
+      "translations": [
+        "Полное дублирование",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2019-05-01 18:28:57",
+      "iframe_src": ""
+    },
+    {
+      "id": 2207,
+      "title": "Сумерки",
+      "kp_id": "401177",
+      "imdb_id": "tt1099212",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-05-15 07:31:36",
+      "orig_title": "Twilight",
+      "year": "2008-11-17",
+      "translations": [
+        "Полное дублирование",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2019-05-01 11:22:07",
+      "iframe_src": ""
+    },
+    {
+      "id": 1060,
+      "title": "Сладкий ноябрь",
+      "kp_id": "3795",
+      "imdb_id": "tt0230838",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-04-13 19:25:27",
+      "orig_title": "Sweet November",
+      "year": "2001-02-12",
+      "translations": [
+        "Полное дублирование",
+        "Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "Полное дублирование",
+      "update": "2019-05-01 11:30:51",
       "iframe_src": ""
     }
   ]

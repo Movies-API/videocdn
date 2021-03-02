@@ -1,363 +1,363 @@
 {
   "data": [
     {
-      "id": 3133,
-      "title": "Ослепленный желаниями",
-      "kp_id": "12330",
-      "imdb_id": "tt0230030",
+      "id": 3362,
+      "title": "WAZ: Камера пыток",
+      "kp_id": "258779",
+      "imdb_id": "tt0804552",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-06-13 18:40:44",
-      "orig_title": "Bedazzled",
-      "year": "2000-10-17",
+      "add": "2016-06-24 04:48:53",
+      "orig_title": "w Delta z",
+      "year": "2007-07-30",
       "translations": [
         "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2016-06-24 11:29:05",
+      "iframe_src": ""
+    },
+    {
+      "id": 3360,
+      "title": "Крик 4",
+      "kp_id": "420072",
+      "imdb_id": "tt1262416",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-06-24 04:45:45",
+      "orig_title": "Scream 4",
+      "year": "2011-04-11",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2016-06-24 11:25:45",
+      "iframe_src": ""
+    },
+    {
+      "id": 3359,
+      "title": "Крик 3",
+      "kp_id": "2259",
+      "imdb_id": "tt0134084",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-06-24 04:43:55",
+      "orig_title": "Scream 3",
+      "year": "2000-02-03",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2016-06-24 11:23:48",
+      "iframe_src": ""
+    },
+    {
+      "id": 3358,
+      "title": "Крик 2",
+      "kp_id": "3784",
+      "imdb_id": "tt0120082",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-06-24 04:42:26",
+      "orig_title": "Scream 2",
+      "year": "1997-12-10",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2016-06-24 11:20:56",
+      "iframe_src": ""
+    },
+    {
+      "id": 3357,
+      "title": "Крик",
+      "kp_id": "1807",
+      "imdb_id": "tt0117571",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-06-24 04:40:44",
+      "orig_title": "Scream",
+      "year": "1996-12-18",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-06-24 11:18:47",
+      "iframe_src": ""
+    },
+    {
+      "id": 3356,
+      "title": "Новый парень моей мамы",
+      "kp_id": "258804",
+      "imdb_id": "tt0780534",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-06-24 04:39:14",
+      "orig_title": "My Mom's New Boyfriend",
+      "year": "2008-04-30",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2016-06-24 10:47:35",
+      "iframe_src": ""
+    },
+    {
+      "id": 3354,
+      "title": "Только ты и я",
+      "kp_id": "4018",
+      "imdb_id": "tt0186975",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-06-24 04:35:54",
+      "orig_title": "Down to You",
+      "year": "2000-01-21",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-06-24 10:41:58",
+      "iframe_src": ""
+    },
+    {
+      "id": 3352,
+      "title": "Жестокие игры 3",
+      "kp_id": "81025",
+      "imdb_id": "tt0391891",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-06-24 04:32:52",
+      "orig_title": "Cruel Intentions 3",
+      "year": "2004-05-25",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "webdl",
-      "translation": "Полное дублирование",
-      "update": "2016-06-14 14:49:57",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-06-24 10:37:14",
       "iframe_src": ""
     },
     {
-      "id": 3132,
-      "title": "Воспитание Аризоны",
-      "kp_id": "2796",
-      "imdb_id": "tt0093822",
+      "id": 3351,
+      "title": "Замкнутый круг",
+      "kp_id": "480506",
+      "imdb_id": "tt1465533",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-06-13 18:39:52",
-      "orig_title": "Raising Arizona",
-      "year": "1987-03-06",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2016-06-14 14:45:41",
-      "iframe_src": ""
-    },
-    {
-      "id": 3131,
-      "title": "Мой лучший друг",
-      "kp_id": "256221",
-      "imdb_id": "tt0778784",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-06-13 18:39:02",
-      "orig_title": "Mon meilleur ami",
-      "year": "2006-09-12",
-      "translations": [
-        "Профессиональный (многоголосый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый)",
-      "update": "2016-06-14 14:41:46",
-      "iframe_src": ""
-    },
-    {
-      "id": 3130,
-      "title": "Просто кровь",
-      "kp_id": "2803",
-      "imdb_id": "tt0086979",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-06-13 18:38:21",
-      "orig_title": "Blood Simple",
-      "year": "1984-09-07",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2016-06-14 14:38:16",
-      "iframe_src": ""
-    },
-    {
-      "id": 3129,
-      "title": "Я так давно тебя люблю",
-      "kp_id": "390907",
-      "imdb_id": "tt1068649",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-06-13 18:37:39",
-      "orig_title": "Il y a longtemps que je t'aime",
-      "year": "2008-02-14",
-      "translations": [
-        "Профессиональный (многоголосый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый)",
-      "update": "2016-06-14 14:32:52",
-      "iframe_src": ""
-    },
-    {
-      "id": 3127,
-      "title": "Улика",
-      "kp_id": "14940",
-      "imdb_id": "tt0088930",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-06-13 18:36:06",
-      "orig_title": "Clue",
-      "year": "1985-12-13",
+      "add": "2016-06-24 04:31:25",
+      "orig_title": "Columbus Circle",
+      "year": "2012-02-21",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
-      "quality": "bd",
+      "quality": "hdtv",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-06-14 14:25:11",
+      "update": "2016-06-24 10:33:55",
       "iframe_src": ""
     },
     {
-      "id": 3125,
-      "title": "Барри Линдон",
-      "kp_id": "5032",
-      "imdb_id": "tt0072684",
+      "id": 3350,
+      "title": "Алиби",
+      "kp_id": "81546",
+      "imdb_id": "tt0409681",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-06-13 18:34:29",
-      "orig_title": "Barry Lyndon",
-      "year": "1975-12-18",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-06-14 15:16:28",
-      "iframe_src": ""
-    },
-    {
-      "id": 3123,
-      "title": "Колосс Родосский",
-      "kp_id": "35171",
-      "imdb_id": "tt0054756",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-06-13 18:32:48",
-      "orig_title": "Il colosso di Rodi",
-      "year": "1961-06-16",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2016-06-14 14:19:33",
-      "iframe_src": ""
-    },
-    {
-      "id": 3122,
-      "title": "Хороший, плохой, злой",
-      "kp_id": "349",
-      "imdb_id": "tt0060196",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-06-13 18:31:42",
-      "orig_title": "Il buono, il brutto, il cattivo",
-      "year": "1966-12-23",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-06-14 14:18:09",
-      "iframe_src": ""
-    },
-    {
-      "id": 3121,
-      "title": "Меня зовут Никто",
-      "kp_id": "9961",
-      "imdb_id": "tt0070215",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-06-13 18:31:01",
-      "orig_title": "Il mio nome e Nessuno",
-      "year": "1973-12-13",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-06-14 14:16:03",
-      "iframe_src": ""
-    },
-    {
-      "id": 3118,
-      "title": "Буч Кэссиди и Сандэнс Кид",
-      "kp_id": "421",
-      "imdb_id": "tt0064115",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-06-13 18:28:17",
-      "orig_title": "Butch Cassidy and the Sundance Kid",
-      "year": "1969-09-23",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-06-14 14:13:27",
-      "iframe_src": ""
-    },
-    {
-      "id": 3117,
-      "title": "Однажды на Диком Западе",
-      "kp_id": "376",
-      "imdb_id": "tt0064116",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-06-13 18:27:37",
-      "orig_title": "C'era una volta il West",
-      "year": "1968-12-21",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-06-14 14:10:28",
-      "iframe_src": ""
-    },
-    {
-      "id": 3116,
-      "title": "Крамер против Крамера",
-      "kp_id": "1902",
-      "imdb_id": "tt0079417",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-06-13 18:26:53",
-      "orig_title": "Kramer vs. Kramer",
-      "year": "1979-12-19",
+      "add": "2016-06-24 04:29:45",
+      "orig_title": "The Alibi",
+      "year": "2006-01-12",
       "translations": [
         "Полное дублирование"
       ],
       "quality": "bd",
       "translation": "Полное дублирование",
-      "update": "2016-06-14 14:06:45",
+      "update": "2016-06-24 10:30:32",
       "iframe_src": ""
     },
     {
-      "id": 3115,
-      "title": "На несколько долларов больше",
-      "kp_id": "8190",
-      "imdb_id": "tt0059578",
+      "id": 3349,
+      "title": "Мальчишник",
+      "kp_id": "6986",
+      "imdb_id": "tt0295289",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-06-13 18:26:11",
-      "orig_title": "For A Few Dollars More",
-      "year": "1965-12-18",
+      "add": "2016-06-24 04:27:32",
+      "orig_title": "A Guy Thing",
+      "year": "2003-01-17",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-06-14 13:59:14",
+      "update": "2016-06-24 10:26:25",
       "iframe_src": ""
     },
     {
-      "id": 3113,
-      "title": "Легенда о пианисте",
-      "kp_id": "8335",
-      "imdb_id": "tt0120731",
+      "id": 3348,
+      "title": "Грязный стыд",
+      "kp_id": "22288",
+      "imdb_id": "tt0365125",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-06-13 18:24:40",
-      "orig_title": "La Leggenda Del Pianista Sull'Oceano",
-      "year": "1998-10-28",
+      "add": "2016-06-24 04:25:36",
+      "orig_title": "A Dirty Shame",
+      "year": "2004-09-12",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2016-06-24 10:23:56",
+      "iframe_src": ""
+    },
+    {
+      "id": 3345,
+      "title": "Хэллоуин",
+      "kp_id": "8435",
+      "imdb_id": "tt0077651",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-06-23 14:22:35",
+      "orig_title": "Halloween",
+      "year": "1978-10-25",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-06-14 13:51:50",
+      "update": "2016-06-24 12:05:18",
       "iframe_src": ""
     },
     {
-      "id": 3109,
-      "title": "Мой сосед Тоторо",
-      "kp_id": "8221",
-      "imdb_id": "tt0096283",
+      "id": 3343,
+      "title": "Хэллоуин: 20 лет спустя",
+      "kp_id": "9799",
+      "imdb_id": "tt0120694",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-06-13 18:20:41",
-      "orig_title": "Tonari no Totoro",
-      "year": "1988-04-16",
+      "add": "2016-06-23 14:16:30",
+      "orig_title": "Halloween H20: 20 Years Later",
+      "year": "1998-07-01",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-06-14 13:41:57",
+      "update": "2016-06-24 11:56:33",
       "iframe_src": ""
     },
     {
-      "id": 3082,
-      "title": "Бригада: Наследник",
-      "kp_id": "408915",
-      "imdb_id": "tt1765729",
+      "id": 3342,
+      "title": "Убить пересмешника",
+      "kp_id": "357",
+      "imdb_id": "tt0056592",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-06-13 15:27:02",
-      "orig_title": "Brigada: Naslednik",
-      "year": "2012-11-29",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "bd",
-      "translation": "Оригинальная дорожка",
-      "update": "2016-06-14 15:14:02",
-      "iframe_src": ""
-    },
-    {
-      "id": 3081,
-      "title": "Метро",
-      "kp_id": "521689",
-      "imdb_id": "tt2649128",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-06-13 15:25:14",
-      "orig_title": "Metro",
-      "year": "2013-02-21",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "bd",
-      "translation": "Оригинальная дорожка",
-      "update": "2016-06-14 15:10:56",
-      "iframe_src": ""
-    },
-    {
-      "id": 3059,
-      "title": "Первый рыцарь",
-      "kp_id": "17053",
-      "imdb_id": "tt0113071",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-06-09 17:42:23",
-      "orig_title": "First Knight",
-      "year": "1995-07-07",
+      "add": "2016-06-23 14:14:55",
+      "orig_title": "To Kill a Mockingbird",
+      "year": "1962-12-25",
       "translations": [
         "Полное дублирование"
       ],
       "quality": "bd",
       "translation": "Полное дублирование",
-      "update": "2016-06-14 15:02:21",
+      "update": "2016-06-24 11:54:19",
       "iframe_src": ""
     },
     {
-      "id": 61,
-      "title": "Макс",
-      "kp_id": "811642",
-      "imdb_id": "tt3369806",
+      "id": 3340,
+      "title": "Грязные танцы 2. Гаванские ночи",
+      "kp_id": "4299",
+      "imdb_id": "tt0338096",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-02-08 10:49:17",
-      "orig_title": "Max",
-      "year": "2015-06-25",
+      "add": "2016-06-23 14:12:02",
+      "orig_title": "Dirty Dancing. Havana Nights",
+      "year": "2004-02-27",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2016-06-24 11:48:33",
+      "iframe_src": ""
+    },
+    {
+      "id": 3337,
+      "title": "Энни Холл",
+      "kp_id": "390",
+      "imdb_id": "tt0075686",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-06-23 14:01:21",
+      "orig_title": "Annie Hall",
+      "year": "1977-04-20",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2016-06-24 11:29:42",
+      "iframe_src": ""
+    },
+    {
+      "id": 3335,
+      "title": "Китайский квартал",
+      "kp_id": "365",
+      "imdb_id": "tt0071315",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-06-23 13:57:15",
+      "orig_title": "Chinatown",
+      "year": "1974-06-20",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-06-24 11:26:02",
+      "iframe_src": ""
+    },
+    {
+      "id": 3332,
+      "title": "Почти знаменит",
+      "kp_id": "454",
+      "imdb_id": "tt0181875",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-06-23 13:50:59",
+      "orig_title": "Almost Famous",
+      "year": "2000-09-08",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-06-24 11:11:23",
+      "iframe_src": ""
+    },
+    {
+      "id": 3286,
+      "title": "Полуночный ковбой",
+      "kp_id": "506",
+      "imdb_id": "tt0064665",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-06-21 10:31:19",
+      "orig_title": "Midnight Cowboy",
+      "year": "1969-05-25",
       "translations": [
         "Профессиональный (многоголосый)"
       ],
       "quality": "bd",
       "translation": "Профессиональный (многоголосый)",
-      "update": "2016-06-14 15:05:27",
+      "update": "2016-06-24 12:10:32",
       "iframe_src": ""
     }
   ]

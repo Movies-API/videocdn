@@ -1,364 +1,374 @@
 {
   "data": [
     {
-      "id": 34634,
-      "title": "Ангелы-убийцы",
-      "kp_id": "196979",
-      "imdb_id": "tt0098298",
+      "id": 34918,
+      "title": "Рэдволл: Фильм",
+      "kp_id": "230047",
+      "imdb_id": "tt0306008",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-12-30 23:21:29",
-      "orig_title": "Sha shou tian shi",
-      "year": "1989-04-07",
+      "add": "2020-01-09 21:05:30",
+      "orig_title": "Redwall: The Movie",
+      "year": "2000-01-01",
       "translations": [
-        "Любительский (одноголосый закадровый) (Береговых | Jet)"
+        "Авторский (одноголосый закадровый) (Рябов)"
       ],
       "quality": "dvdrip",
-      "translation": "Любительский (одноголосый закадровый) (Береговых | Jet)",
-      "update": "2020-01-02 14:33:18",
+      "translation": "Авторский (одноголосый закадровый) (Рябов)",
+      "update": "2020-01-10 07:58:54",
       "iframe_src": ""
     },
     {
-      "id": 34633,
-      "title": "Бескрылая летучая мышь",
-      "kp_id": "53128",
-      "imdb_id": "tt0080420",
+      "id": 34907,
+      "title": "Там, где меня нашла любовь",
+      "kp_id": "875587",
+      "imdb_id": "tt4174926",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-12-30 23:19:00",
-      "orig_title": "Wu yi bian fu",
-      "year": "1980-12-11",
+      "add": "2020-01-09 14:46:07",
+      "orig_title": "Where Love Found Me",
+      "year": "2016-05-01",
       "translations": [
-        "Любительский (одноголосый закадровый) (Береговых | Jet)"
+        "Любительский (многоголосый закадровый) (Синема УС)"
       ],
-      "quality": "dvdrip",
-      "translation": "Любительский (одноголосый закадровый) (Береговых | Jet)",
-      "update": "2020-01-02 14:32:38",
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-01-10 04:19:25",
       "iframe_src": ""
     },
     {
-      "id": 34631,
-      "title": "Железные когти Шаолиня",
-      "kp_id": "312414",
-      "imdb_id": "tt0187130",
+      "id": 34902,
+      "title": "Там, где мы пропадаем",
+      "kp_id": "1271149",
+      "imdb_id": "tt10397992",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-12-30 23:13:55",
-      "orig_title": "Ying quan",
-      "year": "1978-09-08",
+      "add": "2020-01-09 12:29:33",
+      "orig_title": "Where We Disappear",
+      "year": "2019-06-21",
       "translations": [
-        "Авторский (одноголосый закадровый) (Живов)"
+        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Original (English)"
       ],
-      "quality": "dvdrip",
-      "translation": "Авторский (одноголосый закадровый) (Живов)",
-      "update": "2020-01-02 14:30:42",
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-01-10 06:59:12",
       "iframe_src": ""
     },
     {
-      "id": 34630,
-      "title": "Закат в Запретном городе",
-      "kp_id": "1025589",
-      "imdb_id": "tt6132962",
+      "id": 34901,
+      "title": "Артефакт озера",
+      "kp_id": "1174142",
+      "imdb_id": "tt8618718",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-12-30 23:05:02",
-      "orig_title": "Ri luo zi jin cheng",
-      "year": "1975-12-12",
+      "add": "2020-01-09 12:22:49",
+      "orig_title": "Lake Artifact",
+      "year": "2019-08-28",
       "translations": [
-        "Любительский (одноголосый закадровый)"
+        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Original (English)"
       ],
-      "quality": "dvdrip",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2020-01-02 14:29:56",
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-01-10 06:54:55",
       "iframe_src": ""
     },
     {
-      "id": 34629,
-      "title": "Королева преступного мира",
-      "kp_id": "220980",
-      "imdb_id": "tt0103300",
+      "id": 34898,
+      "title": "Наёмник",
+      "kp_id": "1151564",
+      "imdb_id": "tt8408218",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-12-30 22:56:12",
-      "orig_title": "Ye sheng huo nu wang - Ba jie chuan qi",
-      "year": "1991-11-20",
+      "add": "2020-01-09 12:13:52",
+      "orig_title": "The Mercenary",
+      "year": "2019-09-23",
       "translations": [
-        "Любительский (одноголосый закадровый)"
+        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Original (English)"
       ],
-      "quality": "dvdrip",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2020-01-02 14:29:04",
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-01-10 06:57:48",
       "iframe_src": ""
     },
     {
-      "id": 34628,
-      "title": "Купидон один",
-      "kp_id": "222133",
-      "imdb_id": "tt0088686",
+      "id": 34888,
+      "title": "Похитители тел",
+      "kp_id": "1245373",
+      "imdb_id": "tt10009030",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-12-30 22:52:18",
-      "orig_title": "Oi san yat ho",
-      "year": "1985-05-17",
+      "add": "2020-01-08 21:03:14",
+      "orig_title": "Snatchers",
+      "year": "2019-03-12",
       "translations": [
-        "Любительский (одноголосый закадровый)"
+        "Любительский (многоголосый закадровый) (AlphaProject)",
+        "Original (English)"
       ],
-      "quality": "dvdrip",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2020-01-02 14:28:24",
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (AlphaProject)",
+      "update": "2020-01-10 06:56:53",
       "iframe_src": ""
     },
     {
-      "id": 34627,
-      "title": "Ладонь Будды и кулак Дракона",
-      "kp_id": "80627",
-      "imdb_id": "tt0200073",
+      "id": 34887,
+      "title": "Шесть дней с Систиной",
+      "kp_id": "1149770",
+      "imdb_id": "tt7710360",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-12-30 22:49:44",
-      "orig_title": "Liu xing fei ying",
-      "year": "1980-01-01",
+      "add": "2020-01-08 21:01:19",
+      "orig_title": "Six Days of Sistine",
+      "year": "2019-04-15",
       "translations": [
-        "Авторский (одноголосый закадровый) (Кузнецов)"
+        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Original (English)"
       ],
-      "quality": "dvdrip",
-      "translation": "Авторский (одноголосый закадровый) (Кузнецов)",
-      "update": "2020-01-02 14:27:42",
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-01-10 06:55:58",
       "iframe_src": ""
     },
     {
-      "id": 34626,
-      "title": "Ловкая рука, ловкий меч",
-      "kp_id": "384744",
-      "imdb_id": "tt1062938",
+      "id": 34872,
+      "title": "Бананы",
+      "kp_id": "12294",
+      "imdb_id": "tt0066808",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-12-30 22:46:53",
-      "orig_title": "Ling long yu shao jian ling long",
-      "year": "1978-06-17",
+      "add": "2020-01-08 15:22:44",
+      "orig_title": "Bananas",
+      "year": "1971-04-28",
       "translations": [
-        "Любительский (одноголосый закадровый) (Прокс)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Любительский (одноголосый закадровый) (Прокс)",
-      "update": "2020-01-02 14:26:52",
-      "iframe_src": ""
-    },
-    {
-      "id": 34624,
-      "title": "Мертвый и смертоносный",
-      "kp_id": "37157",
-      "imdb_id": "tt0084587",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-12-30 22:42:23",
-      "orig_title": "Ren xia ren",
-      "year": "1982-12-22",
-      "translations": [
-        "Любительский (одноголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2020-01-02 14:26:16",
-      "iframe_src": ""
-    },
-    {
-      "id": 34622,
-      "title": "Приключения Камикадзе",
-      "kp_id": null,
-      "imdb_id": "tt0368627",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-12-30 22:39:44",
-      "orig_title": "Bôkensha kamikaze",
-      "year": "1981-11-07",
-      "translations": [
-        "Любительский (одноголосый закадровый) (Береговых | Jet)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Любительский (одноголосый закадровый) (Береговых | Jet)",
-      "update": "2020-01-02 14:25:31",
-      "iframe_src": ""
-    },
-    {
-      "id": 34620,
-      "title": "Теппаньяки",
-      "kp_id": "314058",
-      "imdb_id": "tt0088268",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-12-30 22:35:16",
-      "orig_title": "Tie ban shao",
-      "year": "1984-01-26",
-      "translations": [
-        "Любительский (одноголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2020-01-02 14:24:52",
-      "iframe_src": ""
-    },
-    {
-      "id": 34618,
-      "title": "Мистер Любовница",
-      "kp_id": "135524",
-      "imdb_id": "tt0121383",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-12-30 22:31:46",
-      "orig_title": "Hun wai qing",
-      "year": "1988-05-17",
-      "translations": [
-        "Любительский (одноголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2020-01-02 14:24:08",
-      "iframe_src": ""
-    },
-    {
-      "id": 34616,
-      "title": "Парень суперкунгфуист",
-      "kp_id": "53138",
-      "imdb_id": "tt0201204",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-12-30 22:29:35",
-      "orig_title": "Xiao ba wang",
-      "year": "1973-05-31",
-      "translations": [
-        "Любительский (одноголосый закадровый) (Береговых | Jet)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Любительский (одноголосый закадровый) (Береговых | Jet)",
-      "update": "2020-01-02 14:23:25",
-      "iframe_src": ""
-    },
-    {
-      "id": 34614,
-      "title": "Поворотный момент в истории Сёва: Милитаристы",
-      "kp_id": "99681",
-      "imdb_id": "tt0065767",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-12-30 22:27:15",
-      "orig_title": "Gekido no showashi 'Gunbatsu'",
-      "year": "1970-08-11",
-      "translations": [
-        "Авторский (одноголосый закадровый) (Рутилов)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Авторский (одноголосый закадровый) (Рутилов)",
-      "update": "2020-01-02 14:22:14",
-      "iframe_src": ""
-    },
-    {
-      "id": 34613,
-      "title": "Убийца Будды",
-      "kp_id": "36936",
-      "imdb_id": "tt0079164",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-12-30 22:24:41",
-      "orig_title": "Fo zhang huang ye",
-      "year": "1980-05-15",
-      "translations": [
-        "Авторский (одноголосый закадровый) (Кузнецов)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Авторский (одноголосый закадровый) (Кузнецов)",
-      "update": "2020-01-02 14:21:32",
-      "iframe_src": ""
-    },
-    {
-      "id": 34610,
-      "title": "Хитрый мозг",
-      "kp_id": "93528",
-      "imdb_id": "tt0103328",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-12-30 22:21:15",
-      "orig_title": "Jing gu jyun ga",
-      "year": "1991-02-02",
-      "translations": [
-        "Любительский (одноголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2020-01-02 14:00:59",
-      "iframe_src": ""
-    },
-    {
-      "id": 34597,
-      "title": "Она стреляет метко",
-      "kp_id": "36923",
-      "imdb_id": "tt0099809",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-12-29 22:28:17",
-      "orig_title": "Huang jia nu jiang",
-      "year": "1990-04-07",
-      "translations": [
-        "Любительский (одноголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2020-01-02 13:44:09",
-      "iframe_src": ""
-    },
-    {
-      "id": 34596,
-      "title": "Ответный огонь",
-      "kp_id": "36895",
-      "imdb_id": "tt0101002",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-12-29 22:25:02",
-      "orig_title": "Zoi jeung gong woo",
-      "year": "1990-03-17",
-      "translations": [
-        "Любительский (одноголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2020-01-02 13:39:24",
-      "iframe_src": ""
-    },
-    {
-      "id": 34594,
-      "title": "Раскрашенные лица",
-      "kp_id": "37150",
-      "imdb_id": "tt0095937",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-12-29 22:19:28",
-      "orig_title": "Qi xiao fu",
-      "year": "1988-09-16",
-      "translations": [
-        "Любительский (одноголосый закадровый)"
+        "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2020-01-02 13:38:39",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-01-09 19:23:41",
       "iframe_src": ""
     },
     {
-      "id": 31584,
-      "title": "Новый яростный кулак",
-      "kp_id": "24733",
-      "imdb_id": "tt0075439",
+      "id": 34869,
+      "title": "Апокалипсис",
+      "kp_id": "655399",
+      "imdb_id": "tt2139851",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-10-08 17:58:51",
-      "orig_title": "Xin jing wu men",
-      "year": "1976-07-08",
+      "add": "2020-01-08 15:17:35",
+      "orig_title": "End of the World",
+      "year": "2013-02-23",
       "translations": [
-        "Профессиональный (двухголосый закадровый)",
-        "Профессиональный (многоголосый закадровый) (ВГТРК)"
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "hdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-01-09 19:24:02",
+      "iframe_src": ""
+    },
+    {
+      "id": 34867,
+      "title": "Белая месть",
+      "kp_id": "647771",
+      "imdb_id": "tt2102472",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-01-08 15:14:32",
+      "orig_title": "Hong men yan chuan qi",
+      "year": "2011-11-29",
+      "translations": [
+        "Любительский (двухголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (двухголосый закадровый)",
+      "update": "2020-01-09 19:25:26",
+      "iframe_src": ""
+    },
+    {
+      "id": 34866,
+      "title": "Примечание",
+      "kp_id": "503035",
+      "imdb_id": "tt1445520",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-01-08 15:12:34",
+      "orig_title": "Hearat Shulayim",
+      "year": "2011-05-14",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "hdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-01-09 19:25:59",
+      "iframe_src": ""
+    },
+    {
+      "id": 34865,
+      "title": "Подсолнухи",
+      "kp_id": "26818",
+      "imdb_id": "tt0065782",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-01-08 15:10:23",
+      "orig_title": "I girasoli",
+      "year": "1970-03-13",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
       ],
       "quality": "bd",
       "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2020-01-02 13:59:35",
+      "update": "2020-01-09 19:27:07",
+      "iframe_src": ""
+    },
+    {
+      "id": 34863,
+      "title": "Десять заповедей",
+      "kp_id": "8271",
+      "imdb_id": "tt0049833",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-01-08 15:09:01",
+      "orig_title": "The Ten Commandments",
+      "year": "1956-10-05",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-01-09 19:34:15",
+      "iframe_src": ""
+    },
+    {
+      "id": 34862,
+      "title": "Элвин и бурундуки встречают оборотня",
+      "kp_id": "297865",
+      "imdb_id": "tt0252227",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-01-08 15:06:10",
+      "orig_title": "Alvin and the Chipmunks Meet the Wolfman",
+      "year": "2000-08-29",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "dvdrip",
+      "translation": "Полное дублирование",
+      "update": "2020-01-09 19:35:25",
+      "iframe_src": ""
+    },
+    {
+      "id": 34755,
+      "title": "Ана",
+      "kp_id": "1073891",
+      "imdb_id": "tt6865630",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-01-05 01:23:32",
+      "orig_title": "Ana",
+      "year": "2020-01-03",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-01-10 06:50:58",
+      "iframe_src": ""
+    },
+    {
+      "id": 34141,
+      "title": "Рождество под звёздами",
+      "kp_id": "1301995",
+      "imdb_id": "tt10922658",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-12-16 05:34:43",
+      "orig_title": "Christmas Under the Stars",
+      "year": "2019-11-16",
+      "translations": [
+        "Любительский (многоголосый закадровый) (AlphaProject)",
+        "Original (English)"
+      ],
+      "quality": "hdtv",
+      "translation": "Любительский (многоголосый закадровый) (AlphaProject)",
+      "update": "2020-01-10 06:49:01",
+      "iframe_src": ""
+    },
+    {
+      "id": 33183,
+      "title": "По долгу службы",
+      "kp_id": "922547",
+      "imdb_id": "tt3541524",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-11-17 15:20:48",
+      "orig_title": "Line of Duty",
+      "year": "2019-11-14",
+      "translations": [
+        "Любительский (многоголосый закадровый) (AlphaProject)",
+        "Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (AlphaProject)",
+      "update": "2020-01-10 06:46:26",
+      "iframe_src": ""
+    },
+    {
+      "id": 32083,
+      "title": "Малефисента: Владычица тьмы",
+      "kp_id": "916498",
+      "imdb_id": "tt4777008",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-20 09:31:28",
+      "orig_title": "Maleficent: Mistress of Evil",
+      "year": "2019-10-16",
+      "translations": [
+        "Original (English)",
+        "Полное дублирование (iTunes)"
+      ],
+      "quality": "bd",
+      "translation": "Original (English)",
+      "update": "2020-01-10 07:57:49",
+      "iframe_src": ""
+    },
+    {
+      "id": 32018,
+      "title": "Эмулятор",
+      "kp_id": "1222137",
+      "imdb_id": "tt9391986",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-18 18:35:13",
+      "orig_title": "Emulator",
+      "year": "2019-07-23",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-01-10 06:52:47",
+      "iframe_src": ""
+    },
+    {
+      "id": 29277,
+      "title": "Сбитые с толку",
+      "kp_id": "1200469",
+      "imdb_id": "tt9033386",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-07-22 06:20:24",
+      "orig_title": "Fall Girls",
+      "year": "2019-01-12",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-01-10 06:54:16",
       "iframe_src": ""
     }
   ]

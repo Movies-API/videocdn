@@ -1,366 +1,366 @@
 {
   "data": [
     {
-      "id": 23470,
-      "title": "Вампиры!",
-      "kp_id": "742969",
-      "imdb_id": "tt2238296",
+      "id": 23605,
+      "title": "Адам и Ева: Первая история любви",
+      "kp_id": "100751",
+      "imdb_id": "tt0083520",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-03-24 23:03:33",
-      "orig_title": "Vampz!",
-      "year": "2012-06-23",
+      "add": "2019-03-28 22:40:23",
+      "orig_title": "Adamo ed Eva, la prima storia d'amore",
+      "year": "1983-03-17",
+      "translations": [
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2019-03-29 06:50:39",
+      "iframe_src": ""
+    },
+    {
+      "id": 23604,
+      "title": "100 тысяч",
+      "kp_id": "586661",
+      "imdb_id": "tt5708270",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-03-28 22:38:30",
+      "orig_title": "100 Thousand",
+      "year": "2011-12-31",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-03-29 06:51:34",
+      "iframe_src": ""
+    },
+    {
+      "id": 23603,
+      "title": "Моя старшая сестра",
+      "kp_id": "425080",
+      "imdb_id": "tt1482198",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-03-28 10:00:32",
+      "orig_title": "Moya starshaya sestra",
+      "year": "2008-10-16",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-03-29 09:04:11",
+      "iframe_src": ""
+    },
+    {
+      "id": 23602,
+      "title": "Страна Пасхи",
+      "kp_id": "1199097",
+      "imdb_id": "tt9078564",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-03-28 09:57:04",
+      "orig_title": "Easter Land",
+      "year": "2019-03-19",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-03-25 07:02:47",
+      "update": "2019-03-29 09:06:40",
       "iframe_src": ""
     },
     {
-      "id": 23463,
-      "title": "Лицензия на измену",
-      "kp_id": "24057",
-      "imdb_id": "tt0362129",
+      "id": 23599,
+      "title": "Барби: Сказочная страна моды",
+      "kp_id": "497393",
+      "imdb_id": "tt1725929",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-03-24 22:35:06",
-      "orig_title": "Seeing Other People",
-      "year": "2004-05-07",
+      "add": "2019-03-28 09:36:18",
+      "orig_title": "Barbie Fashion Fairytale",
+      "year": "2010-09-14",
       "translations": [
-        "Профессиональный (двухголосый закадровый)"
+        "Полное дублирование"
       ],
       "quality": "dvdrip",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2019-03-25 07:06:46",
+      "translation": "Полное дублирование",
+      "update": "2019-03-29 09:09:31",
       "iframe_src": ""
     },
     {
-      "id": 23457,
-      "title": "Тыковка",
-      "kp_id": "792",
-      "imdb_id": "tt0265591",
+      "id": 23597,
+      "title": "Мымра",
+      "kp_id": "279230",
+      "imdb_id": "tt1843992",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-03-24 18:29:37",
-      "orig_title": "Pumpkin",
-      "year": "2002-01-14",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)"
-      ],
-      "quality": "hdtv",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2019-03-25 07:07:29",
-      "iframe_src": ""
-    },
-    {
-      "id": 23456,
-      "title": "Существо из моря с привидениями",
-      "kp_id": "12914",
-      "imdb_id": "tt0054768",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-03-24 18:28:10",
-      "orig_title": "Creature from the Haunted Sea",
-      "year": "1961-01-01",
-      "translations": [
-        "Любительский (одноголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2019-03-25 07:08:37",
-      "iframe_src": ""
-    },
-    {
-      "id": 23454,
-      "title": "Пляжный домик",
-      "kp_id": "9849",
-      "imdb_id": "tt0075815",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-03-24 18:21:23",
-      "orig_title": "Casotto",
-      "year": "1977-10-28",
-      "translations": [
-        "Любительский (одноголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2019-03-25 07:10:29",
-      "iframe_src": ""
-    },
-    {
-      "id": 23453,
-      "title": "Паразит",
-      "kp_id": "427179",
-      "imdb_id": "tt1300159",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-03-24 18:19:44",
-      "orig_title": "Growth",
-      "year": "2010-01-18",
-      "translations": [
-        "Любительский (двухголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (двухголосый закадровый)",
-      "update": "2019-03-25 07:06:00",
-      "iframe_src": ""
-    },
-    {
-      "id": 23452,
-      "title": "Долина драконов",
-      "kp_id": "25833",
-      "imdb_id": "tt0055583",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-03-24 18:18:22",
-      "orig_title": "Valley of the Dragons",
-      "year": "1962-01-04",
-      "translations": [
-        "Любительский (одноголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2019-03-25 07:11:34",
-      "iframe_src": ""
-    },
-    {
-      "id": 23451,
-      "title": "Долгая счастливая жизнь",
-      "kp_id": "44253",
-      "imdb_id": "tt0271467",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-03-24 18:16:51",
-      "orig_title": "Dolgaya schastlivaya zhizn",
-      "year": "1990-11-02",
+      "add": "2019-03-28 09:18:29",
+      "orig_title": "Mymra",
+      "year": "2008-02-08",
       "translations": [
         "Оригинальная дорожка"
       ],
-      "quality": "dvb",
+      "quality": "dvdrip",
       "translation": "Оригинальная дорожка",
-      "update": "2019-03-25 07:12:18",
+      "update": "2019-03-29 09:15:24",
       "iframe_src": ""
     },
     {
-      "id": 23450,
-      "title": "День Додо",
-      "kp_id": "725554",
+      "id": 23596,
+      "title": "Ночь закрытых дверей",
+      "kp_id": "432654",
+      "imdb_id": "tt2629276",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-03-28 09:15:28",
+      "orig_title": "Noch zakrytykh dverey",
+      "year": "2008-12-18",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-03-29 09:21:36",
+      "iframe_src": ""
+    },
+    {
+      "id": 23594,
+      "title": "Снайпер Саха",
+      "kp_id": "717238",
+      "imdb_id": "tt3397418",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-03-28 09:10:09",
+      "orig_title": "Snayper Sakha",
+      "year": "2010-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-03-29 09:26:02",
+      "iframe_src": ""
+    },
+    {
+      "id": 23593,
+      "title": "Дом Версаче",
+      "kp_id": "784366",
+      "imdb_id": "tt3077060",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-03-28 08:21:56",
+      "orig_title": "House of Versace",
+      "year": "2013-10-05",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2019-03-29 09:27:30",
+      "iframe_src": ""
+    },
+    {
+      "id": 23592,
+      "title": "Монолог",
+      "kp_id": "46691",
+      "imdb_id": "tt0068963",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-03-28 08:18:32",
+      "orig_title": "Monolog",
+      "year": "1973-05-27",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-03-29 09:29:13",
+      "iframe_src": ""
+    },
+    {
+      "id": 23590,
+      "title": "Волшебная сила",
+      "kp_id": "85188",
+      "imdb_id": "tt0334650",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-03-28 08:14:30",
+      "orig_title": "Volshebnaya sila iskusstva",
+      "year": "1970-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-03-29 09:33:07",
+      "iframe_src": ""
+    },
+    {
+      "id": 23589,
+      "title": "Женатый холостяк",
+      "kp_id": "45295",
+      "imdb_id": "tt0178116",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-03-28 08:12:38",
+      "orig_title": "Zhenatyy kholostyak",
+      "year": "1982-12-13",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-03-29 09:35:37",
+      "iframe_src": ""
+    },
+    {
+      "id": 23580,
+      "title": "Человек, который знал всё",
+      "kp_id": "406628",
+      "imdb_id": "tt1194603",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-03-28 07:15:04",
+      "orig_title": "Chelovek, kotoryy znal vsyo",
+      "year": "2009-06-12",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-03-29 09:43:03",
+      "iframe_src": ""
+    },
+    {
+      "id": 23579,
+      "title": "Вечная сказка",
+      "kp_id": "807486",
       "imdb_id": null,
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-03-24 18:13:59",
-      "orig_title": "День Додо",
-      "year": "2012-12-31",
+      "add": "2019-03-28 07:11:15",
+      "orig_title": "Вечная сказка",
+      "year": "2013-10-27",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "hdtv",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-03-29 09:40:23",
+      "iframe_src": ""
+    },
+    {
+      "id": 23578,
+      "title": "В четверг и больше никогда",
+      "kp_id": "45584",
+      "imdb_id": "tt0076865",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-03-27 22:24:30",
+      "orig_title": "V chetverg i bolshe nikogda",
+      "year": "1978-03-28",
       "translations": [
         "Оригинальная дорожка"
       ],
       "quality": "dvb",
       "translation": "Оригинальная дорожка",
-      "update": "2019-03-25 07:13:41",
+      "update": "2019-03-29 06:52:40",
       "iframe_src": ""
     },
     {
-      "id": 23449,
-      "title": "Вольфсбург",
-      "kp_id": "21544",
-      "imdb_id": "tt0355029",
+      "id": 23577,
+      "title": "В день свадьбы",
+      "kp_id": "45590",
+      "imdb_id": "tt0324393",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-03-24 18:09:19",
-      "orig_title": "Wolfsburg",
-      "year": "2003-02-13",
-      "translations": [
-        "Авторский (одноголосый закадровый) (Воротилин)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Авторский (одноголосый закадровый) (Воротилин)",
-      "update": "2019-03-25 07:35:10",
-      "iframe_src": ""
-    },
-    {
-      "id": 23448,
-      "title": "Уиллоу Крик",
-      "kp_id": "761217",
-      "imdb_id": "tt2885364",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-03-24 18:04:33",
-      "orig_title": "Willow Creek",
-      "year": "2013-04-29",
-      "translations": [
-        "Любительский (одноголосый закадровый) (PashaUp | Павел Морозов)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (одноголосый закадровый) (PashaUp | Павел Морозов)",
-      "update": "2019-03-25 07:36:01",
-      "iframe_src": ""
-    },
-    {
-      "id": 23447,
-      "title": "Возвращение безумных новобранцев",
-      "kp_id": "38098",
-      "imdb_id": "tt0227377",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-03-24 18:01:08",
-      "orig_title": "Le retour des bidasses en folie",
-      "year": "1983-02-02",
-      "translations": [
-        "Любительский (одноголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2019-03-25 07:37:09",
-      "iframe_src": ""
-    },
-    {
-      "id": 23445,
-      "title": "Бегство девчонки",
-      "kp_id": "75044",
-      "imdb_id": "tt0053437",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-03-24 17:55:58",
-      "orig_title": "Ung flukt",
-      "year": "1959-10-08",
-      "translations": [
-        "Любительский (одноголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2019-03-25 07:38:17",
-      "iframe_src": ""
-    },
-    {
-      "id": 23443,
-      "title": "Гадкий утёнок",
-      "kp_id": "19730",
-      "imdb_id": "tt0032071",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-03-24 17:46:33",
-      "orig_title": "Ugly Duckling",
-      "year": "1939-04-07",
+      "add": "2019-03-27 22:22:15",
+      "orig_title": "V den svadby",
+      "year": "1969-06-24",
       "translations": [
         "Оригинальная дорожка"
       ],
-      "quality": "dvdrip",
+      "quality": "sat",
       "translation": "Оригинальная дорожка",
-      "update": "2019-03-25 07:39:08",
+      "update": "2019-03-29 06:53:43",
       "iframe_src": ""
     },
     {
-      "id": 23442,
-      "title": "Сладкий секс и любовь",
-      "kp_id": "167395",
-      "imdb_id": "tt0365484",
+      "id": 23576,
+      "title": "Бременские музыканты",
+      "kp_id": "470188",
+      "imdb_id": "tt1483359",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-03-24 17:40:25",
-      "orig_title": "Masittneun sekseu keurigo sarang",
-      "year": "2003-06-20",
+      "add": "2019-03-27 22:18:55",
+      "orig_title": "Die Bremer Stadtmusikanten",
+      "year": "2009-11-09",
       "translations": [
-        "Авторский (одноголосый закадровый) (Воротилин)"
+        "Профессиональный (многоголосый закадровый) (Игмар)"
       ],
-      "quality": "dvdrip",
-      "translation": "Авторский (одноголосый закадровый) (Воротилин)",
-      "update": "2019-03-25 07:43:00",
+      "quality": "hdtv",
+      "translation": "Профессиональный (многоголосый закадровый) (Игмар)",
+      "update": "2019-03-29 06:54:42",
       "iframe_src": ""
     },
     {
-      "id": 23397,
-      "title": "Шесть законов успешного развития событий (в жизни, любви и деньгах)",
-      "kp_id": "1041924",
-      "imdb_id": "tt5562832",
+      "id": 6170,
+      "title": "Голодные игры: Сойка-пересмешница. Часть I",
+      "kp_id": "661911",
+      "imdb_id": "tt1951265",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-03-24 14:31:12",
-      "orig_title": "6 Dynamic Laws for Success (in Life, Love & Money)",
-      "year": "2017-09-28",
+      "add": "2016-10-11 09:16:01",
+      "orig_title": "The Hunger Games: Mockingjay - Part 1",
+      "year": "2014-11-10",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-03-25 06:57:30",
-      "iframe_src": ""
-    },
-    {
-      "id": 23395,
-      "title": "Три Апокрифа: Чёрная магия",
-      "kp_id": null,
-      "imdb_id": "tt5753212",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-03-24 14:26:26",
-      "orig_title": "Üç Harfliler 3: Karabüyü",
-      "year": "2016-07-01",
-      "translations": [
-        "Любительский (одноголосый закадровый) (datynet)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (одноголосый закадровый) (datynet)",
-      "update": "2019-03-25 07:00:30",
-      "iframe_src": ""
-    },
-    {
-      "id": 22680,
-      "title": "Возьми это или оставь!",
-      "kp_id": "1025295",
-      "imdb_id": "tt6280368",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-03-03 21:02:36",
-      "orig_title": "Võta või jäta",
-      "year": "2018-09-14",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Любительский (одноголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-03-25 07:04:46",
-      "iframe_src": ""
-    },
-    {
-      "id": 12858,
-      "title": "Нам нужно поговорить",
-      "kp_id": "914602",
-      "imdb_id": "tt4699534",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-08-08 22:00:54",
-      "orig_title": "Tenemos que hablar",
-      "year": "2016-02-26",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Любительский (одноголосый закадровый)"
+        "Полное дублирование (iTunes)",
+        "Original (English)"
       ],
       "quality": "bd",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-03-25 06:59:01",
+      "translation": "Полное дублирование (iTunes)",
+      "update": "2019-03-29 07:41:38",
       "iframe_src": ""
     },
     {
-      "id": 2496,
-      "title": "Зеленый ад",
-      "kp_id": "683204",
-      "imdb_id": "tt2403021",
+      "id": 1375,
+      "title": "Голодные игры",
+      "kp_id": "468581",
+      "imdb_id": "tt1392170",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-05-23 17:32:22",
-      "orig_title": "The Green Inferno",
-      "year": "2013-09-08",
+      "add": "2016-04-21 09:00:45",
+      "orig_title": "The Hunger Games",
+      "year": "2012-03-12",
       "translations": [
-        "Любительский (одноголосый закадровый)",
-        "Любительский (двухголосый закадровый) (DeadSno & den904)"
+        "Полное дублирование",
+        "Original (English)"
       ],
-      "quality": "webdl",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2019-03-25 07:43:57",
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2019-03-29 07:40:32",
+      "iframe_src": ""
+    },
+    {
+      "id": 789,
+      "title": "Пираты Карибского моря: На странных берегах",
+      "kp_id": "427076",
+      "imdb_id": "tt1298650",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-04-08 14:41:32",
+      "orig_title": "Pirates of the Caribbean: On Stranger Tides",
+      "year": "2011-05-07",
+      "translations": [
+        "Полное дублирование",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2019-03-29 07:39:12",
       "iframe_src": ""
     }
   ]

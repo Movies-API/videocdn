@@ -1,366 +1,363 @@
 {
   "data": [
     {
-      "id": 24802,
-      "title": "Таня",
-      "kp_id": "961125",
-      "imdb_id": "tt5437374",
+      "id": 24890,
+      "title": "Нужные люди",
+      "kp_id": "95219",
+      "imdb_id": "tt0091659",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-04-17 22:19:16",
-      "orig_title": "Hidden Tears: Tanya",
-      "year": "2016-01-01",
-      "translations": [
-        "Любительский (одноголосый закадровый) (Денис Шадинский)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (одноголосый закадровый) (Денис Шадинский)",
-      "update": "2019-04-18 06:42:31",
-      "iframe_src": ""
-    },
-    {
-      "id": 24801,
-      "title": "Суззанна: Похороненная заживо",
-      "kp_id": "1198993",
-      "imdb_id": "tt9044128",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-04-17 22:16:30",
-      "orig_title": "Suzzanna: Bernapas dalam Kubur",
-      "year": "2018-11-10",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-04-18 06:34:14",
-      "iframe_src": ""
-    },
-    {
-      "id": 24799,
-      "title": "БЕЙСпредел",
-      "kp_id": "1181508",
-      "imdb_id": "tt8819596",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-04-17 22:13:30",
-      "orig_title": "Screwball",
-      "year": "2018-09-06",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (AlphaProject)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый) (AlphaProject)",
-      "update": "2019-04-18 06:35:22",
-      "iframe_src": ""
-    },
-    {
-      "id": 24797,
-      "title": "Имена питомцев",
-      "kp_id": null,
-      "imdb_id": "tt7004152",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-04-17 22:05:42",
-      "orig_title": "Pet Names",
-      "year": "2018-03-10",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-04-18 06:37:20",
-      "iframe_src": ""
-    },
-    {
-      "id": 24796,
-      "title": "Сошедшая с рельсов",
-      "kp_id": "1042670",
-      "imdb_id": "tt6680116",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-04-17 22:05:27",
-      "orig_title": "Off the Rails",
-      "year": "2017-08-18",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "hdtv",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-04-18 06:13:24",
-      "iframe_src": ""
-    },
-    {
-      "id": 24793,
-      "title": "Неудержимые",
-      "kp_id": null,
-      "imdb_id": "tt6085642",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-04-17 21:54:47",
-      "orig_title": "The Go-Getters",
-      "year": "2018-12-25",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-04-18 06:41:14",
-      "iframe_src": ""
-    },
-    {
-      "id": 24787,
-      "title": "Горячие стволы",
-      "kp_id": "873704",
-      "imdb_id": "tt3949708",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-04-17 21:40:24",
-      "orig_title": "The Blazing Cannons",
-      "year": "2017-11-04",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-04-18 06:46:33",
-      "iframe_src": ""
-    },
-    {
-      "id": 24779,
-      "title": "Обитель призраков",
-      "kp_id": "1216682",
-      "imdb_id": "tt8793606",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-04-17 21:12:33",
-      "orig_title": "Gentayangan",
-      "year": "2018-08-16",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Колобок)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Колобок)",
-      "update": "2019-04-18 06:11:31",
-      "iframe_src": ""
-    },
-    {
-      "id": 24777,
-      "title": "Расхитители гробницы свирепого дракона",
-      "kp_id": null,
-      "imdb_id": "tt9649370",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-04-17 21:10:18",
-      "orig_title": "Ferocious Monster Dragon",
-      "year": "2019-01-22",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Колобок)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Колобок)",
-      "update": "2019-04-18 06:10:34",
-      "iframe_src": ""
-    },
-    {
-      "id": 24735,
-      "title": "Презумпция невиновности",
-      "kp_id": "43242",
-      "imdb_id": "tt0095899",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-04-17 10:46:57",
-      "orig_title": "Prezumptsiya nevinovnosti",
-      "year": "1988-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-04-17 11:26:26",
-      "iframe_src": ""
-    },
-    {
-      "id": 24733,
-      "title": "Рудин",
-      "kp_id": "42138",
-      "imdb_id": "tt0075156",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-04-17 10:36:44",
-      "orig_title": "Rudin",
-      "year": "1977-10-24",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-04-17 11:19:20",
-      "iframe_src": ""
-    },
-    {
-      "id": 24732,
-      "title": "Шла собака по роялю",
-      "kp_id": "43759",
-      "imdb_id": "tt0078257",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-04-17 10:30:30",
-      "orig_title": "Shla sobaka po royalyu",
-      "year": "1979-09-02",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-04-17 11:20:18",
-      "iframe_src": ""
-    },
-    {
-      "id": 24731,
-      "title": "Соперницы",
-      "kp_id": "43917",
-      "imdb_id": "tt0090050",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-04-17 10:24:08",
-      "orig_title": "Sopernitsy",
-      "year": "1985-08-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "sat",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-04-17 11:21:06",
-      "iframe_src": ""
-    },
-    {
-      "id": 24730,
-      "title": "Сукины дети",
-      "kp_id": "44031",
-      "imdb_id": "tt0100714",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-04-17 09:25:41",
-      "orig_title": "Sukiny deti",
-      "year": "1991-07-08",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-04-17 11:23:39",
-      "iframe_src": ""
-    },
-    {
-      "id": 24727,
-      "title": "Тайна Снежной королевы",
-      "kp_id": "84144",
-      "imdb_id": "tt0092043",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-04-17 09:19:22",
-      "orig_title": "Tayna snezhnoy korolevy",
+      "add": "2019-04-19 09:40:35",
+      "orig_title": "Nuzhnye lyudi",
       "year": "1986-01-01",
       "translations": [
         "Оригинальная дорожка"
       ],
-      "quality": "dvdrip",
+      "quality": "tv",
       "translation": "Оригинальная дорожка",
-      "update": "2019-04-17 11:24:31",
+      "update": "2019-04-20 08:24:15",
       "iframe_src": ""
     },
     {
-      "id": 24710,
-      "title": "Дорогой мальчик",
-      "kp_id": "221747",
-      "imdb_id": "tt0422120",
+      "id": 24889,
+      "title": "Приключения Алёнушки и Ерёмы",
+      "kp_id": "394065",
+      "imdb_id": "tt1580005",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-04-17 07:36:57",
-      "orig_title": "Dorogoy malchik",
-      "year": "1975-11-24",
+      "add": "2019-04-19 09:38:15",
+      "orig_title": "Priklyucheniya Alyonushki i Yeryomy",
+      "year": "2008-11-29",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "bd",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-04-20 08:26:24",
+      "iframe_src": ""
+    },
+    {
+      "id": 24888,
+      "title": "Мой друг зонтик",
+      "kp_id": "460134",
+      "imdb_id": "tt2258497",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-04-19 09:36:42",
+      "orig_title": "Moy drug zontik",
+      "year": "1982-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-04-20 08:28:53",
+      "iframe_src": ""
+    },
+    {
+      "id": 24887,
+      "title": "Живая игрушка",
+      "kp_id": "257945",
+      "imdb_id": "tt3522954",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-04-19 09:34:36",
+      "orig_title": "Zhivaya igrushka",
+      "year": "1982-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-04-20 08:31:21",
+      "iframe_src": ""
+    },
+    {
+      "id": 24886,
+      "title": "Ничуть не страшно",
+      "kp_id": "259953",
+      "imdb_id": "tt6011936",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-04-19 09:31:11",
+      "orig_title": "Nichut ne strashno",
+      "year": "1981-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-04-20 08:32:02",
+      "iframe_src": ""
+    },
+    {
+      "id": 24885,
+      "title": "Мышонок Пик",
+      "kp_id": "260035",
+      "imdb_id": "tt2332719",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-04-19 09:29:36",
+      "orig_title": "Myshonok Pik",
+      "year": "1978-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-04-20 08:32:58",
+      "iframe_src": ""
+    },
+    {
+      "id": 24883,
+      "title": "Карусельный лев",
+      "kp_id": "260115",
+      "imdb_id": "tt6372000",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-04-19 09:25:37",
+      "orig_title": "Karuselniy lev",
+      "year": "1974-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-04-20 08:34:44",
+      "iframe_src": ""
+    },
+    {
+      "id": 24881,
+      "title": "Просто так",
+      "kp_id": "257031",
+      "imdb_id": "tt5480942",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-04-19 09:21:21",
+      "orig_title": "Prosto tak",
+      "year": "1976-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-04-20 08:36:43",
+      "iframe_src": ""
+    },
+    {
+      "id": 24879,
+      "title": "Заяц над бездной",
+      "kp_id": "161139",
+      "imdb_id": "tt0462727",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-04-19 09:16:54",
+      "orig_title": "Zayats nad bezdnoy",
+      "year": "2006-02-09",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-04-20 08:38:49",
+      "iframe_src": ""
+    },
+    {
+      "id": 24878,
+      "title": "Риорита",
+      "kp_id": "419583",
+      "imdb_id": "tt3712550",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-04-19 09:14:26",
+      "orig_title": "Riorita",
+      "year": "2009-05-09",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-04-20 08:41:10",
+      "iframe_src": ""
+    },
+    {
+      "id": 24877,
+      "title": "Смех и горе у Бела моря",
+      "kp_id": "279828",
+      "imdb_id": "tt0973837",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-04-19 09:10:08",
+      "orig_title": "Smekh i gore u Bela morya",
+      "year": "1987-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-04-20 08:42:50",
+      "iframe_src": ""
+    },
+    {
+      "id": 24870,
+      "title": "Снегурочка",
+      "kp_id": "43888",
+      "imdb_id": "tt0045160",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-04-19 08:07:04",
+      "orig_title": "Snegurochka",
+      "year": "1952-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-04-20 08:54:05",
+      "iframe_src": ""
+    },
+    {
+      "id": 24869,
+      "title": "Чернобыль навсегда",
+      "kp_id": "699675",
+      "imdb_id": "tt2076824",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-04-19 08:01:54",
+      "orig_title": "Chernobyl Forever",
+      "year": "2011-04-26",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-04-20 08:44:30",
+      "iframe_src": ""
+    },
+    {
+      "id": 24726,
+      "title": "Гадкий утенок",
+      "kp_id": "468282",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-04-17 09:18:53",
+      "orig_title": "Гадкий утенок",
+      "year": "2009-09-09",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "bd",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-04-20 08:58:01",
+      "iframe_src": ""
+    },
+    {
+      "id": 24725,
+      "title": "«Тигры» на льду",
+      "kp_id": "424018",
+      "imdb_id": "tt1721108",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-04-17 09:15:47",
+      "orig_title": "Tigry na ldu",
+      "year": "1971-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-04-20 08:57:03",
+      "iframe_src": ""
+    },
+    {
+      "id": 24724,
+      "title": "Воробушек",
+      "kp_id": "660987",
+      "imdb_id": "tt3519268",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-04-17 09:12:53",
+      "orig_title": "Vorobushek",
+      "year": "2012-01-24",
       "translations": [
         "Оригинальная дорожка"
       ],
       "quality": "sat",
       "translation": "Оригинальная дорожка",
-      "update": "2019-04-17 11:22:17",
+      "update": "2019-04-20 08:52:51",
       "iframe_src": ""
     },
     {
-      "id": 24551,
-      "title": "Про Красную Шапочку",
-      "kp_id": "77302",
-      "imdb_id": "tt0076569",
+      "id": 24723,
+      "title": "За тобой",
+      "kp_id": "580190",
+      "imdb_id": "tt1965307",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-04-14 11:20:21",
-      "orig_title": "Pro Krasnuyu Shapochku",
-      "year": "1977-12-31",
+      "add": "2019-04-17 09:08:39",
+      "orig_title": "Za toboy",
+      "year": "2011-08-18",
       "translations": [
         "Оригинальная дорожка"
       ],
       "quality": "dvdrip",
       "translation": "Оригинальная дорожка",
-      "update": "2019-04-17 11:28:22",
+      "update": "2019-04-20 08:55:33",
       "iframe_src": ""
     },
     {
-      "id": 24550,
-      "title": "Шведская спичка",
-      "kp_id": "43781",
-      "imdb_id": "tt0048615",
+      "id": 24722,
+      "title": "За пределами закона",
+      "kp_id": "541903",
+      "imdb_id": "tt4127514",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-04-14 11:09:04",
-      "orig_title": "Shvedskaya spichka",
-      "year": "1954-08-10",
+      "add": "2019-04-17 09:06:42",
+      "orig_title": "Za predelami zakona",
+      "year": "2010-07-25",
       "translations": [
         "Оригинальная дорожка"
       ],
-      "quality": "dvdrip",
+      "quality": "hdtv",
       "translation": "Оригинальная дорожка",
-      "update": "2019-04-17 11:27:31",
+      "update": "2019-04-20 08:50:57",
       "iframe_src": ""
     },
     {
-      "id": 16204,
-      "title": "Двойное свидание",
-      "kp_id": "1011282",
-      "imdb_id": "tt6136778",
+      "id": 24712,
+      "title": "Девичий источник",
+      "kp_id": "15188",
+      "imdb_id": "tt0053976",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-04-11 20:01:30",
-      "orig_title": "Double Date",
-      "year": "2017-06-30",
+      "add": "2019-04-17 07:54:16",
+      "orig_title": "Jungfrukällan",
+      "year": "1960-02-08",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Любительский (одноголосый закадровый) (Хихикающий доктор)",
-        "Любительский (одноголосый закадровый) (Хихикающий доктор)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-04-18 06:40:25",
-      "iframe_src": ""
-    },
-    {
-      "id": 4316,
-      "title": "Конец дня",
-      "kp_id": "775460",
-      "imdb_id": "tt3007132",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-08-05 04:55:44",
-      "orig_title": "Daylight's End",
-      "year": "2016-04-16",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Студия Пиратского Дубляжа)",
-        "Любительский (одноголосый закадровый)"
+        "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
-      "translation": "Любительский (многоголосый закадровый) (Студия Пиратского Дубляжа)",
-      "update": "2019-04-18 06:45:08",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-04-20 08:49:42",
+      "iframe_src": ""
+    },
+    {
+      "id": 24687,
+      "title": "Инфекция: Вторжение начинается",
+      "kp_id": "450418",
+      "imdb_id": "tt1386583",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-04-16 08:26:49",
+      "orig_title": "Infection: The Invasion Begins",
+      "year": "2011-03-02",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-04-20 08:47:43",
       "iframe_src": ""
     }
   ]

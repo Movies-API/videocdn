@@ -1,368 +1,365 @@
 {
   "data": [
     {
-      "id": 15186,
-      "title": "Кровавый лагерь 7: Оно убивает",
-      "kp_id": "1097471",
-      "imdb_id": "tt7546024",
+      "id": 15429,
+      "title": "Познание плоти",
+      "kp_id": "4216",
+      "imdb_id": "tt0066892",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-02-15 22:40:49",
-      "orig_title": "It Kills",
-      "year": "2017-11-11",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2018-02-16 06:52:03",
-      "iframe_src": ""
-    },
-    {
-      "id": 15185,
-      "title": "Дятлы",
-      "kp_id": "1009212",
-      "imdb_id": "tt5999770",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-02-15 22:34:40",
-      "orig_title": "Carpinteros",
-      "year": "2017-01-23",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-02-16 06:50:23",
-      "iframe_src": ""
-    },
-    {
-      "id": 15180,
-      "title": "Колдовство 14: Ангел Смерти",
-      "kp_id": "916781",
-      "imdb_id": "tt4756770",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-02-14 23:56:54",
-      "orig_title": "Witchcraft 14: Angel of Death",
-      "year": "2017-01-09",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-02-15 06:50:02",
-      "iframe_src": ""
-    },
-    {
-      "id": 15179,
-      "title": "Таинственный День Святого Валентина",
-      "kp_id": "1112262",
-      "imdb_id": "tt7936510",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-02-14 23:49:45",
-      "orig_title": "Very, Very, Valentine",
-      "year": "2018-02-10",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "hdtv",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-02-15 06:46:51",
-      "iframe_src": ""
-    },
-    {
-      "id": 15178,
-      "title": "Репетиция",
-      "kp_id": "991865",
-      "imdb_id": "tt5820812",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-02-14 23:42:56",
-      "orig_title": "The Rehearsal",
-      "year": "2017-07-23",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-02-15 06:42:06",
-      "iframe_src": ""
-    },
-    {
-      "id": 15175,
-      "title": "Главная собака",
-      "kp_id": "17311",
-      "imdb_id": "tt0114697",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-02-14 08:58:43",
-      "orig_title": "Top Dog",
-      "year": "1995-04-28",
+      "add": "2018-03-06 09:59:47",
+      "orig_title": "Carnal Knowledge",
+      "year": "1971-06-30",
       "translations": [
         "Профессиональный (двухголосый закадровый)"
       ],
-      "quality": "dvdrip",
+      "quality": "webdl",
       "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2018-02-15 06:06:52",
+      "update": "2018-03-06 13:29:38",
       "iframe_src": ""
     },
     {
-      "id": 15174,
-      "title": "Странный Томас",
-      "kp_id": "572461",
-      "imdb_id": "tt1767354",
+      "id": 15426,
+      "title": "Флинт",
+      "kp_id": "1010776",
+      "imdb_id": "tt6397426",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-02-14 07:51:32",
-      "orig_title": "Odd Thomas",
-      "year": "2013-04-06",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2018-02-14 20:06:46",
-      "iframe_src": ""
-    },
-    {
-      "id": 15166,
-      "title": "В лучах солнца",
-      "kp_id": "944814",
-      "imdb_id": "tt5129818",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-02-13 13:11:17",
-      "orig_title": "V paprscích slunce",
-      "year": "2015-10-29",
-      "translations": [
-        "Профессиональный (одноголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (одноголосый закадровый)",
-      "update": "2018-02-14 11:54:43",
-      "iframe_src": ""
-    },
-    {
-      "id": 15164,
-      "title": "Любимчик",
-      "kp_id": "77414",
-      "imdb_id": "tt0388213",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-02-13 13:06:14",
-      "orig_title": "Loverboy",
-      "year": "2005-01-24",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2018-02-15 08:48:17",
-      "iframe_src": ""
-    },
-    {
-      "id": 15162,
-      "title": "Больница",
-      "kp_id": "1099288",
-      "imdb_id": "tt7068588",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-02-13 13:02:32",
-      "orig_title": "Hospital",
-      "year": "2017-04-13",
-      "translations": [
-        "Любительский (двухголосый закадровый) (RealFake)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (двухголосый закадровый) (RealFake)",
-      "update": "2018-02-14 12:05:51",
-      "iframe_src": ""
-    },
-    {
-      "id": 15161,
-      "title": "Победители",
-      "kp_id": null,
-      "imdb_id": "tt5577390",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-02-13 11:29:26",
-      "orig_title": "Winning",
-      "year": "2016-04-23",
+      "add": "2018-03-05 23:21:32",
+      "orig_title": "Flint",
+      "year": "2017-10-28",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
-      "quality": "webdl",
+      "quality": "dvdrip",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-02-15 07:02:52",
+      "update": "2018-03-06 13:30:18",
       "iframe_src": ""
     },
     {
-      "id": 15160,
-      "title": "История Симоны Байлз: На Пути к Вершине",
-      "kp_id": "1112526",
-      "imdb_id": "tt7978660",
+      "id": 15424,
+      "title": "Бизнес по-казахски в Америке",
+      "kp_id": "1075220",
+      "imdb_id": null,
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-02-13 11:17:03",
-      "orig_title": "The Simone Biles Story: Courage to Soar",
-      "year": "2018-02-03",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "hdtv",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-02-14 06:33:34",
-      "iframe_src": ""
-    },
-    {
-      "id": 15157,
-      "title": "Коронный прием",
-      "kp_id": "984586",
-      "imdb_id": "tt5328952",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-02-13 11:00:28",
-      "orig_title": "Signature Move",
-      "year": "2017-03-11",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2018-02-15 07:02:57",
-      "iframe_src": ""
-    },
-    {
-      "id": 15156,
-      "title": "Пациент номер семнадцать",
-      "kp_id": "1049876",
-      "imdb_id": "tt4083682",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-02-13 10:58:49",
-      "orig_title": "Patient Seventeen",
-      "year": "2017-10-10",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-02-14 06:24:51",
-      "iframe_src": ""
-    },
-    {
-      "id": 15152,
-      "title": "Легкое сияние счастья",
-      "kp_id": "996103",
-      "imdb_id": "tt5903210",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-02-13 09:57:19",
-      "orig_title": "Gleißendes Glück",
-      "year": "2016-10-01",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (GreenРай Studio)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый) (GreenРай Studio)",
-      "update": "2018-02-14 06:04:41",
-      "iframe_src": ""
-    },
-    {
-      "id": 15150,
-      "title": "Это мы",
-      "kp_id": "855416",
-      "imdb_id": "tt4002884",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-02-13 07:02:41",
-      "orig_title": "It's Us",
-      "year": "2016-01-05",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-02-14 06:09:29",
-      "iframe_src": ""
-    },
-    {
-      "id": 14921,
-      "title": "Эффект воздействия",
-      "kp_id": "923939",
-      "imdb_id": "tt4875962",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-01-18 22:50:33",
-      "orig_title": "The Spearhead Effect",
-      "year": "2017-04-06",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Профессиональный (многоголосый закадровый) (GreenРай Studio)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-02-15 06:43:57",
-      "iframe_src": ""
-    },
-    {
-      "id": 14811,
-      "title": "День мертвецов: Злая кровь",
-      "kp_id": "779484",
-      "imdb_id": "tt3053228",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-01-06 01:39:28",
-      "orig_title": "Day of the Dead: Bloodline",
-      "year": "2018-01-05",
-      "translations": [
-        "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-        "Любительский (многоголосый закадровый) (GreenРай Studio)",
-        "Полное дублирование"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-      "update": "2018-02-14 06:35:56",
-      "iframe_src": ""
-    },
-    {
-      "id": 14392,
-      "title": "Мифы",
-      "kp_id": "934121",
-      "imdb_id": "tt6458726",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-11-19 21:21:32",
-      "orig_title": "Mify",
-      "year": "2017-11-16",
+      "add": "2018-03-05 22:59:20",
+      "orig_title": "Бизнес по-казахски в Америке",
+      "year": "2017-12-28",
       "translations": [
         "Оригинальная дорожка"
       ],
       "quality": "webdl",
       "translation": "Оригинальная дорожка",
-      "update": "2018-02-15 06:32:19",
+      "update": "2018-03-06 13:30:20",
       "iframe_src": ""
     },
     {
-      "id": 12893,
-      "title": "По ту сторону надежды",
-      "kp_id": "952574",
-      "imdb_id": "tt5222918",
+      "id": 15395,
+      "title": "Разочарованная",
+      "kp_id": "58419",
+      "imdb_id": "tt0099406",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-08-10 08:57:38",
-      "orig_title": "Toivon tuolla puolen",
-      "year": "2017-01-25",
+      "add": "2018-03-05 20:54:48",
+      "orig_title": "La désenchantée",
+      "year": "1990-10-31",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Профессиональный (многоголосый закадровый) (GreenРай Studio)",
+        "Авторский (одноголосый закадровый) (Алексеев Антон)"
+      ],
+      "quality": "bd",
+      "translation": "Авторский (одноголосый закадровый) (Алексеев Антон)",
+      "update": "2018-03-06 13:31:12",
+      "iframe_src": ""
+    },
+    {
+      "id": 15394,
+      "title": "Очаровательная проказница",
+      "kp_id": "21375",
+      "imdb_id": "tt0101428",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-03-05 20:52:55",
+      "orig_title": "La belle noiseuse",
+      "year": "1991-09-04",
+      "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-02-14 06:34:49",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2018-03-06 13:31:15",
+      "iframe_src": ""
+    },
+    {
+      "id": 15393,
+      "title": "Я — кто-то",
+      "kp_id": "921496",
+      "imdb_id": "tt4786802",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-03-05 20:45:07",
+      "orig_title": "Wo shi lu ren jia",
+      "year": "2015-07-03",
+      "translations": [
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2018-03-06 13:31:19",
+      "iframe_src": ""
+    },
+    {
+      "id": 15391,
+      "title": "Школа «Диаз»",
+      "kp_id": "668654",
+      "imdb_id": "tt1934234",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-03-05 20:39:12",
+      "orig_title": "Diaz - Don't Clean Up This Blood",
+      "year": "2012-02-12",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Алексеев Антон)"
+      ],
+      "quality": "bd",
+      "translation": "Авторский (одноголосый закадровый) (Алексеев Антон)",
+      "update": "2018-03-06 13:31:21",
+      "iframe_src": ""
+    },
+    {
+      "id": 15378,
+      "title": "Ослиная шкура",
+      "kp_id": "21328",
+      "imdb_id": "tt0066207",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-03-05 08:08:18",
+      "orig_title": "Peau d'âne",
+      "year": "1970-12-20",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2018-03-06 06:14:19",
+      "iframe_src": ""
+    },
+    {
+      "id": 15377,
+      "title": "Император севера",
+      "kp_id": "16256",
+      "imdb_id": "tt0070030",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-03-05 08:06:13",
+      "orig_title": "Emperor of the North Pole",
+      "year": "1973-05-24",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2018-03-06 06:12:34",
+      "iframe_src": ""
+    },
+    {
+      "id": 15376,
+      "title": "Джабервоки",
+      "kp_id": "13470",
+      "imdb_id": "tt0076221",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-03-05 07:59:37",
+      "orig_title": "Jabberwocky",
+      "year": "1977-03-28",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2018-03-06 06:10:47",
+      "iframe_src": ""
+    },
+    {
+      "id": 15375,
+      "title": "Игрушечные солдатики",
+      "kp_id": "5546",
+      "imdb_id": "tt0103112",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-03-05 07:56:22",
+      "orig_title": "Toy Soldiers",
+      "year": "1991-04-26",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2018-03-06 06:06:36",
+      "iframe_src": ""
+    },
+    {
+      "id": 15374,
+      "title": "Воскрешение",
+      "kp_id": "4918",
+      "imdb_id": "tt0142804",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-03-05 07:54:39",
+      "orig_title": "Resurrection",
+      "year": "1999-06-05",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2018-03-06 06:05:28",
+      "iframe_src": ""
+    },
+    {
+      "id": 15373,
+      "title": "Безумная",
+      "kp_id": "58121",
+      "imdb_id": "tt0097557",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-03-05 07:50:51",
+      "orig_title": "I, Madman",
+      "year": "1989-04-07",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2018-03-06 06:01:50",
+      "iframe_src": ""
+    },
+    {
+      "id": 15372,
+      "title": "Поймать вора",
+      "kp_id": "987",
+      "imdb_id": "tt0048728",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-03-05 07:47:48",
+      "orig_title": "To Catch a Thief",
+      "year": "1955-08-02",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (НТВ)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый) (НТВ)",
+      "update": "2018-03-06 05:58:00",
+      "iframe_src": ""
+    },
+    {
+      "id": 13893,
+      "title": "Сеть",
+      "kp_id": "996303",
+      "imdb_id": "tt5996202",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-10-19 21:39:04",
+      "orig_title": "Geumul",
+      "year": "2016-08-31",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Колобок)",
+        "Любительский (многоголосый закадровый)",
+        "Профессиональный (многоголосый закадровый) (iTunes)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Колобок)",
+      "update": "2018-03-06 13:30:23",
+      "iframe_src": ""
+    },
+    {
+      "id": 13745,
+      "title": "Ров",
+      "kp_id": "723759",
+      "imdb_id": "tt2523426",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-10-05 21:13:48",
+      "orig_title": "Ditch",
+      "year": "2016-09-30",
+      "translations": [
+        "Любительский (одноголосый закадровый) (Хихикающий доктор)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (одноголосый закадровый) (Хихикающий доктор)",
+      "update": "2018-03-06 06:19:09",
+      "iframe_src": ""
+    },
+    {
+      "id": 13065,
+      "title": "Клетка славы",
+      "kp_id": "623748",
+      "imdb_id": "tt2056757",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-08-20 20:48:02",
+      "orig_title": "Chavez Cage of Glory",
+      "year": "2013-09-13",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2018-03-06 12:25:45",
+      "iframe_src": ""
+    },
+    {
+      "id": 7416,
+      "title": "Формула 51",
+      "kp_id": "578",
+      "imdb_id": "tt0227984",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-11-14 13:45:38",
+      "orig_title": "The 51st State",
+      "year": "2001-12-07",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2018-03-06 13:08:17",
+      "iframe_src": ""
+    },
+    {
+      "id": 6514,
+      "title": "Отряд «Дельта» 2",
+      "kp_id": "34607",
+      "imdb_id": "tt0099399",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-20 06:00:57",
+      "orig_title": "Delta Force 2: The Colombian Connection",
+      "year": "1990-08-24",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2018-03-06 06:16:54",
+      "iframe_src": ""
+    },
+    {
+      "id": 5107,
+      "title": "Беглецы",
+      "kp_id": "3734",
+      "imdb_id": "tt0116320",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-09-08 06:41:05",
+      "orig_title": "Fled",
+      "year": "1996-07-19",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2018-03-06 06:00:23",
       "iframe_src": ""
     }
   ]

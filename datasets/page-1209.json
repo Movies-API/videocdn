@@ -1,363 +1,366 @@
 {
   "data": [
     {
-      "id": 26961,
-      "title": "День учителя",
-      "kp_id": "678983",
-      "imdb_id": "tt2416620",
+      "id": 27232,
+      "title": "Горячая голова",
+      "kp_id": null,
+      "imdb_id": "tt10403876",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-05-23 17:01:57",
-      "orig_title": "Den uchitelya",
-      "year": "2012-11-16",
+      "add": "2019-05-29 20:48:06",
+      "orig_title": "Hot-Blooded Hero",
+      "year": "2018-07-27",
       "translations": [
-        "Оригинальная дорожка"
+        "Любительский (многоголосый закадровый) (Колобок)"
       ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-05-24 07:19:40",
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Колобок)",
+      "update": "2019-05-30 05:03:38",
       "iframe_src": ""
     },
     {
-      "id": 26960,
-      "title": "Хлеб и розы",
-      "kp_id": "44642",
-      "imdb_id": "tt0233877",
+      "id": 27218,
+      "title": "Торговец сном",
+      "kp_id": "261067",
+      "imdb_id": "tt0804529",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-05-23 16:58:11",
-      "orig_title": "Khleb i rozy",
-      "year": "1960-11-02",
+      "add": "2019-05-28 22:15:15",
+      "orig_title": "Sleep Dealer",
+      "year": "2008-01-19",
       "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "sat",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-05-24 07:18:37",
-      "iframe_src": ""
-    },
-    {
-      "id": 26959,
-      "title": "Конь, ружьё и вольный ветер",
-      "kp_id": "481198",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-05-23 16:51:24",
-      "orig_title": "Конь, ружьё и вольный ветер",
-      "year": "1975-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "tv",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-05-24 07:16:41",
-      "iframe_src": ""
-    },
-    {
-      "id": 26957,
-      "title": "Кто заплатит за удачу",
-      "kp_id": "45015",
-      "imdb_id": "tt0178684",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-05-23 16:28:37",
-      "orig_title": "Kto zaplatit za udachu?",
-      "year": "1981-04-20",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-05-24 06:46:27",
-      "iframe_src": ""
-    },
-    {
-      "id": 26956,
-      "title": "Леди Макбет Мценского уезда",
-      "kp_id": "45052",
-      "imdb_id": "tt0097724",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-05-23 16:19:35",
-      "orig_title": "Ledi Makbet Mtsenskogo uezda",
-      "year": "1989-08-24",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-05-24 06:45:29",
-      "iframe_src": ""
-    },
-    {
-      "id": 26955,
-      "title": "Любовь в СССР",
-      "kp_id": "730475",
-      "imdb_id": "tt2649174",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-05-23 16:16:25",
-      "orig_title": "Lyubov v SSSR",
-      "year": "2013-01-08",
-      "translations": [
-        "Оригинальная дорожка"
+        "Профессиональный (многоголосый закадровый) (ТВ3)"
       ],
       "quality": "bd",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-05-24 06:44:26",
+      "translation": "Профессиональный (многоголосый закадровый) (ТВ3)",
+      "update": "2019-05-29 07:33:52",
       "iframe_src": ""
     },
     {
-      "id": 26954,
-      "title": "Любовь из прошлого",
-      "kp_id": "446127",
+      "id": 27217,
+      "title": "Оружие для найма",
+      "kp_id": "8623",
+      "imdb_id": "tt0035432",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-05-28 22:13:12",
+      "orig_title": "This Gun for Hire",
+      "year": "1942-05-13",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-05-29 07:32:20",
+      "iframe_src": ""
+    },
+    {
+      "id": 27216,
+      "title": "Святой Ральф",
+      "kp_id": "64564",
+      "imdb_id": "tt0384488",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-05-28 22:06:41",
+      "orig_title": "Saint Ralph",
+      "year": "2004-09-11",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-05-29 10:27:14",
+      "iframe_src": ""
+    },
+    {
+      "id": 27215,
+      "title": "Акселератка",
+      "kp_id": "43440",
+      "imdb_id": "tt0092525",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-05-28 22:00:03",
+      "orig_title": "Akseleratka",
+      "year": "1987-08-24",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-05-29 07:29:48",
+      "iframe_src": ""
+    },
+    {
+      "id": 27213,
+      "title": "Александр Попов",
+      "kp_id": "43453",
+      "imdb_id": "tt0041105",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-05-28 21:56:49",
+      "orig_title": "Aleksandr Popov",
+      "year": "1949-05-03",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-05-29 07:28:44",
+      "iframe_src": ""
+    },
+    {
+      "id": 27212,
+      "title": "Призрак смерти",
+      "kp_id": "1022889",
+      "imdb_id": "tt6433960",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-05-28 21:56:02",
+      "orig_title": "La mort dans l'âme",
+      "year": "2018-01-31",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "hdtv",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-05-29 10:28:35",
+      "iframe_src": ""
+    },
+    {
+      "id": 27210,
+      "title": "Берега",
+      "kp_id": "46088",
+      "imdb_id": "tt0312461",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-05-28 21:53:24",
+      "orig_title": "Berega",
+      "year": "1973-12-03",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "sat",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-05-29 10:28:35",
+      "iframe_src": ""
+    },
+    {
+      "id": 27206,
+      "title": "Чайка",
+      "kp_id": "404920",
       "imdb_id": null,
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-05-23 16:13:07",
-      "orig_title": "Любовь из прошлого",
-      "year": "2011-01-01",
+      "add": "2019-05-28 21:18:54",
+      "orig_title": "Чайка",
+      "year": "2005-03-20",
       "translations": [
         "Оригинальная дорожка"
       ],
       "quality": "dvdrip",
       "translation": "Оригинальная дорожка",
-      "update": "2019-05-24 06:42:32",
+      "update": "2019-05-29 07:22:54",
       "iframe_src": ""
     },
     {
-      "id": 26953,
-      "title": "Выстрел в тумане",
-      "kp_id": "45982",
-      "imdb_id": "tt0314861",
+      "id": 27205,
+      "title": "Черная чайка",
+      "kp_id": "432594",
+      "imdb_id": "tt1527604",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-05-23 16:07:57",
-      "orig_title": "Vystrel v tumane",
-      "year": "1964-06-08",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "sat",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-05-24 06:41:21",
-      "iframe_src": ""
-    },
-    {
-      "id": 26952,
-      "title": "Месяц май",
-      "kp_id": "467947",
-      "imdb_id": "tt5038382",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-05-23 16:03:06",
-      "orig_title": "Mesyats may",
-      "year": "1965-05-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-05-24 07:14:26",
-      "iframe_src": ""
-    },
-    {
-      "id": 26951,
-      "title": "Миллионы Ферфакса",
-      "kp_id": "46636",
-      "imdb_id": "tt0230529",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-05-23 15:46:33",
-      "orig_title": "Milliony Ferfaksa",
-      "year": "1981-07-13",
+      "add": "2019-05-28 21:12:36",
+      "orig_title": "Chyornaya chayka",
+      "year": "1962-01-01",
       "translations": [
         "Оригинальная дорожка"
       ],
       "quality": "dvdrip",
       "translation": "Оригинальная дорожка",
-      "update": "2019-05-24 06:40:37",
+      "update": "2019-05-29 07:19:29",
       "iframe_src": ""
     },
     {
-      "id": 26950,
-      "title": "На дорогах войны",
-      "kp_id": "46264",
-      "imdb_id": "tt0351402",
+      "id": 27204,
+      "title": "Черная гора",
+      "kp_id": "45550",
+      "imdb_id": "tt0067886",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-05-23 15:43:30",
-      "orig_title": "Na dorogakh voyny",
-      "year": "1959-01-05",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "sat",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-05-24 06:39:35",
-      "iframe_src": ""
-    },
-    {
-      "id": 26949,
-      "title": "Непобедимые",
-      "kp_id": "46402",
-      "imdb_id": "tt0035118",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-05-23 15:40:33",
-      "orig_title": "Nepobedimye",
-      "year": "1943-01-23",
+      "add": "2019-05-28 21:09:40",
+      "orig_title": "Chyornaya Gora",
+      "year": "1971-01-01",
       "translations": [
         "Оригинальная дорожка"
       ],
       "quality": "dvdrip",
       "translation": "Оригинальная дорожка",
-      "update": "2019-05-24 06:38:29",
+      "update": "2019-05-29 07:18:33",
       "iframe_src": ""
     },
     {
-      "id": 26936,
-      "title": "Рождественская мистерия",
-      "kp_id": "93021",
-      "imdb_id": "tt0399592",
+      "id": 27203,
+      "title": "Чрезвычайное поручение",
+      "kp_id": "43541",
+      "imdb_id": "tt0313895",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-05-23 14:53:51",
-      "orig_title": "Rozhdestvenskaya misteriya",
-      "year": "2000-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "sat",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-05-24 07:12:55",
-      "iframe_src": ""
-    },
-    {
-      "id": 26919,
-      "title": "Предчувствие любви",
-      "kp_id": "43227",
-      "imdb_id": "tt0196007",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-05-23 10:54:55",
-      "orig_title": "Predchuvstviye lyubvi",
-      "year": "1982-12-11",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "tv",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-05-24 07:13:32",
-      "iframe_src": ""
-    },
-    {
-      "id": 26914,
-      "title": "Солёная река детства",
-      "kp_id": "790350",
-      "imdb_id": "tt7808334",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-05-23 10:21:32",
-      "orig_title": "Solyonaya reka detstva",
-      "year": "1983-05-16",
+      "add": "2019-05-28 21:06:16",
+      "orig_title": "Artakarg handznararutyun",
+      "year": "1966-01-10",
       "translations": [
         "Оригинальная дорожка"
       ],
       "quality": "dvdrip",
       "translation": "Оригинальная дорожка",
-      "update": "2019-05-24 07:11:53",
+      "update": "2019-05-29 07:17:31",
       "iframe_src": ""
     },
     {
-      "id": 26913,
-      "title": "Факты минувшего дня",
-      "kp_id": "44397",
-      "imdb_id": "tt0082354",
+      "id": 27202,
+      "title": "Дафнис и Хлоя",
+      "kp_id": "41111",
+      "imdb_id": "tt0106646",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-05-23 10:04:41",
-      "orig_title": "Fakty minuvshego dnya",
-      "year": "1982-02-15",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-05-24 07:11:01",
-      "iframe_src": ""
-    },
-    {
-      "id": 26912,
-      "title": "Филер",
-      "kp_id": "44414",
-      "imdb_id": "tt0093024",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-05-23 10:00:22",
-      "orig_title": "Filyor",
-      "year": "1988-04-18",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-05-24 07:10:10",
-      "iframe_src": ""
-    },
-    {
-      "id": 26911,
-      "title": "Хоккеисты",
-      "kp_id": "44782",
-      "imdb_id": "tt0166648",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-05-23 09:51:21",
-      "orig_title": "Khokkeisty",
-      "year": "1965-02-27",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-05-24 07:09:17",
-      "iframe_src": ""
-    },
-    {
-      "id": 26910,
-      "title": "Я виноват",
-      "kp_id": "79665",
-      "imdb_id": "tt0387696",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-05-23 09:46:38",
-      "orig_title": "Ya vinovat",
+      "add": "2019-05-28 21:02:06",
+      "orig_title": "Dafnis i Khloya",
       "year": "1993-01-01",
       "translations": [
         "Оригинальная дорожка"
       ],
-      "quality": "webdl",
+      "quality": "vhs",
       "translation": "Оригинальная дорожка",
-      "update": "2019-05-24 07:07:46",
+      "update": "2019-05-29 07:16:16",
       "iframe_src": ""
     },
     {
-      "id": 23598,
-      "title": "Игла Remix",
-      "kp_id": "468291",
-      "imdb_id": "tt1718800",
+      "id": 27135,
+      "title": "Светлый путь",
+      "kp_id": "44054",
+      "imdb_id": "tt0033119",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-03-28 09:34:14",
-      "orig_title": "Igla Remix",
-      "year": "2010-09-16",
+      "add": "2019-05-27 17:28:39",
+      "orig_title": "Svetlyy put",
+      "year": "1940-10-08",
       "translations": [
         "Оригинальная дорожка"
       ],
-      "quality": "bd",
+      "quality": "webdl",
       "translation": "Оригинальная дорожка",
-      "update": "2019-05-24 07:17:59",
+      "update": "2019-05-30 06:19:51",
+      "iframe_src": ""
+    },
+    {
+      "id": 27134,
+      "title": "Слеза князя тьмы",
+      "kp_id": "41067",
+      "imdb_id": "tt0204635",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-05-27 17:22:22",
+      "orig_title": "Lza ksiecia ciemnosci",
+      "year": "1993-03-06",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-05-30 06:17:57",
+      "iframe_src": ""
+    },
+    {
+      "id": 27133,
+      "title": "Таинственный узник",
+      "kp_id": "42170",
+      "imdb_id": "tt0262032",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-05-27 17:16:53",
+      "orig_title": "Tainstvennyy uznik",
+      "year": "1986-04-20",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "sat",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-05-30 06:16:51",
+      "iframe_src": ""
+    },
+    {
+      "id": 27132,
+      "title": "Я, следователь...",
+      "kp_id": "223843",
+      "imdb_id": "tt0275509",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-05-27 17:12:05",
+      "orig_title": "Me, gamomdziebeli",
+      "year": "1972-01-03",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "webdl",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-05-30 06:15:24",
+      "iframe_src": ""
+    },
+    {
+      "id": 26977,
+      "title": "Человек, который не чувствует боль",
+      "kp_id": "1131319",
+      "imdb_id": "tt8055888",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-05-23 21:19:12",
+      "orig_title": "Mard Ko Dard Nahin Hota",
+      "year": "2018-09-10",
+      "translations": [
+        "Любительский (одноголосый закадровый) (BadBajo)",
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (одноголосый закадровый) (BadBajo)",
+      "update": "2019-05-30 05:08:44",
+      "iframe_src": ""
+    },
+    {
+      "id": 16784,
+      "title": "Джейк и гиганты",
+      "kp_id": "911598",
+      "imdb_id": "tt4697944",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-05-15 05:58:45",
+      "orig_title": "Jake and the Giants",
+      "year": "2015-08-29",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)",
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-05-30 05:06:01",
+      "iframe_src": ""
+    },
+    {
+      "id": 5945,
+      "title": "Хроники призрачного племени",
+      "kp_id": "919866",
+      "imdb_id": "tt4819498",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-07 08:14:15",
+      "orig_title": "Jiu ceng yao ta",
+      "year": "2015-09-30",
+      "translations": [
+        "Любительский (многоголосый закадровый)",
+        "Любительский (двухголосый закадровый) (GREEN TEA)"
+      ],
+      "quality": "hdtv",
+      "translation": "Любительский (многоголосый закадровый)",
+      "update": "2019-05-29 07:25:33",
       "iframe_src": ""
     }
   ]

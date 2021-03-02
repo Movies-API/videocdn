@@ -1,366 +1,369 @@
 {
   "data": [
     {
-      "id": 14214,
-      "title": "SPF-18",
-      "kp_id": "1048293",
-      "imdb_id": "tt7296862",
+      "id": 14434,
+      "title": "Командир Ким Чхан-су",
+      "kp_id": "1008826",
+      "imdb_id": "tt6406458",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-11-02 20:34:56",
-      "orig_title": "SPF-18",
-      "year": "2017-09-29",
+      "add": "2017-11-23 22:59:59",
+      "orig_title": "Daejang Kimchangsoo",
+      "year": "2017-10-19",
       "translations": [
-        "Любительский (двухголосый закадровый) (RecentFilms)"
+        "Любительский (многоголосый закадровый) (Колобок)"
       ],
-      "quality": "hdrip",
-      "translation": "Любительский (двухголосый закадровый) (RecentFilms)",
-      "update": "2017-11-03 06:06:34",
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Колобок)",
+      "update": "2017-11-24 05:32:39",
       "iframe_src": ""
     },
     {
-      "id": 14156,
-      "title": "Топтыжка",
-      "kp_id": "256093",
-      "imdb_id": "tt1332621",
+      "id": 14433,
+      "title": "Каролина – дом родной",
+      "kp_id": "992415",
+      "imdb_id": "tt5319656",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-10-29 12:28:20",
-      "orig_title": "Toptyzhka",
-      "year": "1964-01-01",
+      "add": "2017-11-23 22:58:32",
+      "orig_title": "Sweet Home Carolina",
+      "year": "2017-03-09",
       "translations": [
-        "Оригинальная дорожка"
+        "Любительский (многоголосый закадровый) (Синема УС)"
       ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2017-11-03 07:31:18",
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2017-11-24 05:33:46",
       "iframe_src": ""
     },
     {
-      "id": 14155,
-      "title": "Снежные дорожки",
-      "kp_id": "470419",
-      "imdb_id": "tt6215780",
+      "id": 14432,
+      "title": "Компаньон",
+      "kp_id": "941090",
+      "imdb_id": "tt5095010",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-10-29 12:27:14",
-      "orig_title": "Snezhniye dorozhki",
-      "year": "1963-01-01",
+      "add": "2017-11-23 22:56:29",
+      "orig_title": "El acompañante",
+      "year": "2015-10-03",
       "translations": [
-        "Оригинальная дорожка"
+        "Любительский (многоголосый закадровый) (Синема УС)"
       ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2017-11-03 07:28:25",
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2017-11-24 05:36:53",
       "iframe_src": ""
     },
     {
-      "id": 14154,
-      "title": "Приключения Буратино",
-      "kp_id": "43252",
-      "imdb_id": "tt0152066",
+      "id": 14429,
+      "title": "Друзья не оставляют друзей",
+      "kp_id": "852668",
+      "imdb_id": "tt3561204",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-10-29 12:25:25",
-      "orig_title": "Priklyucheniya Buratino",
-      "year": "1960-09-18",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2017-11-03 07:26:53",
-      "iframe_src": ""
-    },
-    {
-      "id": 14153,
-      "title": "Приходи на каток",
-      "kp_id": "470560",
-      "imdb_id": "tt6215784",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-10-29 12:23:49",
-      "orig_title": "Prihodi na katok",
-      "year": "1981-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2017-11-03 07:26:15",
-      "iframe_src": ""
-    },
-    {
-      "id": 14152,
-      "title": "Премудрый пескарь",
-      "kp_id": "451270",
-      "imdb_id": "tt2955410",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-10-29 12:22:34",
-      "orig_title": "Premudryy peskar",
-      "year": "1979-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2017-11-03 07:25:13",
-      "iframe_src": ""
-    },
-    {
-      "id": 14151,
-      "title": "Последняя охота",
-      "kp_id": "212253",
-      "imdb_id": "tt0480447",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-10-29 12:21:36",
-      "orig_title": "Poslednyaya okhota",
-      "year": "1982-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2017-11-03 07:24:29",
-      "iframe_src": ""
-    },
-    {
-      "id": 14150,
-      "title": "Последняя невеста Змея Горыныча",
-      "kp_id": "260353",
-      "imdb_id": "tt1382699",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-10-29 12:20:18",
-      "orig_title": "Poslednyaya nevesta Zmeya Gorynycha",
-      "year": "1978-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2017-11-03 07:23:24",
-      "iframe_src": ""
-    },
-    {
-      "id": 14147,
-      "title": "Молодильные яблоки",
-      "kp_id": "260080",
-      "imdb_id": "tt1070820",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-10-29 12:15:31",
-      "orig_title": "Molodilnye yabloki",
-      "year": "1974-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2017-11-02 06:45:23",
-      "iframe_src": ""
-    },
-    {
-      "id": 14146,
-      "title": "Мисс Новый год",
-      "kp_id": "652823",
-      "imdb_id": "tt6215788",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-10-29 11:51:33",
-      "orig_title": "Miss Novyy god",
-      "year": "1991-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2017-11-02 06:44:47",
-      "iframe_src": ""
-    },
-    {
-      "id": 14145,
-      "title": "Медведь – липовая нога",
-      "kp_id": "257920",
-      "imdb_id": "tt2217871",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-10-29 11:34:49",
-      "orig_title": "Medved lipovaya noga",
-      "year": "1984-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2017-11-02 06:44:05",
-      "iframe_src": ""
-    },
-    {
-      "id": 14144,
-      "title": "Лошарик",
-      "kp_id": "257211",
-      "imdb_id": "tt4263970",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-10-29 11:33:49",
-      "orig_title": "Losharik",
-      "year": "1971-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2017-11-02 06:42:28",
-      "iframe_src": ""
-    },
-    {
-      "id": 14143,
-      "title": "Лиса Патрикеевна",
-      "kp_id": "257937",
-      "imdb_id": "tt2632328",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-10-29 11:32:51",
-      "orig_title": "Lisa Patrikeevna",
-      "year": "1982-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2017-11-02 06:40:48",
-      "iframe_src": ""
-    },
-    {
-      "id": 14142,
-      "title": "Храбрый заяц",
-      "kp_id": "257941",
-      "imdb_id": "tt3785472",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-10-29 11:31:52",
-      "orig_title": "Khrabryy zayats",
-      "year": "1955-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2017-11-02 06:39:44",
-      "iframe_src": ""
-    },
-    {
-      "id": 14141,
-      "title": "Храбрый олененок",
-      "kp_id": "257997",
-      "imdb_id": "tt2368864",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-10-29 11:30:48",
-      "orig_title": "Khrabryy olenyonok",
-      "year": "1957-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2017-11-02 06:38:42",
-      "iframe_src": ""
-    },
-    {
-      "id": 14138,
-      "title": "Генерал Топтыгин",
-      "kp_id": "257918",
-      "imdb_id": "tt2778190",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-10-29 11:27:18",
-      "orig_title": "General Toptygin",
-      "year": "1971-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2017-11-02 06:35:01",
-      "iframe_src": ""
-    },
-    {
-      "id": 14068,
-      "title": "Другой расклад карт",
-      "kp_id": "1056943",
-      "imdb_id": "tt5462468",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-10-26 23:18:47",
-      "orig_title": "A Different Set of Cards",
-      "year": "2016-05-20",
+      "add": "2017-11-22 22:48:58",
+      "orig_title": "Friends Don't Let Friends",
+      "year": "2017-11-28",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "bd",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2017-11-03 05:45:56",
+      "update": "2017-11-23 05:29:43",
       "iframe_src": ""
     },
     {
-      "id": 13719,
-      "title": "Не твоё тело",
-      "kp_id": "1017263",
-      "imdb_id": "tt5753552",
+      "id": 14428,
+      "title": "Эвиленко",
+      "kp_id": "81719",
+      "imdb_id": "tt0406754",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-10-04 21:15:33",
-      "orig_title": "Moglie e marito",
-      "year": "2017-09-05",
+      "add": "2017-11-22 22:46:24",
+      "orig_title": "Evilenko",
+      "year": "2004-04-16",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "dvdrip",
+      "translation": "Полное дублирование",
+      "update": "2017-11-23 06:55:49",
+      "iframe_src": ""
+    },
+    {
+      "id": 14427,
+      "title": "Домой на Рождество",
+      "kp_id": "1049721",
+      "imdb_id": "tt7038614",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-11-22 22:41:22",
+      "orig_title": "Coming Home for Christmas",
+      "year": "2017-11-18",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "hdtv",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2017-11-23 05:46:49",
+      "iframe_src": ""
+    },
+    {
+      "id": 14426,
+      "title": "Незваный гость",
+      "kp_id": "980019",
+      "imdb_id": "tt4815240",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-11-22 22:39:16",
+      "orig_title": "Campus Caller",
+      "year": "2017-09-13",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "hdtv",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2017-11-23 05:45:55",
+      "iframe_src": ""
+    },
+    {
+      "id": 14425,
+      "title": "Не Стучи",
+      "kp_id": "1052695",
+      "imdb_id": "tt6713802",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-11-22 22:36:36",
+      "orig_title": "Neverknock",
+      "year": "2017-10-15",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "hdtv",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2017-11-23 05:44:07",
+      "iframe_src": ""
+    },
+    {
+      "id": 14423,
+      "title": "Black Sabbath: Последний концерт",
+      "kp_id": "1049278",
+      "imdb_id": "tt7133352",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-11-22 22:20:35",
+      "orig_title": "Black Sabbath: The End of The End",
+      "year": "2017-09-28",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2017-11-23 05:35:04",
+      "iframe_src": ""
+    },
+    {
+      "id": 14418,
+      "title": "Наталья Вальдебенито: Крикунья",
+      "kp_id": null,
+      "imdb_id": "tt7160286",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-11-21 22:03:24",
+      "orig_title": "Natalia Valdebenito: Gritona",
+      "year": "2017-11-21",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2017-11-22 05:44:24",
+      "iframe_src": ""
+    },
+    {
+      "id": 14417,
+      "title": "Последний шанс со Скалой Джонсоном",
+      "kp_id": "957688",
+      "imdb_id": "tt5348190",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-11-21 21:54:45",
+      "orig_title": "Rock and a Hard Place",
+      "year": "2017-03-27",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)",
+        "Полное дублирование"
+      ],
+      "quality": "hdtv",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2017-11-22 05:50:40",
+      "iframe_src": ""
+    },
+    {
+      "id": 14416,
+      "title": "Право последней ночи",
+      "kp_id": "1073234",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-11-21 21:52:42",
+      "orig_title": "Право последней ночи",
+      "year": "2017-11-19",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "webdl",
+      "translation": "Оригинальная дорожка",
+      "update": "2017-11-22 11:27:12",
+      "iframe_src": ""
+    },
+    {
+      "id": 14415,
+      "title": "Дневной звездопад",
+      "kp_id": "1007046",
+      "imdb_id": "tt6078842",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-11-21 21:49:23",
+      "orig_title": "Hirunaka no ryuusei",
+      "year": "2017-03-24",
+      "translations": [
+        "Любительский (двухголосый закадровый) (XDUB Dorama)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (двухголосый закадровый) (XDUB Dorama)",
+      "update": "2017-11-22 05:54:09",
+      "iframe_src": ""
+    },
+    {
+      "id": 14414,
+      "title": "Помолвка на Рождество",
+      "kp_id": "1063383",
+      "imdb_id": "tt6958760",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-11-21 21:44:42",
+      "orig_title": "Engaging Father Christmas",
+      "year": "2017-11-12",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "hdtv",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2017-11-22 05:58:40",
+      "iframe_src": ""
+    },
+    {
+      "id": 13896,
+      "title": "Сексология. Женский оргазм",
+      "kp_id": "1049678",
+      "imdb_id": "tt6574240",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-10-19 21:44:01",
+      "orig_title": "Sexology",
+      "year": "2016-12-22",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2017-11-24 05:38:42",
+      "iframe_src": ""
+    },
+    {
+      "id": 13723,
+      "title": "Плохой хороший полицейский 2",
+      "kp_id": "916739",
+      "imdb_id": "tt4738174",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-10-04 21:31:11",
+      "orig_title": "Bon Cop Bad Cop 2",
+      "year": "2017-05-12",
       "translations": [
         "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-        "Профессиональный (многоголосый закадровый)",
-        "Полное дублирование (iTunes)"
+        "Профессиональный (многоголосый закадровый) (GreenРай Studio)"
       ],
-      "quality": "dvdrip",
+      "quality": "bd",
       "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-      "update": "2017-11-03 06:26:27",
+      "update": "2017-11-23 05:37:50",
       "iframe_src": ""
     },
     {
-      "id": 10523,
-      "title": "Али и Нино",
-      "kp_id": "890401",
-      "imdb_id": "tt4072326",
+      "id": 13241,
+      "title": "Освободить мистера Дарси",
+      "kp_id": "951862",
+      "imdb_id": "tt5231268",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-03-26 22:13:59",
-      "orig_title": "Ali and Nino",
-      "year": "2016-01-27",
+      "add": "2017-08-30 06:24:03",
+      "orig_title": "Unleashing Mr. Darcy",
+      "year": "2016-01-23",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
+        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Профессиональный (многоголосый закадровый)"
       ],
-      "quality": "bd",
+      "quality": "hdtv",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2017-11-03 05:48:14",
+      "update": "2017-11-24 05:27:50",
       "iframe_src": ""
     },
     {
-      "id": 4602,
-      "title": "6 способов умереть",
-      "kp_id": "849996",
-      "imdb_id": "tt3550902",
+      "id": 12138,
+      "title": "Чёрный снег",
+      "kp_id": "973157",
+      "imdb_id": "tt5614612",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-08-21 15:36:20",
-      "orig_title": "6 Ways to Die",
-      "year": "2015-07-31",
+      "add": "2017-06-25 21:21:13",
+      "orig_title": "Nieve negra",
+      "year": "2017-01-19",
       "translations": [
-        "Любительский (одноголосый закадровый)",
-        "Любительский (многоголосый закадровый) (Синема УС)"
+        "Любительский (одноголосый закадровый) (Хихикающий доктор)",
+        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Профессиональный (многоголосый закадровый) (GreenРай Studio)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (одноголосый закадровый) (Хихикающий доктор)",
+      "update": "2017-11-23 05:35:56",
+      "iframe_src": ""
+    },
+    {
+      "id": 10213,
+      "title": "Рейд: Пуля в голове",
+      "kp_id": "944280",
+      "imdb_id": "tt5147214",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-03-05 20:13:20",
+      "orig_title": "Headshot",
+      "year": "2016-09-09",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Полное дублирование"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2017-11-22 05:56:01",
+      "iframe_src": ""
+    },
+    {
+      "id": 9585,
+      "title": "Преисподняя",
+      "kp_id": "607928",
+      "imdb_id": "tt1895315",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-02-10 05:35:15",
+      "orig_title": "Brimstone",
+      "year": "2016-09-03",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2017-11-02 06:33:27",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2017-11-22 05:45:33",
       "iframe_src": ""
     }
   ]

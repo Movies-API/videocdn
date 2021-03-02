@@ -1,363 +1,363 @@
 {
   "data": [
     {
-      "id": 5974,
-      "title": "Превратности любви",
-      "kp_id": "13057",
-      "imdb_id": "tt0145734",
+      "id": 6258,
+      "title": "За облаками",
+      "kp_id": "945550",
+      "imdb_id": "tt4440488",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-10-07 11:38:01",
-      "orig_title": "Playing by Heart",
-      "year": "1998-12-18",
+      "add": "2016-10-13 13:59:55",
+      "orig_title": "Achter de wolken",
+      "year": "2016-02-10",
       "translations": [
-        "Профессиональный (многоголосый закадровый)"
+        "Любительский (многоголосый закадровый)"
       ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-10-10 10:13:20",
+      "quality": "dvdrip",
+      "translation": "Любительский (многоголосый закадровый)",
+      "update": "2016-10-13 15:29:04",
       "iframe_src": ""
     },
     {
-      "id": 5973,
-      "title": "Ничего общего",
-      "kp_id": "6882",
-      "imdb_id": "tt0091653",
+      "id": 6257,
+      "title": "Ричард Питер Джонсон",
+      "kp_id": "757244",
+      "imdb_id": "tt2847520",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-10-07 11:36:59",
-      "orig_title": "Nothing in Common",
-      "year": "1986-07-30",
+      "add": "2016-10-13 13:57:37",
+      "orig_title": "Richard Peter Johnson",
+      "year": "2015-12-01",
       "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-10-10 10:11:34",
-      "iframe_src": ""
-    },
-    {
-      "id": 5972,
-      "title": "Потустороннее",
-      "kp_id": "462154",
-      "imdb_id": "tt1212419",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-07 11:35:55",
-      "orig_title": "Hereafter",
-      "year": "2010-09-12",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-10-10 10:00:47",
-      "iframe_src": ""
-    },
-    {
-      "id": 5970,
-      "title": "Киборг 2: Стеклянная тень",
-      "kp_id": "21654",
-      "imdb_id": "tt0106639",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-07 11:33:23",
-      "orig_title": "Cyborg 2: Glass Shadow",
-      "year": "1993-11-24",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
+        "Любительский (многоголосый закадровый)"
       ],
       "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-10-10 10:00:13",
+      "translation": "Любительский (многоголосый закадровый)",
+      "update": "2016-10-13 15:27:44",
       "iframe_src": ""
     },
     {
-      "id": 5969,
-      "title": "За гранью",
-      "kp_id": "8051",
-      "imdb_id": "tt0294357",
+      "id": 6255,
+      "title": "Ещё одна жена",
+      "kp_id": "951637",
+      "imdb_id": "tt5229082",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-10-07 11:32:15",
-      "orig_title": "Beyond Borders",
-      "year": "2003-10-24",
+      "add": "2016-10-13 13:52:21",
+      "orig_title": "The Other Wife",
+      "year": "2016-03-13",
       "translations": [
-        "Профессиональный (многоголосый закадровый)"
+        "Любительский (многоголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый)",
+      "update": "2016-10-13 15:13:28",
+      "iframe_src": ""
+    },
+    {
+      "id": 6253,
+      "title": "Аладдин и король разбойников",
+      "kp_id": "88706",
+      "imdb_id": "tt0115491",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-13 08:30:03",
+      "orig_title": "Aladdin and the King of Thieves",
+      "year": "1996-08-13",
+      "translations": [
+        "Полное дублирование"
       ],
       "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-10-10 09:59:34",
+      "translation": "Полное дублирование",
+      "update": "2016-10-13 11:13:03",
       "iframe_src": ""
     },
     {
-      "id": 5968,
-      "title": "Шанхай",
-      "kp_id": "413449",
-      "imdb_id": "tt1092634",
+      "id": 6252,
+      "title": "Bозвращение Джафара",
+      "kp_id": "88628",
+      "imdb_id": "tt0107952",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-10-07 11:30:56",
-      "orig_title": "Shanghai",
-      "year": "2010-06-10",
+      "add": "2016-10-13 08:28:13",
+      "orig_title": "The Return of Jafar",
+      "year": "1994-05-20",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2016-10-13 10:07:48",
+      "iframe_src": ""
+    },
+    {
+      "id": 6251,
+      "title": "Чёpная зависть",
+      "kp_id": "4480",
+      "imdb_id": "tt0326856",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-13 04:24:14",
+      "orig_title": "Envy",
+      "year": "2004-04-30",
       "translations": [
         "Профессиональный (двухголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2016-10-10 09:19:40",
-      "iframe_src": ""
-    },
-    {
-      "id": 5967,
-      "title": "Изображая Бога",
-      "kp_id": "2945",
-      "imdb_id": "tt0119906",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-07 11:29:46",
-      "orig_title": "Playing God",
-      "year": "1997-10-17",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2016-10-10 09:17:39",
-      "iframe_src": ""
-    },
-    {
-      "id": 5966,
-      "title": "Джиа",
-      "kp_id": "77036",
-      "imdb_id": "tt0123865",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-07 11:28:52",
-      "orig_title": "Gia",
-      "year": "1998-01-31",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2016-10-10 09:15:46",
-      "iframe_src": ""
-    },
-    {
-      "id": 5963,
-      "title": "Её сердце",
-      "kp_id": "258875",
-      "imdb_id": "tt0829459",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-07 11:25:29",
-      "orig_title": "A Mighty Heart",
-      "year": "2007-05-21",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2016-10-10 09:09:14",
-      "iframe_src": ""
-    },
-    {
-      "id": 5961,
-      "title": "Без единой улики",
-      "kp_id": "7628",
-      "imdb_id": "tt0096454",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-07 11:22:36",
-      "orig_title": "Without a Clue",
-      "year": "1988-10-21",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2016-10-10 08:59:26",
-      "iframe_src": ""
-    },
-    {
-      "id": 5959,
-      "title": "Маргарет",
-      "kp_id": "180579",
-      "imdb_id": "tt0466893",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-07 11:18:22",
-      "orig_title": "Margaret",
-      "year": "2011-09-30",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2016-10-10 08:55:23",
-      "iframe_src": ""
-    },
-    {
-      "id": 5958,
-      "title": "Непокоренный",
-      "kp_id": "391085",
-      "imdb_id": "tt1057500",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-07 11:10:15",
-      "orig_title": "Invictus",
-      "year": "2009-12-03",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2016-10-10 08:53:16",
-      "iframe_src": ""
-    },
-    {
-      "id": 5957,
-      "title": "Подземелье драконов 3: Книга заклинаний",
-      "kp_id": "568351",
-      "imdb_id": "tt1733125",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-07 11:06:52",
-      "orig_title": "Dungeons & Dragons: The Book of Vile Darkness",
-      "year": "2012-09-17",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-10-10 08:45:19",
-      "iframe_src": ""
-    },
-    {
-      "id": 5956,
-      "title": "Подземелье драконов 2: Источник могущества",
-      "kp_id": "81698",
-      "imdb_id": "tt0406728",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-07 11:01:18",
-      "orig_title": "Dungeons & Dragons: Wrath of the Dragon God",
-      "year": "2005-10-06",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2016-10-10 08:45:17",
-      "iframe_src": ""
-    },
-    {
-      "id": 5955,
-      "title": "Подземелье драконов",
-      "kp_id": "11109",
-      "imdb_id": "tt0190374",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-07 11:00:19",
-      "orig_title": "Dungeons & Dragons",
-      "year": "2000-12-08",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2016-10-10 08:40:46",
-      "iframe_src": ""
-    },
-    {
-      "id": 5953,
-      "title": "Эйхман",
-      "kp_id": "271921",
-      "imdb_id": "tt0901481",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-07 10:54:22",
-      "orig_title": "Eichmann",
-      "year": "2007-09-22",
-      "translations": [
-        "Авторский (одноголосый закадровый) (Живов)"
-      ],
-      "quality": "bd",
-      "translation": "Авторский (одноголосый закадровый) (Живов)",
-      "update": "2016-10-10 08:38:41",
-      "iframe_src": ""
-    },
-    {
-      "id": 5952,
-      "title": "Сети зла",
-      "kp_id": "6880",
-      "imdb_id": "tt0092925",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-07 10:50:38",
-      "orig_title": "Dragnet",
-      "year": "1987-06-23",
-      "translations": [
-        "Авторский (одноголосый закадровый) (Михалев)"
       ],
       "quality": "hdtv",
-      "translation": "Авторский (одноголосый закадровый) (Михалев)",
-      "update": "2016-10-10 08:36:24",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2016-10-14 04:13:58",
       "iframe_src": ""
     },
     {
-      "id": 5931,
-      "title": "Охота на Bеронику",
-      "kp_id": "4723",
-      "imdb_id": "tt0312549",
+      "id": 6244,
+      "title": "Сын Иисуса",
+      "kp_id": "11513",
+      "imdb_id": "tt0186253",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-10-06 15:47:03",
-      "orig_title": "Veronica Guerin",
-      "year": "2003-07-08",
+      "add": "2016-10-12 15:52:23",
+      "orig_title": "Jesus' Son",
+      "year": "1999-09-05",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "webdl",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-10-10 08:13:32",
+      "update": "2016-10-14 04:23:16",
       "iframe_src": ""
     },
     {
-      "id": 5929,
-      "title": "В осаде 2: Темная территория",
-      "kp_id": "4580",
-      "imdb_id": "tt0114781",
+      "id": 6241,
+      "title": "Певец",
+      "kp_id": "161180",
+      "imdb_id": "tt0458522",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-10-06 15:44:57",
-      "orig_title": "Under Siege 2: Dark Territory",
-      "year": "1995-07-14",
+      "add": "2016-10-12 15:48:10",
+      "orig_title": "El cantante",
+      "year": "2006-09-12",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-10-10 08:09:08",
+      "update": "2016-10-14 04:16:01",
       "iframe_src": ""
     },
     {
-      "id": 5660,
-      "title": "Bенди и Люси",
-      "kp_id": "402538",
-      "imdb_id": "tt1152850",
+      "id": 6238,
+      "title": "Капитан Америка",
+      "kp_id": "23237",
+      "imdb_id": "tt0103923",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-09-28 15:13:40",
-      "orig_title": "Wendy and Lucy",
-      "year": "2008-05-22",
+      "add": "2016-10-12 15:44:57",
+      "orig_title": "Captain America",
+      "year": "1990-12-14",
+      "translations": [
+        "Профессиональный (одноголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (одноголосый закадровый)",
+      "update": "2016-10-14 04:04:53",
+      "iframe_src": ""
+    },
+    {
+      "id": 6237,
+      "title": "Бесконечная история 3",
+      "kp_id": "8834",
+      "imdb_id": "tt0110647",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-12 15:43:36",
+      "orig_title": "The Neverending Story III",
+      "year": "1994-10-27",
+      "translations": [
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2016-10-14 04:02:49",
+      "iframe_src": ""
+    },
+    {
+      "id": 6232,
+      "title": "Стерва",
+      "kp_id": "3700",
+      "imdb_id": "tt0239948",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-12 15:34:04",
+      "orig_title": "Saving Silverman",
+      "year": "2001-02-07",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "webdl",
+      "translation": "Полное дублирование",
+      "update": "2016-10-13 10:52:51",
+      "iframe_src": ""
+    },
+    {
+      "id": 6231,
+      "title": "Если свекровь – монстр",
+      "kp_id": "47391",
+      "imdb_id": "tt0369735",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-12 15:32:47",
+      "orig_title": "Monster-in-Law",
+      "year": "2005-05-05",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2016-10-13 10:50:52",
+      "iframe_src": ""
+    },
+    {
+      "id": 6229,
+      "title": "Фантастическая четвёрка",
+      "kp_id": "23263",
+      "imdb_id": "tt0120667",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-12 15:30:26",
+      "orig_title": "Fantastic Four",
+      "year": "2005-06-29",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2016-10-13 10:46:55",
+      "iframe_src": ""
+    },
+    {
+      "id": 6225,
+      "title": "Джейсон X",
+      "kp_id": "4905",
+      "imdb_id": "tt0211443",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-12 15:19:40",
+      "orig_title": "Jason X",
+      "year": "2001-07-24",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-10-13 10:18:41",
+      "iframe_src": ""
+    },
+    {
+      "id": 6224,
+      "title": "Джейсон отправляется в ад: Последняя пятница",
+      "kp_id": "4050",
+      "imdb_id": "tt0107254",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-12 15:18:37",
+      "orig_title": "Jason Goes to Hell: The Final Friday",
+      "year": "1993-08-13",
       "translations": [
         "Профессиональный (двухголосый закадровый)"
       ],
       "quality": "bd",
       "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2016-10-10 14:20:30",
+      "update": "2016-10-13 10:15:54",
+      "iframe_src": ""
+    },
+    {
+      "id": 6223,
+      "title": "Пятница 13 - Часть 8: Джейсон штурмует Манхэттен",
+      "kp_id": "3671",
+      "imdb_id": "tt0097388",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-12 15:15:52",
+      "orig_title": "Friday the 13th Part VIII: Jason Takes Manhattan",
+      "year": "1989-07-28",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-10-13 10:13:55",
+      "iframe_src": ""
+    },
+    {
+      "id": 6222,
+      "title": "Пятница 13 - Часть 7: Новая кровь",
+      "kp_id": "18168",
+      "imdb_id": "tt0095179",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-12 15:15:01",
+      "orig_title": "Friday the 13th Part VII: The New Blood",
+      "year": "1988-05-13",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-10-13 10:11:53",
+      "iframe_src": ""
+    },
+    {
+      "id": 6221,
+      "title": "Пятница 13 - Часть 6: Джейсон жив!",
+      "kp_id": "18169",
+      "imdb_id": "tt0091080",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-12 15:14:14",
+      "orig_title": "Jason Lives: Friday the 13th Part VI",
+      "year": "1986-08-01",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-10-13 10:10:01",
+      "iframe_src": ""
+    },
+    {
+      "id": 6220,
+      "title": "Пятница 13 - Часть 5: Новое начало",
+      "kp_id": "18170",
+      "imdb_id": "tt0089173",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-12 15:12:52",
+      "orig_title": "Friday the 13th: A New Beginning",
+      "year": "1985-03-22",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-10-13 10:07:26",
+      "iframe_src": ""
+    },
+    {
+      "id": 6219,
+      "title": "Пятница 13 - Часть 4: Последняя глава",
+      "kp_id": "17625",
+      "imdb_id": "tt0087298",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-12 15:12:02",
+      "orig_title": "Friday the 13th: The Final Chapter",
+      "year": "1984-04-13",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-10-13 10:04:40",
       "iframe_src": ""
     }
   ]

@@ -1,365 +1,363 @@
 {
   "data": [
     {
-      "id": 18404,
-      "title": "Её жизнь – не ошибка",
-      "kp_id": "1045074",
-      "imdb_id": "tt6823246",
+      "id": 18630,
+      "title": "Магнетизм",
+      "kp_id": "801650",
+      "imdb_id": "tt3194622",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-08-19 21:25:53",
-      "orig_title": "Kanojo no jinsei wa machigaijanai",
-      "year": "2017-07-15",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-08-21 07:43:37",
-      "iframe_src": ""
-    },
-    {
-      "id": 18401,
-      "title": "Озеро Поркьюпайн",
-      "kp_id": "998715",
-      "imdb_id": "tt5913968",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-08-19 21:16:08",
-      "orig_title": "Porcupine Lake",
-      "year": "2017-09-08",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-08-21 07:35:46",
-      "iframe_src": ""
-    },
-    {
-      "id": 18400,
-      "title": "Нападение акул на Нью-Джерси",
-      "kp_id": "647739",
-      "imdb_id": "tt1876349",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-08-19 21:14:27",
-      "orig_title": "Jersey Shore Shark Attack",
-      "year": "2012-06-09",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2018-08-21 07:33:53",
-      "iframe_src": ""
-    },
-    {
-      "id": 18399,
-      "title": "Месси и Мод",
-      "kp_id": "961014",
-      "imdb_id": "tt4494230",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-08-19 21:10:11",
-      "orig_title": "La Holandesa",
-      "year": "2017-09-08",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-08-21 07:30:03",
-      "iframe_src": ""
-    },
-    {
-      "id": 18398,
-      "title": "Кунг-фу путешественник 2",
-      "kp_id": "1048066",
-      "imdb_id": "tt8005336",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-08-19 21:08:10",
-      "orig_title": "Gong fu ji qi xia 2",
-      "year": "2017-08-21",
+      "add": "2018-08-29 00:41:50",
+      "orig_title": "Magnetic",
+      "year": "2015-03-29",
       "translations": [
         "Любительский (многоголосый закадровый) (Колобок)"
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Колобок)",
-      "update": "2018-08-21 07:29:04",
+      "update": "2018-08-29 06:04:08",
       "iframe_src": ""
     },
     {
-      "id": 18397,
-      "title": "Альфонс",
-      "kp_id": "916198",
-      "imdb_id": "tt4765862",
+      "id": 18629,
+      "title": "Вампир Видар",
+      "kp_id": "1013519",
+      "imdb_id": "tt6147514",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-08-19 21:06:41",
-      "orig_title": "Kept Boy",
-      "year": "2017-02-04",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-08-21 07:27:44",
-      "iframe_src": ""
-    },
-    {
-      "id": 18395,
-      "title": "Ловушка для лисы",
-      "kp_id": "874607",
-      "imdb_id": "tt3949996",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-08-19 21:02:32",
-      "orig_title": "Fox Trap",
-      "year": "2018-02-10",
+      "add": "2018-08-29 00:39:59",
+      "orig_title": "Vampyr Vidar",
+      "year": "2017-08-23",
       "translations": [
         "Любительский (многоголосый закадровый) (Колобок)"
       ],
-      "quality": "dvdrip",
+      "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Колобок)",
-      "update": "2018-08-21 06:33:19",
+      "update": "2018-08-29 06:05:38",
       "iframe_src": ""
     },
     {
-      "id": 18394,
-      "title": "Навсегда",
-      "kp_id": null,
-      "imdb_id": "tt8788634",
+      "id": 18628,
+      "title": "Лишняя мать",
+      "kp_id": "882822",
+      "imdb_id": "tt4359686",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-08-19 21:00:53",
-      "orig_title": "Para Sempre Chape",
-      "year": "2018-08-02",
+      "add": "2018-08-29 00:38:36",
+      "orig_title": "Une mère en trop",
+      "year": "2015-06-20",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
+        "Профессиональный (многоголосый закадровый) (GreenРай Studio)"
+      ],
+      "quality": "hdtv",
+      "translation": "Профессиональный (многоголосый закадровый) (GreenРай Studio)",
+      "update": "2018-08-29 06:06:22",
+      "iframe_src": ""
+    },
+    {
+      "id": 18627,
+      "title": "Президент",
+      "kp_id": "841960",
+      "imdb_id": "tt3966942",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-08-29 00:36:47",
+      "orig_title": "The President",
+      "year": "2014-08-30",
+      "translations": [
+        "Любительский (многоголосый закадровый) (GreenРай Studio)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Любительский (многоголосый закадровый) (GreenРай Studio)",
+      "update": "2018-08-29 06:07:44",
+      "iframe_src": ""
+    },
+    {
+      "id": 18619,
+      "title": "Возвращение вампира",
+      "kp_id": "27553",
+      "imdb_id": "tt0037219",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-08-27 23:06:06",
+      "orig_title": "The Return of the Vampire",
+      "year": "1944-11-01",
+      "translations": [
+        "Любительский (одноголосый закадровый) (Воробьев Сергей)"
       ],
       "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-08-21 06:00:37",
+      "translation": "Любительский (одноголосый закадровый) (Воробьев Сергей)",
+      "update": "2018-08-28 07:35:57",
       "iframe_src": ""
     },
     {
-      "id": 18389,
-      "title": "Все стили",
-      "kp_id": "1055411",
-      "imdb_id": "tt7307136",
+      "id": 18618,
+      "title": "Женщина в окне",
+      "kp_id": "8306",
+      "imdb_id": "tt0037469",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-08-19 20:43:27",
-      "orig_title": "All Styles",
-      "year": "2018-08-06",
+      "add": "2018-08-27 23:02:44",
+      "orig_title": "The Woman in the Window",
+      "year": "1944-10-25",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-08-21 05:49:10",
-      "iframe_src": ""
-    },
-    {
-      "id": 18386,
-      "title": "Маменькин сынок",
-      "kp_id": "982867",
-      "imdb_id": "tt5769006",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-08-19 10:55:36",
-      "orig_title": "Mommy's Little Boy",
-      "year": "2017-03-17",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)",
-        "Любительский (многоголосый закадровый) (AlphaProject)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2018-08-21 07:32:38",
-      "iframe_src": ""
-    },
-    {
-      "id": 18385,
-      "title": "Насилие в женской тюрьме",
-      "kp_id": "140966",
-      "imdb_id": "tt0084869",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-08-19 07:14:02",
-      "orig_title": "Violenza in un carcere femminile",
-      "year": "1982-09-09",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (СВ-Дубль)"
+        "Профессиональный (двухголосый закадровый)"
       ],
       "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый) (СВ-Дубль)",
-      "update": "2018-08-20 06:01:37",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2018-08-28 07:29:39",
       "iframe_src": ""
     },
     {
-      "id": 18384,
-      "title": "Возвращение помидоров-убийц",
-      "kp_id": "20555",
-      "imdb_id": "tt0095989",
+      "id": 18617,
+      "title": "Невыразимый ужас",
+      "kp_id": "105770",
+      "imdb_id": "tt0096344",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-08-19 07:12:41",
-      "orig_title": "Return of the Killer Tomatoes!",
-      "year": "1988-04-22",
+      "add": "2018-08-27 23:01:09",
+      "orig_title": "The Unnamable",
+      "year": "1989-02-13",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2018-08-28 07:27:41",
+      "iframe_src": ""
+    },
+    {
+      "id": 18616,
+      "title": "Жеребец",
+      "kp_id": "29786",
+      "imdb_id": "tt0078333",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-08-27 22:59:20",
+      "orig_title": "The Stud",
+      "year": "1978-04-12",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2018-08-28 07:25:34",
+      "iframe_src": ""
+    },
+    {
+      "id": 18615,
+      "title": "Во власти идола",
+      "kp_id": "15947",
+      "imdb_id": "tt0081366",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-08-27 22:57:47",
+      "orig_title": "The Power",
+      "year": "1984-01-20",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2018-08-28 07:19:35",
+      "iframe_src": ""
+    },
+    {
+      "id": 18614,
+      "title": "Яма",
+      "kp_id": "700",
+      "imdb_id": "tt0242527",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-08-27 22:56:14",
+      "orig_title": "The Hole",
+      "year": "2001-04-20",
       "translations": [
         "Профессиональный (многоголосый закадровый) (CP Digital)"
       ],
       "quality": "bd",
       "translation": "Профессиональный (многоголосый закадровый) (CP Digital)",
-      "update": "2018-08-20 05:55:31",
+      "update": "2018-08-28 07:16:51",
       "iframe_src": ""
     },
     {
-      "id": 18383,
-      "title": "Восход луны",
-      "kp_id": "3269",
-      "imdb_id": "tt0040607",
+      "id": 18613,
+      "title": "Женщина моего друга",
+      "kp_id": "77754",
+      "imdb_id": "tt0085529",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-08-19 07:11:11",
-      "orig_title": "Moonrise",
-      "year": "1948-10-01",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (СТС)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый) (СТС)",
-      "update": "2018-08-20 06:00:06",
-      "iframe_src": ""
-    },
-    {
-      "id": 18382,
-      "title": "Мисима: Жизнь в четырёх главах",
-      "kp_id": "7326",
-      "imdb_id": "tt0089603",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-08-19 07:10:08",
-      "orig_title": "Mishima: A Life in Four Chapters",
-      "year": "1985-05-15",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (НТВ)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый) (НТВ)",
-      "update": "2018-08-20 05:58:51",
-      "iframe_src": ""
-    },
-    {
-      "id": 18381,
-      "title": "Рыжая белка",
-      "kp_id": "77236",
-      "imdb_id": "tt0106305",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-08-19 07:08:25",
-      "orig_title": "La ardilla roja",
-      "year": "1993-04-21",
+      "add": "2018-08-27 22:50:24",
+      "orig_title": "La femme de mon pote",
+      "year": "1983-08-31",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2018-08-20 06:31:41",
+      "update": "2018-08-28 07:12:26",
       "iframe_src": ""
     },
     {
-      "id": 18380,
-      "title": "Без иллюзий",
-      "kp_id": "52250",
-      "imdb_id": "tt0109384",
+      "id": 18612,
+      "title": "Красный круг",
+      "kp_id": "79507",
+      "imdb_id": "tt0065531",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-08-19 07:07:13",
-      "orig_title": "Casa de Lava",
-      "year": "1995-02-10",
+      "add": "2018-08-27 22:48:52",
+      "orig_title": "Le cercle rouge",
+      "year": "1970-10-20",
       "translations": [
-        "Профессиональный (многоголосый закадровый) (СВ-Дубль)"
+        "Профессиональный (многоголосый закадровый) (SomeWax)"
       ],
       "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый) (СВ-Дубль)",
-      "update": "2018-08-20 05:56:53",
+      "translation": "Профессиональный (многоголосый закадровый) (SomeWax)",
+      "update": "2018-08-28 07:09:44",
       "iframe_src": ""
     },
     {
-      "id": 18379,
-      "title": "Нападение помидоров-убийц",
-      "kp_id": "34866",
-      "imdb_id": "tt0080391",
+      "id": 18611,
+      "title": "Развратные девушки автостопщицы",
+      "kp_id": "650590",
+      "imdb_id": "tt0125806",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-08-19 07:05:40",
-      "orig_title": "Attack of the Killer Tomatoes!",
-      "year": "1978-10-08",
+      "add": "2018-08-27 22:47:05",
+      "orig_title": "Jeunes filles impudiques",
+      "year": "1973-08-16",
+      "translations": [
+        "Любительский (двухголосый закадровый) (DeadSno & den904)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (двухголосый закадровый) (DeadSno & den904)",
+      "update": "2018-08-28 07:03:03",
+      "iframe_src": ""
+    },
+    {
+      "id": 18610,
+      "title": "Джейк Speed",
+      "kp_id": "17038",
+      "imdb_id": "tt0091282",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-08-27 22:45:38",
+      "orig_title": "Jake Speed",
+      "year": "1986-05-30",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2018-08-20 05:54:17",
+      "update": "2018-08-28 07:01:16",
       "iframe_src": ""
     },
     {
-      "id": 18378,
-      "title": "Шесть степеней отчуждения",
-      "kp_id": "3511",
-      "imdb_id": "tt0108149",
+      "id": 18609,
+      "title": "Гротеск",
+      "kp_id": "440766",
+      "imdb_id": "tt1352369",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-08-19 07:04:17",
-      "orig_title": "Six Degrees of Separation",
-      "year": "1993-12-08",
+      "add": "2018-08-27 22:43:06",
+      "orig_title": "Gurotesuku",
+      "year": "2009-01-17",
       "translations": [
-        "Профессиональный (двухголосый закадровый) (НТВ)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (двухголосый закадровый) (НТВ)",
-      "update": "2018-08-20 05:52:46",
-      "iframe_src": ""
-    },
-    {
-      "id": 17010,
-      "title": "Псы под прикрытием",
-      "kp_id": "1030828",
-      "imdb_id": "tt5691024",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-06-02 22:39:25",
-      "orig_title": "Show Dogs",
-      "year": "2018-05-10",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2018-08-21 07:40:12",
-      "iframe_src": ""
-    },
-    {
-      "id": 10024,
-      "title": "Прирожденный гонщик 2",
-      "kp_id": "722895",
-      "imdb_id": "tt2547210",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-02-24 12:31:17",
-      "orig_title": "Born to Race: Fast Track",
-      "year": "2014-03-21",
-      "translations": [
-        "Любительский (одноголосый закадровый)",
-        "Профессиональный (многоголосый закадровый)"
+        "Любительский (одноголосый закадровый)"
       ],
       "quality": "bd",
       "translation": "Любительский (одноголосый закадровый)",
-      "update": "2018-08-21 05:54:22",
+      "update": "2018-08-28 06:56:03",
+      "iframe_src": ""
+    },
+    {
+      "id": 18604,
+      "title": "Восемь часов ужаса",
+      "kp_id": "395220",
+      "imdb_id": "tt0050476",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-08-27 22:20:33",
+      "orig_title": "Hachijikan no kyôfu",
+      "year": "1957-03-08",
+      "translations": [
+        "Любительский (одноголосый закадровый) (Воротилин)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (одноголосый закадровый) (Воротилин)",
+      "update": "2018-08-28 06:50:52",
+      "iframe_src": ""
+    },
+    {
+      "id": 18603,
+      "title": "Ад каннибалов 2",
+      "kp_id": "94732",
+      "imdb_id": "tt0081112",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-08-27 22:19:03",
+      "orig_title": "Mangiati vivi!",
+      "year": "1980-03-20",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Визгунов Сергей)"
+      ],
+      "quality": "bd",
+      "translation": "Авторский (одноголосый закадровый) (Визгунов Сергей)",
+      "update": "2018-08-28 06:49:35",
+      "iframe_src": ""
+    },
+    {
+      "id": 18524,
+      "title": "Эндемит Альберт",
+      "kp_id": "1124183",
+      "imdb_id": "tt8242978",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-08-26 12:06:15",
+      "orig_title": "Endemit Albert",
+      "year": "2017-01-01",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (GreenРай Studio)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый) (GreenРай Studio)",
+      "update": "2018-08-28 06:57:46",
+      "iframe_src": ""
+    },
+    {
+      "id": 8716,
+      "title": "Чингиз Хан",
+      "kp_id": "10306",
+      "imdb_id": "tt0059219",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-01-08 12:45:20",
+      "orig_title": "Genghis Khan",
+      "year": "1965-04-15",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2018-08-28 06:51:52",
+      "iframe_src": ""
+    },
+    {
+      "id": 7415,
+      "title": "Вверх тормашками",
+      "kp_id": "1540",
+      "imdb_id": "tt0192111",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-11-14 13:44:08",
+      "orig_title": "Head Over Heels",
+      "year": "2001-02-02",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2018-08-28 06:59:29",
       "iframe_src": ""
     }
   ]

@@ -1,379 +1,366 @@
 {
   "data": [
     {
-      "id": 40152,
-      "title": "Кунтиланак 2",
-      "kp_id": "1263334",
-      "imdb_id": "tt10276328",
+      "id": 40222,
+      "title": "Интрижка",
+      "kp_id": "102145",
+      "imdb_id": "tt0286664",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-05-06 04:37:35",
-      "orig_title": "Kuntilanak 2",
-      "year": "2019-06-04",
+      "add": "2020-05-08 22:50:19",
+      "orig_title": "Gudgudee",
+      "year": "1997-04-04",
       "translations": [
-        "Любительский (двухголосый закадровый) (Колобок)"
+        "Профессиональный (многоголосый закадровый) (ZEE TV)"
       ],
-      "quality": "webdl",
-      "translation": "Любительский (двухголосый закадровый) (Колобок)",
-      "update": "2020-05-06 10:36:44",
+      "quality": "sat",
+      "translation": "Профессиональный (многоголосый закадровый) (ZEE TV)",
+      "update": "2020-05-11 08:38:20",
       "iframe_src": ""
     },
     {
-      "id": 40150,
-      "title": "Человеческий зоопарк",
-      "kp_id": "1373691",
-      "imdb_id": "tt5575918",
+      "id": 40221,
+      "title": "Добро пожаловать в Карачи",
+      "kp_id": "844725",
+      "imdb_id": "tt4023852",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-05-06 04:19:31",
-      "orig_title": "Human Zoo",
-      "year": "2020-05-05",
+      "add": "2020-05-08 22:27:10",
+      "orig_title": "Welcome to Karachi",
+      "year": "2015-05-28",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
+        "Профессиональный (многоголосый закадровый) (ZEE TV)"
       ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-05-06 10:42:46",
+      "quality": "hdtv",
+      "translation": "Профессиональный (многоголосый закадровый) (ZEE TV)",
+      "update": "2020-05-11 08:35:44",
       "iframe_src": ""
     },
     {
-      "id": 40146,
-      "title": "Джерри Сайнфелд: 23 часа, чтобы убить",
-      "kp_id": "1368284",
-      "imdb_id": "tt12117854",
+      "id": 40220,
+      "title": "Борьба за жизнь",
+      "kp_id": "208308",
+      "imdb_id": "tt0351126",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-05-06 04:12:24",
-      "orig_title": "Jerry Seinfeld: 23 Hours to Kill",
-      "year": "2020-05-05",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-05-06 13:32:33",
-      "iframe_src": ""
-    },
-    {
-      "id": 40145,
-      "title": "Мамины маленькие помощники",
-      "kp_id": "1200667",
-      "imdb_id": "tt9100838",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-05-06 04:11:30",
-      "orig_title": "Mother's Little Helpers",
-      "year": "2019-03-09",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-05-06 13:32:05",
-      "iframe_src": ""
-    },
-    {
-      "id": 40144,
-      "title": "Жениться нужно осторожно",
-      "kp_id": "1264214",
-      "imdb_id": "tt10309906",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-05-06 04:09:48",
-      "orig_title": "Shubh Mangal Zyada Saavdhan",
-      "year": "2020-02-21",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-05-06 13:31:37",
-      "iframe_src": ""
-    },
-    {
-      "id": 40143,
-      "title": "Пришелец, детка!",
-      "kp_id": "1045958",
-      "imdb_id": "tt6329874",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-05-06 04:08:21",
-      "orig_title": "Alien, Baby!",
-      "year": "2017-06-18",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-05-06 13:31:14",
-      "iframe_src": ""
-    },
-    {
-      "id": 40138,
-      "title": "Помни меня",
-      "kp_id": "1032510",
-      "imdb_id": "tt4999290",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-05-05 21:42:05",
-      "orig_title": "Remember Me",
-      "year": "2019-08-02",
-      "translations": [
-        "Любительский (многоголосый закадровый) (AlphaProject)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (AlphaProject)",
-      "update": "2020-05-06 11:04:46",
-      "iframe_src": ""
-    },
-    {
-      "id": 40136,
-      "title": "Доктор С",
-      "kp_id": "1198732",
-      "imdb_id": "tt9060114",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-05-05 21:07:00",
-      "orig_title": "Doctor S",
-      "year": "2018-10-16",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-05-06 08:46:59",
-      "iframe_src": ""
-    },
-    {
-      "id": 40135,
-      "title": "Игра в куклы: Псы войны",
-      "kp_id": "1368541",
-      "imdb_id": "tt12158538",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-05-05 21:04:23",
-      "orig_title": "Cry Havoc",
-      "year": "2020-05-05",
-      "translations": [
-        "Любительский (двухголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (двухголосый закадровый)",
-      "update": "2020-05-06 10:36:18",
-      "iframe_src": ""
-    },
-    {
-      "id": 40134,
-      "title": "Идеальный муж",
-      "kp_id": "1169320",
-      "imdb_id": "tt8653640",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-05-05 21:01:43",
-      "orig_title": "An Ideal Husband",
-      "year": "2018-06-05",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-05-06 08:45:25",
-      "iframe_src": ""
-    },
-    {
-      "id": 40130,
-      "title": "Острова",
-      "kp_id": "962537",
-      "imdb_id": "tt5304664",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-05-05 20:42:17",
-      "orig_title": "The Islands",
-      "year": "2019-12-06",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Любительский (двухголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-05-06 10:43:04",
-      "iframe_src": ""
-    },
-    {
-      "id": 40113,
-      "title": "4 мушкетера Шарло",
-      "kp_id": "60498",
-      "imdb_id": "tt0072052",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-05-05 11:28:52",
-      "orig_title": "Les quatre Charlots mousquetaires",
-      "year": "1974-02-13",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "dvdrip",
-      "translation": "Полное дублирование",
-      "update": "2020-05-06 12:00:49",
-      "iframe_src": ""
-    },
-    {
-      "id": 40098,
-      "title": "Лига справедливости: Новый барьер",
-      "kp_id": "305926",
-      "imdb_id": "tt0902272",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-05-04 21:29:07",
-      "orig_title": "Justice League: The New Frontier",
-      "year": "2008-02-26",
+      "add": "2020-05-08 21:57:36",
+      "orig_title": "Jeevan Yudh",
+      "year": "1997-03-04",
       "translations": [
         "Профессиональный (двухголосый закадровый)"
       ],
-      "quality": "bd",
+      "quality": "dvdrip",
       "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2020-05-06 11:59:18",
+      "update": "2020-05-11 08:34:08",
       "iframe_src": ""
     },
     {
-      "id": 22625,
-      "title": "Ну разве не романтично?",
-      "kp_id": "714878",
-      "imdb_id": "tt2452244",
+      "id": 40219,
+      "title": "Атиди",
+      "kp_id": "278564",
+      "imdb_id": "tt0954914",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-03-03 08:02:00",
-      "orig_title": "Isn't It Romantic",
-      "year": "2019-02-13",
+      "add": "2020-05-08 21:49:38",
+      "orig_title": "Athidhi",
+      "year": "2007-10-18",
       "translations": [
-        "Полное дублирование (Пифагор)",
-        "Любительский (двухголосый закадровый) (LakeFilms)",
-        "Original (English)",
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-05-11 08:33:27",
+      "iframe_src": ""
+    },
+    {
+      "id": 40218,
+      "title": "Али-Баба и Марджина",
+      "kp_id": "86848",
+      "imdb_id": "tt0165613",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-05-08 21:44:57",
+      "orig_title": "Alibaba Marjinaa",
+      "year": "1977-01-01",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (ZEE TV)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый) (ZEE TV)",
+      "update": "2020-05-11 08:33:08",
+      "iframe_src": ""
+    },
+    {
+      "id": 40211,
+      "title": "Паан Сингх Томар",
+      "kp_id": "512240",
+      "imdb_id": "tt1620933",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-05-08 16:28:23",
+      "orig_title": "Paan Singh Tomar",
+      "year": "2012-03-02",
+      "translations": [
+        "Любительский (одноголосый закадровый)  (zamez)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Любительский (одноголосый закадровый)  (zamez)",
+      "update": "2020-05-11 08:22:12",
+      "iframe_src": ""
+    },
+    {
+      "id": 40210,
+      "title": "Поездка в Дели",
+      "kp_id": "585120",
+      "imdb_id": "tt1884268",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-05-08 16:25:22",
+      "orig_title": "Chalo Dilli",
+      "year": "2011-04-29",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (ZEE TV)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый) (ZEE TV)",
+      "update": "2020-05-11 08:21:42",
+      "iframe_src": ""
+    },
+    {
+      "id": 40207,
+      "title": "Сурадж",
+      "kp_id": "278356",
+      "imdb_id": "tt0952685",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-05-08 16:15:10",
+      "orig_title": "Suraj",
+      "year": "1997-06-27",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (ZEE TV)"
+      ],
+      "quality": "sat",
+      "translation": "Профессиональный (многоголосый закадровый) (ZEE TV)",
+      "update": "2020-05-11 08:19:27",
+      "iframe_src": ""
+    },
+    {
+      "id": 40206,
+      "title": "Тайна женщины",
+      "kp_id": "40431",
+      "imdb_id": "tt0221982",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-05-08 16:09:41",
+      "orig_title": "Gaja Gamini",
+      "year": "2000-12-01",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2020-05-11 08:17:26",
+      "iframe_src": ""
+    },
+    {
+      "id": 40205,
+      "title": "Жить и умереть ради куска хлеба",
+      "kp_id": "208329",
+      "imdb_id": "tt0363959",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-05-08 16:06:22",
+      "orig_title": "Roti Kee Keemat",
+      "year": "1990-01-01",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-05-11 08:16:37",
+      "iframe_src": ""
+    },
+    {
+      "id": 40204,
+      "title": "Кто третий?",
+      "kp_id": "264178",
+      "imdb_id": "tt0111384",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-05-08 16:03:31",
+      "orig_title": "Teesra Kaun?",
+      "year": "1994-12-23",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-05-11 08:16:15",
+      "iframe_src": ""
+    },
+    {
+      "id": 40203,
+      "title": "Трагическое совпадение",
+      "kp_id": "97004",
+      "imdb_id": "tt0073236",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-05-08 15:51:53",
+      "orig_title": "Khel Khel Mein",
+      "year": "1975-04-01",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (Формат AB)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый) (Формат AB)",
+      "update": "2020-05-11 08:15:24",
+      "iframe_src": ""
+    },
+    {
+      "id": 40188,
+      "title": "Честь",
+      "kp_id": "86754",
+      "imdb_id": "tt0415003",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-05-07 07:24:57",
+      "orig_title": "Garv: Pride and Honour",
+      "year": "2004-07-09",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2020-05-11 08:14:24",
+      "iframe_src": ""
+    },
+    {
+      "id": 40187,
+      "title": "Честь дома",
+      "kp_id": "78619",
+      "imdb_id": "tt0172488",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-05-07 07:22:14",
+      "orig_title": "Ghar Ki Izzat",
+      "year": "1994-12-16",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-05-11 08:13:40",
+      "iframe_src": ""
+    },
+    {
+      "id": 40186,
+      "title": "Чинту Джи",
+      "kp_id": "470712",
+      "imdb_id": "tt1135931",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-05-07 07:18:35",
+      "orig_title": "Chintu Ji",
+      "year": "2009-09-04",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (Red Media)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый) (Red Media)",
+      "update": "2020-05-11 08:13:15",
+      "iframe_src": ""
+    },
+    {
+      "id": 40185,
+      "title": "Чудесные деяния Ганеша",
+      "kp_id": "508156",
+      "imdb_id": "tt1176201",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-05-07 07:15:01",
+      "orig_title": "Jai Ganesh Deva",
+      "year": "2001-01-01",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (Red Media)"
+      ],
+      "quality": "sat",
+      "translation": "Профессиональный (многоголосый закадровый) (Red Media)",
+      "update": "2020-05-11 08:12:48",
+      "iframe_src": ""
+    },
+    {
+      "id": 40184,
+      "title": "Дело чести",
+      "kp_id": "172181",
+      "imdb_id": "tt0375705",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-05-07 07:10:15",
+      "orig_title": "Dhill",
+      "year": "2001-01-01",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "sat",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-05-11 08:12:10",
+      "iframe_src": ""
+    },
+    {
+      "id": 40183,
+      "title": "Загадай желание",
+      "kp_id": "484539",
+      "imdb_id": "tt1538210",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-05-07 06:29:12",
+      "orig_title": "Aao Wish Karein",
+      "year": "2009-11-13",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (Red Media)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый) (Red Media)",
+      "update": "2020-05-11 08:11:35",
+      "iframe_src": ""
+    },
+    {
+      "id": 36738,
+      "title": "Я",
+      "kp_id": "695620",
+      "imdb_id": "tt2302966",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-02-21 20:52:15",
+      "orig_title": "I",
+      "year": "2015-01-14",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)",
+        "Любительский (двухголосый закадровый) (DeadSno & den904)"
       ],
       "quality": "webdl",
-      "translation": "Полное дублирование (Пифагор)",
-      "update": "2020-05-06 11:29:27",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-05-11 08:40:52",
       "iframe_src": ""
     },
     {
-      "id": 22573,
-      "title": "Мистериум. Журнал 64",
-      "kp_id": "1045598",
-      "imdb_id": "tt6916362",
+      "id": 18870,
+      "title": "Поиск",
+      "kp_id": "575646",
+      "imdb_id": "tt1787988",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-02-26 21:38:04",
-      "orig_title": "Journal 64",
-      "year": "2018-09-29",
+      "add": "2018-09-09 12:01:21",
+      "orig_title": "Talaash",
+      "year": "2012-11-29",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Любительский (одноголосый закадровый) (Хихикающий доктор)",
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
+        "Любительский (многоголосый закадровый) (ICG)",
+        "Любительский (одноголосый закадровый)  (zamez)",
+        "Профессиональный (многоголосый закадровый) (Red Media)"
       ],
       "quality": "bd",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-05-06 11:31:59",
-      "iframe_src": ""
-    },
-    {
-      "id": 21530,
-      "title": "Молоко и мёд",
-      "kp_id": "993787",
-      "imdb_id": "tt5803438",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-01-15 22:51:55",
-      "orig_title": "Milk and Honey: The Movie",
-      "year": "2018-11-02",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
-      "update": "2020-05-06 11:30:27",
-      "iframe_src": ""
-    },
-    {
-      "id": 16953,
-      "title": "Лос-Анджелес в огне",
-      "kp_id": "1008739",
-      "imdb_id": "tt5843850",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-05-30 09:59:58",
-      "orig_title": "Kings",
-      "year": "2017-09-13",
-      "translations": [
-        "Полное дублирование",
-        "Любительский (многоголосый закадровый) (Колобок)",
-        "Профессиональный (многоголосый закадровый) (GreenРай Studio)",
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2020-05-06 11:29:58",
-      "iframe_src": ""
-    },
-    {
-      "id": 16665,
-      "title": "Остров собак",
-      "kp_id": "939785",
-      "imdb_id": "tt5104604",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-05-06 21:50:12",
-      "orig_title": "Isle of Dogs",
-      "year": "2018-02-15",
-      "translations": [
-        "Полное дублирование (iTunes)",
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование (iTunes)",
-      "update": "2020-05-06 11:31:34",
-      "iframe_src": ""
-    },
-    {
-      "id": 16411,
-      "title": "Кодахром",
-      "kp_id": "835100",
-      "imdb_id": "tt1880399",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-04-22 08:56:59",
-      "orig_title": "Kodachrome",
-      "year": "2017-09-08",
-      "translations": [
-        "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-        "Любительский (двухголосый закадровый) (HiWayGrope)",
-        "Профессиональный (многоголосый закадровый) (Jaskier)",
-        "Original (English)",
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-      "update": "2020-05-06 11:33:06",
-      "iframe_src": ""
-    },
-    {
-      "id": 14878,
-      "title": "Все только начинается",
-      "kp_id": "980382",
-      "imdb_id": "tt5721088",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-01-14 21:19:53",
-      "orig_title": "Just Getting Started",
-      "year": "2017-12-01",
-      "translations": [
-        "Полное дублирование (iTunes)",
-        "Любительский (двухголосый закадровый) (HiWayGrope)",
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование (iTunes)",
-      "update": "2020-05-06 11:32:27",
+      "translation": "Любительский (многоголосый закадровый) (ICG)",
+      "update": "2020-05-11 08:39:30",
       "iframe_src": ""
     }
   ]

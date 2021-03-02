@@ -1,363 +1,372 @@
 {
   "data": [
     {
-      "id": 38065,
-      "title": "Шестизарядный",
-      "kp_id": "88165",
-      "imdb_id": "tt0425458",
+      "id": 38269,
+      "title": "Фокстер и Макс",
+      "kp_id": "1115684",
+      "imdb_id": "tt8269856",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-03-16 09:32:14",
-      "orig_title": "Six Shooter",
-      "year": "2004-10-14",
+      "add": "2020-03-19 21:29:32",
+      "orig_title": "Foxter & Max",
+      "year": "2018-10-25",
       "translations": [
-        "Любительский (одноголосый закадровый)"
+        "Оригинальная дорожка"
+      ],
+      "quality": "webdl",
+      "translation": "Оригинальная дорожка",
+      "update": "2020-03-20 13:24:44",
+      "iframe_src": ""
+    },
+    {
+      "id": 38268,
+      "title": "Зомби на Диком Западе",
+      "kp_id": "257530",
+      "imdb_id": "tt0795505",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-03-19 21:27:11",
+      "orig_title": "Undead or Alive: A Zombedy",
+      "year": "2007-03-10",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2020-03-20 13:25:12",
+      "iframe_src": ""
+    },
+    {
+      "id": 38247,
+      "title": "Объездная дорога",
+      "kp_id": "1208147",
+      "imdb_id": "tt9176260",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-03-19 13:43:11",
+      "orig_title": "Bypass Road",
+      "year": "2019-11-09",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Honey&Hoseena)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Honey&Hoseena)",
+      "update": "2020-03-20 13:17:48",
+      "iframe_src": ""
+    },
+    {
+      "id": 38246,
+      "title": "Ню",
+      "kp_id": "1117991",
+      "imdb_id": "tt8561540",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-03-19 13:24:16",
+      "orig_title": "Nu",
+      "year": "2018-11-09",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "webdl",
+      "translation": "Оригинальная дорожка",
+      "update": "2020-03-20 13:18:19",
+      "iframe_src": ""
+    },
+    {
+      "id": 38245,
+      "title": "Джонни-Зубочистка",
+      "kp_id": "13847",
+      "imdb_id": "tt0102164",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-03-19 13:21:26",
+      "orig_title": "Johnny Stecchino",
+      "year": "1991-10-24",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (Кинолюкс)"
       ],
       "quality": "bd",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2020-03-16 10:32:33",
+      "translation": "Профессиональный (многоголосый закадровый) (Кинолюкс)",
+      "update": "2020-03-20 13:30:47",
       "iframe_src": ""
     },
     {
-      "id": 38064,
-      "title": "Лавкрафт: Страх неизведанного",
-      "kp_id": "672367",
-      "imdb_id": "tt1261900",
+      "id": 38244,
+      "title": "Мама к Рождеству",
+      "kp_id": "276269",
+      "imdb_id": "tt0100173",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-03-16 09:29:21",
-      "orig_title": "Lovecraft: Fear of the Unknown",
-      "year": "2008-07-24",
-      "translations": [
-        "Любительский (одноголосый закадровый)"
-      ],
-      "quality": "hdrip",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2020-03-16 10:33:01",
-      "iframe_src": ""
-    },
-    {
-      "id": 38063,
-      "title": "Тейлор Томлинсон: Кризис 1/4 жизни",
-      "kp_id": null,
-      "imdb_id": "tt11738792",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-03-16 07:45:35",
-      "orig_title": "Taylor Tomlinson: Quarter-Life Crisis",
-      "year": "2020-03-03",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-03-16 08:51:19",
-      "iframe_src": ""
-    },
-    {
-      "id": 38062,
-      "title": "Лио и Акула",
-      "kp_id": "1085804",
-      "imdb_id": "tt6956866",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-03-16 07:40:24",
-      "orig_title": "Leo and the Shark",
-      "year": "2019-10-11",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-03-16 09:10:17",
-      "iframe_src": ""
-    },
-    {
-      "id": 38061,
-      "title": "Окончательный монтаж",
-      "kp_id": "881457",
-      "imdb_id": "tt3717310",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-03-16 07:39:16",
-      "orig_title": "Final Cut",
-      "year": "2019-10-01",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-03-16 08:50:18",
-      "iframe_src": ""
-    },
-    {
-      "id": 38059,
-      "title": "Вечер",
-      "kp_id": "258916",
-      "imdb_id": "tt0765447",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-03-16 07:30:07",
-      "orig_title": "Evening",
-      "year": "2007-06-09",
+      "add": "2020-03-19 13:19:59",
+      "orig_title": "A Mom for Christmas",
+      "year": "1990-12-17",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "dvdrip",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-03-16 10:34:04",
+      "update": "2020-03-20 13:31:40",
       "iframe_src": ""
     },
     {
-      "id": 38057,
-      "title": "Преступление на почве ненависти",
-      "kp_id": "855038",
-      "imdb_id": "tt4162034",
+      "id": 38243,
+      "title": "Сердце героя",
+      "kp_id": "506194",
+      "imdb_id": "tt1618368",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-03-16 05:42:43",
-      "orig_title": "Hate Crime",
-      "year": "2017-01-01",
+      "add": "2020-03-19 13:18:29",
+      "orig_title": "25 Hill",
+      "year": "2011-07-09",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
+        "Профессиональный (многоголосый закадровый)"
       ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-03-16 10:21:10",
+      "quality": "hdtv",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-03-20 13:32:16",
       "iframe_src": ""
     },
     {
-      "id": 38056,
-      "title": "Домой на Рождество",
-      "kp_id": "1040769",
-      "imdb_id": "tt6634632",
+      "id": 38242,
+      "title": "Музыка из другой комнаты",
+      "kp_id": "12360",
+      "imdb_id": "tt0119734",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-03-16 05:41:32",
-      "orig_title": "Home for Christmas",
-      "year": "2017-07-16",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-03-16 10:19:32",
-      "iframe_src": ""
-    },
-    {
-      "id": 38055,
-      "title": "Процедер",
-      "kp_id": "1255171",
-      "imdb_id": "tt10131762",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-03-16 05:39:16",
-      "orig_title": "Proceder",
-      "year": "2019-11-15",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-03-16 10:21:38",
-      "iframe_src": ""
-    },
-    {
-      "id": 38000,
-      "title": "Крокодил",
-      "kp_id": "1000398",
-      "imdb_id": "tt5663962",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-03-15 04:20:16",
-      "orig_title": "Crocodylus",
-      "year": "2017-12-03",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-03-16 09:13:48",
-      "iframe_src": ""
-    },
-    {
-      "id": 37886,
-      "title": "Лучше рая",
-      "kp_id": "85024",
-      "imdb_id": "tt0155227",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-03-12 21:27:00",
-      "orig_title": "Swarag Se Sunder",
-      "year": "1986-02-17",
+      "add": "2020-03-19 13:16:57",
+      "orig_title": "Music from Another Room",
+      "year": "1998-04-24",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "webdl",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-03-16 08:14:04",
+      "update": "2020-03-20 13:32:47",
       "iframe_src": ""
     },
     {
-      "id": 37885,
-      "title": "Из воспоминаний",
-      "kp_id": "36277",
-      "imdb_id": "tt0347167",
+      "id": 38225,
+      "title": "Под конец дня",
+      "kp_id": "1293649",
+      "imdb_id": "tt4693840",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-03-12 21:24:23",
-      "orig_title": "The Hero: Love Story of a Spy",
-      "year": "2003-04-09",
+      "add": "2020-03-19 11:32:13",
+      "orig_title": "By Days End",
+      "year": "2020-03-17",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-03-20 11:19:54",
+      "iframe_src": ""
+    },
+    {
+      "id": 38190,
+      "title": "Расплата кровью",
+      "kp_id": "309438",
+      "imdb_id": "tt1013651",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-03-18 17:07:57",
+      "orig_title": "The Man Who Came Back",
+      "year": "2008-02-08",
       "translations": [
         "Профессиональный (двухголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2020-03-16 08:13:24",
-      "iframe_src": ""
-    },
-    {
-      "id": 37884,
-      "title": "Артистка",
-      "kp_id": "1073394",
-      "imdb_id": "tt7465992",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-03-12 21:21:49",
-      "orig_title": "Mahanati",
-      "year": "2018-05-08",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (Индийское кино)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый) (Индийское кино)",
-      "update": "2020-03-16 08:12:36",
-      "iframe_src": ""
-    },
-    {
-      "id": 37883,
-      "title": "В борьбе со злом",
-      "kp_id": "64091",
-      "imdb_id": "tt0264210",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-03-12 21:18:54",
-      "orig_title": "Zor: Never Underestimate the Force",
-      "year": "1998-02-13",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2020-03-16 08:11:41",
-      "iframe_src": ""
-    },
-    {
-      "id": 37854,
-      "title": "Доброе сердце",
-      "kp_id": "34941",
-      "imdb_id": "tt0109091",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-03-12 09:22:15",
-      "orig_title": "Amaanat",
-      "year": "1994-09-24",
-      "translations": [
-        "Профессиональный (двухголосый закадровый) (НТВ)"
       ],
       "quality": "dvdrip",
-      "translation": "Профессиональный (двухголосый закадровый) (НТВ)",
-      "update": "2020-03-16 08:10:29",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2020-03-20 10:40:07",
       "iframe_src": ""
     },
     {
-      "id": 37852,
-      "title": "Комедия ошибок",
-      "kp_id": "195374",
-      "imdb_id": "tt0464160",
+      "id": 38004,
+      "title": "Матери чудовищ",
+      "kp_id": "1126654",
+      "imdb_id": "tt8186932",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-03-12 09:18:21",
-      "orig_title": "Chup Chup Ke",
-      "year": "2006-06-09",
+      "add": "2020-03-15 04:30:11",
+      "orig_title": "M.O.M. Mothers of Monsters",
+      "year": "2020-03-13",
       "translations": [
-        "Профессиональный (многоголосый закадровый) (Формат AB)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый) (Формат AB)",
-      "update": "2020-03-16 08:09:43",
-      "iframe_src": ""
-    },
-    {
-      "id": 37851,
-      "title": "Инспектор розыска",
-      "kp_id": "224896",
-      "imdb_id": "tt0404843",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-03-12 09:16:02",
-      "orig_title": "C.I.D.",
-      "year": "1990-05-25",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-03-16 08:08:20",
-      "iframe_src": ""
-    },
-    {
-      "id": 37843,
-      "title": "Жест",
-      "kp_id": "224984",
-      "imdb_id": "tt0066766",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-03-12 08:59:28",
-      "orig_title": "Andaz",
-      "year": "1971-04-30",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-03-16 07:53:43",
-      "iframe_src": ""
-    },
-    {
-      "id": 37811,
-      "title": "Дипломная работа",
-      "kp_id": "18050",
-      "imdb_id": "tt0117883",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-03-11 21:47:41",
-      "orig_title": "Tesis",
-      "year": "1996-04-12",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-03-16 08:18:33",
-      "iframe_src": ""
-    },
-    {
-      "id": 37760,
-      "title": "Путешествие трех псов",
-      "kp_id": "1293597",
-      "imdb_id": "tt10691288",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-03-11 08:58:46",
-      "orig_title": "It Takes Three",
-      "year": "2019-10-01",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
+        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Original (English)"
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-03-16 08:52:15",
+      "update": "2020-03-20 10:55:40",
+      "iframe_src": ""
+    },
+    {
+      "id": 37999,
+      "title": "Искупление",
+      "kp_id": "1035520",
+      "imdb_id": "tt5621712",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-03-15 04:19:08",
+      "orig_title": "Redemption",
+      "year": "2020-02-14",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-03-20 10:54:24",
+      "iframe_src": ""
+    },
+    {
+      "id": 37998,
+      "title": "Старгёрл",
+      "kp_id": "932484",
+      "imdb_id": "tt4858674",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-03-15 04:17:25",
+      "orig_title": "Stargirl",
+      "year": "2020-03-13",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-03-20 10:50:06",
+      "iframe_src": ""
+    },
+    {
+      "id": 37982,
+      "title": "Пропавшие девушки",
+      "kp_id": "788683",
+      "imdb_id": "tt3111426",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-03-14 21:07:07",
+      "orig_title": "Lost Girls",
+      "year": "2020-03-13",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-03-20 10:56:49",
+      "iframe_src": ""
+    },
+    {
+      "id": 37927,
+      "title": "Картинг",
+      "kp_id": "1131338",
+      "imdb_id": "tt8116640",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-03-13 09:53:04",
+      "orig_title": "Go!",
+      "year": "2020-01-16",
+      "translations": [
+        "Полное дублирование (Пифагор)",
+        "Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "Полное дублирование (Пифагор)",
+      "update": "2020-03-20 10:57:34",
+      "iframe_src": ""
+    },
+    {
+      "id": 37834,
+      "title": "Перемещение: побег из тьмы",
+      "kp_id": "1065082",
+      "imdb_id": "tt7159566",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-03-12 08:44:21",
+      "orig_title": "Transference: Escape the Dark",
+      "year": "2020-03-10",
+      "translations": [
+        "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
+        "Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
+      "update": "2020-03-20 10:47:57",
+      "iframe_src": ""
+    },
+    {
+      "id": 35696,
+      "title": "Шахматист",
+      "kp_id": "914862",
+      "imdb_id": "tt4693588",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-01-31 08:37:10",
+      "orig_title": "Fahim",
+      "year": "2019-08-23",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2020-03-20 13:22:10",
+      "iframe_src": ""
+    },
+    {
+      "id": 34671,
+      "title": "Просто помиловать",
+      "kp_id": "1108556",
+      "imdb_id": "tt4916630",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-01-02 16:56:10",
+      "orig_title": "Just Mercy",
+      "year": "2019-09-06",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "webdl",
+      "translation": "Полное дублирование",
+      "update": "2020-03-20 13:29:33",
+      "iframe_src": ""
+    },
+    {
+      "id": 34001,
+      "title": "Прекрасный день по соседству",
+      "kp_id": "804815",
+      "imdb_id": "tt3224458",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-12-12 06:15:06",
+      "orig_title": "A Beautiful Day in the Neighborhood",
+      "year": "2019-09-07",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (iTunes)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый) (iTunes)",
+      "update": "2020-03-20 13:28:47",
+      "iframe_src": ""
+    },
+    {
+      "id": 2130,
+      "title": "Сплошные неприятности",
+      "kp_id": "22522",
+      "imdb_id": "tt0102558",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-05-12 18:02:15",
+      "orig_title": "Nothing But Trouble",
+      "year": "1991-02-15",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)",
+        "Original (English)",
+        "Полное дублирование (Варус-Видео)"
+      ],
+      "quality": "hdtv",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-03-20 13:25:44",
       "iframe_src": ""
     }
   ]

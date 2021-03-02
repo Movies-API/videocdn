@@ -1,366 +1,372 @@
 {
   "data": [
     {
-      "id": 29489,
-      "title": "Героиня своего романа",
-      "kp_id": "471725",
-      "imdb_id": "tt5281982",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-07-29 06:00:12",
-      "orig_title": "Geroinya svoego romana",
-      "year": "2008-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvb",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-07-29 07:21:51",
-      "iframe_src": ""
-    },
-    {
-      "id": 29488,
-      "title": "Тлена нет",
-      "kp_id": "1043944",
+      "id": 29711,
+      "title": "Закон сохранения любви",
+      "kp_id": "1289057",
       "imdb_id": null,
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-07-29 05:30:58",
-      "orig_title": "Тлена нет",
-      "year": "2017-10-14",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-07-29 10:48:08",
-      "iframe_src": ""
-    },
-    {
-      "id": 29487,
-      "title": "Сталинская кислота",
-      "kp_id": "1047970",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-07-29 05:28:10",
-      "orig_title": "Сталинская кислота",
-      "year": "2016-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-07-29 07:21:45",
-      "iframe_src": ""
-    },
-    {
-      "id": 29486,
-      "title": "Сердечных дел мастера",
-      "kp_id": "1199661",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-07-29 05:26:55",
-      "orig_title": "Сердечных дел мастера",
-      "year": "2018-10-20",
+      "add": "2019-08-02 21:49:25",
+      "orig_title": "Закон сохранения любви",
+      "year": "2019-08-10",
       "translations": [
         "Оригинальная дорожка"
       ],
       "quality": "hdtv",
       "translation": "Оригинальная дорожка",
-      "update": "2019-07-29 07:20:30",
+      "update": "2019-08-04 19:02:57",
       "iframe_src": ""
     },
     {
-      "id": 29484,
-      "title": "Ушёл и не вернулся",
-      "kp_id": "470294",
-      "imdb_id": "tt3195410",
+      "id": 29709,
+      "title": "Уитни Каммингс: Могу ли затронуть это?",
+      "kp_id": "1279699",
+      "imdb_id": "tt10521638",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-07-29 05:16:57",
-      "orig_title": "Ushyol i ne vernulsya",
-      "year": "2011-11-20",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-07-29 10:46:42",
-      "iframe_src": ""
-    },
-    {
-      "id": 29483,
-      "title": "Безудержные",
-      "kp_id": "964261",
-      "imdb_id": "tt5498056",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-07-29 05:15:24",
-      "orig_title": "Unbridled",
-      "year": "2017-08-04",
+      "add": "2019-08-02 21:45:34",
+      "orig_title": "Whitney Cummings: Can I Touch It?",
+      "year": "2019-07-30",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-07-29 07:19:12",
+      "update": "2019-08-04 19:04:11",
       "iframe_src": ""
     },
     {
-      "id": 29482,
-      "title": "Первая любовь",
-      "kp_id": "1110918",
-      "imdb_id": "tt7705790",
+      "id": 29707,
+      "title": "Вирус",
+      "kp_id": "1188913",
+      "imdb_id": "tt8941440",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-07-29 05:13:57",
-      "orig_title": "Tholi Prema",
-      "year": "2018-02-08",
-      "translations": [
-        "Любительский (двухголосый закадровый) (OnisFilms)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (двухголосый закадровый) (OnisFilms)",
-      "update": "2019-07-29 07:13:56",
-      "iframe_src": ""
-    },
-    {
-      "id": 29479,
-      "title": "В поисках Леннона",
-      "kp_id": "1038519",
-      "imdb_id": "tt6187794",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-07-29 04:54:35",
-      "orig_title": "Looking for Lennon",
-      "year": "2018-05-04",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-07-29 06:50:02",
-      "iframe_src": ""
-    },
-    {
-      "id": 29478,
-      "title": "Пустынные берега",
-      "kp_id": "1025104",
-      "imdb_id": "tt5884434",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-07-29 04:52:47",
-      "orig_title": "Desert Shores",
-      "year": "2018-11-11",
+      "add": "2019-08-02 21:39:24",
+      "orig_title": "Virus",
+      "year": "2019-06-07",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-07-29 06:48:51",
+      "update": "2019-08-04 19:05:24",
       "iframe_src": ""
     },
     {
-      "id": 29476,
-      "title": "Ломая Привычки",
-      "kp_id": "1228593",
-      "imdb_id": "tt6856056",
+      "id": 29697,
+      "title": "Паршивец",
+      "kp_id": "1125734",
+      "imdb_id": "tt8043722",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-07-29 04:42:50",
-      "orig_title": "Breaking Habits",
-      "year": "2018-10-15",
+      "add": "2019-08-02 21:06:14",
+      "orig_title": "Son of a Gun",
+      "year": "2019-02-22",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-07-29 06:44:12",
-      "iframe_src": ""
-    },
-    {
-      "id": 29475,
-      "title": "Монстр",
-      "kp_id": "820710",
-      "imdb_id": "tt3589450",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-07-28 20:56:35",
-      "orig_title": "Mon-seu-teo",
-      "year": "2014-03-13",
-      "translations": [
-        "Любительский (двухголосый закадровый)"
-      ],
-      "quality": "hdtv",
-      "translation": "Любительский (двухголосый закадровый)",
-      "update": "2019-07-29 05:32:14",
-      "iframe_src": ""
-    },
-    {
-      "id": 29474,
-      "title": "Матч состоится в любую погоду",
-      "kp_id": "471851",
-      "imdb_id": "tt2968034",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-07-28 20:50:31",
-      "orig_title": "Match sostoitsya v lyubuyu pogodu",
-      "year": "1985-03-15",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-07-29 05:31:45",
-      "iframe_src": ""
-    },
-    {
-      "id": 29473,
-      "title": "Лицо на мишени",
-      "kp_id": "420426",
-      "imdb_id": "tt4978060",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-07-28 20:46:33",
-      "orig_title": "Veidas taikinyje",
-      "year": "1978-09-08",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "sat",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-07-29 05:31:00",
-      "iframe_src": ""
-    },
-    {
-      "id": 29472,
-      "title": "Лицо французской национальности",
-      "kp_id": "396087",
-      "imdb_id": "tt1111811",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-07-28 20:42:22",
-      "orig_title": "Litso frantsuzskoy natsionalnosti",
-      "year": "2000-05-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-07-29 05:30:02",
-      "iframe_src": ""
-    },
-    {
-      "id": 29471,
-      "title": "Красные фонтаны",
-      "kp_id": "635227",
-      "imdb_id": "tt2069894",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-07-28 20:39:12",
-      "orig_title": "Krasnye fontany",
-      "year": "2011-05-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "iptv",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-07-29 05:28:45",
-      "iframe_src": ""
-    },
-    {
-      "id": 29470,
-      "title": "Фуркат",
-      "kp_id": "692389",
-      "imdb_id": "tt2259092",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-07-28 20:32:41",
-      "orig_title": "Furqat",
-      "year": "1959-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-07-29 05:25:20",
-      "iframe_src": ""
-    },
-    {
-      "id": 29469,
-      "title": "Чужой бумажник",
-      "kp_id": "994633",
-      "imdb_id": "tt10110058",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-07-28 20:29:45",
-      "orig_title": "Chuzhoj Bumazhnik",
-      "year": "1961-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "vhs",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-07-29 05:24:40",
-      "iframe_src": ""
-    },
-    {
-      "id": 29461,
-      "title": "Без течения",
-      "kp_id": "1082498",
-      "imdb_id": "tt6716912",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-07-28 11:49:41",
-      "orig_title": "Dead Water",
-      "year": "2019-07-26",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (AlphaProject)",
         "Профессиональный (многоголосый закадровый) (AlphaProject)"
       ],
-      "quality": "hdtv",
+      "quality": "webdl",
       "translation": "Профессиональный (многоголосый закадровый) (AlphaProject)",
-      "update": "2019-07-29 06:47:22",
+      "update": "2019-08-04 19:00:49",
       "iframe_src": ""
     },
     {
-      "id": 27369,
-      "title": "Святая Джуди",
-      "kp_id": "1044760",
-      "imdb_id": "tt5431284",
+      "id": 29695,
+      "title": "Из Рима с любовью",
+      "kp_id": "1244545",
+      "imdb_id": "tt7049178",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-06-02 21:10:40",
-      "orig_title": "Saint Judy",
-      "year": "2018-09-22",
+      "add": "2019-08-02 21:03:08",
+      "orig_title": "Rome in Love",
+      "year": "2019-07-27",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Полное дублирование (iTunes)"
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "hdtv",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-08-04 19:01:44",
+      "iframe_src": ""
+    },
+    {
+      "id": 29687,
+      "title": "Собачий город",
+      "kp_id": "1283754",
+      "imdb_id": "tt10187766",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-08-02 20:42:38",
+      "orig_title": "Dog Town",
+      "year": "2019-06-11",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-07-29 11:37:31",
+      "update": "2019-08-04 18:58:30",
       "iframe_src": ""
     },
     {
-      "id": 19594,
-      "title": "Головар",
-      "kp_id": "1111862",
-      "imdb_id": null,
+      "id": 29654,
+      "title": "Соломенная женщина",
+      "kp_id": "17481",
+      "imdb_id": "tt0058754",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-10-16 23:22:13",
-      "orig_title": "Головар",
-      "year": "2018-04-05",
+      "add": "2019-08-02 08:05:28",
+      "orig_title": "Woman of Straw",
+      "year": "1964-04-28",
       "translations": [
-        "Оригинальная дорожка",
-        "Оригинальная дорожка"
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-08-03 10:01:19",
+      "iframe_src": ""
+    },
+    {
+      "id": 29652,
+      "title": "Метеор",
+      "kp_id": "1279",
+      "imdb_id": "tt0079550",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-08-02 07:54:36",
+      "orig_title": "Meteor",
+      "year": "1979-10-19",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-08-03 10:05:15",
+      "iframe_src": ""
+    },
+    {
+      "id": 29651,
+      "title": "Большой хак",
+      "kp_id": "1282028",
+      "imdb_id": "tt9358204",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-08-02 07:48:11",
+      "orig_title": "The Great Hack",
+      "year": "2019-01-29",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (Пифагор)"
       ],
       "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-07-29 05:27:08",
+      "translation": "Профессиональный (многоголосый закадровый) (Пифагор)",
+      "update": "2019-08-03 09:58:24",
+      "iframe_src": ""
+    },
+    {
+      "id": 29649,
+      "title": "Любовь должна была случиться",
+      "kp_id": "40405",
+      "imdb_id": "tt0173081",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-08-02 07:27:17",
+      "orig_title": "Pyaar To Hona Hi Tha",
+      "year": "1998-07-15",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-08-03 10:06:33",
+      "iframe_src": ""
+    },
+    {
+      "id": 29648,
+      "title": "Место под солнцем",
+      "kp_id": "7693",
+      "imdb_id": "tt0043924",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-08-02 07:12:43",
+      "orig_title": "A Place in the Sun",
+      "year": "1951-04-05",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-08-03 10:08:58",
+      "iframe_src": ""
+    },
+    {
+      "id": 21708,
+      "title": "Петуния",
+      "kp_id": "582215",
+      "imdb_id": "tt1826813",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-01-21 13:42:13",
+      "orig_title": "Petunia",
+      "year": "2012-07-14",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)",
+        "Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-08-02 13:30:18",
+      "iframe_src": ""
+    },
+    {
+      "id": 21703,
+      "title": "Не в сети",
+      "kp_id": "660759",
+      "imdb_id": "tt2172001",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-01-21 13:36:50",
+      "orig_title": "Offline",
+      "year": "2012-09-14",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)",
+        "Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-08-02 13:29:21",
+      "iframe_src": ""
+    },
+    {
+      "id": 21271,
+      "title": "Слушай свое сердце",
+      "kp_id": "422063",
+      "imdb_id": "tt1274296",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-01-06 10:44:58",
+      "orig_title": "Listen to Your Heart",
+      "year": "2010-08-14",
+      "translations": [
+        "Любительский (двухголосый закадровый) (Victory-Films)",
+        "Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (двухголосый закадровый) (Victory-Films)",
+      "update": "2019-08-02 13:26:25",
+      "iframe_src": ""
+    },
+    {
+      "id": 21197,
+      "title": "Завтрак на обочине",
+      "kp_id": "4789",
+      "imdb_id": "tt0243554",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-01-03 13:37:33",
+      "orig_title": "When Strangers Appear",
+      "year": "2001-07-21",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)",
+        "Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-08-02 13:33:41",
+      "iframe_src": ""
+    },
+    {
+      "id": 21196,
+      "title": "Дикари",
+      "kp_id": "256194",
+      "imdb_id": "tt0775529",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-01-03 13:36:37",
+      "orig_title": "The Savages",
+      "year": "2007-01-19",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)",
+        "Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-08-02 13:32:33",
+      "iframe_src": ""
+    },
+    {
+      "id": 21195,
+      "title": "Снежные ангелы",
+      "kp_id": "102239",
+      "imdb_id": "tt0453548",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-01-03 13:34:02",
+      "orig_title": "Snow Angels",
+      "year": "2007-01-19",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (Пифагор)",
+        "Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый) (Пифагор)",
+      "update": "2019-08-02 13:31:40",
+      "iframe_src": ""
+    },
+    {
+      "id": 21193,
+      "title": "Нэнси Дрю",
+      "kp_id": "195892",
+      "imdb_id": "tt0479500",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-01-03 13:31:51",
+      "orig_title": "Nancy Drew",
+      "year": "2007-06-15",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)",
+        "Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-08-02 13:28:17",
+      "iframe_src": ""
+    },
+    {
+      "id": 21192,
+      "title": "Все ещё прекрасно",
+      "kp_id": "402557",
+      "imdb_id": "tt1150947",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-01-03 13:30:52",
+      "orig_title": "Lovely, Still",
+      "year": "2008-09-05",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)",
+        "Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-08-02 13:27:18",
+      "iframe_src": ""
+    },
+    {
+      "id": 21191,
+      "title": "Патрульный",
+      "kp_id": "325624",
+      "imdb_id": "tt1047832",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-01-03 13:29:57",
+      "orig_title": "Linewatch",
+      "year": "2008-10-02",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)",
+        "Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-08-02 13:25:00",
       "iframe_src": ""
     }
   ]

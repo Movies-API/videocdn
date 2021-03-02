@@ -1,363 +1,363 @@
 {
   "data": [
     {
-      "id": 21727,
-      "title": "Не валяй дурака...",
-      "kp_id": "41551",
-      "imdb_id": "tt0266791",
+      "id": 22039,
+      "title": "Ночь",
+      "kp_id": "1023509",
+      "imdb_id": "tt5643398",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-01-22 09:12:09",
-      "orig_title": "Ne valyay duraka",
-      "year": "1997-01-01",
+      "add": "2019-02-03 23:52:35",
+      "orig_title": "La noche",
+      "year": "2016-04-18",
       "translations": [
-        "Оригинальная дорожка"
+        "Любительский (многоголосый закадровый) (Синема УС)"
       ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-01-23 09:10:38",
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-02-04 07:29:18",
       "iframe_src": ""
     },
     {
-      "id": 21691,
-      "title": "Паскаль: Фильм",
-      "kp_id": "1202782",
-      "imdb_id": "tt9063106",
+      "id": 22037,
+      "title": "Призрак Блэквелла",
+      "kp_id": "1180958",
+      "imdb_id": "tt7450356",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-01-21 09:48:11",
-      "orig_title": "Paskal: The Movie",
-      "year": "2018-09-27",
+      "add": "2019-02-03 23:48:05",
+      "orig_title": "The Blackwell Ghost",
+      "year": "2017-08-11",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-02-04 07:36:52",
+      "iframe_src": ""
+    },
+    {
+      "id": 22035,
+      "title": "Дорогой бывший",
+      "kp_id": "1145307",
+      "imdb_id": "tt8443704",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-02-03 23:40:16",
+      "orig_title": "Dear Ex",
+      "year": "2018-04-22",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-02-04 07:30:58",
+      "iframe_src": ""
+    },
+    {
+      "id": 22028,
+      "title": "Снежный бал",
+      "kp_id": "1216929",
+      "imdb_id": "tt9323966",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-02-03 23:26:40",
+      "orig_title": "Snowcoming",
+      "year": "2019-01-26",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (AlphaProject)"
+      ],
+      "quality": "hdtv",
+      "translation": "Профессиональный (многоголосый закадровый) (AlphaProject)",
+      "update": "2019-02-04 07:35:36",
+      "iframe_src": ""
+    },
+    {
+      "id": 22024,
+      "title": "Риверхед",
+      "kp_id": "990009",
+      "imdb_id": "tt5606616",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-02-03 22:57:45",
+      "orig_title": "Riverhead",
+      "year": "2016-09-16",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-02-04 07:31:50",
+      "iframe_src": ""
+    },
+    {
+      "id": 21988,
+      "title": "Расследования Руби Херринг: безмолвный свидетель",
+      "kp_id": "1223417",
+      "imdb_id": "tt9466236",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-01-31 23:31:18",
+      "orig_title": "Ruby Herring Mysteries: Silent Witness",
+      "year": "2019-01-20",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "hdtv",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-02-01 07:15:03",
+      "iframe_src": ""
+    },
+    {
+      "id": 21984,
+      "title": "Империя совершенства",
+      "kp_id": "1112860",
+      "imdb_id": "tt7966920",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-01-31 23:23:23",
+      "orig_title": "L'empire de la perfection",
+      "year": "2018-02-18",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-02-01 07:18:40",
+      "iframe_src": ""
+    },
+    {
+      "id": 21983,
+      "title": "Ледяной дракон: Легенда о голубых ромашках",
+      "kp_id": "1114913",
+      "imdb_id": "tt8111636",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-01-31 23:17:53",
+      "orig_title": "Ice Dragon: Legend of the Blue Daisies",
+      "year": "2018-03-24",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-02-01 07:19:28",
+      "iframe_src": ""
+    },
+    {
+      "id": 21980,
+      "title": "Слава Богу!",
+      "kp_id": "936534",
+      "imdb_id": "tt5077886",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-01-31 23:10:59",
+      "orig_title": "Dieumerci!",
+      "year": "2016-01-14",
+      "translations": [
+        "Любительский (двухголосый закадровый) (LakeFilms)"
+      ],
+      "quality": "hdtv",
+      "translation": "Любительский (двухголосый закадровый) (LakeFilms)",
+      "update": "2019-02-01 07:19:59",
+      "iframe_src": ""
+    },
+    {
+      "id": 21978,
+      "title": "Пчелиная команда",
+      "kp_id": "1103084",
+      "imdb_id": "tt7575550",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-01-31 23:01:34",
+      "orig_title": "Bee Team",
+      "year": "2018-09-04",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-02-01 07:22:46",
+      "iframe_src": ""
+    },
+    {
+      "id": 21974,
+      "title": "Испытание",
+      "kp_id": "605604",
+      "imdb_id": "tt1756384",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-01-31 22:55:04",
+      "orig_title": "A vizsga",
+      "year": "2011-10-13",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (GreenРай Studio)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый) (GreenРай Studio)",
+      "update": "2019-02-01 07:23:25",
+      "iframe_src": ""
+    },
+    {
+      "id": 21973,
+      "title": "Даже не думай",
+      "kp_id": null,
+      "imdb_id": "tt2697556",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-01-31 22:45:51",
+      "orig_title": "Don't Call It A Comeback",
+      "year": "2013-02-01",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (GreenРай Studio)"
+      ],
+      "quality": "hdtv",
+      "translation": "Профессиональный (многоголосый закадровый) (GreenРай Studio)",
+      "update": "2019-02-01 07:24:40",
+      "iframe_src": ""
+    },
+    {
+      "id": 21972,
+      "title": "Герой из будущего",
+      "kp_id": "813698",
+      "imdb_id": "tt3384510",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-01-31 22:43:37",
+      "orig_title": "Future Hero",
+      "year": "2014-04-09",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (GreenРай Studio)"
+      ],
+      "quality": "hdtv",
+      "translation": "Профессиональный (многоголосый закадровый) (GreenРай Studio)",
+      "update": "2019-02-01 07:25:42",
+      "iframe_src": ""
+    },
+    {
+      "id": 21818,
+      "title": "Приходите на праздник",
+      "kp_id": "1024746",
+      "imdb_id": "tt6185674",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-01-25 13:00:03",
+      "orig_title": "Rarandoi Veduka Chudham",
+      "year": "2017-05-25",
       "translations": [
         "Любительский (многоголосый закадровый) (Колобок)"
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Колобок)",
-      "update": "2019-01-23 07:44:12",
+      "update": "2019-02-01 07:39:11",
       "iframe_src": ""
     },
     {
-      "id": 21690,
-      "title": "Подарок Сталину",
-      "kp_id": "429002",
-      "imdb_id": "tt1305027",
+      "id": 21817,
+      "title": "Красное небо",
+      "kp_id": "1151357",
+      "imdb_id": "tt7892050",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-01-21 09:27:11",
-      "orig_title": "Podarok Stalinu",
-      "year": "2008-10-02",
+      "add": "2019-01-25 12:58:34",
+      "orig_title": "Chekka Chivantha Vaanam",
+      "year": "2018-09-26",
       "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-01-23 07:42:42",
-      "iframe_src": ""
-    },
-    {
-      "id": 21689,
-      "title": "Учитель в законе",
-      "kp_id": "424628",
-      "imdb_id": "tt3524738",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-01-21 09:23:10",
-      "orig_title": "Uchitel v zakone",
-      "year": "2008-09-25",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-01-23 07:41:07",
-      "iframe_src": ""
-    },
-    {
-      "id": 21688,
-      "title": "Рамбл: Индейцы, которые зажгли мир",
-      "kp_id": "1009180",
-      "imdb_id": "tt6333080",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-01-21 09:13:56",
-      "orig_title": "Rumble: The Indians Who Rocked The World",
-      "year": "2017-01-22",
-      "translations": [
-        "Любительский (многоголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Любительский (многоголосый закадровый)",
-      "update": "2019-01-23 07:39:41",
-      "iframe_src": ""
-    },
-    {
-      "id": 21687,
-      "title": "Токсичная акула",
-      "kp_id": "1049347",
-      "imdb_id": "tt6973866",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-01-21 09:00:17",
-      "orig_title": "Toxic Shark",
-      "year": "2017-08-03",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
+        "Любительский (многоголосый закадровый) (FanStudio)"
       ],
       "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-01-23 07:37:45",
+      "translation": "Любительский (многоголосый закадровый) (FanStudio)",
+      "update": "2019-02-01 07:38:01",
       "iframe_src": ""
     },
     {
-      "id": 21686,
-      "title": "Миллион на Рождество",
-      "kp_id": "281029",
-      "imdb_id": "tt0991150",
+      "id": 21816,
+      "title": "Изгнанник",
+      "kp_id": "1111877",
+      "imdb_id": "tt7711342",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-01-21 08:54:25",
-      "orig_title": "Christmas in Wonderland",
-      "year": "2007-11-09",
+      "add": "2019-01-25 12:55:57",
+      "orig_title": "Agnyaathavaasi",
+      "year": "2018-01-09",
       "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "dvdrip",
-      "translation": "Полное дублирование",
-      "update": "2019-01-23 07:36:31",
-      "iframe_src": ""
-    },
-    {
-      "id": 21685,
-      "title": "Лавэ",
-      "kp_id": "471104",
-      "imdb_id": "tt3999410",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-01-21 08:46:22",
-      "orig_title": "Lave",
-      "year": "2009-10-08",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-01-23 07:35:10",
-      "iframe_src": ""
-    },
-    {
-      "id": 21666,
-      "title": "Маленькие губки",
-      "kp_id": "105608",
-      "imdb_id": "tt0077682",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-01-20 22:11:40",
-      "orig_title": "Piccole labbra",
-      "year": "1978-10-30",
-      "translations": [
-        "Авторский (одноголосый закадровый) (Алексеев)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Авторский (одноголосый закадровый) (Алексеев)",
-      "update": "2019-01-23 06:53:11",
-      "iframe_src": ""
-    },
-    {
-      "id": 21583,
-      "title": "Зачем мы женимся?",
-      "kp_id": "276732",
-      "imdb_id": "tt0906108",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-01-17 08:46:20",
-      "orig_title": "Why Did I Get Married?",
-      "year": "2007-10-04",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-01-23 07:33:02",
-      "iframe_src": ""
-    },
-    {
-      "id": 21547,
-      "title": "Мангер Роуд",
-      "kp_id": "565942",
-      "imdb_id": "tt1720172",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-01-16 15:53:49",
-      "orig_title": "Munger Road",
-      "year": "2011-09-30",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)"
+        "Любительский (двухголосый закадровый) (Колобок)"
       ],
       "quality": "webdl",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2019-01-23 12:08:26",
+      "translation": "Любительский (двухголосый закадровый) (Колобок)",
+      "update": "2019-02-01 07:37:06",
       "iframe_src": ""
     },
     {
-      "id": 21543,
-      "title": "Три раза про это",
-      "kp_id": "502844",
-      "imdb_id": "tt2122516",
+      "id": 21815,
+      "title": "Револьвер Рани",
+      "kp_id": "807532",
+      "imdb_id": "tt3290688",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-01-16 12:05:06",
-      "orig_title": "Tri raza pro eto",
-      "year": "2013-09-21",
+      "add": "2019-01-25 12:54:44",
+      "orig_title": "Revolver Rani",
+      "year": "2014-04-24",
       "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-01-23 12:05:49",
-      "iframe_src": ""
-    },
-    {
-      "id": 21542,
-      "title": "Любовь на два полюса",
-      "kp_id": "660997",
-      "imdb_id": "tt3638692",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-01-16 12:03:51",
-      "orig_title": "Lyubov na dva polyusa",
-      "year": "2012-03-11",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-01-23 12:04:18",
-      "iframe_src": ""
-    },
-    {
-      "id": 21541,
-      "title": "БАгИ",
-      "kp_id": "521993",
-      "imdb_id": "tt1806792",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-01-16 11:59:41",
-      "orig_title": "BAgI",
-      "year": "2011-05-20",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-01-23 12:03:33",
-      "iframe_src": ""
-    },
-    {
-      "id": 21540,
-      "title": "Аварийное состояние",
-      "kp_id": "679753",
-      "imdb_id": "tt2373208",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-01-16 11:58:38",
-      "orig_title": "Avariynoe sostoyanie",
-      "year": "2012-06-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-01-23 12:02:23",
-      "iframe_src": ""
-    },
-    {
-      "id": 21460,
-      "title": "Марокко",
-      "kp_id": "3389",
-      "imdb_id": "tt0021156",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-01-12 08:38:03",
-      "orig_title": "Morocco",
-      "year": "1930-11-14",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (Фильм Престиж)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый) (Фильм Престиж)",
-      "update": "2019-01-23 07:06:32",
-      "iframe_src": ""
-    },
-    {
-      "id": 21459,
-      "title": "Я – беглый каторжник",
-      "kp_id": "8284",
-      "imdb_id": "tt0023042",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-01-12 08:37:05",
-      "orig_title": "I Am a Fugitive from a Chain Gang",
-      "year": "1932-11-09",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-01-23 07:05:22",
-      "iframe_src": ""
-    },
-    {
-      "id": 21458,
-      "title": "Уродцы",
-      "kp_id": "8430",
-      "imdb_id": "tt0022913",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-01-12 08:36:04",
-      "orig_title": "Freaks",
-      "year": "1932-02-12",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-01-23 07:04:37",
-      "iframe_src": ""
-    },
-    {
-      "id": 21457,
-      "title": "Доктор Джекилл и мистер Хайд",
-      "kp_id": "38897",
-      "imdb_id": "tt0022835",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-01-12 08:34:53",
-      "orig_title": "Dr. Jekyll and Mr. Hyde",
-      "year": "1931-12-31",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (РенТВ)"
-      ],
-      "quality": "hdtv",
-      "translation": "Профессиональный (многоголосый закадровый) (РенТВ)",
-      "update": "2019-01-23 06:56:52",
-      "iframe_src": ""
-    },
-    {
-      "id": 21456,
-      "title": "Старый страшный дом",
-      "kp_id": "16666",
-      "imdb_id": "tt0023293",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-01-12 08:33:19",
-      "orig_title": "The Old Dark House",
-      "year": "1932-10-20",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
+        "Любительский (двухголосый закадровый) (DeadSno & den904)"
       ],
       "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-01-23 06:55:33",
+      "translation": "Любительский (двухголосый закадровый) (DeadSno & den904)",
+      "update": "2019-02-01 07:36:16",
+      "iframe_src": ""
+    },
+    {
+      "id": 21811,
+      "title": "Странный порок госпожи Уорд",
+      "kp_id": "152060",
+      "imdb_id": "tt0066412",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-01-25 12:48:21",
+      "orig_title": "Lo strano vizio della signora Wardh",
+      "year": "1971-01-15",
+      "translations": [
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2019-02-01 07:32:01",
+      "iframe_src": ""
+    },
+    {
+      "id": 21810,
+      "title": "Другой ад",
+      "kp_id": "223784",
+      "imdb_id": "tt0080362",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-01-25 12:47:00",
+      "orig_title": "L'altro inferno",
+      "year": "1981-01-22",
+      "translations": [
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2019-02-01 07:31:03",
+      "iframe_src": ""
+    },
+    {
+      "id": 20988,
+      "title": "Жена – не стена",
+      "kp_id": "1114972",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-12-23 23:30:44",
+      "orig_title": "Жена – не стена",
+      "year": "2018-04-05",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "hdtv",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-02-01 07:12:11",
       "iframe_src": ""
     }
   ]

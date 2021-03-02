@@ -1,372 +1,364 @@
 {
   "data": [
     {
-      "id": 22385,
-      "title": "Камень",
-      "kp_id": "788679",
-      "imdb_id": "tt3103342",
+      "id": 22579,
+      "title": "Горячая жевательная резинка 8: Летний блюз",
+      "kp_id": "223817",
+      "imdb_id": "tt0096190",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-02-19 07:43:43",
-      "orig_title": "Dol",
-      "year": "2013-08-13",
+      "add": "2019-02-27 00:32:23",
+      "orig_title": "Summertime Blues: Lemon Popsicle VIII",
+      "year": "1988-08-18",
       "translations": [
-        "Любительский (многоголосый закадровый)"
+        "Любительский (одноголосый закадровый)"
       ],
       "quality": "dvdrip",
-      "translation": "Любительский (многоголосый закадровый)",
-      "update": "2019-02-19 08:43:47",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2019-02-27 06:16:59",
       "iframe_src": ""
     },
     {
-      "id": 22384,
-      "title": "О овцы!",
-      "kp_id": "1093035",
-      "imdb_id": "tt7418682",
+      "id": 22578,
+      "title": "Горячая жевательная резинка 3",
+      "kp_id": "47423",
+      "imdb_id": "tt0082528",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-02-19 07:40:13",
-      "orig_title": "Oh Sheep!",
-      "year": "2012-10-30",
+      "add": "2019-02-27 00:30:30",
+      "orig_title": "Shifshuf Naim",
+      "year": "1981-04-07",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Гаврилов Андрей)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Авторский (одноголосый закадровый) (Гаврилов Андрей)",
+      "update": "2019-02-27 06:18:17",
+      "iframe_src": ""
+    },
+    {
+      "id": 22577,
+      "title": "Горячая жевательная резинка 5: Маленький роман",
+      "kp_id": "113428",
+      "imdb_id": "tt0086926",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-02-26 23:10:42",
+      "orig_title": "Roman Za'ir",
+      "year": "1984-03-09",
+      "translations": [
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2019-02-27 06:34:26",
+      "iframe_src": ""
+    },
+    {
+      "id": 22576,
+      "title": "Горячая жевательная резинка 4: Трое в армии",
+      "kp_id": "107546",
+      "imdb_id": "tt0084629",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-02-26 23:08:49",
+      "orig_title": "Sapiches",
+      "year": "1983-03-11",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Гаврилов Андрей)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Авторский (одноголосый закадровый) (Гаврилов Андрей)",
+      "update": "2019-02-27 06:35:30",
+      "iframe_src": ""
+    },
+    {
+      "id": 22575,
+      "title": "Горячая жевательная резинка 2: Постоянная подружка",
+      "kp_id": "129817",
+      "imdb_id": "tt0079218",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-02-26 22:35:00",
+      "orig_title": "Yotzim Kavua",
+      "year": "1979-05-31",
+      "translations": [
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2019-02-27 06:33:11",
+      "iframe_src": ""
+    },
+    {
+      "id": 22574,
+      "title": "Горячая жевательная резинка: Мороженое на палочке",
+      "kp_id": "113433",
+      "imdb_id": "tt0079118",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-02-26 22:32:10",
+      "orig_title": "Eskimo Limon",
+      "year": "1978-04-21",
+      "translations": [
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2019-02-27 06:36:35",
+      "iframe_src": ""
+    },
+    {
+      "id": 22570,
+      "title": "Ловушка",
+      "kp_id": "433059",
+      "imdb_id": "tt1334102",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-02-26 18:26:02",
+      "orig_title": "The Resident",
+      "year": "2011-02-10",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-02-27 06:51:13",
+      "iframe_src": ""
+    },
+    {
+      "id": 22564,
+      "title": "Сьюзен Барч на высоте",
+      "kp_id": "1044699",
+      "imdb_id": "tt5537600",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-02-26 17:35:03",
+      "orig_title": "Susanne Bartsch: On Top",
+      "year": "2017-05-01",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-02-27 06:12:27",
+      "iframe_src": ""
+    },
+    {
+      "id": 22563,
+      "title": "Закусочная «Будапешт»",
+      "kp_id": "23182",
+      "imdb_id": "tt0096125",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-02-26 17:33:09",
+      "orig_title": "Snack Bar Budapest",
+      "year": "1988-09-22",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-02-27 06:11:02",
+      "iframe_src": ""
+    },
+    {
+      "id": 22562,
+      "title": "Кожа",
+      "kp_id": "1072734",
+      "imdb_id": "tt7332306",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-02-26 17:29:53",
+      "orig_title": "Skin",
+      "year": "2018-08-01",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-02-27 05:54:04",
+      "iframe_src": ""
+    },
+    {
+      "id": 22560,
+      "title": "Макала",
+      "kp_id": "1044794",
+      "imdb_id": "tt6805366",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-02-26 17:20:17",
+      "orig_title": "Makala",
+      "year": "2017-05-23",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-02-27 06:10:11",
+      "iframe_src": ""
+    },
+    {
+      "id": 22559,
+      "title": "Лес",
+      "kp_id": "1041718",
+      "imdb_id": "tt4594124",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-02-26 17:18:08",
+      "orig_title": "Les",
+      "year": "2018-04-05",
       "translations": [
         "Оригинальная дорожка"
       ],
       "quality": "webdl",
       "translation": "Оригинальная дорожка",
-      "update": "2019-02-19 08:41:37",
+      "update": "2019-02-27 05:49:26",
       "iframe_src": ""
     },
     {
-      "id": 22383,
-      "title": "Шарло против Дракулы",
-      "kp_id": "146207",
-      "imdb_id": "tt0194748",
+      "id": 22558,
+      "title": "Репутация убийцы",
+      "kp_id": "1199132",
+      "imdb_id": "tt9047382",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-02-19 07:30:47",
-      "orig_title": "Les Charlots contre Dracula",
-      "year": "1980-12-17",
-      "translations": [
-        "Любительский (одноголосый закадровый)"
-      ],
-      "quality": "tv",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2019-02-19 08:53:05",
-      "iframe_src": ""
-    },
-    {
-      "id": 22381,
-      "title": "Цифровая радиостанция",
-      "kp_id": "522878",
-      "imdb_id": "tt1659338",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-02-18 22:04:10",
-      "orig_title": "The Numbers Station",
-      "year": "2013-03-21",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-02-19 07:52:13",
-      "iframe_src": ""
-    },
-    {
-      "id": 22380,
-      "title": "Шёпот",
-      "kp_id": "1112451",
-      "imdb_id": "tt8737130",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-02-18 22:00:47",
-      "orig_title": "Sokdaksokdak",
-      "year": "2018-07-13",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-02-19 07:46:42",
-      "iframe_src": ""
-    },
-    {
-      "id": 22379,
-      "title": "Преследуемая пациентом",
-      "kp_id": "1119960",
-      "imdb_id": "tt8084572",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-02-18 21:56:32",
-      "orig_title": "Intensive Care",
-      "year": "2018-08-01",
+      "add": "2019-02-26 17:15:33",
+      "orig_title": "Killer Reputation",
+      "year": "2019-02-15",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "hdtv",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-02-19 07:46:01",
+      "update": "2019-02-27 05:44:58",
       "iframe_src": ""
     },
     {
-      "id": 22378,
-      "title": "Убежище",
-      "kp_id": "909753",
-      "imdb_id": "tt4664244",
+      "id": 22557,
+      "title": "Эй, мистер почтальон!",
+      "kp_id": "1072199",
+      "imdb_id": "tt7180776",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-02-18 21:52:49",
-      "orig_title": "Sanctuary",
-      "year": "2016-07-10",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-02-19 07:55:53",
-      "iframe_src": ""
-    },
-    {
-      "id": 22377,
-      "title": "Восход Марвел: В погоне за призраками",
-      "kp_id": "1198479",
-      "imdb_id": "tt9073748",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-02-18 21:50:35",
-      "orig_title": "Marvel Rising: Chasing Ghosts",
-      "year": "2019-01-16",
+      "add": "2019-02-26 17:14:04",
+      "orig_title": "Hey, Mr. Postman!",
+      "year": "2018-07-01",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-02-19 07:51:09",
+      "update": "2019-02-27 05:43:44",
       "iframe_src": ""
     },
     {
-      "id": 22376,
-      "title": "Небеса во тьме",
-      "kp_id": "970347",
-      "imdb_id": "tt5514846",
+      "id": 22556,
+      "title": "Листья травы",
+      "kp_id": "1049222",
+      "imdb_id": "tt7913172",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-02-18 21:48:55",
-      "orig_title": "Am sik tin tong",
-      "year": "2016-03-24",
+      "add": "2019-02-26 17:12:32",
+      "orig_title": "Pulipdeul",
+      "year": "2018-02-16",
       "translations": [
         "Любительский (многоголосый закадровый) (Колобок)"
       ],
-      "quality": "bd",
+      "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Колобок)",
-      "update": "2019-02-19 07:44:57",
+      "update": "2019-02-27 05:42:34",
       "iframe_src": ""
     },
     {
-      "id": 22375,
-      "title": "Коттедж глупости",
-      "kp_id": "888512",
-      "imdb_id": "tt3663200",
+      "id": 22554,
+      "title": "Убойная экскурсия",
+      "kp_id": "1160899",
+      "imdb_id": "tt8212156",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-02-18 21:47:26",
-      "orig_title": "Summer Cabin",
-      "year": "2016-04-05",
+      "add": "2019-02-26 16:28:34",
+      "orig_title": "Deadly Excursion",
+      "year": "2019-01-28",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
-      "quality": "webdl",
+      "quality": "hdtv",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-02-19 07:56:34",
+      "update": "2019-02-27 05:36:31",
       "iframe_src": ""
     },
     {
-      "id": 22373,
-      "title": "Заложник смерти",
-      "kp_id": "309424",
-      "imdb_id": "tt0940580",
+      "id": 22553,
+      "title": "Запыхавшись",
+      "kp_id": "94787",
+      "imdb_id": "tt0061493",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-02-18 21:41:03",
-      "orig_title": "Afterwards",
-      "year": "2008-09-07",
+      "add": "2019-02-26 16:27:04",
+      "orig_title": "Col cuore in gola",
+      "year": "1967-11-16",
       "translations": [
-        "Полное дублирование"
+        "Любительский (одноголосый закадровый)"
       ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2019-02-19 08:06:31",
+      "quality": "dvdrip",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2019-02-27 06:08:39",
       "iframe_src": ""
     },
     {
-      "id": 22372,
-      "title": "Пристрастие к секстингу",
-      "kp_id": "941341",
-      "imdb_id": "tt5039822",
+      "id": 22552,
+      "title": "Мистические хроники: Спасение",
+      "kp_id": "1189127",
+      "imdb_id": "tt8305372",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-02-18 21:39:00",
-      "orig_title": "Addicted to Sexting",
-      "year": "2015-11-17",
+      "add": "2019-02-26 16:25:08",
+      "orig_title": "The Chronicle Mysteries: Recovered",
+      "year": "2019-02-17",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
+        "Профессиональный (многоголосый закадровый) (AlphaProject)"
       ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-02-19 08:07:44",
+      "quality": "hdtv",
+      "translation": "Профессиональный (многоголосый закадровый) (AlphaProject)",
+      "update": "2019-02-27 05:31:43",
       "iframe_src": ""
     },
     {
-      "id": 22308,
-      "title": "Одна под покровом ночи",
-      "kp_id": "849836",
-      "imdb_id": "tt3710938",
+      "id": 22551,
+      "title": "42-66",
+      "kp_id": "1195931",
+      "imdb_id": "tt9042300",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-02-14 20:37:24",
-      "orig_title": "Alone in the Dead of Night",
-      "year": "2019-01-11",
+      "add": "2019-02-26 16:22:35",
+      "orig_title": "42 - 66 Le origini del Male",
+      "year": "2017-01-01",
       "translations": [
-        "Любительский (одноголосый закадровый) (datynet)",
-        "Любительский (многоголосый закадровый) (Синема УС)"
+        "Любительский (многоголосый закадровый) (Колобок)"
       ],
-      "quality": "webdl",
-      "translation": "Любительский (одноголосый закадровый) (datynet)",
-      "update": "2019-02-18 09:53:59",
+      "quality": "dvdrip",
+      "translation": "Любительский (многоголосый закадровый) (Колобок)",
+      "update": "2019-02-27 06:06:57",
       "iframe_src": ""
     },
     {
-      "id": 20818,
-      "title": "Оливер и компания",
-      "kp_id": "4687",
-      "imdb_id": "tt0095776",
+      "id": 3755,
+      "title": "Расчет",
+      "kp_id": "13975",
+      "imdb_id": "tt0331952",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-12-18 09:24:51",
-      "orig_title": "Oliver & Company",
-      "year": "1988-11-13",
+      "add": "2016-07-07 13:04:25",
+      "orig_title": "The Clearing",
+      "year": "2004-07-02",
       "translations": [
-        "Полное дублирование",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2019-02-19 12:39:03",
-      "iframe_src": ""
-    },
-    {
-      "id": 18924,
-      "title": "Разыскивается герой",
-      "kp_id": "279645",
-      "imdb_id": "tt0977214",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-09-11 23:31:37",
-      "orig_title": "Hero Wanted",
-      "year": "2008-03-28",
-      "translations": [
-        "Original (English)",
-        "Полное дублирование"
-      ],
-      "quality": "bd",
-      "translation": "Original (English)",
-      "update": "2019-02-19 08:43:48",
-      "iframe_src": ""
-    },
-    {
-      "id": 10604,
-      "title": "Принц и я",
-      "kp_id": "22149",
-      "imdb_id": "tt0337697",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-03-29 16:50:28",
-      "orig_title": "The Prince & Me",
-      "year": "2004-03-28",
-      "translations": [
-        "Полное дублирование",
-        "Original (English)"
-      ],
-      "quality": "webdl",
-      "translation": "Полное дублирование",
-      "update": "2019-02-19 12:40:42",
-      "iframe_src": ""
-    },
-    {
-      "id": 10098,
-      "title": "Клянусь Шивой",
-      "kp_id": "865913",
-      "imdb_id": "tt3771536",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-02-27 13:59:39",
-      "orig_title": "Shivaay",
-      "year": "2016-10-28",
-      "translations": [
-        "Любительский (многоголосый закадровый) (FanStudio)",
-        "Любительский (одноголосый закадровый) (Хихикающий доктор)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (FanStudio)",
-      "update": "2019-02-19 08:42:04",
-      "iframe_src": ""
-    },
-    {
-      "id": 5592,
-      "title": "Внезапно беременна",
-      "kp_id": "406206",
-      "imdb_id": "tt1186788",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-09-28 05:23:52",
-      "orig_title": "Baby on Board",
-      "year": "2009-04-03",
-      "translations": [
-        "Любительский (одноголосый закадровый)",
+        "Авторский (одноголосый закадровый) (Визгунов Сергей)",
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2019-02-19 07:25:44",
-      "iframe_src": ""
-    },
-    {
-      "id": 3801,
-      "title": "Модная мамочка",
-      "kp_id": "2517",
-      "imdb_id": "tt0350028",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-07-08 14:38:48",
-      "orig_title": "Raising Helen",
-      "year": "2004-05-01",
-      "translations": [
-        "Полное дублирование",
-        "Original (English)"
-      ],
-      "quality": "webdl",
-      "translation": "Полное дублирование",
-      "update": "2019-02-19 12:39:50",
-      "iframe_src": ""
-    },
-    {
-      "id": 107,
-      "title": "Форсаж",
-      "kp_id": "666",
-      "imdb_id": "tt0232500",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-02-13 16:23:10",
-      "orig_title": "The Fast and the Furious",
-      "year": "2001-06-18",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)",
-        "Original (English)",
-        "Полное дублирование"
-      ],
-      "quality": "hddvd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-02-19 07:53:48",
+      "translation": "Авторский (одноголосый закадровый) (Визгунов Сергей)",
+      "update": "2019-02-27 06:40:49",
       "iframe_src": ""
     }
   ]

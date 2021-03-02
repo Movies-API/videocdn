@@ -1,363 +1,363 @@
 {
   "data": [
     {
-      "id": 26177,
-      "title": "Ночь накануне",
-      "kp_id": "999941",
-      "imdb_id": "tt6006924",
+      "id": 26314,
+      "title": "Палач",
+      "kp_id": "42871",
+      "imdb_id": "tt0100322",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-05-07 21:55:11",
-      "orig_title": "The Night Before",
-      "year": "2017-09-19",
+      "add": "2019-05-11 19:45:31",
+      "orig_title": "Palach",
+      "year": "1990-01-01",
       "translations": [
-        "Любительский (многоголосый закадровый) (Колобок)"
+        "Оригинальная дорожка"
       ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Колобок)",
-      "update": "2019-05-08 05:11:04",
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-05-13 08:06:44",
       "iframe_src": ""
     },
     {
-      "id": 26174,
-      "title": "Автокатастрофа",
-      "kp_id": "1232474",
+      "id": 26312,
+      "title": "Пятнадцатая весна",
+      "kp_id": "43378",
+      "imdb_id": "tt0192484",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-05-11 19:42:48",
+      "orig_title": "Pyatnadtsataya vesna",
+      "year": "1972-05-13",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-05-13 08:05:23",
+      "iframe_src": ""
+    },
+    {
+      "id": 26309,
+      "title": "Последнее лето детства",
+      "kp_id": "81478",
+      "imdb_id": "tt0071037",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-05-11 19:39:16",
+      "orig_title": "Poslednyeye leto detstva",
+      "year": "1975-11-07",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-05-13 08:04:25",
+      "iframe_src": ""
+    },
+    {
+      "id": 26308,
+      "title": "Постарайся остаться живым...",
+      "kp_id": "43170",
+      "imdb_id": "tt0274730",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-05-11 19:35:45",
+      "orig_title": "Postaraysya ostatsya zhivym",
+      "year": "1986-12-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-05-13 08:02:05",
+      "iframe_src": ""
+    },
+    {
+      "id": 26307,
+      "title": "Шу-Чу",
+      "kp_id": "586608",
+      "imdb_id": "tt1664032",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-05-11 19:30:59",
+      "orig_title": "Shu-Chu",
+      "year": "2009-10-06",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "ts",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-05-13 08:01:11",
+      "iframe_src": ""
+    },
+    {
+      "id": 26306,
+      "title": "Земля людей",
+      "kp_id": "468142",
+      "imdb_id": "tt2065014",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-05-11 19:26:12",
+      "orig_title": "Zemlya lyudey",
+      "year": "2011-11-19",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-05-13 08:00:09",
+      "iframe_src": ""
+    },
+    {
+      "id": 26301,
+      "title": "Сумка инкассатора",
+      "kp_id": "428681",
+      "imdb_id": "tt2959282",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-05-11 06:42:27",
+      "orig_title": "Sumka inkassatora",
+      "year": "1977-04-09",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-05-13 07:59:02",
+      "iframe_src": ""
+    },
+    {
+      "id": 26300,
+      "title": "Небо Москвы",
+      "kp_id": "46377",
+      "imdb_id": "tt0037122",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-05-11 06:30:29",
+      "orig_title": "Nebo Moskvy",
+      "year": "1944-06-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-05-13 07:58:09",
+      "iframe_src": ""
+    },
+    {
+      "id": 26299,
+      "title": "Ракеты не должны взлететь",
+      "kp_id": "42039",
+      "imdb_id": "tt0190684",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-05-10 22:32:52",
+      "orig_title": "Rakety ne dolzny vzletet",
+      "year": "1966-01-07",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-05-13 07:57:09",
+      "iframe_src": ""
+    },
+    {
+      "id": 26298,
+      "title": "Размах крыльев",
+      "kp_id": "42068",
+      "imdb_id": "tt0274752",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-05-10 22:28:54",
+      "orig_title": "Razmakh krylyev",
+      "year": "1986-10-13",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-05-13 07:55:39",
+      "iframe_src": ""
+    },
+    {
+      "id": 26297,
+      "title": "Родительский день",
+      "kp_id": "453243",
       "imdb_id": null,
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-05-07 21:50:50",
-      "orig_title": "Rodeukil",
-      "year": "2019-02-21",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Колобок)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Колобок)",
-      "update": "2019-05-08 05:08:44",
-      "iframe_src": ""
-    },
-    {
-      "id": 26173,
-      "title": "Гремучие змеи",
-      "kp_id": "1201480",
-      "imdb_id": "tt9144756",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-05-07 21:49:07",
-      "orig_title": "Rattlesnakes",
-      "year": "2019-02-08",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-05-08 05:16:18",
-      "iframe_src": ""
-    },
-    {
-      "id": 26171,
-      "title": "Тайны утреннего шоу: Преднамеренное убийство",
-      "kp_id": "1262164",
-      "imdb_id": "tt10228590",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-05-07 21:46:26",
-      "orig_title": "Morning Show Mysteries: Death by Design",
-      "year": "2019-04-28",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "hdtv",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-05-08 05:23:52",
-      "iframe_src": ""
-    },
-    {
-      "id": 26121,
-      "title": "Несмотря ни на что",
-      "kp_id": "1202206",
-      "imdb_id": "tt9150970",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-05-07 14:10:01",
-      "orig_title": "A pesar de todo",
-      "year": "2019-03-16",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-05-07 18:21:29",
-      "iframe_src": ""
-    },
-    {
-      "id": 26120,
-      "title": "Фуга",
-      "kp_id": "1076986",
-      "imdb_id": "tt7051048",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-05-07 14:04:03",
-      "orig_title": "Fuga",
-      "year": "2018-05-15",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-05-07 18:18:48",
-      "iframe_src": ""
-    },
-    {
-      "id": 26117,
-      "title": "Норма Джин и Мэрилин",
-      "kp_id": "252132",
-      "imdb_id": "tt0117201",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-05-07 13:53:22",
-      "orig_title": "Norma Jean & Marilyn",
-      "year": "1996-05-18",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2019-05-07 18:22:30",
-      "iframe_src": ""
-    },
-    {
-      "id": 26116,
-      "title": "Голова",
-      "kp_id": "452599",
-      "imdb_id": "tt3554298",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-05-06 23:56:55",
-      "orig_title": "Golova",
-      "year": "2004-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-05-07 07:07:59",
-      "iframe_src": ""
-    },
-    {
-      "id": 26115,
-      "title": "Гранатовый браслет",
-      "kp_id": "44601",
-      "imdb_id": "tt0060471",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-05-06 23:53:26",
-      "orig_title": "Granatovyy braslet",
-      "year": "1965-03-18",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-05-07 07:06:19",
-      "iframe_src": ""
-    },
-    {
-      "id": 26114,
-      "title": "Контракт",
-      "kp_id": "671671",
-      "imdb_id": "tt3065650",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-05-06 23:49:28",
-      "orig_title": "Kontrakt",
-      "year": "2009-01-01",
+      "add": "2019-05-10 22:25:18",
+      "orig_title": "Родительский день",
+      "year": "2008-04-03",
       "translations": [
         "Оригинальная дорожка"
       ],
       "quality": "sat",
       "translation": "Оригинальная дорожка",
-      "update": "2019-05-07 07:05:33",
+      "update": "2019-05-13 07:54:43",
       "iframe_src": ""
     },
     {
-      "id": 26113,
-      "title": "Красиво жить не запретишь",
-      "kp_id": "44952",
-      "imdb_id": "tt0251781",
+      "id": 26296,
+      "title": "С новым годом, с новым счастьем!",
+      "kp_id": "431163",
+      "imdb_id": null,
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-05-06 23:45:51",
-      "orig_title": "Krasivo zhit ne zapretish",
-      "year": "1982-01-01",
+      "add": "2019-05-10 22:19:14",
+      "orig_title": "С новым годом, с новым счастьем!",
+      "year": "2003-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "tv",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-05-13 07:52:29",
+      "iframe_src": ""
+    },
+    {
+      "id": 26295,
+      "title": "Сестрички Либерти",
+      "kp_id": "64205",
+      "imdb_id": "tt0131009",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-05-10 22:14:33",
+      "orig_title": "Sestrichki Liberti",
+      "year": "1991-08-01",
       "translations": [
         "Оригинальная дорожка"
       ],
       "quality": "dvdrip",
       "translation": "Оригинальная дорожка",
-      "update": "2019-05-07 07:04:40",
+      "update": "2019-05-13 07:48:26",
       "iframe_src": ""
     },
     {
-      "id": 26112,
-      "title": "Кто ты, всадник?",
-      "kp_id": "45012",
-      "imdb_id": "tt0298979",
+      "id": 26294,
+      "title": "Таинственная находка",
+      "kp_id": "42165",
+      "imdb_id": "tt0212545",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-05-06 23:42:42",
-      "orig_title": "Kto ty, vsadnik?",
-      "year": "1988-01-04",
+      "add": "2019-05-10 22:09:47",
+      "orig_title": "Tainstvennaya nahodka",
+      "year": "1954-03-25",
       "translations": [
         "Оригинальная дорожка"
       ],
       "quality": "dvdrip",
       "translation": "Оригинальная дорожка",
-      "update": "2019-05-07 07:03:03",
+      "update": "2019-05-13 07:47:24",
       "iframe_src": ""
     },
     {
-      "id": 26111,
-      "title": "Маленькие человечки Большевистского переулка, или Хочу пива",
-      "kp_id": "41593",
-      "imdb_id": "tt0107494",
+      "id": 26293,
+      "title": "Весна на Одере",
+      "kp_id": "45747",
+      "imdb_id": "tt0155364",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-05-06 23:39:31",
-      "orig_title": "Malenkie chelovechki Bolshevistskogo pereulka, ili Khochu piva",
-      "year": "1993-01-01",
+      "add": "2019-05-10 22:04:55",
+      "orig_title": "Vesna na Odere",
+      "year": "1968-02-19",
       "translations": [
         "Оригинальная дорожка"
       ],
       "quality": "dvdrip",
       "translation": "Оригинальная дорожка",
-      "update": "2019-05-07 07:02:16",
+      "update": "2019-05-13 07:46:38",
       "iframe_src": ""
     },
     {
-      "id": 26110,
-      "title": "Мышеловка",
-      "kp_id": "94355",
-      "imdb_id": "tt0174953",
+      "id": 26292,
+      "title": "Два года над пропастью",
+      "kp_id": "44335",
+      "imdb_id": "tt0172376",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-05-06 23:36:13",
-      "orig_title": "Myshelovka",
-      "year": "1990-11-01",
+      "add": "2019-05-10 21:36:23",
+      "orig_title": "Dva goda nad propastyu",
+      "year": "1967-05-09",
       "translations": [
         "Оригинальная дорожка"
       ],
       "quality": "dvdrip",
       "translation": "Оригинальная дорожка",
-      "update": "2019-05-07 07:00:45",
+      "update": "2019-05-13 07:45:44",
       "iframe_src": ""
     },
     {
-      "id": 26109,
-      "title": "Невеста моего друга",
-      "kp_id": "671053",
-      "imdb_id": "tt3639130",
+      "id": 26291,
+      "title": "Вас вызывает Таймыр",
+      "kp_id": "257747",
+      "imdb_id": "tt0066520",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-05-06 23:32:34",
-      "orig_title": "Nevesta moego druga",
-      "year": "2012-03-08",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-05-07 07:00:06",
-      "iframe_src": ""
-    },
-    {
-      "id": 26058,
-      "title": "Гори, гори, моя звезда",
-      "kp_id": "44561",
-      "imdb_id": "tt0064385",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-05-06 07:18:56",
-      "orig_title": "Gori, gori, moya zvezda",
-      "year": "1970-09-28",
+      "add": "2019-05-10 21:32:48",
+      "orig_title": "Vas vyzyvaet Taymyr",
+      "year": "1971-01-03",
       "translations": [
         "Оригинальная дорожка"
       ],
       "quality": "dvdrip",
       "translation": "Оригинальная дорожка",
-      "update": "2019-05-07 09:01:26",
+      "update": "2019-05-13 07:24:30",
       "iframe_src": ""
     },
     {
-      "id": 26057,
-      "title": "Мужчины",
-      "kp_id": "42238",
-      "imdb_id": "tt0068982",
+      "id": 26290,
+      "title": "Верность",
+      "kp_id": "45723",
+      "imdb_id": "tt0176285",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-05-06 07:16:15",
-      "orig_title": "Tghamardik",
-      "year": "1973-09-17",
+      "add": "2019-05-10 21:29:13",
+      "orig_title": "Vernost",
+      "year": "1965-11-29",
       "translations": [
         "Оригинальная дорожка"
       ],
       "quality": "dvdrip",
       "translation": "Оригинальная дорожка",
-      "update": "2019-05-07 09:02:47",
+      "update": "2019-05-13 07:23:40",
       "iframe_src": ""
     },
     {
-      "id": 26056,
-      "title": "Самый сильный",
-      "kp_id": "43615",
-      "imdb_id": "tt0070627",
+      "id": 26288,
+      "title": "Женщины шутят всерьез",
+      "kp_id": "45309",
+      "imdb_id": "tt0237940",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-05-06 07:10:10",
-      "orig_title": "Samyy silnyy",
-      "year": "1974-01-21",
+      "add": "2019-05-10 21:21:06",
+      "orig_title": "Zhenshchiny shutyat vseryoz",
+      "year": "1981-08-01",
       "translations": [
         "Оригинальная дорожка"
       ],
       "quality": "dvdrip",
       "translation": "Оригинальная дорожка",
-      "update": "2019-05-07 09:03:36",
+      "update": "2019-05-13 07:21:28",
       "iframe_src": ""
     },
     {
-      "id": 22819,
-      "title": "Закат",
-      "kp_id": "991817",
-      "imdb_id": "tt5855772",
+      "id": 26287,
+      "title": "Дочь баяниста",
+      "kp_id": "679575",
+      "imdb_id": "tt5079222",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-03-07 22:01:05",
-      "orig_title": "Napszállta",
-      "year": "2018-09-03",
+      "add": "2019-05-10 21:17:39",
+      "orig_title": "Doch Bayanista",
+      "year": "2012-05-13",
       "translations": [
-        "Профессиональный (многоголосый закадровый)"
+        "Оригинальная дорожка"
       ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-05-08 05:03:17",
-      "iframe_src": ""
-    },
-    {
-      "id": 21086,
-      "title": "Тайный мир Анны",
-      "kp_id": "467649",
-      "imdb_id": "tt1183352",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-01-01 14:57:04",
-      "orig_title": "Ana y Bruno",
-      "year": "2018-06-12",
-      "translations": [
-        "Полное дублирование (iTunes)"
-      ],
-      "quality": "webdl",
-      "translation": "Полное дублирование (iTunes)",
-      "update": "2019-05-08 05:06:59",
+      "quality": "sat",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-05-13 07:20:28",
       "iframe_src": ""
     }
   ]

@@ -1,374 +1,365 @@
 {
   "data": [
     {
-      "id": 29943,
-      "title": "Похищение сабинянок",
-      "kp_id": "35676",
-      "imdb_id": "tt0055356",
+      "id": 30177,
+      "title": "Залечь на дно",
+      "kp_id": "1188188",
+      "imdb_id": "tt8922118",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-08-12 19:45:43",
-      "orig_title": "Il ratto delle sabine",
-      "year": "1961-11-15",
+      "add": "2019-08-22 13:58:49",
+      "orig_title": "Low Low",
+      "year": "2019-02-14",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-08-22 15:50:32",
+      "iframe_src": ""
+    },
+    {
+      "id": 30175,
+      "title": "Прудная жизнь",
+      "kp_id": "1069826",
+      "imdb_id": "tt7033192",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-08-22 13:55:09",
+      "orig_title": "Pond Life",
+      "year": "2018-11-14",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-08-22 15:50:57",
+      "iframe_src": ""
+    },
+    {
+      "id": 30171,
+      "title": "Секреты",
+      "kp_id": "258823",
+      "imdb_id": "tt0782867",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-08-21 22:33:13",
+      "orig_title": "Ha-Sodot",
+      "year": "2007-06-14",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "dvdrip",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-08-13 04:39:47",
+      "update": "2019-08-22 05:52:21",
       "iframe_src": ""
     },
     {
-      "id": 29940,
-      "title": "Невидимый агент",
-      "kp_id": "12986",
-      "imdb_id": "tt0034902",
+      "id": 30170,
+      "title": "Битва в пустыне",
+      "kp_id": "279847",
+      "imdb_id": "tt0962711",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-08-12 19:15:17",
-      "orig_title": "Invisible Agent",
-      "year": "1942-07-31",
-      "translations": [
-        "Любительский (одноголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2019-08-13 04:42:50",
-      "iframe_src": ""
-    },
-    {
-      "id": 29938,
-      "title": "Я бы не хотел умереть в воскресенье",
-      "kp_id": "35019",
-      "imdb_id": "tt0168899",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-08-12 19:11:31",
-      "orig_title": "J'aimerais pas crever un dimanche",
-      "year": "1998-09-13",
-      "translations": [
-        "Любительский (одноголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2019-08-13 04:54:52",
-      "iframe_src": ""
-    },
-    {
-      "id": 29936,
-      "title": "Вожделение",
-      "kp_id": "223334",
-      "imdb_id": "tt0091454",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-08-12 19:06:04",
-      "orig_title": "Lussuria",
-      "year": "1986-04-17",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2019-08-13 04:56:10",
-      "iframe_src": ""
-    },
-    {
-      "id": 29935,
-      "title": "Похищение",
-      "kp_id": "50812",
-      "imdb_id": "tt0374563",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-08-12 18:56:31",
-      "orig_title": "Captivity",
-      "year": "2007-03-01",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "dvdrip",
-      "translation": "Полное дублирование",
-      "update": "2019-08-13 04:57:22",
-      "iframe_src": ""
-    },
-    {
-      "id": 29934,
-      "title": "Добро пожаловать в рай! 2: Риф",
-      "kp_id": "414516",
-      "imdb_id": "tt0865907",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-08-12 18:45:00",
-      "orig_title": "Into the Blue 2: The Reef",
-      "year": "2009-04-21",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (FOX)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый) (FOX)",
-      "update": "2019-08-13 05:00:15",
-      "iframe_src": ""
-    },
-    {
-      "id": 29933,
-      "title": "Неверный",
-      "kp_id": "18875",
-      "imdb_id": "tt0299422",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-08-12 18:06:58",
-      "orig_title": "100 Mile Rule",
-      "year": "2002-11-07",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2019-08-13 05:01:58",
-      "iframe_src": ""
-    },
-    {
-      "id": 29932,
-      "title": "Похищенный",
-      "kp_id": "10161",
-      "imdb_id": "tt0053994",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-08-12 18:02:50",
-      "orig_title": "Kidnapped",
-      "year": "1960-02-24",
+      "add": "2019-08-21 22:28:59",
+      "orig_title": "The Objective",
+      "year": "2008-04-24",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
-      "quality": "webdl",
+      "quality": "bd",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-08-13 05:02:28",
+      "update": "2019-08-22 05:53:59",
       "iframe_src": ""
     },
     {
-      "id": 29931,
-      "title": "Путь Карлито 2: Восхождение к власти",
-      "kp_id": "86207",
-      "imdb_id": "tt0427038",
+      "id": 30167,
+      "title": "Дрянная девчонка",
+      "kp_id": "65841",
+      "imdb_id": "tt0293715",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-08-12 17:58:07",
-      "orig_title": "Carlito's Way: Rise to Power",
-      "year": "2005-09-27",
+      "add": "2019-08-21 21:15:25",
+      "orig_title": "Yeopgijeogin geunyeo",
+      "year": "2001-07-27",
       "translations": [
-        "Полное дублирование (Пифагор)"
-      ],
-      "quality": "hddvd",
-      "translation": "Полное дублирование (Пифагор)",
-      "update": "2019-08-13 05:05:43",
-      "iframe_src": ""
-    },
-    {
-      "id": 26672,
-      "title": "Та еще парочка",
-      "kp_id": "684983",
-      "imdb_id": "tt2139881",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-05-17 22:23:13",
-      "orig_title": "Long Shot",
-      "year": "2019-03-09",
-      "translations": [
-        "Полное дублирование",
-        "Original (English)"
+        "Профессиональный (двухголосый закадровый)"
       ],
       "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2019-08-13 05:23:55",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2019-08-22 06:07:10",
       "iframe_src": ""
     },
     {
-      "id": 22074,
-      "title": "Мускулы на пляже",
-      "kp_id": "2503",
-      "imdb_id": "tt0058384",
+      "id": 30165,
+      "title": "Мари",
+      "kp_id": "1198619",
+      "imdb_id": "tt8917964",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-02-05 14:51:36",
-      "orig_title": "Muscle Beach Party",
-      "year": "1964-03-25",
+      "add": "2019-08-21 13:15:48",
+      "orig_title": "Mari",
+      "year": "2018-10-18",
       "translations": [
-        "Профессиональный (двухголосый закадровый) (НТВ)",
-        "Original (English)"
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-08-22 05:48:58",
+      "iframe_src": ""
+    },
+    {
+      "id": 30163,
+      "title": "Гаон",
+      "kp_id": "1071943",
+      "imdb_id": "tt6667252",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-08-21 13:12:14",
+      "orig_title": "Gaon",
+      "year": "2018-01-17",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-08-21 15:51:16",
+      "iframe_src": ""
+    },
+    {
+      "id": 30162,
+      "title": "Провальное лето одного неудачника",
+      "kp_id": "1069005",
+      "imdb_id": "tt6959256",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-08-21 13:10:46",
+      "orig_title": "Lucky Loser - Ein Sommer in der Bredouille",
+      "year": "2017-06-25",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-08-21 15:50:05",
+      "iframe_src": ""
+    },
+    {
+      "id": 30161,
+      "title": "Ни с места!",
+      "kp_id": "1012049",
+      "imdb_id": "tt6231398",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-08-21 13:07:35",
+      "orig_title": "Halt: The Motion Picture",
+      "year": "2018-09-29",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-08-21 15:47:03",
+      "iframe_src": ""
+    },
+    {
+      "id": 30160,
+      "title": "Потоп",
+      "kp_id": "1027146",
+      "imdb_id": "tt5954556",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-08-21 13:06:38",
+      "orig_title": "The Flood",
+      "year": "2019-06-21",
+      "translations": [
+        "Любительский (многоголосый закадровый) (@MUZOBOZ@)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
+      "update": "2019-08-21 15:48:56",
+      "iframe_src": ""
+    },
+    {
+      "id": 30159,
+      "title": "Голубая луна",
+      "kp_id": "1018585",
+      "imdb_id": "tt6128244",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-08-21 13:05:52",
+      "orig_title": "Bluest Moon",
+      "year": "2018-06-19",
+      "translations": [
+        "Любительский (многоголосый закадровый) (AlphaProject)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (AlphaProject)",
+      "update": "2019-08-22 05:47:30",
+      "iframe_src": ""
+    },
+    {
+      "id": 30158,
+      "title": "Роза Ли",
+      "kp_id": "1144136",
+      "imdb_id": "tt8348286",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-08-21 13:04:12",
+      "orig_title": "Rosa Leigh",
+      "year": "2018-03-30",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-08-21 15:44:51",
+      "iframe_src": ""
+    },
+    {
+      "id": 30136,
+      "title": "Серебрянный лес",
+      "kp_id": "985000",
+      "imdb_id": "tt5658198",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-08-20 12:30:56",
+      "orig_title": "Silver Woods",
+      "year": "2017-09-12",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-08-21 19:43:17",
+      "iframe_src": ""
+    },
+    {
+      "id": 30132,
+      "title": "Следопыт",
+      "kp_id": "462411",
+      "imdb_id": "tt1414378",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-08-20 12:24:49",
+      "orig_title": "Tracker",
+      "year": "2010-09-12",
+      "translations": [
+        "Профессиональный (двухголосый закадровый) (НТВ)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (двухголосый закадровый) (НТВ)",
+      "update": "2019-08-21 19:39:39",
+      "iframe_src": ""
+    },
+    {
+      "id": 30131,
+      "title": "Без предупреждения",
+      "kp_id": "18533",
+      "imdb_id": "tt0081764",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-08-20 12:23:21",
+      "orig_title": "Without Warning",
+      "year": "1980-09-26",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Гаврилов Андрей)"
       ],
       "quality": "hdtv",
-      "translation": "Профессиональный (двухголосый закадровый) (НТВ)",
-      "update": "2019-08-13 05:27:22",
+      "translation": "Авторский (одноголосый закадровый) (Гаврилов Андрей)",
+      "update": "2019-08-21 19:41:09",
       "iframe_src": ""
     },
     {
-      "id": 22013,
-      "title": "Шары ярости",
-      "kp_id": "196671",
-      "imdb_id": "tt0424823",
+      "id": 29414,
+      "title": "До скорой встречи",
+      "kp_id": "1047478",
+      "imdb_id": "tt7216068",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-02-02 15:17:30",
-      "orig_title": "Balls of Fury",
-      "year": "2007-08-29",
+      "add": "2019-07-26 20:27:09",
+      "orig_title": "See You Soon",
+      "year": "2019-07-26",
       "translations": [
         "Полное дублирование",
-        "Original (English)"
-      ],
-      "quality": "hddvd",
-      "translation": "Полное дублирование",
-      "update": "2019-08-13 05:26:28",
-      "iframe_src": ""
-    },
-    {
-      "id": 18625,
-      "title": "Питбуль. Последний пес",
-      "kp_id": "1129423",
-      "imdb_id": "tt7874378",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-08-29 00:31:10",
-      "orig_title": "Pitbull. Ostatni pies",
-      "year": "2018-03-15",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (GreenРай Studio)",
-        "Авторский (одноголосый закадровый) (Чадов)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый) (GreenРай Studio)",
-      "update": "2019-08-13 04:57:30",
-      "iframe_src": ""
-    },
-    {
-      "id": 9530,
-      "title": "Космос между нами",
-      "kp_id": "924990",
-      "imdb_id": "tt3922818",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-02-09 05:41:58",
-      "orig_title": "The Space Between Us",
-      "year": "2017-02-01",
-      "translations": [
-        "Полное дублирование",
-        "Original (English)"
+        "Полное дублирование (iTunes)"
       ],
       "quality": "webdl",
       "translation": "Полное дублирование",
-      "update": "2019-08-13 05:14:53",
+      "update": "2019-08-23 04:06:57",
       "iframe_src": ""
     },
     {
-      "id": 4365,
-      "title": "Мужчина нарасхват",
-      "kp_id": "484599",
-      "imdb_id": "tt1540128",
+      "id": 27494,
+      "title": "Куриоса",
+      "kp_id": "1098909",
+      "imdb_id": "tt7598076",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-08-09 11:21:16",
-      "orig_title": "Playing for Keeps",
-      "year": "2012-12-05",
+      "add": "2019-06-06 04:11:26",
+      "orig_title": "Curiosa",
+      "year": "2019-04-03",
       "translations": [
-        "Полное дублирование",
-        "Original (English)"
+        "Полное дублирование (iTunes)"
       ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2019-08-13 05:19:18",
+      "quality": "webdl",
+      "translation": "Полное дублирование (iTunes)",
+      "update": "2019-08-23 04:05:27",
       "iframe_src": ""
     },
     {
-      "id": 1654,
-      "title": "Зелёная миля",
-      "kp_id": "435",
-      "imdb_id": "tt0120689",
+      "id": 7855,
+      "title": "Дэнни Цепной пес",
+      "kp_id": "6059",
+      "imdb_id": "tt0342258",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-04-24 18:04:15",
-      "orig_title": "The Green Mile",
-      "year": "1999-12-06",
+      "add": "2016-12-05 13:37:52",
+      "orig_title": "Unleashed",
+      "year": "2005-02-02",
       "translations": [
-        "Полное дублирование",
-        "Original (English)"
+        "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2019-08-13 05:17:42",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-08-22 06:06:07",
       "iframe_src": ""
     },
     {
-      "id": 1626,
-      "title": "Бэйб: Четвероногий малыш",
-      "kp_id": "3829",
-      "imdb_id": "tt0112431",
+      "id": 6982,
+      "title": "Реальность кусается",
+      "kp_id": "5333",
+      "imdb_id": "tt0110950",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-04-24 16:00:57",
-      "orig_title": "Babe",
-      "year": "1995-08-04",
+      "add": "2016-11-02 15:36:49",
+      "orig_title": "Reality Bites",
+      "year": "1994-02-18",
       "translations": [
-        "Полное дублирование",
-        "Original (English)"
+        "Профессиональный (двухголосый закадровый)"
       ],
       "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2019-08-13 05:25:01",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2019-08-22 05:51:43",
       "iframe_src": ""
     },
     {
-      "id": 750,
-      "title": "Миссия невыполнима: Протокол Фантом",
-      "kp_id": "472362",
-      "imdb_id": "tt1229238",
+      "id": 1160,
+      "title": "Машинист",
+      "kp_id": "5206",
+      "imdb_id": "tt0361862",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-04-07 17:17:57",
-      "orig_title": "Mission: Impossible - Ghost Protocol",
-      "year": "2011-12-07",
+      "add": "2016-04-15 06:37:42",
+      "orig_title": "El Maquinista",
+      "year": "2004-01-18",
       "translations": [
-        "Полное дублирование",
+        "Профессиональный (многоголосый закадровый)",
         "Original (English)"
       ],
       "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2019-08-13 05:22:15",
-      "iframe_src": ""
-    },
-    {
-      "id": 126,
-      "title": "Отпуск по обмену",
-      "kp_id": "104927",
-      "imdb_id": "tt0457939",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-02-16 09:47:42",
-      "orig_title": "The Holiday",
-      "year": "2006-12-05",
-      "translations": [
-        "Полное дублирование",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2019-08-13 05:16:05",
-      "iframe_src": ""
-    },
-    {
-      "id": 51,
-      "title": "Миссия невыполнима: Племя изгоев",
-      "kp_id": "678549",
-      "imdb_id": "tt2381249",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-02-08 10:17:33",
-      "orig_title": "Mission: Impossible - Rogue Nation",
-      "year": "2015-07-23",
-      "translations": [
-        "Полное дублирование",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2019-08-13 05:20:39",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-08-22 05:55:26",
       "iframe_src": ""
     }
   ]

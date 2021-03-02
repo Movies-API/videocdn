@@ -1,363 +1,363 @@
 {
   "data": [
     {
-      "id": 6386,
-      "title": "Пятеро",
-      "kp_id": "917103",
-      "imdb_id": "tt4741714",
+      "id": 6564,
+      "title": "Алюминиевые человечки",
+      "kp_id": "12282",
+      "imdb_id": "tt0094155",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-10-17 14:40:41",
-      "orig_title": "Five",
-      "year": "2016-03-30",
+      "add": "2016-10-21 05:37:48",
+      "orig_title": "Tin Men",
+      "year": "1987-02-18",
       "translations": [
-        "Любительский (многоголосый закадровый)"
-      ],
-      "quality": "hdrip",
-      "translation": "Любительский (многоголосый закадровый)",
-      "update": "2016-10-17 18:35:31",
-      "iframe_src": ""
-    },
-    {
-      "id": 6351,
-      "title": "Блеф Кугана",
-      "kp_id": "10025",
-      "imdb_id": "tt0062824",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-17 04:56:55",
-      "orig_title": "Coogan's Bluff",
-      "year": "1968-10-02",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2016-10-18 05:17:40",
-      "iframe_src": ""
-    },
-    {
-      "id": 6350,
-      "title": "Лепрекон: Начало",
-      "kp_id": "677807",
-      "imdb_id": "tt2345613",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-17 04:48:35",
-      "orig_title": "Leprechaun: Origins",
-      "year": "2014-08-22",
-      "translations": [
-        "Любительский (одноголосый закадровый)"
+        "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "webdl",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2016-10-18 05:15:14",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-10-24 10:17:22",
       "iframe_src": ""
     },
     {
-      "id": 6349,
-      "title": "Лепрекон 6: Домой",
-      "kp_id": "6340",
-      "imdb_id": "tt0339294",
+      "id": 6563,
+      "title": "Сбрось маму с поезда",
+      "kp_id": "1577",
+      "imdb_id": "tt0094142",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-10-17 04:47:41",
-      "orig_title": "Leprechaun: Back 2 tha Hood",
-      "year": "2003-12-30",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2016-10-18 05:12:22",
-      "iframe_src": ""
-    },
-    {
-      "id": 6348,
-      "title": "Лепрекон 5: Сосед",
-      "kp_id": "229283",
-      "imdb_id": "tt0209095",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-17 04:46:43",
-      "orig_title": "Leprechaun in the Hood",
-      "year": "2000-03-28",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2016-10-18 05:09:28",
-      "iframe_src": ""
-    },
-    {
-      "id": 6347,
-      "title": "Лепрекон 4: В космосе",
-      "kp_id": "94901",
-      "imdb_id": "tt0116861",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-17 04:45:40",
-      "orig_title": "Leprechaun 4: In Space",
-      "year": "1997-02-25",
+      "add": "2016-10-21 05:36:46",
+      "orig_title": "Throw Momma from the Train",
+      "year": "1987-12-11",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-10-18 05:07:27",
+      "update": "2016-10-24 10:15:46",
       "iframe_src": ""
     },
     {
-      "id": 6346,
-      "title": "Лепрекон 3: Приключения в Лас-Вегасе",
-      "kp_id": "80270",
-      "imdb_id": "tt0113636",
+      "id": 6562,
+      "title": "Отчим",
+      "kp_id": "258545",
+      "imdb_id": "tt0814335",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-10-17 04:44:41",
-      "orig_title": "Leprechaun 3",
-      "year": "1995-06-27",
+      "add": "2016-10-21 05:35:46",
+      "orig_title": "The Stepfather",
+      "year": "2009-10-16",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-10-18 05:05:29",
+      "update": "2016-10-24 10:14:01",
       "iframe_src": ""
     },
     {
-      "id": 6341,
-      "title": "Вeрзила",
-      "kp_id": "524942",
-      "imdb_id": "tt1658837",
+      "id": 6561,
+      "title": "Сицилиец",
+      "kp_id": "4329",
+      "imdb_id": "tt0093966",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-10-16 08:14:45",
-      "orig_title": "The Tall Man",
-      "year": "2012-03-12",
+      "add": "2016-10-21 05:34:43",
+      "orig_title": "The Sicilian",
+      "year": "1987-10-23",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-10-17 10:31:06",
+      "update": "2016-10-24 10:11:50",
       "iframe_src": ""
     },
     {
-      "id": 6340,
-      "title": "Игровая комната",
-      "kp_id": "577689",
-      "imdb_id": "tt1815998",
+      "id": 6560,
+      "title": "Река-вопрос",
+      "kp_id": "418088",
+      "imdb_id": "tt1241329",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-10-16 08:13:31",
-      "orig_title": "The Playroom",
-      "year": "2012-04-21",
+      "add": "2016-10-21 05:33:34",
+      "orig_title": "The River Why",
+      "year": "2010-04-09",
       "translations": [
-        "Профессиональный (многоголосый закадровый) (ViruseProject)"
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-10-24 10:09:49",
+      "iframe_src": ""
+    },
+    {
+      "id": 6559,
+      "title": "Малыши из мусорного бачка",
+      "kp_id": "15922",
+      "imdb_id": "tt0093072",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-21 05:32:26",
+      "orig_title": "The Garbage Pail Kids Movie",
+      "year": "1987-08-22",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-10-24 10:08:19",
+      "iframe_src": ""
+    },
+    {
+      "id": 6557,
+      "title": "Стальной рассвет",
+      "kp_id": "1995",
+      "imdb_id": "tt0094033",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-21 05:29:55",
+      "orig_title": "Steel Dawn",
+      "year": "1987-11-06",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-10-24 10:05:09",
+      "iframe_src": ""
+    },
+    {
+      "id": 6556,
+      "title": "Чудеса своего рода",
+      "kp_id": "9604",
+      "imdb_id": "tt0094006",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-21 05:28:45",
+      "orig_title": "Some Kind of Wonderful",
+      "year": "1987-02-27",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый) (ViruseProject)",
-      "update": "2016-10-17 10:29:17",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-10-24 10:03:41",
       "iframe_src": ""
     },
     {
-      "id": 6339,
-      "title": "Могучие утята 3",
-      "kp_id": "23953",
-      "imdb_id": "tt0116000",
+      "id": 6555,
+      "title": "Ренегат",
+      "kp_id": "32609",
+      "imdb_id": "tt0095975",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-10-16 08:11:44",
-      "orig_title": "D3: The Mighty Ducks",
-      "year": "1996-10-04",
+      "add": "2016-10-21 05:19:59",
+      "orig_title": "Renegade",
+      "year": "1987-11-27",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-10-24 10:01:39",
+      "iframe_src": ""
+    },
+    {
+      "id": 6553,
+      "title": "Проводник",
+      "kp_id": "76109",
+      "imdb_id": "tt0093668",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-21 05:17:13",
+      "orig_title": "Ofelas",
+      "year": "1987-09-03",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-10-24 09:57:49",
+      "iframe_src": ""
+    },
+    {
+      "id": 6552,
+      "title": "Никогда не сдавайся 2",
+      "kp_id": "570253",
+      "imdb_id": "tt1754264",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-21 05:16:13",
+      "orig_title": "Never Back Down 2: The Beatdown",
+      "year": "2011-04-08",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-10-24 09:51:27",
+      "iframe_src": ""
+    },
+    {
+      "id": 6551,
+      "title": "Надин",
+      "kp_id": "12274",
+      "imdb_id": "tt0093596",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-21 05:14:42",
+      "orig_title": "Nadine",
+      "year": "1987-05-27",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-10-24 07:02:07",
+      "iframe_src": ""
+    },
+    {
+      "id": 6549,
+      "title": "Друг моей подруги",
+      "kp_id": "220492",
+      "imdb_id": "tt0092550",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-21 05:12:36",
+      "orig_title": "L'ami de mon amie",
+      "year": "1987-08-26",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-10-24 06:57:44",
+      "iframe_src": ""
+    },
+    {
+      "id": 6548,
+      "title": "Ла бамба",
+      "kp_id": "3924",
+      "imdb_id": "tt0093378",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-21 05:11:25",
+      "orig_title": "La Bamba",
+      "year": "1987-07-24",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-10-24 06:55:57",
+      "iframe_src": ""
+    },
+    {
+      "id": 6546,
+      "title": "Гарри и Хендерсоны",
+      "kp_id": "2795",
+      "imdb_id": "tt0093148",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-21 05:08:53",
+      "orig_title": "Harry and the Hendersons",
+      "year": "1987-06-05",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "hdtv",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-10-17 10:27:47",
+      "update": "2016-10-24 06:51:17",
       "iframe_src": ""
     },
     {
-      "id": 6338,
-      "title": "Могучие утята 2",
-      "kp_id": "22188",
-      "imdb_id": "tt0109520",
+      "id": 6544,
+      "title": "Смерть зимой",
+      "kp_id": "20240",
+      "imdb_id": "tt0092842",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-10-16 08:10:12",
-      "orig_title": "D2: The Mighty Ducks",
-      "year": "1994-03-25",
+      "add": "2016-10-21 05:06:51",
+      "orig_title": "Dead of Winter",
+      "year": "1987-02-06",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-10-24 06:47:15",
+      "iframe_src": ""
+    },
+    {
+      "id": 6543,
+      "title": "Теленовости",
+      "kp_id": "2536",
+      "imdb_id": "tt0092699",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-21 05:05:38",
+      "orig_title": "Broadcast News",
+      "year": "1987-12-13",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-10-24 06:45:15",
+      "iframe_src": ""
+    },
+    {
+      "id": 6533,
+      "title": "Услужливые девушки",
+      "kp_id": "15910",
+      "imdb_id": "tt0094237",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-20 15:17:10",
+      "orig_title": "Valet Girls",
+      "year": "1987-01-01",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
       ],
       "quality": "hdtv",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-10-17 10:26:02",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2016-10-24 06:35:49",
       "iframe_src": ""
     },
     {
-      "id": 6336,
-      "title": "Десятидюймовый герой",
-      "kp_id": "259829",
-      "imdb_id": "tt0829297",
+      "id": 6528,
+      "title": "Месть на колёсах",
+      "kp_id": "4964",
+      "imdb_id": "tt0093876",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-10-16 08:08:13",
-      "orig_title": "Ten Inch Hero",
-      "year": "2007-04-25",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (LostFilm)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый) (LostFilm)",
-      "update": "2016-10-17 10:23:49",
-      "iframe_src": ""
-    },
-    {
-      "id": 6335,
-      "title": "Окись",
-      "kp_id": "313424",
-      "imdb_id": "tt1032819",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-16 08:07:13",
-      "orig_title": "Powder Blue",
-      "year": "2009-05-08",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-10-17 10:21:23",
-      "iframe_src": ""
-    },
-    {
-      "id": 6334,
-      "title": "За гранью смерти",
-      "kp_id": "77372",
-      "imdb_id": "tt0290014",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-16 08:06:07",
-      "orig_title": "Outside the Law",
-      "year": "2002-06-25",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-10-17 10:18:52",
-      "iframe_src": ""
-    },
-    {
-      "id": 6333,
-      "title": "Отголоски прошлого",
-      "kp_id": "396193",
-      "imdb_id": "tt1104083",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-16 08:04:36",
-      "orig_title": "Little Ashes",
-      "year": "2008-10-07",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-10-17 10:15:55",
-      "iframe_src": ""
-    },
-    {
-      "id": 6332,
-      "title": "Королевские драгоценности",
-      "kp_id": "579008",
-      "imdb_id": "tt1815782",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-16 08:03:11",
-      "orig_title": "Kronjuvelerna",
-      "year": "2011-06-29",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (ViruseProject)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый) (ViruseProject)",
-      "update": "2016-10-17 10:14:26",
-      "iframe_src": ""
-    },
-    {
-      "id": 6331,
-      "title": "Я буду дома к Рождеству",
-      "kp_id": "23068",
-      "imdb_id": "tt0155753",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-16 08:02:02",
-      "orig_title": "I'll Be Home for Christmas",
-      "year": "1998-11-13",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-10-17 10:11:05",
-      "iframe_src": ""
-    },
-    {
-      "id": 6330,
-      "title": "Дом храбрых",
-      "kp_id": "252875",
-      "imdb_id": "tt0763840",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-16 08:00:46",
-      "orig_title": "Home of the Brave",
-      "year": "2006-12-15",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-10-17 10:08:05",
-      "iframe_src": ""
-    },
-    {
-      "id": 6329,
-      "title": "Капитан Зум: Академия супергероев",
-      "kp_id": "87854",
-      "imdb_id": "tt0383060",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-16 07:59:20",
-      "orig_title": "Zoom",
-      "year": "2006-08-11",
+      "add": "2016-10-20 15:10:27",
+      "orig_title": "Rolling Vengeance",
+      "year": "1987-10-02",
       "translations": [
         "Профессиональный (двухголосый закадровый)"
       ],
-      "quality": "webdl",
+      "quality": "hdtv",
       "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2016-10-17 10:02:17",
+      "update": "2016-10-24 06:33:31",
       "iframe_src": ""
     },
     {
-      "id": 6328,
-      "title": "Эмануэль и правда о рыбах",
-      "kp_id": "580178",
-      "imdb_id": "tt1838520",
+      "id": 6526,
+      "title": "Мэлоун",
+      "kp_id": "21285",
+      "imdb_id": "tt0093483",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-10-16 07:58:19",
-      "orig_title": "The Truth About Emanuel",
-      "year": "2013-01-18",
+      "add": "2016-10-20 15:07:50",
+      "orig_title": "Malone",
+      "year": "1987-05-01",
       "translations": [
         "Профессиональный (двухголосый закадровый)"
       ],
-      "quality": "bd",
+      "quality": "hdtv",
       "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2016-10-17 10:00:04",
+      "update": "2016-10-24 06:31:42",
       "iframe_src": ""
     }
   ]

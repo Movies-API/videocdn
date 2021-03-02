@@ -1,365 +1,365 @@
 {
   "data": [
     {
-      "id": 9865,
-      "title": "Жизнь, или Что-то вроде того",
-      "kp_id": "4475",
-      "imdb_id": "tt0282687",
+      "id": 10095,
+      "title": "Мэнсфилд Парк",
+      "kp_id": "301194",
+      "imdb_id": "tt0847182",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-02-21 06:31:25",
-      "orig_title": "Life or Something Like It",
-      "year": "2002-04-26",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2017-02-21 13:25:08",
-      "iframe_src": ""
-    },
-    {
-      "id": 9864,
-      "title": "Счастливый номер",
-      "kp_id": "722871",
-      "imdb_id": "tt2538204",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-02-21 06:30:21",
-      "orig_title": "#Lucky Number",
-      "year": "2015-09-01",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2017-02-21 13:21:58",
-      "iframe_src": ""
-    },
-    {
-      "id": 9863,
-      "title": "Истинный комиссионер",
-      "kp_id": "905481",
-      "imdb_id": "tt4637240",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-02-21 06:29:23",
-      "orig_title": "The Truth Commissioner",
-      "year": "2016-02-21",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2017-02-21 13:21:22",
-      "iframe_src": ""
-    },
-    {
-      "id": 9861,
-      "title": "Зверский",
-      "kp_id": "894168",
-      "imdb_id": "tt4497686",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-02-21 06:26:26",
-      "orig_title": "Atroz (Atrocious)",
-      "year": "2015-10-31",
-      "translations": [
-        "Любительский (одноголосый закадровый) (Хихикающий доктор)"
-      ],
-      "quality": "hdrip",
-      "translation": "Любительский (одноголосый закадровый) (Хихикающий доктор)",
-      "update": "2017-02-21 13:19:42",
-      "iframe_src": ""
-    },
-    {
-      "id": 9859,
-      "title": "Великий Звэн",
-      "kp_id": "911244",
-      "imdb_id": "tt4699658",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-02-21 05:51:46",
-      "orig_title": "De Grote Zwaen",
-      "year": "2015-09-30",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2017-02-21 09:15:05",
-      "iframe_src": ""
-    },
-    {
-      "id": 9858,
-      "title": "Стандартное тихоокеанское время",
-      "kp_id": "841802",
-      "imdb_id": "tt3689590",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-02-21 05:50:31",
-      "orig_title": "Pacific Standard Time",
-      "year": "2016-08-26",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2017-02-21 09:18:40",
-      "iframe_src": ""
-    },
-    {
-      "id": 9857,
-      "title": "Американский заложник",
-      "kp_id": "822725",
-      "imdb_id": "tt3468612",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-02-21 05:49:10",
-      "orig_title": "American Hostage",
-      "year": "2015-03-26",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2017-02-21 09:18:30",
-      "iframe_src": ""
-    },
-    {
-      "id": 9854,
-      "title": "Контрольная точка",
-      "kp_id": "910663",
-      "imdb_id": "tt4519400",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-02-21 05:45:35",
-      "orig_title": "Check Point",
-      "year": "2017-03-07",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2017-02-21 09:26:41",
-      "iframe_src": ""
-    },
-    {
-      "id": 9852,
-      "title": "Супер Брис",
-      "kp_id": "932568",
-      "imdb_id": "tt5029602",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-02-21 05:41:41",
-      "orig_title": "Brice 3",
-      "year": "2016-09-23",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2017-02-21 09:30:39",
-      "iframe_src": ""
-    },
-    {
-      "id": 9833,
-      "title": "Сопротивление воздуха",
-      "kp_id": "829516",
-      "imdb_id": "tt3525584",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-02-20 12:13:54",
-      "orig_title": "La résistance de l'air",
-      "year": "2015-03-25",
+      "add": "2017-02-27 08:28:23",
+      "orig_title": "Mansfield Park",
+      "year": "2007-03-18",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2017-02-21 09:08:07",
+      "update": "2017-02-27 12:30:36",
       "iframe_src": ""
     },
     {
-      "id": 9832,
-      "title": "Предмет обожания",
-      "kp_id": "806719",
-      "imdb_id": null,
+      "id": 10093,
+      "title": "Крестные отцы",
+      "kp_id": "823060",
+      "imdb_id": "tt3367294",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-02-20 12:11:45",
-      "orig_title": "Предмет обожания",
-      "year": "2014-01-01",
+      "add": "2017-02-27 08:10:15",
+      "orig_title": "Compadres",
+      "year": "2016-03-31",
       "translations": [
-        "Оригинальная дорожка"
+        "Профессиональный (многоголосый закадровый) (@MUZOBOZ@)"
       ],
       "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2017-02-21 09:05:26",
+      "translation": "Профессиональный (многоголосый закадровый) (@MUZOBOZ@)",
+      "update": "2017-02-27 10:32:20",
       "iframe_src": ""
     },
     {
-      "id": 9830,
-      "title": "Вся дурь напоказ!",
-      "kp_id": "736263",
-      "imdb_id": "tt1928334",
+      "id": 10088,
+      "title": "Одиссея капитана Блада",
+      "kp_id": "16780",
+      "imdb_id": "tt0026174",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-02-20 12:08:32",
-      "orig_title": "All Out Dysfunktion!",
-      "year": "2016-09-17",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2017-02-21 09:02:31",
-      "iframe_src": ""
-    },
-    {
-      "id": 9829,
-      "title": "Эндшпиль",
-      "kp_id": "766751",
-      "imdb_id": "tt2941396",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-02-20 12:07:05",
-      "orig_title": "Endgame",
-      "year": "2015-04-12",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2017-02-21 09:00:59",
-      "iframe_src": ""
-    },
-    {
-      "id": 9767,
-      "title": "Marvel Studios: Объединяя вселенную",
-      "kp_id": "838501",
-      "imdb_id": "tt3591568",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-02-16 13:41:25",
-      "orig_title": "Marvel Studios: Assembling a Universe",
-      "year": "2014-03-18",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2017-02-21 06:39:00",
-      "iframe_src": ""
-    },
-    {
-      "id": 9766,
-      "title": "Поездка",
-      "kp_id": "784470",
-      "imdb_id": "tt1930463",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-02-16 13:40:12",
-      "orig_title": "Ride",
-      "year": "2014-11-08",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2017-02-21 06:38:27",
-      "iframe_src": ""
-    },
-    {
-      "id": 9764,
-      "title": "Человеческая революция",
-      "kp_id": "840593",
-      "imdb_id": "tt3619204",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-02-16 13:37:21",
-      "orig_title": "Human Revolution",
-      "year": "2014-03-25",
+      "add": "2017-02-27 08:03:55",
+      "orig_title": "Captain Blood",
+      "year": "1935-12-19",
       "translations": [
         "Профессиональный (двухголосый закадровый)"
       ],
       "quality": "webdl",
       "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2017-02-21 06:35:26",
+      "update": "2017-02-27 12:27:22",
       "iframe_src": ""
     },
     {
-      "id": 9762,
-      "title": "Международный рынок",
-      "kp_id": "860046",
-      "imdb_id": "tt3812366",
+      "id": 10086,
+      "title": "Дива",
+      "kp_id": "94699",
+      "imdb_id": "tt0082269",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-02-16 13:34:37",
-      "orig_title": "Gukjesijang",
-      "year": "2014-12-17",
+      "add": "2017-02-27 08:02:07",
+      "orig_title": "Diva",
+      "year": "1981-03-11",
       "translations": [
-        "Любительский (двухголосый закадровый)"
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2017-02-27 12:20:47",
+      "iframe_src": ""
+    },
+    {
+      "id": 10085,
+      "title": "Фронт за линией фронта",
+      "kp_id": "44440",
+      "imdb_id": "tt0076056",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-02-27 08:00:59",
+      "orig_title": "Front za liniey fronta",
+      "year": "1980-11-06",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2017-02-27 10:15:04",
+      "iframe_src": ""
+    },
+    {
+      "id": 10084,
+      "title": "Последний дом слева",
+      "kp_id": "25450",
+      "imdb_id": "tt0068833",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-02-27 08:00:08",
+      "orig_title": "The Last House on the Left",
+      "year": "1972-08-30",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Визгунов Сергей)"
       ],
       "quality": "bd",
-      "translation": "Любительский (двухголосый закадровый)",
-      "update": "2017-02-21 06:30:48",
+      "translation": "Авторский (одноголосый закадровый) (Визгунов Сергей)",
+      "update": "2017-02-27 15:39:37",
       "iframe_src": ""
     },
     {
-      "id": 9279,
-      "title": "Американская пастораль",
-      "kp_id": "61397",
-      "imdb_id": "tt0376479",
+      "id": 10046,
+      "title": "Электра",
+      "kp_id": "31840",
+      "imdb_id": "tt0112942",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-01-29 09:40:53",
-      "orig_title": "American Pastoral",
-      "year": "2016-09-09",
+      "add": "2017-02-24 22:20:11",
+      "orig_title": "Electra",
+      "year": "1996-05-21",
       "translations": [
-        "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-        "Полное дублирование"
+        "Профессиональный (двухголосый закадровый)"
       ],
-      "quality": "bd",
-      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-      "update": "2017-02-21 06:45:01",
+      "quality": "dvdrip",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2017-02-27 10:49:57",
       "iframe_src": ""
     },
     {
-      "id": 9272,
-      "title": "Голос монстра",
-      "kp_id": "839600",
-      "imdb_id": "tt3416532",
+      "id": 10044,
+      "title": "Цунами 3D",
+      "kp_id": "467085",
+      "imdb_id": "tt1438173",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-01-29 08:11:35",
-      "orig_title": "A Monster Calls",
-      "year": "2016-09-09",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Полное дублирование"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2017-02-21 06:42:52",
-      "iframe_src": ""
-    },
-    {
-      "id": 7819,
-      "title": "Союзники",
-      "kp_id": "915140",
-      "imdb_id": "tt3640424",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-12-02 07:27:13",
-      "orig_title": "Allied",
-      "year": "2016-11-13",
+      "add": "2017-02-24 22:14:56",
+      "orig_title": "Bait",
+      "year": "2012-09-05",
       "translations": [
         "Полное дублирование"
       ],
       "quality": "bd",
       "translation": "Полное дублирование",
-      "update": "2017-02-21 09:33:06",
+      "update": "2017-02-27 10:53:03",
+      "iframe_src": ""
+    },
+    {
+      "id": 10043,
+      "title": "Взгляд зимы",
+      "kp_id": "716906",
+      "imdb_id": "tt2511428",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-02-24 22:12:10",
+      "orig_title": "Cold Comes the Night",
+      "year": "2013-09-20",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (iTunes)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый) (iTunes)",
+      "update": "2017-02-27 10:50:46",
+      "iframe_src": ""
+    },
+    {
+      "id": 10042,
+      "title": "Когда прилетают черные птицы",
+      "kp_id": "865236",
+      "imdb_id": "tt4007068",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-02-24 22:07:09",
+      "orig_title": "When Black Birds Fly",
+      "year": "2016-01-15",
+      "translations": [
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2017-02-27 10:49:04",
+      "iframe_src": ""
+    },
+    {
+      "id": 10041,
+      "title": "По воскресеньям",
+      "kp_id": "863297",
+      "imdb_id": "tt3575862",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-02-24 22:04:19",
+      "orig_title": "Sundays",
+      "year": "2015-03-21",
+      "translations": [
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2017-02-27 10:45:40",
+      "iframe_src": ""
+    },
+    {
+      "id": 10040,
+      "title": "Совершенно секретно",
+      "kp_id": "949932",
+      "imdb_id": "tt3846718",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-02-24 22:02:25",
+      "orig_title": "Mesuvag Harig",
+      "year": "2014-09-16",
+      "translations": [
+        "Любительский (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (многоголосый закадровый)",
+      "update": "2017-02-27 10:45:07",
+      "iframe_src": ""
+    },
+    {
+      "id": 10038,
+      "title": "Призм",
+      "kp_id": "946278",
+      "imdb_id": "tt4768784",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-02-24 21:53:17",
+      "orig_title": "Prism",
+      "year": "2015-02-24",
+      "translations": [
+        "Любительский (двухголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (двухголосый закадровый)",
+      "update": "2017-02-27 10:43:28",
+      "iframe_src": ""
+    },
+    {
+      "id": 10037,
+      "title": "Операция ''Сосед''",
+      "kp_id": "918181",
+      "imdb_id": "tt4781886",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-02-24 21:49:45",
+      "orig_title": "Operation: Neighborhood Watch!",
+      "year": "2015-10-02",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "hdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2017-02-27 10:37:10",
+      "iframe_src": ""
+    },
+    {
+      "id": 10036,
+      "title": "Открыто круглосуточно",
+      "kp_id": "864869",
+      "imdb_id": "tt4292490",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-02-24 21:45:39",
+      "orig_title": "Open 24 Hours",
+      "year": "2015-04-23",
+      "translations": [
+        "Любительский (двухголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (двухголосый закадровый)",
+      "update": "2017-02-27 10:38:22",
+      "iframe_src": ""
+    },
+    {
+      "id": 10035,
+      "title": "Ночь резни",
+      "kp_id": "898334",
+      "imdb_id": "tt4471390",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-02-24 21:42:42",
+      "orig_title": "Night of the Slasher",
+      "year": "2015-07-18",
+      "translations": [
+        "Любительский (двухголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (двухголосый закадровый)",
+      "update": "2017-02-27 10:35:48",
+      "iframe_src": ""
+    },
+    {
+      "id": 10033,
+      "title": "Летнее солнцестояние",
+      "kp_id": "829765",
+      "imdb_id": "tt3526924",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-02-24 21:37:35",
+      "orig_title": "Letnie przesilenie",
+      "year": "2015-09-02",
+      "translations": [
+        "Любительский (одноголосый закадровый) (PashaUp | Павел Морозов)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Любительский (одноголосый закадровый) (PashaUp | Павел Морозов)",
+      "update": "2017-02-27 10:26:57",
+      "iframe_src": ""
+    },
+    {
+      "id": 10031,
+      "title": "Карстен и Петра на сафари",
+      "kp_id": "874162",
+      "imdb_id": "tt3877978",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-02-24 21:23:04",
+      "orig_title": "Karsten og Petra på safari",
+      "year": "2015-09-04",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "hdtv",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2017-02-27 10:20:39",
+      "iframe_src": ""
+    },
+    {
+      "id": 9358,
+      "title": "Кровавая луна",
+      "kp_id": "837550",
+      "imdb_id": "tt3529110",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-02-01 12:52:07",
+      "orig_title": "Blood Moon",
+      "year": "2014-08-25",
+      "translations": [
+        "Любительский (одноголосый закадровый) (Хихикающий доктор)",
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (одноголосый закадровый) (Хихикающий доктор)",
+      "update": "2017-02-27 10:16:11",
+      "iframe_src": ""
+    },
+    {
+      "id": 2491,
+      "title": "Затаившись",
+      "kp_id": "654428",
+      "imdb_id": "tt2131532",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-05-23 17:18:39",
+      "orig_title": "Hidden",
+      "year": "2015-09-15",
+      "translations": [
+        "Любительский (двухголосый закадровый)",
+        "Профессиональный (многоголосый закадровый) (ViruseProject)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (двухголосый закадровый)",
+      "update": "2017-02-27 10:18:19",
       "iframe_src": ""
     }
   ]

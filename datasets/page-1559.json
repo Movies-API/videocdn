@@ -1,384 +1,375 @@
 {
   "data": [
     {
-      "id": 380,
-      "title": "Суфражистка",
-      "kp_id": "782931",
-      "imdb_id": "tt3077214",
+      "id": 20260,
+      "title": "Секс втроем",
+      "kp_id": "1035099",
+      "imdb_id": "tt6465940",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-03-31 18:42:01",
-      "orig_title": "Suffragette",
-      "year": "2015-09-04",
+      "add": "2018-11-22 23:15:36",
+      "orig_title": "Threesomething",
+      "year": "2018-08-21",
       "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2018-11-23 08:16:24",
+      "iframe_src": ""
+    },
+    {
+      "id": 20259,
+      "title": "Голод",
+      "kp_id": "403687",
+      "imdb_id": "tt1176252",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-11-22 23:06:06",
+      "orig_title": "Hunger",
+      "year": "2009-05-15",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2018-11-23 08:18:59",
+      "iframe_src": ""
+    },
+    {
+      "id": 20257,
+      "title": "Цукидзи – страна чудес",
+      "kp_id": "1007498",
+      "imdb_id": "tt3772612",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-11-22 23:02:20",
+      "orig_title": "Tsukiji Wandarando",
+      "year": "2016-05-31",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2018-11-23 08:23:03",
+      "iframe_src": ""
+    },
+    {
+      "id": 20254,
+      "title": "Прилив",
+      "kp_id": "992530",
+      "imdb_id": "tt5661770",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-11-22 22:52:29",
+      "orig_title": "Sea Change",
+      "year": "2017-09-17",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2018-11-23 08:33:50",
+      "iframe_src": ""
+    },
+    {
+      "id": 20253,
+      "title": "Немного дикарки",
+      "kp_id": "998480",
+      "imdb_id": "tt5951832",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-11-22 22:49:36",
+      "orig_title": "Pretty Outrageous",
+      "year": "2017-10-07",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2018-11-23 08:36:41",
+      "iframe_src": ""
+    },
+    {
+      "id": 20252,
+      "title": "Второе мнение",
+      "kp_id": "1095417",
+      "imdb_id": "tt7177754",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-11-22 22:47:57",
+      "orig_title": "Second Opinion",
+      "year": "2018-04-21",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "hdtv",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2018-11-23 08:38:43",
+      "iframe_src": ""
+    },
+    {
+      "id": 20251,
+      "title": "Чудовище",
+      "kp_id": "272527",
+      "imdb_id": "tt0897431",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-11-22 22:46:10",
+      "orig_title": "Oedipus orca",
+      "year": "1977-04-04",
+      "translations": [
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2018-11-23 08:42:30",
+      "iframe_src": ""
+    },
+    {
+      "id": 20250,
+      "title": "Нет друзей кроме гор",
+      "kp_id": "1064127",
+      "imdb_id": "tt7426120",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-11-22 22:44:23",
+      "orig_title": "No Friends but the Mountains",
+      "year": "2017-07-25",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2018-11-23 08:47:34",
+      "iframe_src": ""
+    },
+    {
+      "id": 20249,
+      "title": "Грудь моей матери",
+      "kp_id": "905184",
+      "imdb_id": "tt4481742",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-11-22 22:42:38",
+      "orig_title": "Las Tetas de mi Madre",
+      "year": "2015-11-15",
+      "translations": [
+        "Любительский (одноголосый закадровый) (datynet)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (одноголосый закадровый) (datynet)",
+      "update": "2018-11-23 08:49:02",
+      "iframe_src": ""
+    },
+    {
+      "id": 20248,
+      "title": "Пленница",
+      "kp_id": "95575",
+      "imdb_id": "tt0126559",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-11-22 22:40:47",
+      "orig_title": "La orca",
+      "year": "1979-06-01",
+      "translations": [
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2018-11-23 08:45:58",
+      "iframe_src": ""
+    },
+    {
+      "id": 19880,
+      "title": "Приветствие джаггера",
+      "kp_id": "1113",
+      "imdb_id": "tt0094764",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-10-31 12:10:01",
+      "orig_title": "The Blood of Heroes",
+      "year": "1989-09-13",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2018-11-22 12:22:01",
+      "iframe_src": ""
+    },
+    {
+      "id": 19878,
+      "title": "Маленький большой человек",
+      "kp_id": "2826",
+      "imdb_id": "tt0065988",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-10-31 12:07:55",
+      "orig_title": "Little Big Man",
+      "year": "1970-12-14",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2018-11-22 12:22:49",
+      "iframe_src": ""
+    },
+    {
+      "id": 19875,
+      "title": "Незабываемый роман",
+      "kp_id": "986",
+      "imdb_id": "tt0050105",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-10-31 12:04:06",
+      "orig_title": "An Affair to Remember",
+      "year": "1957-07-11",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2018-11-22 12:23:48",
+      "iframe_src": ""
+    },
+    {
+      "id": 19874,
+      "title": "Таинственная стена",
+      "kp_id": "298742",
+      "imdb_id": "tt0386108",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-10-31 12:02:50",
+      "orig_title": "Wall of Secrets",
+      "year": "2004-03-06",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)",
+        "Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2018-11-22 12:24:35",
+      "iframe_src": ""
+    },
+    {
+      "id": 19873,
+      "title": "Белый рассвет",
+      "kp_id": "9301",
+      "imdb_id": "tt0072403",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-10-31 12:01:56",
+      "orig_title": "The White Dawn",
+      "year": "1974-07-21",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)",
+        "Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2018-11-22 12:25:50",
+      "iframe_src": ""
+    },
+    {
+      "id": 19872,
+      "title": "Жестокие улицы",
+      "kp_id": "88160",
+      "imdb_id": "tt0437459",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-10-31 12:00:59",
+      "orig_title": "Rollin' with the Nines",
+      "year": "2006-04-21",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)",
+        "Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2018-11-22 12:26:25",
+      "iframe_src": ""
+    },
+    {
+      "id": 19871,
+      "title": "Зодчий теней",
+      "kp_id": "21251",
+      "imdb_id": "tt0117611",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-10-31 12:00:04",
+      "orig_title": "Shadow Builder",
+      "year": "1998-02-07",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2018-11-22 12:27:20",
+      "iframe_src": ""
+    },
+    {
+      "id": 19839,
+      "title": "Только не они",
+      "kp_id": "782103",
+      "imdb_id": "tt3907284",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-10-28 21:55:26",
+      "orig_title": "Tolko ne oni",
+      "year": "2018-10-25",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "webdl",
+      "translation": "Оригинальная дорожка",
+      "update": "2018-11-23 08:17:47",
+      "iframe_src": ""
+    },
+    {
+      "id": 14389,
+      "title": "Лига справедливости",
+      "kp_id": "424994",
+      "imdb_id": "tt0974015",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-11-19 21:14:01",
+      "orig_title": "Justice League",
+      "year": "2017-11-13",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Профессиональный (многоголосый закадровый) (GreenРай Studio)",
+        "Полное дублирование",
         "Полное дублирование (iTunes)",
         "Original (English)"
       ],
-      "quality": "bd",
-      "translation": "Полное дублирование (iTunes)",
-      "update": "2018-11-16 11:56:19",
+      "quality": "hdtv",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2018-11-23 08:50:35",
       "iframe_src": ""
     },
     {
-      "id": 316,
-      "title": "LEGO Супергерои DC: Лига Справедливости – Космическая битва",
-      "kp_id": "952216",
-      "imdb_id": "tt5251438",
+      "id": 14098,
+      "title": "Гидра: Затерянный остров",
+      "kp_id": "325389",
+      "imdb_id": "tt1034447",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-03-23 10:23:00",
-      "orig_title": "Lego DC Comics Super Heroes: Justice League - Cosmic Clash",
-      "year": "2016-02-09",
+      "add": "2017-10-27 07:55:21",
+      "orig_title": "Hydra",
+      "year": "2009-02-22",
       "translations": [
         "Профессиональный (многоголосый закадровый)",
         "Original (English)"
       ],
-      "quality": "bd",
+      "quality": "webdl",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2018-11-16 12:14:11",
-      "iframe_src": ""
-    },
-    {
-      "id": 300,
-      "title": "В центре внимания",
-      "kp_id": "834394",
-      "imdb_id": "tt1895587",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-03-19 11:03:19",
-      "orig_title": "Spotlight",
-      "year": "2015-09-03",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2018-11-16 11:57:29",
-      "iframe_src": ""
-    },
-    {
-      "id": 296,
-      "title": "Перси Джексон и Похититель молний",
-      "kp_id": "403986",
-      "imdb_id": "tt0814255",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-03-18 22:27:07",
-      "orig_title": "Percy Jackson & the Olympians: The Lightning Thief",
-      "year": "2010-02-10",
-      "translations": [
-        "Полное дублирование",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2018-11-16 12:04:09",
-      "iframe_src": ""
-    },
-    {
-      "id": 295,
-      "title": "Перси Джексон и Море чудовищ",
-      "kp_id": "581932",
-      "imdb_id": "tt1854564",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-03-18 22:24:27",
-      "orig_title": "Percy Jackson: Sea of Monsters",
-      "year": "2013-08-07",
-      "translations": [
-        "Полное дублирование",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2018-11-16 12:05:41",
-      "iframe_src": ""
-    },
-    {
-      "id": 293,
-      "title": "Коллекционер",
-      "kp_id": "317985",
-      "imdb_id": "tt0844479",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-03-18 16:05:21",
-      "orig_title": "The Collector",
-      "year": "2009-07-31",
-      "translations": [
-        "Полное дублирование",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2018-11-16 12:35:07",
-      "iframe_src": ""
-    },
-    {
-      "id": 290,
-      "title": "Монстры на каникулах 2",
-      "kp_id": "716891",
-      "imdb_id": "tt2510894",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-03-18 11:47:17",
-      "orig_title": "Hotel Transylvania 2",
-      "year": "2015-09-21",
-      "translations": [
-        "Полное дублирование",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2018-11-16 12:38:31",
-      "iframe_src": ""
-    },
-    {
-      "id": 289,
-      "title": "Монстры на каникулах",
-      "kp_id": "280174",
-      "imdb_id": "tt0837562",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-03-18 11:45:48",
-      "orig_title": "Hotel Transylvania",
-      "year": "2012-09-08",
-      "translations": [
-        "Полное дублирование",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2018-11-16 12:37:30",
-      "iframe_src": ""
-    },
-    {
-      "id": 285,
-      "title": "Сёстры",
-      "kp_id": "833477",
-      "imdb_id": "tt1850457",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-03-16 20:39:43",
-      "orig_title": "Sisters",
-      "year": "2015-12-12",
-      "translations": [
-        "Полное дублирование",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2018-11-16 12:00:09",
-      "iframe_src": ""
-    },
-    {
-      "id": 275,
-      "title": "Кошмар на улице Вязов",
-      "kp_id": "409179",
-      "imdb_id": "tt1179056",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-03-15 15:39:55",
-      "orig_title": "A Nightmare on Elm Street",
-      "year": "2010-04-27",
-      "translations": [
-        "Полное дублирование",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2018-11-16 12:32:22",
-      "iframe_src": ""
-    },
-    {
-      "id": 273,
-      "title": "Пираньи 3DD",
-      "kp_id": "565993",
-      "imdb_id": "tt1714203",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-03-15 12:01:51",
-      "orig_title": "Piranha 3DD",
-      "year": "2012-05-11",
-      "translations": [
-        "Полное дублирование",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2018-11-16 12:01:30",
-      "iframe_src": ""
-    },
-    {
-      "id": 272,
-      "title": "Пираньи 3D",
-      "kp_id": "171728",
-      "imdb_id": "tt0464154",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-03-15 12:00:01",
-      "orig_title": "Piranha 3D",
-      "year": "2010-08-20",
-      "translations": [
-        "Полное дублирование",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2018-11-16 12:02:07",
-      "iframe_src": ""
-    },
-    {
-      "id": 270,
-      "title": "Супер Майк",
-      "kp_id": "586488",
-      "imdb_id": "tt1915581",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-03-15 11:45:04",
-      "orig_title": "Magic Mike",
-      "year": "2012-06-24",
-      "translations": [
-        "Полное дублирование",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2018-11-16 12:13:22",
-      "iframe_src": ""
-    },
-    {
-      "id": 269,
-      "title": "Мегамозг: Кнопка гибели",
-      "kp_id": "581107",
-      "imdb_id": "tt1847645",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-03-15 11:40:40",
-      "orig_title": "Megamind: The Button of Doom",
-      "year": "2011-02-25",
-      "translations": [
-        "Полное дублирование",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2018-11-16 12:11:08",
-      "iframe_src": ""
-    },
-    {
-      "id": 268,
-      "title": "Мегамозг",
-      "kp_id": "405608",
-      "imdb_id": "tt1001526",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-03-15 11:36:09",
-      "orig_title": "Megamind",
-      "year": "2010-10-28",
-      "translations": [
-        "Полное дублирование",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2018-11-16 12:12:15",
-      "iframe_src": ""
-    },
-    {
-      "id": 265,
-      "title": "Сезон охоты 3",
-      "kp_id": "518041",
-      "imdb_id": "tt1646926",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-03-14 15:43:25",
-      "orig_title": "Open Season 3",
-      "year": "2010-10-21",
-      "translations": [
-        "Полное дублирование",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2018-11-16 12:07:36",
-      "iframe_src": ""
-    },
-    {
-      "id": 264,
-      "title": "Сезон охоты 2",
-      "kp_id": "397497",
-      "imdb_id": "tt1107365",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-03-14 15:41:33",
-      "orig_title": "Open Season 2",
-      "year": "2008-09-24",
-      "translations": [
-        "Полное дублирование",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2018-11-16 12:08:57",
-      "iframe_src": ""
-    },
-    {
-      "id": 259,
-      "title": "Остров проклятых",
-      "kp_id": "397667",
-      "imdb_id": "tt1130884",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-03-14 10:19:10",
-      "orig_title": "Shutter Island",
-      "year": "2010-02-13",
-      "translations": [
-        "Полное дублирование",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2018-11-16 11:58:58",
-      "iframe_src": ""
-    },
-    {
-      "id": 245,
-      "title": "Сезон охоты 4: Страшно глупо",
-      "kp_id": "929622",
-      "imdb_id": "tt4938374",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-03-12 08:42:25",
-      "orig_title": "Open Season: Scared Silly",
-      "year": "2015-12-18",
-      "translations": [
-        "Любительский (двухголосый закадровый)",
-        "Полное дублирование",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (двухголосый закадровый)",
-      "update": "2018-11-16 12:06:33",
-      "iframe_src": ""
-    },
-    {
-      "id": 237,
-      "title": "Я плюю на ваши могилы 3",
-      "kp_id": "839232",
-      "imdb_id": "tt4530884",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-03-09 14:29:54",
-      "orig_title": "I Spit on Your Grave 3: Vengeance Is Mine",
-      "year": "2015-10-02",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2018-11-16 12:36:38",
+      "update": "2018-11-22 12:20:23",
       "iframe_src": ""
     }
   ]

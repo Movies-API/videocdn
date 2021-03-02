@@ -1,377 +1,374 @@
 {
   "data": [
     {
-      "id": 20532,
-      "title": "Гордость воина",
-      "kp_id": "1057745",
-      "imdb_id": "tt6953526",
+      "id": 20681,
+      "title": "Инкубус",
+      "kp_id": "33713",
+      "imdb_id": "tt0084133",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-12-06 01:04:21",
-      "orig_title": "Warrior Pride",
-      "year": "2018-01-01",
+      "add": "2018-12-12 00:09:09",
+      "orig_title": "Incubus",
+      "year": "1982-02-24",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-12-06 08:05:44",
-      "iframe_src": ""
-    },
-    {
-      "id": 20531,
-      "title": "Старый дом",
-      "kp_id": "1192038",
-      "imdb_id": "tt9053906",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-12-06 00:58:34",
-      "orig_title": "Gu zhai",
-      "year": "2018-09-25",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Колобок)"
+        "Авторский (одноголосый закадровый) (Иванов Михаил)"
       ],
       "quality": "bd",
-      "translation": "Любительский (многоголосый закадровый) (Колобок)",
-      "update": "2018-12-06 08:11:03",
+      "translation": "Авторский (одноголосый закадровый) (Иванов Михаил)",
+      "update": "2018-12-12 09:34:52",
       "iframe_src": ""
     },
     {
-      "id": 20530,
-      "title": "Агентство наёмников",
-      "kp_id": "1128440",
-      "imdb_id": "tt8197418",
+      "id": 20641,
+      "title": "Отряд особого назначения",
+      "kp_id": "543373",
+      "imdb_id": "tt1656192",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-12-06 00:54:12",
-      "orig_title": "The Hitman Agency",
-      "year": "2018-04-04",
+      "add": "2018-12-11 10:08:00",
+      "orig_title": "Forces spéciales",
+      "year": "2011-11-03",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2018-12-12 09:38:28",
+      "iframe_src": ""
+    },
+    {
+      "id": 20429,
+      "title": "Когда остаешься один",
+      "kp_id": "36572",
+      "imdb_id": "tt0227194",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-12-02 10:15:10",
+      "orig_title": "One 2 Ka 4",
+      "year": "2001-03-30",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (Формат AB)"
       ],
       "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-12-06 08:12:38",
+      "translation": "Профессиональный (многоголосый закадровый) (Формат AB)",
+      "update": "2018-12-12 13:33:34",
       "iframe_src": ""
     },
     {
-      "id": 20529,
-      "title": "Парни из Бромли",
-      "kp_id": "661356",
-      "imdb_id": "tt2179231",
+      "id": 20424,
+      "title": "Доктор Дулиттл",
+      "kp_id": "25792",
+      "imdb_id": "tt0061584",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-12-06 00:53:06",
-      "orig_title": "The Bromley Boys",
-      "year": "2018-06-01",
+      "add": "2018-12-02 10:05:23",
+      "orig_title": "Doctor Dolittle",
+      "year": "1967-12-05",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2018-12-12 13:27:46",
+      "iframe_src": ""
+    },
+    {
+      "id": 20423,
+      "title": "Ловушка для полицейского",
+      "kp_id": "224816",
+      "imdb_id": "tt0265452",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-12-02 09:52:37",
+      "orig_title": "Officer",
+      "year": "2001-03-14",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (ZEE TV)"
       ],
       "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-12-06 08:13:41",
+      "translation": "Профессиональный (многоголосый закадровый) (ZEE TV)",
+      "update": "2018-12-12 13:26:13",
       "iframe_src": ""
     },
     {
-      "id": 20528,
-      "title": "Свайп: Правила съема в цифровую эпоху",
-      "kp_id": "1179985",
-      "imdb_id": "tt8839634",
+      "id": 20419,
+      "title": "Мои соседи - вампиры",
+      "kp_id": "873121",
+      "imdb_id": "tt3592020",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-12-06 00:51:30",
-      "orig_title": "Swiped: Hooking Up in the Digital Age",
-      "year": "2018-09-10",
+      "add": "2018-12-02 09:46:52",
+      "orig_title": "Neighbours",
+      "year": "2014-03-14",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Honey&Hoseena)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Honey&Hoseena)",
+      "update": "2018-12-12 13:20:35",
+      "iframe_src": ""
+    },
+    {
+      "id": 20415,
+      "title": "Семейка вампиров",
+      "kp_id": "687197",
+      "imdb_id": "tt2186562",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-12-02 09:40:09",
+      "orig_title": "Die Vampirschwestern",
+      "year": "2012-12-24",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2018-12-12 13:15:26",
+      "iframe_src": ""
+    },
+    {
+      "id": 20414,
+      "title": "Реквием по вампиру",
+      "kp_id": "145140",
+      "imdb_id": "tt0067950",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-12-02 09:38:47",
+      "orig_title": "Requiem pour un vampire",
+      "year": "1971-01-01",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Алексеев Антон)"
+      ],
+      "quality": "bd",
+      "translation": "Авторский (одноголосый закадровый) (Алексеев Антон)",
+      "update": "2018-12-12 13:14:33",
+      "iframe_src": ""
+    },
+    {
+      "id": 20413,
+      "title": "Дрожь вампиров",
+      "kp_id": "146349",
+      "imdb_id": "tt0065744",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-12-02 09:37:17",
+      "orig_title": "Le frisson des vampires",
+      "year": "1971-04-21",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Алексеев Антон)"
+      ],
+      "quality": "bd",
+      "translation": "Авторский (одноголосый закадровый) (Алексеев Антон)",
+      "update": "2018-12-12 13:13:11",
+      "iframe_src": ""
+    },
+    {
+      "id": 5799,
+      "title": "Спросите Синди",
+      "kp_id": "9562",
+      "imdb_id": "tt0243931",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-04 05:53:03",
+      "orig_title": "Good Advice",
+      "year": "2001-09-06",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "webdl",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2018-12-06 08:14:40",
+      "update": "2018-12-12 09:33:57",
       "iframe_src": ""
     },
     {
-      "id": 20527,
-      "title": "Назови ее имя: Жизнь и смерть Сандры Бланд",
-      "kp_id": "1209889",
-      "imdb_id": "tt8106584",
+      "id": 697,
+      "title": "Белоснежка и охотник",
+      "kp_id": "568550",
+      "imdb_id": "tt1735898",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-12-06 00:49:57",
-      "orig_title": "Say Her Name: The Life and Death of Sandra Bland",
-      "year": "2018-04-25",
+      "add": "2016-04-06 19:26:45",
+      "orig_title": "Snow White and the Huntsman",
+      "year": "2012-05-14",
       "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2018-12-06 08:15:45",
-      "iframe_src": ""
-    },
-    {
-      "id": 20525,
-      "title": "Каждый день Рождество",
-      "kp_id": "1200478",
-      "imdb_id": "tt9102152",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-12-06 00:45:07",
-      "orig_title": "Every Day is Christmas",
-      "year": "2018-11-24",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-12-06 08:20:34",
-      "iframe_src": ""
-    },
-    {
-      "id": 20524,
-      "title": "Плохая компания",
-      "kp_id": "788536",
-      "imdb_id": "tt3111306",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-12-06 00:40:51",
-      "orig_title": "Bad Company",
-      "year": "2018-08-14",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-12-06 08:24:38",
-      "iframe_src": ""
-    },
-    {
-      "id": 20476,
-      "title": "Баттл",
-      "kp_id": "1071526",
-      "imdb_id": "tt6854672",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-12-03 23:49:49",
-      "orig_title": "Battle",
-      "year": "2018-09-28",
-      "translations": [
-        "Любительский (двухголосый закадровый) (LakeFilms)",
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (двухголосый закадровый) (LakeFilms)",
-      "update": "2018-12-06 08:21:50",
-      "iframe_src": ""
-    },
-    {
-      "id": 18314,
-      "title": "Терминатор II",
-      "kp_id": "23300",
-      "imdb_id": "tt0098321",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-08-15 06:30:12",
-      "orig_title": "Terminator II",
-      "year": "1990-08-22",
-      "translations": [
-        "Авторский (одноголосый закадровый) (Котов)",
+        "Полное дублирование",
         "Original (English)"
       ],
       "quality": "bd",
-      "translation": "Авторский (одноголосый закадровый) (Котов)",
-      "update": "2018-12-05 15:31:45",
+      "translation": "Полное дублирование",
+      "update": "2018-12-12 14:06:08",
       "iframe_src": ""
     },
     {
-      "id": 17794,
-      "title": "Робин Уильямс: Загляни в мою душу",
-      "kp_id": "1111391",
-      "imdb_id": "tt7689966",
+      "id": 691,
+      "title": "Грэбберсы",
+      "kp_id": "479608",
+      "imdb_id": "tt1525366",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-07-19 00:10:05",
-      "orig_title": "Robin Williams: Come Inside My Mind",
-      "year": "2018-06-14",
+      "add": "2016-04-05 21:36:41",
+      "orig_title": "Grabbers",
+      "year": "2012-01-23",
+      "translations": [
+        "Полное дублирование",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2018-12-12 14:07:55",
+      "iframe_src": ""
+    },
+    {
+      "id": 690,
+      "title": "Красный Дракон",
+      "kp_id": "798",
+      "imdb_id": "tt0289765",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-04-05 21:34:50",
+      "orig_title": "Red Dragon",
+      "year": "2002-09-30",
+      "translations": [
+        "Полное дублирование",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2018-12-12 14:12:49",
+      "iframe_src": ""
+    },
+    {
+      "id": 683,
+      "title": "СуперМакГрубер",
+      "kp_id": "469644",
+      "imdb_id": "tt1470023",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-04-05 21:22:14",
+      "orig_title": "MacGruber",
+      "year": "2010-03-15",
+      "translations": [
+        "Полное дублирование",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2018-12-12 14:10:26",
+      "iframe_src": ""
+    },
+    {
+      "id": 354,
+      "title": "Мир Юрского периода",
+      "kp_id": "594554",
+      "imdb_id": "tt0369610",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-03-29 13:25:59",
+      "orig_title": "Jurassic World",
+      "year": "2015-05-29",
+      "translations": [
+        "Полное дублирование",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2018-12-12 14:08:36",
+      "iframe_src": ""
+    },
+    {
+      "id": 297,
+      "title": "Прогулка среди могил",
+      "kp_id": "596274",
+      "imdb_id": "tt0365907",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-03-19 10:58:28",
+      "orig_title": "A Walk Among the Tombstones",
+      "year": "2014-09-18",
+      "translations": [
+        "Полное дублирование",
+        "Авторский (одноголосый закадровый) (Есарев Дмитрий)",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2018-12-12 14:04:50",
+      "iframe_src": ""
+    },
+    {
+      "id": 281,
+      "title": "На гребне волны",
+      "kp_id": "623658",
+      "imdb_id": "tt2058673",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-03-16 11:32:13",
+      "orig_title": "Point Break",
+      "year": "2015-12-01",
+      "translations": [
+        "Полное дублирование",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2018-12-12 14:11:54",
+      "iframe_src": ""
+    },
+    {
+      "id": 274,
+      "title": "Паранойя",
+      "kp_id": "466831",
+      "imdb_id": "tt1413495",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-03-15 15:37:08",
+      "orig_title": "Paranoia",
+      "year": "2013-08-08",
+      "translations": [
+        "Полное дублирование",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2018-12-12 14:11:07",
+      "iframe_src": ""
+    },
+    {
+      "id": 244,
+      "title": "Убей меня трижды",
+      "kp_id": "694829",
+      "imdb_id": "tt2393845",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-03-10 15:09:55",
+      "orig_title": "Kill Me Three Times",
+      "year": "2014-09-06",
       "translations": [
         "Профессиональный (многоголосый закадровый)",
-        "Профессиональный (многоголосый закадровый) (Jaskier)"
+        "Original (English)"
       ],
-      "quality": "webdl",
+      "quality": "bd",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2018-12-06 08:07:00",
+      "update": "2018-12-12 14:09:13",
       "iframe_src": ""
     },
     {
-      "id": 15201,
-      "title": "Золотые выходы",
-      "kp_id": "976295",
-      "imdb_id": "tt5687814",
+      "id": 241,
+      "title": "Элвин и бурундуки: Грандиозное бурундуключение",
+      "kp_id": "771095",
+      "imdb_id": "tt2974918",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-02-17 11:43:35",
-      "orig_title": "Golden Exits",
-      "year": "2017-01-22",
-      "translations": [
-        "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-        "Профессиональный (многоголосый закадровый) (GreenРай Studio)",
-        "Любительский (двухголосый закадровый) (LakeFilms)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-      "update": "2018-12-06 08:17:52",
-      "iframe_src": ""
-    },
-    {
-      "id": 1464,
-      "title": "Такие разные близнецы",
-      "kp_id": "462883",
-      "imdb_id": "tt0810913",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-04-21 15:15:16",
-      "orig_title": "Jack and Jill",
-      "year": "2011-11-11",
+      "add": "2016-03-10 14:56:05",
+      "orig_title": "Alvin and the Chipmunks: The Road Chip",
+      "year": "2015-12-06",
       "translations": [
         "Полное дублирование",
         "Original (English)"
       ],
       "quality": "bd",
       "translation": "Полное дублирование",
-      "update": "2018-12-05 15:27:13",
-      "iframe_src": ""
-    },
-    {
-      "id": 1439,
-      "title": "Гнев",
-      "kp_id": "683623",
-      "imdb_id": "tt2401807",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-04-21 13:41:20",
-      "orig_title": "Tokarev",
-      "year": "2014-01-31",
-      "translations": [
-        "Полное дублирование",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2018-12-06 13:26:10",
-      "iframe_src": ""
-    },
-    {
-      "id": 1433,
-      "title": "Пиджак",
-      "kp_id": "47382",
-      "imdb_id": "tt0366627",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-04-21 13:30:19",
-      "orig_title": "The Jacket",
-      "year": "2005-01-23",
-      "translations": [
-        "Полное дублирование",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2018-12-05 15:28:20",
-      "iframe_src": ""
-    },
-    {
-      "id": 1382,
-      "title": "Сквозь снег",
-      "kp_id": "566283",
-      "imdb_id": "tt1706620",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-04-21 09:11:39",
-      "orig_title": "Snowpiercer",
-      "year": "2013-07-29",
-      "translations": [
-        "Любительский (многоголосый закадровый)",
-        "Авторский (одноголосый закадровый) (Дольский)",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (многоголосый закадровый)",
-      "update": "2018-12-05 15:26:22",
-      "iframe_src": ""
-    },
-    {
-      "id": 1361,
-      "title": "Превосходство Борна",
-      "kp_id": "41947",
-      "imdb_id": "tt0372183",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-04-20 22:29:17",
-      "orig_title": "The Bourne Supremacy",
-      "year": "2004-07-15",
-      "translations": [
-        "Полное дублирование",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2018-12-06 13:22:55",
-      "iframe_src": ""
-    },
-    {
-      "id": 1349,
-      "title": "Терминатор : Да придёт спаситель",
-      "kp_id": "160932",
-      "imdb_id": "tt0438488",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-04-20 22:08:58",
-      "orig_title": "Terminator Salvation",
-      "year": "2009-05-14",
-      "translations": [
-        "Полное дублирование",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2018-12-05 15:32:46",
-      "iframe_src": ""
-    },
-    {
-      "id": 1325,
-      "title": "Бегущий в лабиринте",
-      "kp_id": "575613",
-      "imdb_id": "tt1790864",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-04-20 14:52:48",
-      "orig_title": "The Maze Runner",
-      "year": "2014-09-11",
-      "translations": [
-        "Полное дублирование",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2018-12-05 15:29:44",
-      "iframe_src": ""
-    },
-    {
-      "id": 1319,
-      "title": "Отбросы",
-      "kp_id": "874056",
-      "imdb_id": "tt4076980",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-04-20 14:44:21",
-      "orig_title": "The Throwaways",
-      "year": "2015-01-30",
-      "translations": [
-        "Профессиональный (многоголосый)",
-        "Original (English)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый)",
-      "update": "2018-12-06 13:24:56",
+      "update": "2018-12-12 14:05:33",
       "iframe_src": ""
     }
   ]

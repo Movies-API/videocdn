@@ -1,367 +1,366 @@
 {
   "data": [
     {
-      "id": 31338,
-      "title": "Видимое и невидимое",
-      "kp_id": "1048139",
-      "imdb_id": "tt7215548",
+      "id": 31474,
+      "title": "По ту сторону Ведьминой горы",
+      "kp_id": "329834",
+      "imdb_id": "tt0249397",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-09-30 19:16:49",
-      "orig_title": "Sekala Niskala",
-      "year": "2017-09-11",
+      "add": "2019-10-04 21:42:19",
+      "orig_title": "Beyond Witch Mountain",
+      "year": "1982-02-20",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-10-01 05:48:13",
-      "iframe_src": ""
-    },
-    {
-      "id": 31336,
-      "title": "Основной убийца",
-      "kp_id": "1141238",
-      "imdb_id": "tt7888054",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-09-30 19:12:48",
-      "orig_title": "Primary Hitman",
-      "year": "2018-09-28",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-10-01 05:46:21",
-      "iframe_src": ""
-    },
-    {
-      "id": 31335,
-      "title": "Мой рейнджер",
-      "kp_id": "1053795",
-      "imdb_id": "tt7079474",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-09-30 19:11:19",
-      "orig_title": "My Ranger",
-      "year": "2017-09-22",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-10-01 05:45:16",
-      "iframe_src": ""
-    },
-    {
-      "id": 31334,
-      "title": "Задиры",
-      "kp_id": "1103832",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-09-30 19:09:16",
-      "orig_title": "Iljin",
-      "year": "2018-03-08",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Колобок)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Колобок)",
-      "update": "2019-10-01 06:30:45",
-      "iframe_src": ""
-    },
-    {
-      "id": 31333,
-      "title": "Фабрика ничего",
-      "kp_id": "920283",
-      "imdb_id": "tt4540384",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-09-30 19:07:43",
-      "orig_title": "A Fábrica de Nada",
-      "year": "2017-05-25",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
+        "Авторский (одноголосый закадровый) (Алексеев Антон)"
       ],
       "quality": "dvdrip",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-10-01 06:31:22",
+      "translation": "Авторский (одноголосый закадровый) (Алексеев Антон)",
+      "update": "2019-10-07 11:24:11",
       "iframe_src": ""
     },
     {
-      "id": 31330,
-      "title": "Бог смерти",
-      "kp_id": "1020973",
-      "imdb_id": "tt6229030",
+      "id": 31473,
+      "title": "Человек, который был суперменом",
+      "kp_id": "402940",
+      "imdb_id": "tt1119199",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-09-30 19:02:13",
-      "orig_title": "Matar a Dios",
-      "year": "2017-10-11",
+      "add": "2019-10-04 21:32:33",
+      "orig_title": "Syoo-peo-maen-i-sseo-deon sa-na-i",
+      "year": "2008-01-31",
       "translations": [
-        "Любительский (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (многоголосый закадровый)",
-      "update": "2019-10-01 05:52:50",
-      "iframe_src": ""
-    },
-    {
-      "id": 31326,
-      "title": "День отца",
-      "kp_id": "1221878",
-      "imdb_id": "tt9465588",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-09-30 18:57:28",
-      "orig_title": "Father's Day",
-      "year": "2019-05-21",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-10-01 06:25:12",
-      "iframe_src": ""
-    },
-    {
-      "id": 31275,
-      "title": "Нюрнбергский процесс",
-      "kp_id": "13738",
-      "imdb_id": "tt0055031",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-09-29 15:38:05",
-      "orig_title": "Judgment at Nuremberg",
-      "year": "1961-12-14",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2019-10-01 06:55:37",
-      "iframe_src": ""
-    },
-    {
-      "id": 31271,
-      "title": "Вызов",
-      "kp_id": "56869",
-      "imdb_id": "tt0051530",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-09-29 15:32:00",
-      "orig_title": "La sfida",
-      "year": "1958-09-06",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Колобок)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (многоголосый закадровый) (Колобок)",
-      "update": "2019-10-01 06:54:00",
-      "iframe_src": ""
-    },
-    {
-      "id": 31266,
-      "title": "Джорджино",
-      "kp_id": "36366",
-      "imdb_id": "tt0109900",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-09-29 15:20:14",
-      "orig_title": "Giorgino",
-      "year": "1994-10-05",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
+        "Любительский (одноголосый закадровый)"
       ],
       "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-10-01 06:41:21",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2019-10-07 11:20:50",
       "iframe_src": ""
     },
     {
-      "id": 31264,
-      "title": "Долина смерти",
-      "kp_id": "22234",
-      "imdb_id": "tt0083805",
+      "id": 31472,
+      "title": "В объятьях тьмы",
+      "kp_id": "59464",
+      "imdb_id": "tt0162945",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-09-29 15:16:45",
-      "orig_title": "Death Valley",
-      "year": "1982-01-22",
-      "translations": [
-        "Любительский (одноголосый закадровый) (Логинофф)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (одноголосый закадровый) (Логинофф)",
-      "update": "2019-10-01 06:40:31",
-      "iframe_src": ""
-    },
-    {
-      "id": 31260,
-      "title": "Черная топь",
-      "kp_id": "276444",
-      "imdb_id": "tt0928375",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-09-29 15:10:22",
-      "orig_title": "Legend of the Bog",
-      "year": "2009-06-23",
+      "add": "2019-10-04 21:23:22",
+      "orig_title": "Embrace the Darkness",
+      "year": "1999-10-05",
       "translations": [
         "Профессиональный (двухголосый закадровый)"
       ],
       "quality": "dvdrip",
       "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2019-10-01 06:44:03",
+      "update": "2019-10-07 11:15:30",
       "iframe_src": ""
     },
     {
-      "id": 31256,
-      "title": "Токио!",
-      "kp_id": "279707",
-      "imdb_id": "tt0976060",
+      "id": 31471,
+      "title": "Побег на Ведьмину гору",
+      "kp_id": "14538",
+      "imdb_id": "tt0072951",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-09-29 15:01:23",
-      "orig_title": "Tokyo!",
-      "year": "2008-05-15",
-      "translations": [
-        "Профессиональный (двухголосый закадровый) (CP Digital)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (двухголосый закадровый) (CP Digital)",
-      "update": "2019-10-01 06:33:26",
-      "iframe_src": ""
-    },
-    {
-      "id": 30094,
-      "title": "Крокодил-убийца",
-      "kp_id": "29792",
-      "imdb_id": "tt0143338",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-08-18 19:34:37",
-      "orig_title": "Killer Crocodile",
-      "year": "1989-07-30",
+      "add": "2019-10-04 20:55:42",
+      "orig_title": "Escape to Witch Mountain",
+      "year": "1975-03-21",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-10-01 07:01:23",
+      "update": "2019-10-07 11:14:34",
       "iframe_src": ""
     },
     {
-      "id": 28398,
-      "title": "Безбашенная пуля",
-      "kp_id": "1170198",
-      "imdb_id": "tt8648640",
+      "id": 31467,
+      "title": "Гнев Йети",
+      "kp_id": "634294",
+      "imdb_id": "tt2082408",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-06-29 20:44:53",
-      "orig_title": "Hollow Point",
-      "year": "2019-06-13",
+      "add": "2019-10-04 20:41:55",
+      "orig_title": "Rage of the Yeti",
+      "year": "2011-11-12",
       "translations": [
-        "Полное дублирование"
+        "Профессиональный (многоголосый закадровый)"
       ],
-      "quality": "webdl",
-      "translation": "Полное дублирование",
-      "update": "2019-10-01 05:50:06",
+      "quality": "hdtv",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-10-07 11:05:40",
       "iframe_src": ""
     },
     {
-      "id": 28121,
-      "title": "Зов волка",
-      "kp_id": "1085318",
-      "imdb_id": "tt7458762",
+      "id": 31466,
+      "title": "Мальчик А",
+      "kp_id": "394744",
+      "imdb_id": "tt1078188",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-06-22 07:30:52",
-      "orig_title": "Le chant du loup",
-      "year": "2019-01-17",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (СВ-Студия)",
-        "Полное дублирование"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый) (СВ-Студия)",
-      "update": "2019-10-01 05:54:36",
-      "iframe_src": ""
-    },
-    {
-      "id": 18716,
-      "title": "Плохая монахиня",
-      "kp_id": "1136152",
-      "imdb_id": "tt8063826",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-09-02 00:11:46",
-      "orig_title": "The Watcher",
-      "year": "2018-10-13",
+      "add": "2019-10-04 20:37:30",
+      "orig_title": "Boy A",
+      "year": "2007-09-08",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-10-01 06:28:11",
+      "update": "2019-10-07 11:02:01",
       "iframe_src": ""
     },
     {
-      "id": 6228,
-      "title": "С меня хватит!",
-      "kp_id": "1934",
-      "imdb_id": "tt0278435",
+      "id": 31464,
+      "title": "Генрих VIII и его шесть жен",
+      "kp_id": "14545",
+      "imdb_id": "tt0070170",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-10-12 15:29:15",
-      "orig_title": "Enough",
-      "year": "2002-05-24",
+      "add": "2019-10-04 08:00:12",
+      "orig_title": "Henry VIII and His Six Wives",
+      "year": "1972-07-13",
       "translations": [
-        "Полное дублирование",
-        "Original (English)",
-        "Авторский (одноголосый закадровый) (Есарев)"
+        "Профессиональный (двухголосый закадровый)"
       ],
-      "quality": "webdl",
-      "translation": "Полное дублирование",
-      "update": "2019-10-01 06:53:01",
+      "quality": "hdtv",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2019-10-07 08:32:27",
       "iframe_src": ""
     },
     {
-      "id": 6162,
-      "title": "Враг у ворот",
-      "kp_id": "659",
-      "imdb_id": "tt0215750",
+      "id": 31463,
+      "title": "Изображение смерти",
+      "kp_id": "391417",
+      "imdb_id": "tt1054112",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-10-11 09:07:24",
-      "orig_title": "Enemy at the Gates",
-      "year": "2001-02-07",
+      "add": "2019-10-04 07:54:32",
+      "orig_title": "Imago mortis",
+      "year": "2009-01-16",
       "translations": [
-        "Полное дублирование",
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2019-10-07 08:29:00",
+      "iframe_src": ""
+    },
+    {
+      "id": 31462,
+      "title": "Отмычка 2",
+      "kp_id": "421615",
+      "imdb_id": "tt1264111",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-04 07:45:15",
+      "orig_title": "Skeleton Key 2: 667 Neighbor of the Beast",
+      "year": "2008-09-02",
+      "translations": [
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2019-10-07 08:27:09",
+      "iframe_src": ""
+    },
+    {
+      "id": 31460,
+      "title": "Заговор в Эскориале",
+      "kp_id": "395797",
+      "imdb_id": "tt1100898",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-04 07:30:49",
+      "orig_title": "La conjura de El Escorial",
+      "year": "2008-09-05",
+      "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2019-10-01 07:03:06",
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-10-07 08:25:41",
       "iframe_src": ""
     },
     {
-      "id": 4695,
-      "title": "К черту любовь!",
-      "kp_id": "7646",
-      "imdb_id": "tt0309530",
+      "id": 31459,
+      "title": "Холостячка",
+      "kp_id": "336211",
+      "imdb_id": "tt0070089",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-08-25 13:24:16",
-      "orig_title": "Down with Love",
-      "year": "2003-05-09",
+      "add": "2019-10-04 07:26:32",
+      "orig_title": "La garçonne",
+      "year": "1988-09-21",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Штейн)"
+      ],
+      "quality": "vhs",
+      "translation": "Авторский (одноголосый закадровый) (Штейн)",
+      "update": "2019-10-07 08:25:11",
+      "iframe_src": ""
+    },
+    {
+      "id": 31458,
+      "title": "Цель жизни",
+      "kp_id": "41674",
+      "imdb_id": "tt0323013",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-04 07:15:26",
+      "orig_title": "Lakshya",
+      "year": "2004-06-18",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (Формат AB)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый) (Формат AB)",
+      "update": "2019-10-07 08:24:31",
+      "iframe_src": ""
+    },
+    {
+      "id": 31437,
+      "title": "Кричащая женщина",
+      "kp_id": "296573",
+      "imdb_id": "tt0067721",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-04 06:25:14",
+      "orig_title": "The Screaming Woman",
+      "year": "1972-01-29",
+      "translations": [
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "tv",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2019-10-07 08:22:00",
+      "iframe_src": ""
+    },
+    {
+      "id": 31436,
+      "title": "В объятиях тьмы 2",
+      "kp_id": "326365",
+      "imdb_id": "tt0297102",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-04 06:20:52",
+      "orig_title": "Embrace the Darkness II",
+      "year": "2002-01-22",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-10-07 07:54:02",
+      "iframe_src": ""
+    },
+    {
+      "id": 22875,
+      "title": "Разиня",
+      "kp_id": "80775",
+      "imdb_id": "tt0057967",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-03-10 16:25:24",
+      "orig_title": "Le corniaud",
+      "year": "1965-03-24",
       "translations": [
         "Полное дублирование"
       ],
       "quality": "bd",
       "translation": "Полное дублирование",
-      "update": "2019-10-01 06:42:55",
+      "update": "2019-10-07 08:23:24",
+      "iframe_src": ""
+    },
+    {
+      "id": 6242,
+      "title": "Говард-утка",
+      "kp_id": "7359",
+      "imdb_id": "tt0091225",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-12 15:49:33",
+      "orig_title": "Howard the Duck",
+      "year": "1986-08-01",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-10-07 08:31:43",
+      "iframe_src": ""
+    },
+    {
+      "id": 5187,
+      "title": "Кандидат",
+      "kp_id": "392006",
+      "imdb_id": "tt1054113",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-09-09 08:45:03",
+      "orig_title": "Kandidaten",
+      "year": "2008-08-29",
+      "translations": [
+        "Любительский (одноголосый закадровый)",
+        "Авторский (одноголосый закадровый) (Карповский Антон)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2019-10-07 08:28:05",
+      "iframe_src": ""
+    },
+    {
+      "id": 4487,
+      "title": "Фар Край",
+      "kp_id": "197147",
+      "imdb_id": "tt0400426",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-08-17 07:14:09",
+      "orig_title": "Far Cry",
+      "year": "2008-10-02",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)",
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-10-07 11:10:35",
+      "iframe_src": ""
+    },
+    {
+      "id": 3569,
+      "title": "Кинопроба",
+      "kp_id": "41833",
+      "imdb_id": "tt0235198",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-07-01 08:02:09",
+      "orig_title": "Ôdishon",
+      "year": "1999-10-06",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2019-10-07 11:00:10",
+      "iframe_src": ""
+    },
+    {
+      "id": 1400,
+      "title": "Доктор Ноу",
+      "kp_id": "17483",
+      "imdb_id": "tt0055928",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-04-21 11:23:59",
+      "orig_title": "Dr. No",
+      "year": "1962-10-05",
+      "translations": [
+        "Полное дублирование",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2019-10-07 11:18:10",
       "iframe_src": ""
     }
   ]

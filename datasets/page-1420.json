@@ -1,369 +1,364 @@
 {
   "data": [
     {
-      "id": 22735,
-      "title": "Стиснув зубы",
-      "kp_id": "17566",
-      "imdb_id": "tt0120210",
+      "id": 22948,
+      "title": "Я вижу красных",
+      "kp_id": "1194857",
+      "imdb_id": "tt8053490",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-03-05 04:04:56",
-      "orig_title": "Stiff Upper Lips",
-      "year": "1998-06-12",
+      "add": "2019-03-11 21:59:20",
+      "orig_title": "Je vois rouge",
+      "year": "2018-02-17",
       "translations": [
-        "Авторский (одноголосый закадровый) (Карцев)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Авторский (одноголосый закадровый) (Карцев)",
-      "update": "2019-03-05 08:07:01",
-      "iframe_src": ""
-    },
-    {
-      "id": 22734,
-      "title": "Нейлон 100%",
-      "kp_id": "46428",
-      "imdb_id": "tt0070442",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-03-05 04:03:03",
-      "orig_title": "Neylon 100%",
-      "year": "1973-12-17",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-03-05 07:37:12",
-      "iframe_src": ""
-    },
-    {
-      "id": 22733,
-      "title": "Не ходите, девки, замуж",
-      "kp_id": "46366",
-      "imdb_id": "tt0089672",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-03-05 04:01:50",
-      "orig_title": "Ne khodite, devki, zamuzh",
-      "year": "1985-11-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-03-05 06:54:46",
-      "iframe_src": ""
-    },
-    {
-      "id": 22728,
-      "title": "Трын-трава",
-      "kp_id": "42332",
-      "imdb_id": "tt0075353",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-03-05 03:47:11",
-      "orig_title": "Tryn-trava",
-      "year": "1976-10-15",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-03-05 07:01:07",
-      "iframe_src": ""
-    },
-    {
-      "id": 22727,
-      "title": "Три толстяка",
-      "kp_id": "42307",
-      "imdb_id": "tt0061121",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-03-05 03:45:38",
-      "orig_title": "Tri tolstyaka",
-      "year": "1966-11-18",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-03-05 07:02:21",
-      "iframe_src": ""
-    },
-    {
-      "id": 22726,
-      "title": "Защитник",
-      "kp_id": null,
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-03-05 03:43:19",
-      "orig_title": "The Protector",
-      "year": "2019-01-01",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
+        "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-03-05 07:07:39",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-03-12 05:46:53",
       "iframe_src": ""
     },
     {
-      "id": 22725,
-      "title": "Совсем пропащий",
-      "kp_id": "43936",
-      "imdb_id": "tt0123277",
+      "id": 22947,
+      "title": "И Бог создал женщину",
+      "kp_id": "26489",
+      "imdb_id": "tt0049189",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-03-05 03:38:47",
-      "orig_title": "Sovsem propashchiy",
-      "year": "1973-08-27",
+      "add": "2019-03-11 21:49:29",
+      "orig_title": "Et Dieu... créa la femme",
+      "year": "1956-11-28",
       "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-03-05 07:11:19",
-      "iframe_src": ""
-    },
-    {
-      "id": 22724,
-      "title": "Слезы капали",
-      "kp_id": "43871",
-      "imdb_id": "tt0084696",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-03-05 03:34:54",
-      "orig_title": "Slyozy kapali",
-      "year": "1983-01-15",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-03-05 07:12:45",
-      "iframe_src": ""
-    },
-    {
-      "id": 22723,
-      "title": "Пощёчина",
-      "kp_id": "994377",
-      "imdb_id": "tt5879216",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-03-05 03:33:30",
-      "orig_title": "Slapped! The Movie",
-      "year": "2018-10-09",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-03-05 07:40:06",
-      "iframe_src": ""
-    },
-    {
-      "id": 22722,
-      "title": "Без промедления",
-      "kp_id": "1000180",
-      "imdb_id": "tt5983362",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-03-05 03:32:02",
-      "orig_title": "Sense of Urgency",
-      "year": "2017-05-05",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "hdtv",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-03-05 07:34:20",
-      "iframe_src": ""
-    },
-    {
-      "id": 22721,
-      "title": "Безбилетная пассажирка",
-      "kp_id": "46122",
-      "imdb_id": "tt0211947",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-03-05 03:30:31",
-      "orig_title": "Bezbiletnaya passazhirka",
-      "year": "1978-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-03-05 07:41:02",
-      "iframe_src": ""
-    },
-    {
-      "id": 22720,
-      "title": "После дождичка в четверг",
-      "kp_id": "43139",
-      "imdb_id": "tt0089831",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-03-05 03:25:28",
-      "orig_title": "Posle dozhdichka, v chetverg",
-      "year": "1986-05-12",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-03-05 07:42:28",
-      "iframe_src": ""
-    },
-    {
-      "id": 22716,
-      "title": "Моя война",
-      "kp_id": "998771",
-      "imdb_id": "tt6177592",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-03-05 03:19:17",
-      "orig_title": "Wo de zhan zheng",
-      "year": "2016-09-15",
-      "translations": [
-        "Любительский (многоголосый закадровый) (GREEN TEA)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (GREEN TEA)",
-      "update": "2019-03-05 08:08:59",
-      "iframe_src": ""
-    },
-    {
-      "id": 22714,
-      "title": "Как справиться с хулиганом",
-      "kp_id": "856826",
-      "imdb_id": "tt3685328",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-03-05 03:14:35",
-      "orig_title": "How to Beat a Bully",
-      "year": "2015-10-01",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-03-05 06:52:26",
-      "iframe_src": ""
-    },
-    {
-      "id": 22711,
-      "title": "Двенадцатая ночь",
-      "kp_id": "195661",
-      "imdb_id": "tt0049166",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-03-05 03:06:50",
-      "orig_title": "Dvenadtsataya noch",
-      "year": "1955-11-21",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "hdtv",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-03-05 08:11:09",
-      "iframe_src": ""
-    },
-    {
-      "id": 22710,
-      "title": "Чужая жена и муж под кроватью",
-      "kp_id": "79878",
-      "imdb_id": "tt0087058",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-03-05 03:04:28",
-      "orig_title": "Chuzhaya zhena i muzh pod krovatyu",
-      "year": "1984-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-03-05 08:14:55",
-      "iframe_src": ""
-    },
-    {
-      "id": 21979,
-      "title": "Под покровом ночи",
-      "kp_id": "997344",
-      "imdb_id": "tt5909334",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-01-31 23:04:30",
-      "orig_title": "Beyond the Night",
-      "year": "2018-10-25",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Любительский (двухголосый закадровый) (HiWayGrope)",
-        "Любительский (двухголосый закадровый) (LakeFilms)",
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-03-05 08:15:59",
-      "iframe_src": ""
-    },
-    {
-      "id": 20993,
-      "title": "Восход тьмы",
-      "kp_id": "222206",
-      "imdb_id": "tt0484562",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-12-24 10:09:19",
-      "orig_title": "The Seeker: The Dark Is Rising",
-      "year": "2007-10-04",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "hdtv",
-      "translation": "Полное дублирование",
-      "update": "2019-03-05 07:38:12",
-      "iframe_src": ""
-    },
-    {
-      "id": 9052,
-      "title": "Ловушка",
-      "kp_id": "764527",
-      "imdb_id": "tt2935390",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-01-19 12:21:18",
-      "orig_title": "The Snare",
-      "year": "2017-01-06",
-      "translations": [
-        "Любительский (одноголосый закадровый) (Хихикающий доктор)",
-        "Профессиональный (многоголосый закадровый) (GreenРай Studio)",
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (одноголосый закадровый) (Хихикающий доктор)",
-      "update": "2019-03-05 07:33:10",
-      "iframe_src": ""
-    },
-    {
-      "id": 8588,
-      "title": "Совершенное оружие",
-      "kp_id": "907174",
-      "imdb_id": "tt4616250",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-01-04 12:54:42",
-      "orig_title": "The Perfect Weapon",
-      "year": "2016-06-11",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-03-12 05:47:59",
+      "iframe_src": ""
+    },
+    {
+      "id": 22946,
+      "title": "Звездные талеры",
+      "kp_id": "582533",
+      "imdb_id": "tt1839450",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-03-11 21:47:40",
+      "orig_title": "Die Sterntaler",
+      "year": "2011-12-26",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (Игмар)"
+      ],
+      "quality": "hdtv",
+      "translation": "Профессиональный (многоголосый закадровый) (Игмар)",
+      "update": "2019-03-12 05:49:27",
+      "iframe_src": ""
+    },
+    {
+      "id": 22945,
+      "title": "Бесы",
+      "kp_id": "472011",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-03-11 21:45:20",
+      "orig_title": "Бесы",
+      "year": "2002-11-09",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-03-12 05:53:18",
+      "iframe_src": ""
+    },
+    {
+      "id": 22943,
+      "title": "Хозяин подземной тюрьмы",
+      "kp_id": "15927",
+      "imdb_id": "tt0089060",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-03-11 21:37:59",
+      "orig_title": "Ragewar",
+      "year": "1984-10-01",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-03-12 06:01:52",
+      "iframe_src": ""
+    },
+    {
+      "id": 22942,
+      "title": "Русская Лолита",
+      "kp_id": "880794",
+      "imdb_id": "tt4136094",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-03-11 21:33:38",
+      "orig_title": "Russkaya Lolita",
+      "year": "2007-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-03-12 06:15:48",
+      "iframe_src": ""
+    },
+    {
+      "id": 22941,
+      "title": "Русская нимфетка: Искушение",
+      "kp_id": "881032",
+      "imdb_id": "tt4324506",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-03-11 21:31:44",
+      "orig_title": "Russkaya nimfetka: iskusheniye",
+      "year": "2004-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-03-12 06:18:08",
+      "iframe_src": ""
+    },
+    {
+      "id": 22937,
+      "title": "Затмение",
+      "kp_id": "59123",
+      "imdb_id": "tt0056736",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-03-11 21:20:39",
+      "orig_title": "L'eclisse",
+      "year": "1962-04-12",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2019-03-12 06:38:59",
+      "iframe_src": ""
+    },
+    {
+      "id": 22934,
+      "title": "Курортный туман",
+      "kp_id": "784819",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-03-11 21:15:33",
+      "orig_title": "Курортный туман",
+      "year": "2013-09-05",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "hdtv",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-03-12 06:42:09",
+      "iframe_src": ""
+    },
+    {
+      "id": 22933,
+      "title": "Кармен",
+      "kp_id": "41225",
+      "imdb_id": "tt0372361",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-03-11 21:12:54",
+      "orig_title": "Karmen",
+      "year": "2003-06-25",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-03-12 06:43:17",
+      "iframe_src": ""
+    },
+    {
+      "id": 22932,
+      "title": "Камилла Клодель, 1915",
+      "kp_id": "606690",
+      "imdb_id": "tt2018086",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-03-11 21:11:05",
+      "orig_title": "Camille Claudel 1915",
+      "year": "2013-02-12",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "hdtv",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-03-12 06:44:53",
+      "iframe_src": ""
+    },
+    {
+      "id": 22931,
+      "title": "Каллас навсегда",
+      "kp_id": "15092",
+      "imdb_id": "tt0274407",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-03-11 21:07:58",
+      "orig_title": "Callas Forever",
+      "year": "2002-09-16",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-03-12 06:45:43",
+      "iframe_src": ""
+    },
+    {
+      "id": 22930,
+      "title": "История любви, или Новогодний розыгрыш",
+      "kp_id": "436215",
+      "imdb_id": "tt5245276",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-03-11 21:06:13",
+      "orig_title": "История любви, или Новогодний розыгрыш",
+      "year": "2008-12-25",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-03-12 06:46:23",
+      "iframe_src": ""
+    },
+    {
+      "id": 22928,
+      "title": "Игра в четыре руки",
+      "kp_id": "37694",
+      "imdb_id": "tt0079252",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-03-11 20:59:08",
+      "orig_title": "Le guignolo",
+      "year": "1980-03-26",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2019-03-12 06:47:25",
+      "iframe_src": ""
+    },
+    {
+      "id": 22926,
+      "title": "Хуторские страсти",
+      "kp_id": "634911",
+      "imdb_id": "tt1753921",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-03-11 20:55:51",
+      "orig_title": "Hutorskie strasti",
+      "year": "2008-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-03-12 06:48:31",
+      "iframe_src": ""
+    },
+    {
+      "id": 22923,
+      "title": "Механические убийцы",
+      "kp_id": "34605",
+      "imdb_id": "tt0091003",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-03-11 20:49:43",
+      "orig_title": "Eliminators",
+      "year": "1986-01-31",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-03-12 06:51:28",
+      "iframe_src": ""
+    },
+    {
+      "id": 22921,
+      "title": "CBeebies: Снежная королева",
+      "kp_id": "1198128",
+      "imdb_id": "tt9048826",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-03-11 20:46:07",
+      "orig_title": "CBeebies: The Snow Queen",
+      "year": "2017-12-15",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "dvdrip",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-03-05 07:08:49",
+      "update": "2019-03-12 06:52:26",
+      "iframe_src": ""
+    },
+    {
+      "id": 22920,
+      "title": "Бомба",
+      "kp_id": "41514",
+      "imdb_id": "tt0135811",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-03-11 20:44:11",
+      "orig_title": "Bomba",
+      "year": "2005-09-08",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-03-12 06:54:24",
+      "iframe_src": ""
+    },
+    {
+      "id": 22919,
+      "title": "Девочки бикини на льду",
+      "kp_id": "423955",
+      "imdb_id": "tt1228963",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-03-11 20:42:25",
+      "orig_title": "Bikini Girls on Ice",
+      "year": "2009-08-14",
+      "translations": [
+        "Любительский (двухголосый закадровый) (LakeFilms)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Любительский (двухголосый закадровый) (LakeFilms)",
+      "update": "2019-03-12 06:55:24",
+      "iframe_src": ""
+    },
+    {
+      "id": 7989,
+      "title": "Неудачники",
+      "kp_id": "794281",
+      "imdb_id": "tt3150574",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-12-12 06:32:09",
+      "orig_title": "Underdog Kids",
+      "year": "2015-07-07",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-03-12 06:37:53",
       "iframe_src": ""
     }
   ]

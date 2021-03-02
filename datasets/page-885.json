@@ -1,366 +1,398 @@
 {
   "data": [
     {
-      "id": 33024,
-      "title": "И разверзся Ад",
-      "kp_id": "1156577",
-      "imdb_id": "tt7947624",
+      "id": 30600,
+      "title": "Смерть и жизнь Джона Ф. Донована",
+      "kp_id": "843066",
+      "imdb_id": "tt4042818",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-11-12 20:29:33",
-      "orig_title": "Here Comes Hell",
-      "year": "2019-03-01",
+      "add": "2019-09-05 12:23:18",
+      "orig_title": "The Death and Life of John F. Donovan",
+      "year": "2018-09-10",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
+        "Полное дублирование (iTunes)",
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
       ],
       "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-11-13 11:10:12",
+      "translation": "Полное дублирование (iTunes)",
+      "update": "2019-11-19 04:39:25",
       "iframe_src": ""
     },
     {
-      "id": 33017,
-      "title": "Безумие, прощай",
-      "kp_id": "1034545",
-      "imdb_id": "tt6349194",
+      "id": 30111,
+      "title": "Тачка на миллион",
+      "kp_id": "1053846",
+      "imdb_id": "tt5592796",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-11-12 20:23:28",
-      "orig_title": "Madness, Farewell",
-      "year": "2018-11-01",
+      "add": "2019-08-19 07:49:55",
+      "orig_title": "Driven",
+      "year": "2018-09-08",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-11-13 11:11:16",
-      "iframe_src": ""
-    },
-    {
-      "id": 32999,
-      "title": "Молот",
-      "kp_id": "477589",
-      "imdb_id": "tt1094666",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-11-12 12:30:10",
-      "orig_title": "Hamill",
-      "year": "2010-11-07",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-11-13 12:09:30",
-      "iframe_src": ""
-    },
-    {
-      "id": 32989,
-      "title": "В поисках Санта Лапуса",
-      "kp_id": "485775",
-      "imdb_id": "tt1544572",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-11-11 21:33:57",
-      "orig_title": "The Search for Santa Paws",
-      "year": "2010-11-09",
-      "translations": [
-        "Полное дублирование"
+        "Полное дублирование",
+        "Original (English)",
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
       ],
       "quality": "bd",
       "translation": "Полное дублирование",
-      "update": "2019-11-12 14:37:53",
+      "update": "2019-11-19 04:26:20",
       "iframe_src": ""
     },
     {
-      "id": 32988,
-      "title": "Брошенная на произвол судьбы",
-      "kp_id": "400714",
-      "imdb_id": "tt1016321",
+      "id": 29922,
+      "title": "Свет моей жизни",
+      "kp_id": "1008320",
+      "imdb_id": "tt6063090",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-11-11 21:30:23",
-      "orig_title": "À Deriva",
-      "year": "2009-05-21",
+      "add": "2019-08-12 10:17:37",
+      "orig_title": "Light of My Life",
+      "year": "2019-02-08",
       "translations": [
-        "Любительский (одноголосый закадровый) (den904)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Любительский (одноголосый закадровый) (den904)",
-      "update": "2019-11-12 14:37:10",
-      "iframe_src": ""
-    },
-    {
-      "id": 32985,
-      "title": "Мебиус",
-      "kp_id": "58867",
-      "imdb_id": "tt0117069",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-11-11 21:16:30",
-      "orig_title": "Moebius",
-      "year": "1996-10-17",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2019-11-12 14:30:27",
-      "iframe_src": ""
-    },
-    {
-      "id": 32984,
-      "title": "Металлистка",
-      "kp_id": "705053",
-      "imdb_id": "tt2374902",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-11-11 21:12:40",
-      "orig_title": "Málmhaus",
-      "year": "2013-09-07",
-      "translations": [
-        "Любительский (одноголосый закадровый) (PashaUp | Павел Морозов)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (одноголосый закадровый) (PashaUp | Павел Морозов)",
-      "update": "2019-11-12 14:30:27",
-      "iframe_src": ""
-    },
-    {
-      "id": 32983,
-      "title": "Безымянный гангстер",
-      "kp_id": "634343",
-      "imdb_id": "tt2082221",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-11-11 21:09:18",
-      "orig_title": "Bumchoiwaui junjaeng: Nabbeunnomdeul jeonsungshidae",
-      "year": "2012-02-02",
-      "translations": [
-        "Профессиональный (двухголосый закадровый) (НТВ)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (двухголосый закадровый) (НТВ)",
-      "update": "2019-11-12 14:30:00",
-      "iframe_src": ""
-    },
-    {
-      "id": 32980,
-      "title": "Отважная Лифи",
-      "kp_id": "596493",
-      "imdb_id": "tt1971466",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-11-11 20:48:49",
-      "orig_title": "Madangeul naon amtak",
-      "year": "2011-07-28",
-      "translations": [
-        "Полное дублирование"
+        "Полное дублирование",
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
       ],
       "quality": "bd",
       "translation": "Полное дублирование",
-      "update": "2019-11-12 14:19:03",
+      "update": "2019-11-19 04:30:23",
       "iframe_src": ""
     },
     {
-      "id": 32973,
-      "title": "Золотая лихорадка",
-      "kp_id": "565510",
-      "imdb_id": "tt1714176",
+      "id": 29869,
+      "title": "Маленькое красное платье",
+      "kp_id": "1055306",
+      "imdb_id": "tt7464188",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-11-11 20:10:54",
-      "orig_title": "Yellow Rock",
-      "year": "2011-11-01",
+      "add": "2019-08-08 22:16:24",
+      "orig_title": "In Fabric",
+      "year": "2018-09-13",
       "translations": [
-        "Профессиональный (двухголосый закадровый) (НТВ)"
-      ],
-      "quality": "hdrip",
-      "translation": "Профессиональный (двухголосый закадровый) (НТВ)",
-      "update": "2019-11-12 21:12:34",
-      "iframe_src": ""
-    },
-    {
-      "id": 32972,
-      "title": "Психо 3",
-      "kp_id": "9744",
-      "imdb_id": "tt0091799",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-11-11 20:08:31",
-      "orig_title": "Psycho III",
-      "year": "1986-06-27",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
+        "Профессиональный (многоголосый закадровый)",
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
       ],
       "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-11-12 21:12:33",
+      "translation": "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
+      "update": "2019-11-19 04:28:51",
       "iframe_src": ""
     },
     {
-      "id": 32969,
-      "title": "Хороший вор",
-      "kp_id": "7633",
-      "imdb_id": "tt0281820",
+      "id": 28999,
+      "title": "Али, рули!",
+      "kp_id": "1143927",
+      "imdb_id": "tt7734218",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-11-11 19:51:12",
-      "orig_title": "The Good Thief",
-      "year": "2002-09-06",
+      "add": "2019-07-15 05:42:06",
+      "orig_title": "Stuber",
+      "year": "2019-03-13",
       "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-11-12 21:14:07",
-      "iframe_src": ""
-    },
-    {
-      "id": 32968,
-      "title": "Психо 4: Начало",
-      "kp_id": "80267",
-      "imdb_id": "tt0102724",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-11-11 19:49:15",
-      "orig_title": "Psycho IV: The Beginning",
-      "year": "1990-11-10",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (ДТВ)"
+        "Полное дублирование",
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
       ],
       "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый) (ДТВ)",
-      "update": "2019-11-12 21:21:17",
-      "iframe_src": ""
-    },
-    {
-      "id": 32967,
-      "title": "Огни большого города",
-      "kp_id": "414",
-      "imdb_id": "tt0021749",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-11-11 19:47:36",
-      "orig_title": "City Lights",
-      "year": "1931-01-30",
-      "translations": [
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Original (English)",
-      "update": "2019-11-12 15:17:05",
-      "iframe_src": ""
-    },
-    {
-      "id": 31199,
-      "title": "Проклятие «Мэри»",
-      "kp_id": "1093221",
-      "imdb_id": "tt5834854",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-09-26 09:45:54",
-      "orig_title": "Mary",
-      "year": "2019-08-23",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "webdl",
       "translation": "Полное дублирование",
-      "update": "2019-11-12 14:51:17",
+      "update": "2019-11-19 04:37:58",
       "iframe_src": ""
     },
     {
-      "id": 31165,
-      "title": "Женщины мафии 2",
-      "kp_id": "1180793",
-      "imdb_id": "tt8858420",
+      "id": 28305,
+      "title": "Анна",
+      "kp_id": "1049727",
+      "imdb_id": "tt7456310",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-09-25 09:20:58",
-      "orig_title": "Kobiety mafii 2",
-      "year": "2019-02-22",
+      "add": "2019-06-27 12:16:11",
+      "orig_title": "Anna",
+      "year": "2019-06-19",
+      "translations": [
+        "Полное дублирование",
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2019-11-19 04:24:17",
+      "iframe_src": ""
+    },
+    {
+      "id": 27873,
+      "title": "Плюс один",
+      "kp_id": "1269608",
+      "imdb_id": "tt7645122",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-06-17 06:03:51",
+      "orig_title": "Plus One",
+      "year": "2019-04-28",
+      "translations": [
+        "Полное дублирование (iTunes)",
+        "Original (English)",
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование (iTunes)",
+      "update": "2019-11-19 04:31:37",
+      "iframe_src": ""
+    },
+    {
+      "id": 27734,
+      "title": "Люди в черном: Интернэшнл",
+      "kp_id": "693730",
+      "imdb_id": "tt2283336",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-06-13 06:02:37",
+      "orig_title": "Men in Black International",
+      "year": "2019-06-12",
+      "translations": [
+        "Полное дублирование",
+        "Original (English)",
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2019-11-19 04:30:51",
+      "iframe_src": ""
+    },
+    {
+      "id": 27456,
+      "title": "Рокетмен",
+      "kp_id": "627299",
+      "imdb_id": "tt2066051",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-06-05 03:43:58",
+      "orig_title": "Rocketman",
+      "year": "2019-05-16",
+      "translations": [
+        "Полное дублирование",
+        "Original (English)",
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2019-11-19 04:32:00",
+      "iframe_src": ""
+    },
+    {
+      "id": 27405,
+      "title": "Годзилла 2: Король монстров",
+      "kp_id": "840045",
+      "imdb_id": "tt3741700",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-06-03 12:35:14",
+      "orig_title": "Godzilla: King of the Monsters",
+      "year": "2019-05-29",
+      "translations": [
+        "Полное дублирование",
+        "Original (English)",
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2019-11-19 04:41:25",
+      "iframe_src": ""
+    },
+    {
+      "id": 27083,
+      "title": "Первый король",
+      "kp_id": "1066106",
+      "imdb_id": "tt7278824",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-05-26 19:17:01",
+      "orig_title": "Il primo re",
+      "year": "2019-01-31",
+      "translations": [
+        "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
+      "update": "2019-11-19 04:32:31",
+      "iframe_src": ""
+    },
+    {
+      "id": 26971,
+      "title": "Аладдин",
+      "kp_id": "1007049",
+      "imdb_id": "tt6139732",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-05-23 17:43:27",
+      "orig_title": "Aladdin",
+      "year": "2019-05-08",
+      "translations": [
+        "Полное дублирование",
+        "Original (English)",
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2019-11-19 04:26:53",
+      "iframe_src": ""
+    },
+    {
+      "id": 26667,
+      "title": "Джон Уик 3",
+      "kp_id": "1009536",
+      "imdb_id": "tt6146586",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-05-17 22:12:33",
+      "orig_title": "John Wick: Chapter 3 - Parabellum",
+      "year": "2019-05-15",
+      "translations": [
+        "Полное дублирование",
+        "Original (English)",
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2019-11-19 04:29:31",
+      "iframe_src": ""
+    },
+    {
+      "id": 22839,
+      "title": "Капернаум",
+      "kp_id": "1118042",
+      "imdb_id": "tt8267604",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-03-10 12:49:35",
+      "orig_title": "Capharnaüm",
+      "year": "2018-05-17",
+      "translations": [
+        "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
+        "Профессиональный (многоголосый закадровый) (iTunes)",
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
+      "update": "2019-11-19 04:24:52",
+      "iframe_src": ""
+    },
+    {
+      "id": 21488,
+      "title": "Hамерения 2: Достижение уровня",
+      "kp_id": "1100538",
+      "imdb_id": "tt7613996",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-01-13 21:05:45",
+      "orig_title": "The Intent 2: The Come Up",
+      "year": "2018-09-21",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)",
-        "Авторский (одноголосый закадровый) (Гаевский)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-11-12 14:56:59",
-      "iframe_src": ""
-    },
-    {
-      "id": 19301,
-      "title": "Руби и Повелитель воды",
-      "kp_id": "1115748",
-      "imdb_id": "tt8925102",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-09-30 20:24:54",
-      "orig_title": "The Ladybug",
-      "year": "2018-02-02",
-      "translations": [
-        "Полное дублирование"
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
       ],
       "quality": "webdl",
-      "translation": "Полное дублирование",
-      "update": "2019-11-12 14:47:06",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-11-19 04:40:53",
       "iframe_src": ""
     },
     {
-      "id": 17972,
-      "title": "Террор в прямом эфире",
-      "kp_id": "764902",
-      "imdb_id": "tt2990738",
+      "id": 20455,
+      "title": "Суспирия",
+      "kp_id": "423063",
+      "imdb_id": "tt1034415",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-07-29 20:33:20",
-      "orig_title": "Deo tereo raibeu",
-      "year": "2013-07-26",
+      "add": "2018-12-02 23:46:41",
+      "orig_title": "Suspiria",
+      "year": "2018-09-01",
       "translations": [
-        "Любительский (двухголосый закадровый) (GREEN TEA)",
-        "Любительский (двухголосый закадровый) (DeadSno & den904)"
+        "Полное дублирование",
+        "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
+        "Любительский (двухголосый закадровый) (HiWayGrope)",
+        "Любительский (двухголосый закадровый) (LakeFilms)",
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
       ],
       "quality": "bd",
-      "translation": "Любительский (двухголосый закадровый) (GREEN TEA)",
-      "update": "2019-11-12 14:16:09",
+      "translation": "Полное дублирование",
+      "update": "2019-11-19 04:38:59",
       "iframe_src": ""
     },
     {
-      "id": 10793,
-      "title": "Ниже холма 60",
-      "kp_id": "565698",
-      "imdb_id": "tt1418646",
+      "id": 20350,
+      "title": "Чистильщики",
+      "kp_id": "1112214",
+      "imdb_id": "tt7689936",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-04-06 21:20:59",
-      "orig_title": "Beneath Hill 60",
-      "year": "2010-04-15",
+      "add": "2018-11-28 10:29:05",
+      "orig_title": "Im Schatten der Netzwelt",
+      "year": "2018-01-19",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-11-19 04:42:05",
+      "iframe_src": ""
+    },
+    {
+      "id": 18118,
+      "title": "Дом завтрашнего дня",
+      "kp_id": "993762",
+      "imdb_id": "tt5910344",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-08-05 22:48:02",
+      "orig_title": "The House of Tomorrow",
+      "year": "2017-04-08",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Любительский (двухголосый закадровый) (HiWayGrope)",
+        "Профессиональный (многоголосый закадровый) (GreenРай Studio)",
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
+      ],
+      "quality": "hdrip",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-11-19 04:39:54",
+      "iframe_src": ""
+    },
+    {
+      "id": 13137,
+      "title": "Звёздный десант: Предатель Марса",
+      "kp_id": "1045679",
+      "imdb_id": "tt6977240",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-08-25 04:40:09",
+      "orig_title": "Starship Troopers: Traitor of Mars",
+      "year": "2017-08-21",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)",
+        "Original (English)",
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-11-19 04:37:26",
+      "iframe_src": ""
+    },
+    {
+      "id": 5750,
+      "title": "День драфта",
+      "kp_id": "688777",
+      "imdb_id": "tt2223990",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-03 05:06:31",
+      "orig_title": "Draft Day",
+      "year": "2014-04-11",
       "translations": [
         "Любительский (двухголосый закадровый)",
-        "Любительский (одноголосый закадровый)"
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
       ],
       "quality": "bd",
       "translation": "Любительский (двухголосый закадровый)",
-      "update": "2019-11-12 14:30:00",
-      "iframe_src": ""
-    },
-    {
-      "id": 10754,
-      "title": "Воробей",
-      "kp_id": "402949",
-      "imdb_id": "tt0491044",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-04-05 14:50:50",
-      "orig_title": "Man jeuk",
-      "year": "2008-02-11",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-11-12 14:33:45",
+      "update": "2019-11-19 04:25:34",
       "iframe_src": ""
     }
   ]

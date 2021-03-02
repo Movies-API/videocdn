@@ -1,371 +1,373 @@
 {
   "data": [
     {
-      "id": 21171,
-      "title": "Летняя пора",
-      "kp_id": "258816",
-      "imdb_id": "tt0819735",
+      "id": 21411,
+      "title": "Когда я стану великаном",
+      "kp_id": "44849",
+      "imdb_id": "tt0077815",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-01-02 20:17:30",
-      "orig_title": "Summerhood",
-      "year": "2008-01-29",
+      "add": "2019-01-11 09:40:04",
+      "orig_title": "Kogda ya stanu velikanom",
+      "year": "1979-08-01",
       "translations": [
-        "Original (English)"
+        "Оригинальная дорожка"
       ],
-      "quality": "webdl",
-      "translation": "Original (English)",
-      "update": "2019-01-03 09:02:55",
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-01-11 11:34:10",
       "iframe_src": ""
     },
     {
-      "id": 21136,
-      "title": "Склад",
-      "kp_id": null,
-      "imdb_id": "tt6155770",
+      "id": 21410,
+      "title": "Карнавальная ночь 2, или 50 лет спустя",
+      "kp_id": "276135",
+      "imdb_id": "tt2175739",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-01-01 17:53:11",
-      "orig_title": "De Loods",
-      "year": "2015-12-05",
+      "add": "2019-01-11 09:38:53",
+      "orig_title": "Karnavalnaya noch 2, ili 50 let spustya",
+      "year": "2007-01-02",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvb",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-01-11 11:34:54",
+      "iframe_src": ""
+    },
+    {
+      "id": 21409,
+      "title": "Монах",
+      "kp_id": "505938",
+      "imdb_id": "tt1605769",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-01-11 09:37:11",
+      "orig_title": "Le moine",
+      "year": "2011-07-11",
       "translations": [
         "Любительский (двухголосый закадровый)"
       ],
-      "quality": "webdl",
+      "quality": "bd",
       "translation": "Любительский (двухголосый закадровый)",
-      "update": "2019-01-03 08:31:41",
+      "update": "2019-01-11 11:36:22",
       "iframe_src": ""
     },
     {
-      "id": 21134,
-      "title": "Все дети Бога",
-      "kp_id": "715077",
-      "imdb_id": "tt2507154",
+      "id": 21408,
+      "title": "Ямакаси 2",
+      "kp_id": "77048",
+      "imdb_id": "tt0345235",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-01-01 17:47:43",
-      "orig_title": "Toti copiii domnului",
-      "year": "2012-10-19",
+      "add": "2019-01-11 09:36:02",
+      "orig_title": "Les fils du vent",
+      "year": "2004-06-23",
       "translations": [
-        "Любительский (двухголосый закадровый) (Levelin)"
+        "Полное дублирование"
       ],
-      "quality": "hdrip",
-      "translation": "Любительский (двухголосый закадровый) (Levelin)",
-      "update": "2019-01-03 08:34:51",
+      "quality": "dvdrip",
+      "translation": "Полное дублирование",
+      "update": "2019-01-11 11:37:32",
       "iframe_src": ""
     },
     {
-      "id": 21130,
-      "title": "Потерянные",
-      "kp_id": "102464",
-      "imdb_id": "tt0451102",
+      "id": 21407,
+      "title": "Ловушка для кошек",
+      "kp_id": "55873",
+      "imdb_id": "tt0179955",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-01-01 17:37:54",
-      "orig_title": "The Lost",
-      "year": "2006-03-12",
+      "add": "2019-01-11 09:34:18",
+      "orig_title": "Macskafogó",
+      "year": "1986-10-02",
       "translations": [
-        "Любительский (одноголосый закадровый) (den904)"
+        "Полное дублирование"
+      ],
+      "quality": "dvdrip",
+      "translation": "Полное дублирование",
+      "update": "2019-01-11 11:38:15",
+      "iframe_src": ""
+    },
+    {
+      "id": 21406,
+      "title": "Сумасшедшие на стадионе",
+      "kp_id": "57330",
+      "imdb_id": "tt0197485",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-01-11 09:33:12",
+      "orig_title": "Les fous du stade",
+      "year": "1972-09-22",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "dvdrip",
+      "translation": "Полное дублирование",
+      "update": "2019-01-11 11:39:17",
+      "iframe_src": ""
+    },
+    {
+      "id": 21402,
+      "title": "Новый год отменяется!",
+      "kp_id": "305698",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-01-11 08:26:00",
+      "orig_title": "Новый год отменяется!",
+      "year": "2004-12-30",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-01-12 07:32:33",
+      "iframe_src": ""
+    },
+    {
+      "id": 21386,
+      "title": "Раджу",
+      "kp_id": "580829",
+      "imdb_id": "tt1819651",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-01-10 21:04:28",
+      "orig_title": "Raju",
+      "year": "2011-01-24",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (GreenРай Studio)"
+      ],
+      "quality": "hdtv",
+      "translation": "Профессиональный (многоголосый закадровый) (GreenРай Studio)",
+      "update": "2019-01-11 07:33:03",
+      "iframe_src": ""
+    },
+    {
+      "id": 21385,
+      "title": "Новенький",
+      "kp_id": "410804",
+      "imdb_id": "tt1095191",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-01-10 21:02:33",
+      "orig_title": "New Boy",
+      "year": "2007-07-14",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (GreenРай Studio)"
+      ],
+      "quality": "hdtv",
+      "translation": "Профессиональный (многоголосый закадровый) (GreenРай Studio)",
+      "update": "2019-01-11 07:34:25",
+      "iframe_src": ""
+    },
+    {
+      "id": 21384,
+      "title": "Маска Сана",
+      "kp_id": "900135",
+      "imdb_id": "tt4062054",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-01-10 20:58:51",
+      "orig_title": "Le masque de San",
+      "year": "2015-09-30",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (GreenРай Studio)"
+      ],
+      "quality": "hdtv",
+      "translation": "Профессиональный (многоголосый закадровый) (GreenРай Studio)",
+      "update": "2019-01-11 07:38:48",
+      "iframe_src": ""
+    },
+    {
+      "id": 21383,
+      "title": "Красавица",
+      "kp_id": "105671",
+      "imdb_id": "tt0269546",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-01-10 20:36:03",
+      "orig_title": "Mi in",
+      "year": "2000-08-12",
+      "translations": [
+        "Любительский (одноголосый закадровый) (GREEN TEA)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Любительский (одноголосый закадровый) (GREEN TEA)",
+      "update": "2019-01-11 08:01:09",
+      "iframe_src": ""
+    },
+    {
+      "id": 21382,
+      "title": "Банда с револьверами",
+      "kp_id": "579711",
+      "imdb_id": "tt1832533",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-01-10 20:33:16",
+      "orig_title": "Yukhyeolpo kangdodan",
+      "year": "2010-03-18",
+      "translations": [
+        "Любительский (многоголосый закадровый) (GREEN TEA)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Любительский (многоголосый закадровый) (GREEN TEA)",
+      "update": "2019-01-11 08:01:53",
+      "iframe_src": ""
+    },
+    {
+      "id": 21381,
+      "title": "Кот: Глаза, которые видят смерть",
+      "kp_id": "587539",
+      "imdb_id": "tt1935094",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-01-10 20:28:38",
+      "orig_title": "Goyangyi: jukeumeul boneun du gaeui nun",
+      "year": "2011-07-07",
+      "translations": [
+        "Любительский (двухголосый закадровый) (GREEN TEA)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Любительский (двухголосый закадровый) (GREEN TEA)",
+      "update": "2019-01-11 08:03:33",
+      "iframe_src": ""
+    },
+    {
+      "id": 21380,
+      "title": "Дневник Будапешта",
+      "kp_id": "692291",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-01-10 20:26:06",
+      "orig_title": "Budapeseuteu ilgi",
+      "year": "2011-10-26",
+      "translations": [
+        "Любительский (одноголосый закадровый) (GREEN TEA)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Любительский (одноголосый закадровый) (GREEN TEA)",
+      "update": "2019-01-11 08:07:15",
+      "iframe_src": ""
+    },
+    {
+      "id": 21379,
+      "title": "Лунный свет",
+      "kp_id": "324691",
+      "imdb_id": "tt0971222",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-01-10 20:24:28",
+      "orig_title": "Vennela",
+      "year": "2005-11-26",
+      "translations": [
+        "Любительский (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Любительский (многоголосый закадровый)",
+      "update": "2019-01-11 08:08:07",
+      "iframe_src": ""
+    },
+    {
+      "id": 21013,
+      "title": "Стрела. Абсолютное оружие",
+      "kp_id": "605364",
+      "imdb_id": "tt2025526",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-12-25 01:48:45",
+      "orig_title": "Choejongbyeonggi hwal",
+      "year": "2011-08-10",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Сербин Юрий)",
+        "Любительский (многоголосый закадровый) (GREEN TEA)",
+        "Любительский (двухголосый закадровый) (GREEN TEA)"
       ],
       "quality": "bd",
-      "translation": "Любительский (одноголосый закадровый) (den904)",
-      "update": "2019-01-03 08:37:19",
+      "translation": "Авторский (одноголосый закадровый) (Сербин Юрий)",
+      "update": "2019-01-11 08:02:44",
       "iframe_src": ""
     },
     {
-      "id": 21128,
-      "title": "Пять боевых машин Шаолиня",
-      "kp_id": "64270",
-      "imdb_id": "tt0079372",
+      "id": 19620,
+      "title": "Марио",
+      "kp_id": "1069383",
+      "imdb_id": "tt6999052",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-01-01 17:34:03",
-      "orig_title": "Jin bei tong",
-      "year": "1979-11-02",
+      "add": "2018-10-17 23:03:22",
+      "orig_title": "Mario",
+      "year": "2018-01-27",
       "translations": [
-        "Любительский (одноголосый закадровый)"
+        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Любительский (двухголосый закадровый) (LakeFilms)",
+        "Любительский (многоголосый закадровый) (GreenРай Studio)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-01-11 07:39:59",
+      "iframe_src": ""
+    },
+    {
+      "id": 10083,
+      "title": "Мастер",
+      "kp_id": "986482",
+      "imdb_id": "tt5735464",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-02-26 23:23:52",
+      "orig_title": "Maseuteo",
+      "year": "2016-12-21",
+      "translations": [
+        "Любительский (двухголосый закадровый) (Колобок)",
+        "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
+        "Любительский (многоголосый закадровый) (Колобок)",
+        "Профессиональный (многоголосый закадровый) (GreenРай Studio)",
+        "Любительский (двухголосый закадровый) (GREEN TEA)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (двухголосый закадровый) (Колобок)",
+      "update": "2019-01-11 07:59:55",
+      "iframe_src": ""
+    },
+    {
+      "id": 8718,
+      "title": "Пропавшая женщина",
+      "kp_id": "1006701",
+      "imdb_id": "tt6292996",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-01-09 05:47:21",
+      "orig_title": "Missing: sarajin yeoja",
+      "year": "2016-11-30",
+      "translations": [
+        "Любительский (двухголосый закадровый) (Колобок)",
+        "Любительский (двухголосый закадровый) (GREEN TEA)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (двухголосый закадровый) (Колобок)",
+      "update": "2019-01-11 07:44:45",
+      "iframe_src": ""
+    },
+    {
+      "id": 4716,
+      "title": "На грани добра и зла",
+      "kp_id": "845457",
+      "imdb_id": "tt3851900",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-08-25 18:47:16",
+      "orig_title": "Borderline",
+      "year": "2014-10-05",
+      "translations": [
+        "Любительский (одноголосый закадровый)",
+        "Профессиональный (многоголосый закадровый) (GreenРай Studio)"
       ],
       "quality": "bd",
       "translation": "Любительский (одноголосый закадровый)",
-      "update": "2019-01-03 08:38:22",
-      "iframe_src": ""
-    },
-    {
-      "id": 21123,
-      "title": "Джимми Барнс: парень из рабочей семьи",
-      "kp_id": null,
-      "imdb_id": "tt8862524",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-01-01 17:17:10",
-      "orig_title": "Working Class Boy",
-      "year": "2018-08-16",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-01-03 08:39:33",
-      "iframe_src": ""
-    },
-    {
-      "id": 21122,
-      "title": "Свет во тьме",
-      "kp_id": "7601",
-      "imdb_id": "tt0105391",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-01-01 17:14:08",
-      "orig_title": "Shining Through",
-      "year": "1992-01-31",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-01-03 08:40:41",
-      "iframe_src": ""
-    },
-    {
-      "id": 21120,
-      "title": "Школьницы в цепях",
-      "kp_id": "165169",
-      "imdb_id": "tt0197857",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-01-01 17:09:31",
-      "orig_title": "Schoolgirls in Chains",
-      "year": "1973-01-01",
-      "translations": [
-        "Авторский (одноголосый закадровый) (Дольский)"
-      ],
-      "quality": "bd",
-      "translation": "Авторский (одноголосый закадровый) (Дольский)",
-      "update": "2019-01-03 08:41:58",
-      "iframe_src": ""
-    },
-    {
-      "id": 21115,
-      "title": "Бегущий МакАллистер",
-      "kp_id": "92659",
-      "imdb_id": "tt0444672",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-01-01 16:44:18",
-      "orig_title": "Moving McAllister",
-      "year": "2007-09-14",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2019-01-03 08:49:39",
-      "iframe_src": ""
-    },
-    {
-      "id": 21112,
-      "title": "Моя чертовски хорошая подруга",
-      "kp_id": "973069",
-      "imdb_id": "tt5571754",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-01-01 16:37:08",
-      "orig_title": "Meine teuflisch gute Freundin",
-      "year": "2018-06-28",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-01-03 08:50:41",
-      "iframe_src": ""
-    },
-    {
-      "id": 21105,
-      "title": "Большая касса",
-      "kp_id": "145147",
-      "imdb_id": "tt0156583",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-01-01 15:56:43",
-      "orig_title": "La grosse caisse",
-      "year": "1965-07-09",
-      "translations": [
-        "Любительский (двухголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Любительский (двухголосый закадровый)",
-      "update": "2019-01-03 08:54:12",
-      "iframe_src": ""
-    },
-    {
-      "id": 21103,
-      "title": "Пять пальцев",
-      "kp_id": "86938",
-      "imdb_id": "tt0428541",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-01-01 15:51:06",
-      "orig_title": "Five Fingers",
-      "year": "2006-04-28",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2019-01-03 08:55:14",
-      "iframe_src": ""
-    },
-    {
-      "id": 5998,
-      "title": "Охотники за головами",
-      "kp_id": "952281",
-      "imdb_id": "tt5243900",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-09 11:02:44",
-      "orig_title": "Shang jin lie ren",
-      "year": "2016-07-01",
-      "translations": [
-        "Любительский (двухголосый закадровый)",
-        "Любительский (многоголосый закадровый) (STEPonee)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (двухголосый закадровый)",
-      "update": "2019-01-03 08:48:05",
-      "iframe_src": ""
-    },
-    {
-      "id": 5279,
-      "title": "Кровь и кость",
-      "kp_id": "395708",
-      "imdb_id": "tt0346631",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-09-15 08:40:00",
-      "orig_title": "Blood and Bone",
-      "year": "2009-09-15",
-      "translations": [
-        "Авторский (одноголосый закадровый) (Дольский)",
-        "Любительский (двухголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Авторский (одноголосый закадровый) (Дольский)",
-      "update": "2019-01-03 08:53:24",
-      "iframe_src": ""
-    },
-    {
-      "id": 680,
-      "title": "Другой мир: Восстание ликанов",
-      "kp_id": "258772",
-      "imdb_id": "tt0834001",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-04-05 21:14:28",
-      "orig_title": "Underworld: Rise of the Lycans",
-      "year": "2009-01-22",
-      "translations": [
-        "Полное дублирование",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2019-01-03 09:09:34",
-      "iframe_src": ""
-    },
-    {
-      "id": 663,
-      "title": "Боевой конь",
-      "kp_id": "492174",
-      "imdb_id": "tt1568911",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-04-05 19:55:20",
-      "orig_title": "War Horse",
-      "year": "2011-12-04",
-      "translations": [
-        "Полное дублирование",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2019-01-03 09:07:01",
-      "iframe_src": ""
-    },
-    {
-      "id": 657,
-      "title": "«V» значит Вендетта",
-      "kp_id": "86208",
-      "imdb_id": "tt0434409",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-04-05 19:39:48",
-      "orig_title": "V for Vendetta",
-      "year": "2005-12-11",
-      "translations": [
-        "Полное дублирование",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2019-01-03 09:08:39",
-      "iframe_src": ""
-    },
-    {
-      "id": 653,
-      "title": "Особо опасен",
-      "kp_id": "259876",
-      "imdb_id": "tt0493464",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-04-05 19:28:30",
-      "orig_title": "Wanted",
-      "year": "2008-06-12",
-      "translations": [
-        "Полное дублирование",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2019-01-03 09:07:49",
-      "iframe_src": ""
-    },
-    {
-      "id": 428,
-      "title": "Всегда говори «ДА»",
-      "kp_id": "391772",
-      "imdb_id": "tt1068680",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-04-01 17:32:14",
-      "orig_title": "Yes Man",
-      "year": "2008-12-09",
-      "translations": [
-        "Полное дублирование",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2019-01-03 09:05:15",
-      "iframe_src": ""
-    },
-    {
-      "id": 426,
-      "title": "Люди Икс: Последняя битва",
-      "kp_id": "61361",
-      "imdb_id": "tt0376994",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-04-01 17:26:21",
-      "orig_title": "X-Men: The Last Stand",
-      "year": "2006-05-22",
-      "translations": [
-        "Полное дублирование",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2019-01-03 09:05:50",
+      "update": "2019-01-11 07:37:15",
       "iframe_src": ""
     }
   ]

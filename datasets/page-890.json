@@ -1,363 +1,368 @@
 {
   "data": [
     {
-      "id": 32959,
-      "title": "Смертельное искусство",
-      "kp_id": "1104965",
-      "imdb_id": "tt7612032",
+      "id": 33145,
+      "title": "Кредо убийцы",
+      "kp_id": "496782",
+      "imdb_id": "tt1587390",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-11-11 13:02:26",
-      "orig_title": "Art of the Dead",
-      "year": "2019-10-01",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-11-11 17:52:37",
-      "iframe_src": ""
-    },
-    {
-      "id": 32958,
-      "title": "Проснись",
-      "kp_id": "1069713",
-      "imdb_id": "tt7222228",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-11-11 12:59:55",
-      "orig_title": "Wake Up",
-      "year": "2019-01-19",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-11-11 17:52:37",
-      "iframe_src": ""
-    },
-    {
-      "id": 32956,
-      "title": "Профессор Шарма",
-      "kp_id": "1211778",
-      "imdb_id": "tt9248996",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-11-11 12:55:56",
-      "orig_title": "Sharma ji ki lag gayi",
-      "year": "2019-03-15",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-11-11 18:33:43",
-      "iframe_src": ""
-    },
-    {
-      "id": 32954,
-      "title": "Восхождение пехотинца: Марбелья",
-      "kp_id": "1178446",
-      "imdb_id": "tt8769300",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-11-11 12:50:51",
-      "orig_title": "Rise of the Footsoldier: Marbella",
-      "year": "2019-11-08",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-11-11 17:47:05",
-      "iframe_src": ""
-    },
-    {
-      "id": 32953,
-      "title": "Почка",
-      "kp_id": "989323",
-      "imdb_id": "tt5834362",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-11-11 12:49:47",
-      "orig_title": "What Death Leaves Behind",
-      "year": "2018-03-10",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-11-11 16:00:27",
-      "iframe_src": ""
-    },
-    {
-      "id": 32952,
-      "title": "Человек без гравитации",
-      "kp_id": "1235135",
-      "imdb_id": "tt9646240",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-11-11 12:48:14",
-      "orig_title": "L'uomo senza gravità",
-      "year": "2019-10-14",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-11-11 17:47:04",
-      "iframe_src": ""
-    },
-    {
-      "id": 32940,
-      "title": "Королевская кобра",
-      "kp_id": "940117",
-      "imdb_id": "tt5129682",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-11-11 11:25:00",
-      "orig_title": "King Cobra",
-      "year": "2016-04-16",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "hdtv",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-11-11 17:36:50",
-      "iframe_src": ""
-    },
-    {
-      "id": 32939,
-      "title": "Субмарина «Призрак»",
-      "kp_id": "65932",
-      "imdb_id": "tt0226663",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-11-11 11:17:50",
-      "orig_title": "Yuryeong",
-      "year": "1999-07-31",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2019-11-11 18:32:54",
-      "iframe_src": ""
-    },
-    {
-      "id": 32936,
-      "title": "Время под огнем",
-      "kp_id": "35836",
-      "imdb_id": "tt0117912",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-11-11 11:02:47",
-      "orig_title": "Time Under Fire",
-      "year": "1997-11-12",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)"
-      ],
-      "quality": "hdtv",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2019-11-11 17:01:03",
-      "iframe_src": ""
-    },
-    {
-      "id": 32935,
-      "title": "Своя тусовка",
-      "kp_id": "4363",
-      "imdb_id": "tt0163676",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-11-11 11:00:21",
-      "orig_title": "The In Crowd",
-      "year": "2000-07-19",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "dvdrip",
-      "translation": "Полное дублирование",
-      "update": "2019-11-11 17:01:03",
-      "iframe_src": ""
-    },
-    {
-      "id": 32933,
-      "title": "Армия Франкенштейна",
-      "kp_id": "620311",
-      "imdb_id": "tt1925435",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-11-11 10:49:40",
-      "orig_title": "Frankenstein's Army",
-      "year": "2013-01-26",
-      "translations": [
-        "Авторский (одноголосый закадровый) (Белов)"
-      ],
-      "quality": "bd",
-      "translation": "Авторский (одноголосый закадровый) (Белов)",
-      "update": "2019-11-11 17:36:50",
-      "iframe_src": ""
-    },
-    {
-      "id": 32932,
-      "title": "Ошибка телохранителя",
-      "kp_id": "391874",
-      "imdb_id": "tt1079360",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-11-11 10:46:02",
-      "orig_title": "The Girl from the Naked Eye",
-      "year": "2012-02-03",
+      "add": "2019-11-15 21:04:48",
+      "orig_title": "Assassin's Creed: Lineage",
+      "year": "2009-10-26",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
-      "quality": "hdrip",
+      "quality": "bd",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-11-11 17:12:14",
+      "update": "2019-11-16 06:53:11",
       "iframe_src": ""
     },
     {
-      "id": 32931,
-      "title": "Лучший на Бродвее",
-      "kp_id": "568729",
-      "imdb_id": "tt1737118",
+      "id": 33142,
+      "title": "Рождественская охота за сокровищами",
+      "kp_id": "1291886",
+      "imdb_id": "tt10768278",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-11-11 10:42:42",
-      "orig_title": "Broadway's Finest",
-      "year": "2012-01-01",
+      "add": "2019-11-15 20:18:22",
+      "orig_title": "Christmas Scavenger Hunt",
+      "year": "2019-11-03",
       "translations": [
-        "Профессиональный (многоголосый закадровый) (НТВ)"
+        "Любительский (многоголосый закадровый) (Синема УС)"
       ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый) (НТВ)",
-      "update": "2019-11-11 17:15:34",
+      "quality": "hdtv",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-11-16 06:55:19",
       "iframe_src": ""
     },
     {
-      "id": 32930,
-      "title": "Кровь искупления",
-      "kp_id": "716959",
-      "imdb_id": "tt2510268",
+      "id": 33141,
+      "title": "Эминенс Хил",
+      "kp_id": "1200819",
+      "imdb_id": "tt9135272",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-11-11 10:28:41",
-      "orig_title": "Blood of Redemption",
-      "year": "2013-09-24",
-      "translations": [
-        "Любительский (многоголосый закадровый)"
-      ],
-      "quality": "hdrip",
-      "translation": "Любительский (многоголосый закадровый)",
-      "update": "2019-11-11 17:15:34",
-      "iframe_src": ""
-    },
-    {
-      "id": 32925,
-      "title": "Тайный брат 2",
-      "kp_id": "1212599",
-      "imdb_id": "tt6843446",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-11-11 09:41:42",
-      "orig_title": "Undercover Brother 2",
+      "add": "2019-11-15 20:15:53",
+      "orig_title": "Eminence Hill",
       "year": "2019-11-05",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
+        "Любительский (многоголосый закадровый) (AlphaProject)"
       ],
       "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-11-11 15:49:09",
+      "translation": "Любительский (многоголосый закадровый) (AlphaProject)",
+      "update": "2019-11-16 06:55:49",
       "iframe_src": ""
     },
     {
-      "id": 32923,
-      "title": "Школа проклятых",
-      "kp_id": "1256524",
-      "imdb_id": "tt10147936",
+      "id": 33134,
+      "title": "Рождество",
+      "kp_id": "276389",
+      "imdb_id": "tt0937375",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-11-11 09:39:11",
-      "orig_title": "School of the Damned",
-      "year": "2019-11-01",
+      "add": "2019-11-15 11:37:04",
+      "orig_title": "This Christmas",
+      "year": "2007-10-25",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-11-16 06:50:39",
+      "iframe_src": ""
+    },
+    {
+      "id": 33133,
+      "title": "Кинотеатр Пени Ужасной",
+      "kp_id": "695311",
+      "imdb_id": "tt2317484",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-11-15 11:34:34",
+      "orig_title": "The Penny Dreadful Picture Show",
+      "year": "2013-10-08",
+      "translations": [
+        "Любительский (двухголосый закадровый) (DeadSno & den904)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Любительский (двухголосый закадровый) (DeadSno & den904)",
+      "update": "2019-11-16 06:46:38",
+      "iframe_src": ""
+    },
+    {
+      "id": 33128,
+      "title": "Толстяки",
+      "kp_id": "402662",
+      "imdb_id": "tt1166810",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-11-15 05:28:35",
+      "orig_title": "Gordos",
+      "year": "2009-06-11",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-11-15 07:30:09",
+      "iframe_src": ""
+    },
+    {
+      "id": 33123,
+      "title": "Охранник",
+      "kp_id": "1147087",
+      "imdb_id": "tt8411144",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-11-15 05:14:50",
+      "orig_title": "Kaappaan",
+      "year": "2019-09-20",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-11-11 15:46:44",
+      "update": "2019-11-15 07:27:35",
       "iframe_src": ""
     },
     {
-      "id": 32918,
-      "title": "Моё приключение с Сантой",
-      "kp_id": "1309448",
-      "imdb_id": "tt11023738",
+      "id": 33122,
+      "title": "Эйфория",
+      "kp_id": "1115629",
+      "imdb_id": "tt7779590",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-11-11 09:29:58",
-      "orig_title": "My Adventures with Santa",
-      "year": "2019-11-05",
+      "add": "2019-11-15 05:13:55",
+      "orig_title": "Euforia",
+      "year": "2018-05-15",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-11-11 12:45:01",
+      "update": "2019-11-15 07:28:32",
       "iframe_src": ""
     },
     {
-      "id": 32917,
-      "title": "Майкл Лоуренс",
-      "kp_id": "1001712",
-      "imdb_id": "tt6029882",
+      "id": 33121,
+      "title": "Мальчик",
+      "kp_id": "1291645",
+      "imdb_id": "tt10768678",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-11-11 09:24:30",
-      "orig_title": "Michael Lawrence",
-      "year": "2017-01-01",
+      "add": "2019-11-15 05:12:56",
+      "orig_title": "Boy",
+      "year": "2019-08-23",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-11-11 12:49:25",
+      "update": "2019-11-15 07:29:15",
       "iframe_src": ""
     },
     {
-      "id": 32916,
-      "title": "Марла Мэй",
-      "kp_id": "937051",
-      "imdb_id": "tt4809590",
+      "id": 33114,
+      "title": "Операция «Феникс»",
+      "kp_id": "84056",
+      "imdb_id": "tt0407708",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-11-11 09:16:08",
-      "orig_title": "Marla Mae",
-      "year": "2018-04-13",
+      "add": "2019-11-14 22:07:37",
+      "orig_title": "Dai lo oi mei lai",
+      "year": "2004-04-08",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
+        "Профессиональный (многоголосый закадровый)"
       ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-11-11 15:46:44",
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-11-15 11:35:33",
       "iframe_src": ""
     },
     {
-      "id": 32597,
-      "title": "Призраки школы",
-      "kp_id": "965981",
-      "imdb_id": "tt5518168",
+      "id": 33113,
+      "title": "Тайный агент",
+      "kp_id": "23594",
+      "imdb_id": "tt0113153",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-11-01 19:12:34",
-      "orig_title": "School Spirits",
-      "year": "2017-10-06",
+      "add": "2019-11-14 22:02:55",
+      "orig_title": "Kap ba ba dik sung",
+      "year": "1995-02-08",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-11-15 11:34:39",
+      "iframe_src": ""
+    },
+    {
+      "id": 33112,
+      "title": "Пучина",
+      "kp_id": "572462",
+      "imdb_id": "tt1764275",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-11-14 21:59:45",
+      "orig_title": "Djúpið",
+      "year": "2012-09-07",
+      "translations": [
+        "Любительский (двухголосый закадровый) (DeadSno & den904)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (двухголосый закадровый) (DeadSno & den904)",
+      "update": "2019-11-15 11:29:40",
+      "iframe_src": ""
+    },
+    {
+      "id": 33111,
+      "title": "Великолепные телохранители",
+      "kp_id": "24727",
+      "imdb_id": "tt0077541",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-11-14 21:52:49",
+      "orig_title": "Fei du juan yun shan",
+      "year": "1978-04-27",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-11-15 11:25:47",
+      "iframe_src": ""
+    },
+    {
+      "id": 33110,
+      "title": "Дьявольский остров",
+      "kp_id": "18010",
+      "imdb_id": "tt0329162",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-11-14 19:48:07",
+      "orig_title": "Devil's Pond",
+      "year": "2003-05-16",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-11-15 11:43:51",
+      "iframe_src": ""
+    },
+    {
+      "id": 33108,
+      "title": "Побег из джунглей",
+      "kp_id": "1209891",
+      "imdb_id": "tt10250750",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-11-14 19:23:46",
+      "orig_title": "Xiong chu mo: Yuan shi shi dai",
+      "year": "2019-02-05",
+      "translations": [
+        "Полное дублирование"
       ],
       "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-11-11 15:59:40",
+      "translation": "Полное дублирование",
+      "update": "2019-11-15 11:46:33",
+      "iframe_src": ""
+    },
+    {
+      "id": 33107,
+      "title": "В бегах",
+      "kp_id": "680607",
+      "imdb_id": "tt2388637",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-11-14 18:57:37",
+      "orig_title": "Ain't Them Bodies Saints",
+      "year": "2013-01-20",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-11-15 11:49:46",
+      "iframe_src": ""
+    },
+    {
+      "id": 33065,
+      "title": "Детонатор",
+      "kp_id": "22023",
+      "imdb_id": "tt0345461",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-11-13 11:36:59",
+      "orig_title": "The Detonator",
+      "year": "2006-04-25",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "hdtv",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-11-15 20:28:37",
+      "iframe_src": ""
+    },
+    {
+      "id": 29646,
+      "title": "Капкан",
+      "kp_id": "1150048",
+      "imdb_id": "tt8364368",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-08-01 23:11:36",
+      "orig_title": "Crawl",
+      "year": "2019-07-10",
+      "translations": [
+        "Полное дублирование",
+        "Original (English)",
+        "Любительский (одноголосый закадровый)",
+        "Любительский (одноголосый закадровый) (Хихикающий доктор)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2019-11-15 11:45:12",
+      "iframe_src": ""
+    },
+    {
+      "id": 8400,
+      "title": "Башня смерти",
+      "kp_id": "36963",
+      "imdb_id": "tt0076709",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-12-27 17:50:30",
+      "orig_title": "Si wang ta",
+      "year": "1981-03-21",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)",
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-11-15 10:58:26",
+      "iframe_src": ""
+    },
+    {
+      "id": 2895,
+      "title": "Дом в конце времен",
+      "kp_id": "732734",
+      "imdb_id": "tt2640474",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-06-04 09:48:44",
+      "orig_title": "La casa del fin de los tiempos",
+      "year": "2013-06-17",
+      "translations": [
+        "Полное дублирование",
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2019-11-15 11:28:42",
       "iframe_src": ""
     }
   ]

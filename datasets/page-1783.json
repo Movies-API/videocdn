@@ -1,364 +1,367 @@
 {
   "data": [
     {
-      "id": 15458,
-      "title": "Съешь меня",
-      "kp_id": "870257",
-      "imdb_id": "tt4229864",
+      "id": 15545,
+      "title": "Самурай 3: Поединок на острове",
+      "kp_id": "79831",
+      "imdb_id": "tt0049710",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-03-06 22:19:59",
-      "orig_title": "Eat Me",
-      "year": "2018-03-02",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-03-07 06:46:18",
-      "iframe_src": ""
-    },
-    {
-      "id": 15432,
-      "title": "Безумие",
-      "kp_id": "28279",
-      "imdb_id": "tt0348505",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-03-06 10:26:36",
-      "orig_title": "Asylum",
-      "year": "2005-02-11",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2018-03-07 07:45:53",
-      "iframe_src": ""
-    },
-    {
-      "id": 15431,
-      "title": "Женщина и мужчины",
-      "kp_id": "521705",
-      "imdb_id": "tt1440146",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-03-06 10:21:44",
-      "orig_title": "Ces amours-là",
-      "year": "2010-09-15",
+      "add": "2018-03-09 22:14:33",
+      "orig_title": "Miyamoto Musashi kanketsuhen: kettô Ganryûjima",
+      "year": "1956-01-01",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2018-03-07 07:40:22",
+      "update": "2018-03-13 11:56:51",
       "iframe_src": ""
     },
     {
-      "id": 15428,
-      "title": "Мэр",
-      "kp_id": "1006698",
-      "imdb_id": "tt6150238",
+      "id": 15543,
+      "title": "Бездна",
+      "kp_id": "10882",
+      "imdb_id": "tt0075925",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-03-05 23:28:12",
-      "orig_title": "Teukbyeolsimin",
-      "year": "2017-04-26",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Колобок)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Колобок)",
-      "update": "2018-03-07 07:35:27",
-      "iframe_src": ""
-    },
-    {
-      "id": 15414,
-      "title": "Волк",
-      "kp_id": "485326",
-      "imdb_id": "tt1535103",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-03-05 21:56:04",
-      "orig_title": "Loup",
-      "year": "2009-10-19",
-      "translations": [
-        "Любительский (одноголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2018-03-07 07:25:21",
-      "iframe_src": ""
-    },
-    {
-      "id": 15413,
-      "title": "Воины неба и земли",
-      "kp_id": "51511",
-      "imdb_id": "tt0374330",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-03-05 21:53:45",
-      "orig_title": "Tian di ying xiong",
-      "year": "2003-09-23",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2018-03-07 06:58:57",
-      "iframe_src": ""
-    },
-    {
-      "id": 15412,
-      "title": "Куколка Сатаны",
-      "kp_id": "132987",
-      "imdb_id": "tt0156329",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-03-05 21:50:45",
-      "orig_title": "La bambola di Satana",
-      "year": "1969-06-12",
-      "translations": [
-        "Любительский (одноголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2018-03-07 06:47:55",
-      "iframe_src": ""
-    },
-    {
-      "id": 15410,
-      "title": "Опасные игры",
-      "kp_id": "9713",
-      "imdb_id": "tt0106660",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-03-05 21:46:25",
-      "orig_title": "Snake Eyes",
-      "year": "1993-09-10",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2018-03-07 06:08:43",
-      "iframe_src": ""
-    },
-    {
-      "id": 15409,
-      "title": "Феникс в ярости",
-      "kp_id": "469732",
-      "imdb_id": "tt1551621",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-03-05 21:41:22",
-      "orig_title": "Jija - Deu suay doo",
-      "year": "2009-08-12",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2018-03-07 06:03:53",
-      "iframe_src": ""
-    },
-    {
-      "id": 15408,
-      "title": "Правдивое кино",
-      "kp_id": "504276",
-      "imdb_id": "tt1623742",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-03-05 21:38:57",
-      "orig_title": "Cinema Verite",
-      "year": "2011-04-23",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2018-03-07 06:02:24",
-      "iframe_src": ""
-    },
-    {
-      "id": 15407,
-      "title": "На самый юг",
-      "kp_id": "54300",
-      "imdb_id": "tt0080899",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-03-05 21:30:43",
-      "orig_title": "Plein sud",
-      "year": "1981-04-29",
-      "translations": [
-        "Профессиональный (двухголосый закадровый) (студия \"Омикрон\")"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (двухголосый закадровый) (студия \"Омикрон\")",
-      "update": "2018-03-07 06:01:02",
-      "iframe_src": ""
-    },
-    {
-      "id": 15406,
-      "title": "Вечная полночь",
-      "kp_id": "16943",
-      "imdb_id": "tt0120788",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-03-05 21:23:50",
-      "orig_title": "Permanent Midnight",
-      "year": "1998-09-12",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (CP Digital)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый) (CP Digital)",
-      "update": "2018-03-07 05:59:55",
-      "iframe_src": ""
-    },
-    {
-      "id": 15405,
-      "title": "Навострите ваши уши",
-      "kp_id": "6732",
-      "imdb_id": "tt0093776",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-03-05 21:21:31",
-      "orig_title": "Prick Up Your Ears",
-      "year": "1987-04-17",
+      "add": "2018-03-09 22:10:09",
+      "orig_title": "The Deep",
+      "year": "1977-06-17",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2018-03-07 05:58:46",
+      "update": "2018-03-13 11:59:27",
       "iframe_src": ""
     },
     {
-      "id": 15404,
-      "title": "Многоженец",
-      "kp_id": "478674",
-      "imdb_id": "tt1460022",
+      "id": 15539,
+      "title": "Убей их всех",
+      "kp_id": "588837",
+      "imdb_id": "tt1928335",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-03-05 21:16:28",
-      "orig_title": "Poligamy",
-      "year": "2009-12-10",
+      "add": "2018-03-09 21:23:07",
+      "orig_title": "Kill 'em All",
+      "year": "2012-12-12",
       "translations": [
-        "Любительский (многоголосый закадровый)"
+        "Профессиональный (двухголосый закадровый) (НТВ)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (двухголосый закадровый) (НТВ)",
+      "update": "2018-03-13 12:00:16",
+      "iframe_src": ""
+    },
+    {
+      "id": 15537,
+      "title": "Миля лунного света",
+      "kp_id": "758",
+      "imdb_id": "tt0179098",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-03-09 20:42:00",
+      "orig_title": "Moonlight Mile",
+      "year": "2002-09-09",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2018-03-13 13:29:00",
+      "iframe_src": ""
+    },
+    {
+      "id": 15533,
+      "title": "Детки",
+      "kp_id": "6384",
+      "imdb_id": "tt0113540",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-03-09 20:07:21",
+      "orig_title": "Kids",
+      "year": "1995-07-21",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2018-03-13 12:09:32",
+      "iframe_src": ""
+    },
+    {
+      "id": 15532,
+      "title": "Джонни Стервятник",
+      "kp_id": "2958",
+      "imdb_id": "tt0119416",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-03-09 20:05:16",
+      "orig_title": "Johnny Skidmarks",
+      "year": "1998-01-18",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Визгунов Сергей)"
+      ],
+      "quality": "webdl",
+      "translation": "Авторский (одноголосый закадровый) (Визгунов Сергей)",
+      "update": "2018-03-13 12:10:56",
+      "iframe_src": ""
+    },
+    {
+      "id": 15530,
+      "title": "Неоконченное письмо",
+      "kp_id": "479579",
+      "imdb_id": "tt1521223",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-03-09 19:59:25",
+      "orig_title": "Iti 'Mrinalini': An Unfinished Letter...",
+      "year": "2010-12-13",
+      "translations": [
+        "Любительский (двухголосый закадровый)"
       ],
       "quality": "dvdrip",
-      "translation": "Любительский (многоголосый закадровый)",
-      "update": "2018-03-07 05:55:43",
+      "translation": "Любительский (двухголосый закадровый)",
+      "update": "2018-03-13 12:12:47",
       "iframe_src": ""
     },
     {
-      "id": 15403,
-      "title": "Любовь за стеной",
-      "kp_id": "474243",
-      "imdb_id": "tt1471171",
+      "id": 15529,
+      "title": "Инсианг",
+      "kp_id": "389086",
+      "imdb_id": "tt0077740",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-03-05 21:13:55",
-      "orig_title": "Liebe Mauer",
-      "year": "2009-11-19",
+      "add": "2018-03-09 19:57:12",
+      "orig_title": "Insiang",
+      "year": "1976-12-25",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Яковлев)"
+      ],
+      "quality": "bd",
+      "translation": "Авторский (одноголосый закадровый) (Яковлев)",
+      "update": "2018-03-13 12:14:09",
+      "iframe_src": ""
+    },
+    {
+      "id": 15528,
+      "title": "Глубокие воды",
+      "kp_id": "58607",
+      "imdb_id": "tt0082309",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-03-09 19:54:55",
+      "orig_title": "Eaux profondes",
+      "year": "1981-12-16",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2018-03-13 12:15:30",
+      "iframe_src": ""
+    },
+    {
+      "id": 15527,
+      "title": "Голова",
+      "kp_id": "4238",
+      "imdb_id": "tt0063049",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-03-09 19:48:06",
+      "orig_title": "Head",
+      "year": "1968-11-06",
+      "translations": [
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2018-03-13 12:17:07",
+      "iframe_src": ""
+    },
+    {
+      "id": 15526,
+      "title": "В погоне за Папи",
+      "kp_id": "4782",
+      "imdb_id": "tt0323572",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-03-09 19:45:37",
+      "orig_title": "Chasing Papi",
+      "year": "2003-04-16",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2018-03-13 12:18:26",
+      "iframe_src": ""
+    },
+    {
+      "id": 15525,
+      "title": "Чародей и Белая змея",
+      "kp_id": "583709",
+      "imdb_id": "tt1857913",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-03-09 19:43:51",
+      "orig_title": "Bai she chuan shuo",
+      "year": "2011-09-03",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2018-03-07 05:54:57",
+      "update": "2018-03-13 12:19:31",
       "iframe_src": ""
     },
     {
-      "id": 15402,
-      "title": "Набережная туманов",
-      "kp_id": "79493",
-      "imdb_id": "tt0030643",
+      "id": 15524,
+      "title": "Козерог один",
+      "kp_id": "7003",
+      "imdb_id": "tt0077294",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-03-05 21:11:55",
-      "orig_title": "Le quai des brumes",
-      "year": "1938-05-17",
+      "add": "2018-03-09 19:41:51",
+      "orig_title": "Capricorn One",
+      "year": "1977-12-17",
       "translations": [
         "Полное дублирование"
       ],
       "quality": "bd",
       "translation": "Полное дублирование",
-      "update": "2018-03-07 05:53:34",
+      "update": "2018-03-13 12:20:26",
       "iframe_src": ""
     },
     {
-      "id": 15401,
-      "title": "Большая вечеринка",
-      "kp_id": "602829",
-      "imdb_id": "tt2008562",
+      "id": 15523,
+      "title": "Анна – королева пиратов",
+      "kp_id": "34821",
+      "imdb_id": "tt0043288",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-03-05 21:09:25",
-      "orig_title": "Le grand soir",
-      "year": "2012-05-22",
+      "add": "2018-03-09 19:36:07",
+      "orig_title": "Anne of the Indies",
+      "year": "1951-10-18",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2018-03-07 05:47:32",
+      "update": "2018-03-13 12:23:03",
       "iframe_src": ""
     },
     {
-      "id": 8506,
-      "title": "Дюнкерк",
-      "kp_id": "18676",
-      "imdb_id": "tt0051565",
+      "id": 15522,
+      "title": "Удар по системе",
+      "kp_id": "9540",
+      "imdb_id": "tt0100602",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-12-31 07:29:53",
-      "orig_title": "Dunkirk",
-      "year": "1958-03-20",
+      "add": "2018-03-09 19:30:06",
+      "orig_title": "A Shock to the System",
+      "year": "1990-03-23",
       "translations": [
-        "Любительский (одноголосый закадровый)"
+        "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2018-03-07 07:38:46",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2018-03-13 12:24:11",
       "iframe_src": ""
     },
     {
-      "id": 5768,
-      "title": "Синьор Робинзон",
-      "kp_id": "103384",
-      "imdb_id": "tt0076632",
+      "id": 6695,
+      "title": "Команда мечты",
+      "kp_id": "6857",
+      "imdb_id": "tt0097235",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-10-03 05:31:53",
-      "orig_title": "Il signor Robinson, mostruosa storia d'amore e d'avventure",
-      "year": "1976-12-23",
+      "add": "2016-10-26 05:19:13",
+      "orig_title": "The Dream Team",
+      "year": "1989-04-07",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)",
+        "Профессиональный (многоголосый закадровый) (СТС)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2018-03-13 13:28:47",
+      "iframe_src": ""
+    },
+    {
+      "id": 6527,
+      "title": "Манекен",
+      "kp_id": "21203",
+      "imdb_id": "tt0093493",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-20 15:09:06",
+      "orig_title": "Mannequin",
+      "year": "1987-02-13",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)",
+        "Авторский (одноголосый закадровый) (Алексеев Антон)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2018-03-13 13:28:49",
+      "iframe_src": ""
+    },
+    {
+      "id": 6424,
+      "title": "Жизненная сила",
+      "kp_id": "3485",
+      "imdb_id": "tt0089489",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-18 13:53:08",
+      "orig_title": "Lifeforce",
+      "year": "1985-06-21",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Сербин Юрий)",
+        "Профессиональный (многоголосый закадровый) (5-й канал СПб)"
+      ],
+      "quality": "bd",
+      "translation": "Авторский (одноголосый закадровый) (Сербин Юрий)",
+      "update": "2018-03-13 13:28:47",
+      "iframe_src": ""
+    },
+    {
+      "id": 6382,
+      "title": "Непрощённый",
+      "kp_id": "451",
+      "imdb_id": "tt0105695",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-17 10:57:16",
+      "orig_title": "Unforgiven",
+      "year": "1992-08-03",
       "translations": [
         "Профессиональный (многоголосый закадровый)",
         "Полное дублирование"
       ],
       "quality": "bd",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2018-03-07 05:37:19",
+      "update": "2018-03-13 13:29:01",
       "iframe_src": ""
     },
     {
-      "id": 969,
-      "title": "Шнайдер против Бакса",
-      "kp_id": "819549",
-      "imdb_id": "tt3430416",
+      "id": 1861,
+      "title": "Джо против вулкана",
+      "kp_id": "3225",
+      "imdb_id": "tt0099892",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-04-12 11:35:49",
-      "orig_title": "Schneider vs. Bax",
-      "year": "2015-05-28",
+      "add": "2016-05-04 15:17:32",
+      "orig_title": "Joe Versus the Volcano",
+      "year": "1990-03-09",
       "translations": [
         "Полное дублирование"
       ],
       "quality": "bd",
       "translation": "Полное дублирование",
-      "update": "2018-03-07 06:07:02",
+      "update": "2018-03-13 12:12:05",
       "iframe_src": ""
     }
   ]

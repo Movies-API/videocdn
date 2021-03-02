@@ -1,363 +1,364 @@
 {
   "data": [
     {
-      "id": 8855,
-      "title": "Сектор",
-      "kp_id": "798707",
-      "imdb_id": "tt3186552",
+      "id": 9054,
+      "title": "Исчезнувший убийца",
+      "kp_id": "944289",
+      "imdb_id": "tt5190950",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-01-12 07:06:04",
-      "orig_title": "The Sector",
-      "year": "2016-07-05",
+      "add": "2017-01-20 05:50:42",
+      "orig_title": "The Vanished Murderer",
+      "year": "2015-11-26",
       "translations": [
-        "Профессиональный (многоголосый закадровый) (@MUZOBOZ@)"
+        "Любительский (двухголосый закадровый)"
       ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый) (@MUZOBOZ@)",
-      "update": "2017-01-12 10:43:44",
+      "quality": "hdrip",
+      "translation": "Любительский (двухголосый закадровый)",
+      "update": "2017-01-20 06:55:34",
       "iframe_src": ""
     },
     {
-      "id": 8850,
-      "title": "Нападение на 13-й участок",
-      "kp_id": "77555",
-      "imdb_id": "tt0398712",
+      "id": 9050,
+      "title": "Школа монстров: Добро пожаловать в школу монстров",
+      "kp_id": "994568",
+      "imdb_id": "tt5898034",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-01-12 06:54:09",
-      "orig_title": "Assault on Precinct 13",
-      "year": "2005-01-19",
+      "add": "2017-01-19 09:53:06",
+      "orig_title": "Monster High: Welcome to Monster High",
+      "year": "2016-08-27",
       "translations": [
         "Полное дублирование"
       ],
       "quality": "bd",
       "translation": "Полное дублирование",
-      "update": "2017-01-12 10:44:47",
+      "update": "2017-01-19 13:51:12",
       "iframe_src": ""
     },
     {
-      "id": 8847,
-      "title": "Земля вампиров 2",
-      "kp_id": "989335",
-      "imdb_id": "tt5843670",
+      "id": 9037,
+      "title": "Дикарь",
+      "kp_id": "21318",
+      "imdb_id": "tt0073663",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-01-12 06:46:46",
-      "orig_title": "The Stakelander",
-      "year": "2016-10-14",
+      "add": "2017-01-18 13:39:28",
+      "orig_title": "Le sauvage",
+      "year": "1975-11-26",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2017-01-19 07:41:12",
+      "iframe_src": ""
+    },
+    {
+      "id": 9028,
+      "title": "Хищник: Тёмные века",
+      "kp_id": "858819",
+      "imdb_id": "tt4171544",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-01-18 13:25:33",
+      "orig_title": "Predator Dark Ages",
+      "year": "2015-05-23",
       "translations": [
         "Любительский (одноголосый закадровый) (Хихикающий доктор)"
       ],
-      "quality": "hdtv",
+      "quality": "webdl",
       "translation": "Любительский (одноголосый закадровый) (Хихикающий доктор)",
-      "update": "2017-01-12 10:45:46",
+      "update": "2017-01-20 11:50:20",
       "iframe_src": ""
     },
     {
-      "id": 8846,
-      "title": "Немезида 3: Провал во времени",
-      "kp_id": "134110",
-      "imdb_id": "tt0113950",
+      "id": 9014,
+      "title": "Большой солдат",
+      "kp_id": "455218",
+      "imdb_id": "tt1319718",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-01-12 06:45:47",
-      "orig_title": "Nemesis III: Prey Harder",
-      "year": "1996-02-06",
-      "translations": [
-        "Авторский (одноголосый закадровый) (Сербин)"
-      ],
-      "quality": "bd",
-      "translation": "Авторский (одноголосый закадровый) (Сербин)",
-      "update": "2017-01-12 10:47:20",
-      "iframe_src": ""
-    },
-    {
-      "id": 8844,
-      "title": "Немезида 2: Невидимка",
-      "kp_id": "134104",
-      "imdb_id": "tt0113948",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-01-12 06:41:50",
-      "orig_title": "Nemesis 2: Nebula",
-      "year": "1995-07-21",
-      "translations": [
-        "Авторский (одноголосый закадровый) (Сербин)"
-      ],
-      "quality": "bd",
-      "translation": "Авторский (одноголосый закадровый) (Сербин)",
-      "update": "2017-01-12 10:49:28",
-      "iframe_src": ""
-    },
-    {
-      "id": 8842,
-      "title": "Детектив Буллитт",
-      "kp_id": "7214",
-      "imdb_id": "tt0062765",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-01-12 06:38:19",
-      "orig_title": "Bullitt",
-      "year": "1968-10-17",
-      "translations": [
-        "Профессиональный (многоголосый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый)",
-      "update": "2017-01-12 10:42:27",
-      "iframe_src": ""
-    },
-    {
-      "id": 8813,
-      "title": "Человек, обманувший смерть",
-      "kp_id": "5743",
-      "imdb_id": "tt0053041",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-01-11 09:49:10",
-      "orig_title": "The Man Who Could Cheat Death",
-      "year": "1959-11-30",
+      "add": "2017-01-18 07:06:43",
+      "orig_title": "Da bing xiao jiang",
+      "year": "2010-02-11",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2017-01-12 10:59:58",
+      "update": "2017-01-19 09:36:56",
       "iframe_src": ""
     },
     {
-      "id": 8812,
-      "title": "Тихая застава",
-      "kp_id": "501867",
-      "imdb_id": "tt1805479",
+      "id": 9013,
+      "title": "Комната страха №205",
+      "kp_id": "606837",
+      "imdb_id": "tt2017452",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-01-11 09:35:46",
-      "orig_title": "Tikhaya zastava",
-      "year": "2011-02-17",
+      "add": "2017-01-18 06:39:13",
+      "orig_title": "205 - Zimmer der Angst",
+      "year": "2011-12-02",
       "translations": [
-        "Оригинальная дорожка"
+        "Профессиональный (многоголосый закадровый) (KinoView)"
       ],
       "quality": "bd",
-      "translation": "Оригинальная дорожка",
-      "update": "2017-01-12 11:01:39",
+      "translation": "Профессиональный (многоголосый закадровый) (KinoView)",
+      "update": "2017-01-19 09:40:05",
       "iframe_src": ""
     },
     {
-      "id": 8811,
-      "title": "Любовник леди Чаттерлей",
-      "kp_id": "843426",
-      "imdb_id": "tt4116030",
+      "id": 9006,
+      "title": "Поллок",
+      "kp_id": "788",
+      "imdb_id": "tt0183659",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-01-11 09:31:02",
-      "orig_title": "Lady Chatterley's Lover",
-      "year": "2015-09-06",
+      "add": "2017-01-17 12:49:11",
+      "orig_title": "Pollock",
+      "year": "2000-09-06",
       "translations": [
-        "Любительский (двухголосый закадровый) (Victory-Films)"
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2017-01-20 11:44:54",
+      "iframe_src": ""
+    },
+    {
+      "id": 9005,
+      "title": "Такер: Человек и его мечта",
+      "kp_id": "3227",
+      "imdb_id": "tt0096316",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-01-17 12:48:12",
+      "orig_title": "Tucker: The Man and His Dream",
+      "year": "1988-08-12",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2017-01-20 11:46:43",
+      "iframe_src": ""
+    },
+    {
+      "id": 9004,
+      "title": "Война",
+      "kp_id": "5495",
+      "imdb_id": "tt0111667",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-01-17 12:47:17",
+      "orig_title": "The War",
+      "year": "1994-11-04",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "hddvd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2017-01-20 11:29:44",
+      "iframe_src": ""
+    },
+    {
+      "id": 8998,
+      "title": "Хроники ломбарда",
+      "kp_id": "568532",
+      "imdb_id": "tt1741243",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-01-17 12:25:02",
+      "orig_title": "Pawn Shop Chronicles",
+      "year": "2013-07-12",
+      "translations": [
+        "Полное дублирование"
       ],
       "quality": "bd",
-      "translation": "Любительский (двухголосый закадровый) (Victory-Films)",
-      "update": "2017-01-12 11:03:57",
+      "translation": "Полное дублирование",
+      "update": "2017-01-19 14:40:19",
       "iframe_src": ""
     },
     {
-      "id": 8810,
-      "title": "Хлебные крошки",
-      "kp_id": "410573",
-      "imdb_id": "tt1219822",
+      "id": 8995,
+      "title": "Кое-что о Генри",
+      "kp_id": "8674",
+      "imdb_id": "tt0102768",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-01-11 09:29:11",
-      "orig_title": "BreadCrumbs",
-      "year": "2011-01-25",
+      "add": "2017-01-17 11:47:28",
+      "orig_title": "Regarding Henry",
+      "year": "1991-07-10",
       "translations": [
-        "Любительский (двухголосый закадровый) (Колобок)"
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "hdtv",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2017-01-19 14:34:07",
+      "iframe_src": ""
+    },
+    {
+      "id": 8991,
+      "title": "Boдительские права",
+      "kp_id": "4068",
+      "imdb_id": "tt0095519",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-01-17 11:36:46",
+      "orig_title": "License to Drive",
+      "year": "1988-07-06",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
       ],
       "quality": "bd",
-      "translation": "Любительский (двухголосый закадровый) (Колобок)",
-      "update": "2017-01-12 11:07:08",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2017-01-19 14:30:23",
       "iframe_src": ""
     },
     {
-      "id": 8808,
-      "title": "Настоящие женщины всегда в теле",
-      "kp_id": "8114",
-      "imdb_id": "tt0296166",
+      "id": 8990,
+      "title": "Семья Перес",
+      "kp_id": "4251",
+      "imdb_id": "tt0114113",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-01-11 09:25:29",
-      "orig_title": "Real Women Have Curves",
-      "year": "2002-01-13",
+      "add": "2017-01-17 11:34:18",
+      "orig_title": "The Perez Family",
+      "year": "1995-05-12",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "hdtv",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2017-01-12 11:08:41",
+      "update": "2017-01-19 14:28:15",
       "iframe_src": ""
     },
     {
-      "id": 8807,
-      "title": "13 роз",
-      "kp_id": "266548",
-      "imdb_id": "tt0809533",
+      "id": 8986,
+      "title": "Приключения барона Мюнхгаузена",
+      "kp_id": "9613",
+      "imdb_id": "tt0096764",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-01-11 09:23:43",
-      "orig_title": "Las 13 rosas",
-      "year": "2007-10-19",
+      "add": "2017-01-17 11:23:40",
+      "orig_title": "The Adventures of Baron Munchausen",
+      "year": "1988-12-08",
       "translations": [
-        "Любительский (одноголосый закадровый)"
+        "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2017-01-12 11:09:49",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2017-01-19 14:24:49",
       "iframe_src": ""
     },
     {
-      "id": 8806,
-      "title": "Яма",
-      "kp_id": "211747",
-      "imdb_id": "tt0086113",
+      "id": 8960,
+      "title": "Четверо 2",
+      "kp_id": "771588",
+      "imdb_id": "tt3341084",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-01-11 09:22:06",
-      "orig_title": "The Pit",
-      "year": "1981-10-23",
-      "translations": [
-        "Любительский (одноголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2017-01-12 10:54:34",
-      "iframe_src": ""
-    },
-    {
-      "id": 8805,
-      "title": "Как громом поражённый",
-      "kp_id": "682708",
-      "imdb_id": "tt2402619",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-01-11 09:19:30",
-      "orig_title": "Hit by Lightning",
-      "year": "2014-10-31",
-      "translations": [
-        "Любительский (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (многоголосый закадровый)",
-      "update": "2017-01-12 11:11:08",
-      "iframe_src": ""
-    },
-    {
-      "id": 8792,
-      "title": "Взломать блогеров",
-      "kp_id": "994649",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-01-10 13:25:57",
-      "orig_title": "Взломать блогеров",
-      "year": "2016-11-10",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2017-01-12 06:42:42",
-      "iframe_src": ""
-    },
-    {
-      "id": 8789,
-      "title": "Класс коррекции",
-      "kp_id": "705350",
-      "imdb_id": "tt3826834",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-01-10 13:21:15",
-      "orig_title": "Klass korrektsii",
-      "year": "2014-07-09",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2017-01-12 06:41:32",
-      "iframe_src": ""
-    },
-    {
-      "id": 8788,
-      "title": "Дороги",
-      "kp_id": "843798",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-01-10 13:19:28",
-      "orig_title": "Дороги",
-      "year": "2015-12-03",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2017-01-12 06:39:17",
-      "iframe_src": ""
-    },
-    {
-      "id": 8787,
-      "title": "Дети 90-х",
-      "kp_id": "933264",
-      "imdb_id": "tt5474656",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-01-10 13:17:44",
-      "orig_title": "Deti 90-kh",
-      "year": "2015-11-12",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2017-01-12 06:37:51",
-      "iframe_src": ""
-    },
-    {
-      "id": 8786,
-      "title": "В тесноте, да не в обиде",
-      "kp_id": "935909",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-01-10 13:16:38",
-      "orig_title": "В тесноте, да не в обиде",
-      "year": "2015-10-25",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "hdtv",
-      "translation": "Оригинальная дорожка",
-      "update": "2017-01-12 06:36:42",
-      "iframe_src": ""
-    },
-    {
-      "id": 8497,
-      "title": "Наш день придет",
-      "kp_id": "518370",
-      "imdb_id": "tt1651328",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-12-30 20:11:24",
-      "orig_title": "Notre jour viendra",
-      "year": "2010-09-12",
+      "add": "2017-01-16 15:32:55",
+      "orig_title": "Si da ming bu 2",
+      "year": "2013-11-22",
       "translations": [
         "Любительский (двухголосый закадровый)"
       ],
       "quality": "bd",
       "translation": "Любительский (двухголосый закадровый)",
-      "update": "2017-01-12 11:16:20",
+      "update": "2017-01-19 11:18:50",
+      "iframe_src": ""
+    },
+    {
+      "id": 7665,
+      "title": "Слепой горизонт",
+      "kp_id": "7379",
+      "imdb_id": "tt0337881",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-11-27 12:49:36",
+      "orig_title": "Blind Horizon",
+      "year": "2003-12-16",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2017-01-19 14:26:38",
+      "iframe_src": ""
+    },
+    {
+      "id": 7084,
+      "title": "Хеллоуин Мэдеи",
+      "kp_id": "957592",
+      "imdb_id": "tt5325452",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-11-05 18:59:15",
+      "orig_title": "Boo! A Madea Halloween",
+      "year": "2016-10-21",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (Колобок)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый) (Колобок)",
+      "update": "2017-01-19 11:19:31",
+      "iframe_src": ""
+    },
+    {
+      "id": 6107,
+      "title": "Повелители снов",
+      "kp_id": "855928",
+      "imdb_id": "tt5268558",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-11 07:35:49",
+      "orig_title": "Poveliteli snov",
+      "year": "2015-10-29",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "webdl",
+      "translation": "Оригинальная дорожка",
+      "update": "2017-01-20 08:15:10",
+      "iframe_src": ""
+    },
+    {
+      "id": 5742,
+      "title": "Зачинщики",
+      "kp_id": "713089",
+      "imdb_id": "tt2461150",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-02 18:13:52",
+      "orig_title": "Masterminds",
+      "year": "2016-09-28",
+      "translations": [
+        "Полное дублирование",
+        "Полное дублирование (iTunes)"
+      ],
+      "quality": "camrip",
+      "translation": "Полное дублирование",
+      "update": "2017-01-19 09:40:27",
+      "iframe_src": ""
+    },
+    {
+      "id": 4460,
+      "title": "Крутые меры",
+      "kp_id": "678233",
+      "imdb_id": "tt2368619",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-08-16 13:19:14",
+      "orig_title": "Bastille Day",
+      "year": "2016-04-20",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2017-01-20 08:13:11",
       "iframe_src": ""
     }
   ]

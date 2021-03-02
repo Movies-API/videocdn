@@ -1,363 +1,364 @@
 {
   "data": [
     {
-      "id": 39430,
-      "title": "Обитель любви",
-      "kp_id": "97317",
-      "imdb_id": "tt0210920",
+      "id": 39611,
+      "title": "Вдохновение танца",
+      "kp_id": "194246",
+      "imdb_id": "tt0433605",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-04-17 13:32:17",
-      "orig_title": "Prem Aggan",
-      "year": "1998-10-30",
+      "add": "2020-04-20 21:36:46",
+      "orig_title": "Naach",
+      "year": "2004-11-12",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-04-28 10:48:23",
+      "iframe_src": ""
+    },
+    {
+      "id": 39610,
+      "title": "Верить в себя",
+      "kp_id": "224740",
+      "imdb_id": "tt0110254",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-04-20 21:34:06",
+      "orig_title": "Khuddar",
+      "year": "1994-03-25",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "hdrip",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2020-04-28 10:47:38",
+      "iframe_src": ""
+    },
+    {
+      "id": 39609,
+      "title": "Видимость",
+      "kp_id": "820798",
+      "imdb_id": "tt3417422",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-04-20 21:31:47",
+      "orig_title": "Drishyam",
+      "year": "2013-12-19",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (SDI Media)"
+      ],
+      "quality": "hdrip",
+      "translation": "Профессиональный (многоголосый закадровый) (SDI Media)",
+      "update": "2020-04-28 10:46:37",
+      "iframe_src": ""
+    },
+    {
+      "id": 39608,
+      "title": "Встреча влюбленных",
+      "kp_id": "222629",
+      "imdb_id": "tt0266456",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-04-20 21:29:30",
+      "orig_title": "Deedar-E-Yaar",
+      "year": "1982-10-22",
       "translations": [
         "Профессиональный (двухголосый закадровый)"
       ],
       "quality": "dvdrip",
       "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2020-04-21 12:22:52",
+      "update": "2020-04-28 10:45:52",
       "iframe_src": ""
     },
     {
-      "id": 39429,
-      "title": "Святая дочь Бога",
-      "kp_id": "595990",
-      "imdb_id": "tt1857670",
+      "id": 39607,
+      "title": "За решёткой",
+      "kp_id": "86766",
+      "imdb_id": "tt0286936",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-04-17 13:27:03",
-      "orig_title": "Deiva Thirumagal",
-      "year": "2011-07-15",
-      "translations": [
-        "Любительский (одноголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2020-04-21 12:21:18",
-      "iframe_src": ""
-    },
-    {
-      "id": 39415,
-      "title": "Пожар",
-      "kp_id": "97676",
-      "imdb_id": "tt0378002",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-04-16 22:12:51",
-      "orig_title": "Grihadaha",
-      "year": "1967-05-05",
-      "translations": [
-        "Любительский (одноголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2020-04-21 12:18:25",
-      "iframe_src": ""
-    },
-    {
-      "id": 39414,
-      "title": "Чужой",
-      "kp_id": "257529",
-      "imdb_id": "tt0813996",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-04-16 22:06:20",
-      "orig_title": "Alag: He Is Different.... He Is Alone...",
-      "year": "2006-06-16",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-04-21 12:17:51",
-      "iframe_src": ""
-    },
-    {
-      "id": 39413,
-      "title": "Чужой",
-      "kp_id": "602767",
-      "imdb_id": "tt2011180",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-04-16 21:50:51",
-      "orig_title": "Pardesi",
-      "year": "1993-08-20",
-      "translations": [
-        "Любительский (одноголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2020-04-21 12:17:09",
-      "iframe_src": ""
-    },
-    {
-      "id": 39412,
-      "title": "Деньги решают всё!",
-      "kp_id": "400936",
-      "imdb_id": "tt1126516",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-04-16 21:46:45",
-      "orig_title": "Money Hai Toh Honey Hai",
-      "year": "2008-07-25",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-04-21 12:16:40",
-      "iframe_src": ""
-    },
-    {
-      "id": 39411,
-      "title": "История былой любви",
-      "kp_id": "265820",
-      "imdb_id": "tt0418295",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-04-16 21:42:01",
-      "orig_title": "Vishaal",
-      "year": "1987-01-01",
-      "translations": [
-        "Любительский (одноголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2020-04-21 12:16:27",
-      "iframe_src": ""
-    },
-    {
-      "id": 39410,
-      "title": "Легенда о любви",
-      "kp_id": "34983",
-      "imdb_id": "tt0152509",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-04-16 21:35:01",
-      "orig_title": "Sohni Mahiwal",
-      "year": "1984-11-26",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-04-21 12:15:10",
-      "iframe_src": ""
-    },
-    {
-      "id": 39409,
-      "title": "Нури",
-      "kp_id": "95408",
-      "imdb_id": "tt0309926",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-04-16 21:31:06",
-      "orig_title": "Noorie",
-      "year": "1979-05-11",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "webdl",
-      "translation": "Полное дублирование",
-      "update": "2020-04-21 12:14:10",
-      "iframe_src": ""
-    },
-    {
-      "id": 39408,
-      "title": "Доверие",
-      "kp_id": "41824",
-      "imdb_id": "tt0259571",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-04-16 21:27:21",
-      "orig_title": "Shaque",
-      "year": "1976-01-01",
-      "translations": [
-        "Любительский (одноголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2020-04-21 12:13:29",
-      "iframe_src": ""
-    },
-    {
-      "id": 39407,
-      "title": "Верные друзья",
-      "kp_id": "78529",
-      "imdb_id": "tt0080653",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-04-16 21:11:02",
-      "orig_title": "Dostana",
-      "year": "1980-10-17",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-04-21 12:12:50",
-      "iframe_src": ""
-    },
-    {
-      "id": 39406,
-      "title": "Долгожданный",
-      "kp_id": "82317",
-      "imdb_id": "tt0405024",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-04-16 16:27:00",
-      "orig_title": "Hum Kaun Hai?",
-      "year": "2004-09-03",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2020-04-21 12:12:20",
-      "iframe_src": ""
-    },
-    {
-      "id": 39404,
-      "title": "Неугомонный",
-      "kp_id": "95256",
-      "imdb_id": "tt0290429",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-04-16 16:20:31",
-      "orig_title": "Ashaant",
-      "year": "1993-11-26",
+      "add": "2020-04-20 21:26:55",
+      "orig_title": "Salaakhen",
+      "year": "1998-04-24",
       "translations": [
         "Профессиональный (многоголосый закадровый) (ZEE TV)"
       ],
       "quality": "dvdrip",
       "translation": "Профессиональный (многоголосый закадровый) (ZEE TV)",
-      "update": "2020-04-21 12:11:33",
+      "update": "2020-04-28 10:45:06",
       "iframe_src": ""
     },
     {
-      "id": 39403,
-      "title": "Полный финиш",
-      "kp_id": "263298",
-      "imdb_id": "tt0493417",
+      "id": 39605,
+      "title": "Девочка по вызову",
+      "kp_id": "273536",
+      "imdb_id": "tt0370383",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-04-16 16:16:39",
-      "orig_title": "Fool N Final",
-      "year": "2007-06-01",
+      "add": "2020-04-20 21:20:44",
+      "orig_title": "Call Girl",
+      "year": "1974-09-16",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "dvdrip",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-04-21 12:11:02",
+      "update": "2020-04-28 10:44:21",
       "iframe_src": ""
     },
     {
-      "id": 39402,
-      "title": "Гёрлфренд",
-      "kp_id": "95540",
-      "imdb_id": "tt0414714",
+      "id": 39591,
+      "title": "Любовь и музыка",
+      "kp_id": "36618",
+      "imdb_id": "tt0105313",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-04-16 16:09:02",
-      "orig_title": "Girlfriend",
-      "year": "2004-06-17",
+      "add": "2020-04-19 21:52:50",
+      "orig_title": "Sangeet",
+      "year": "1992-01-01",
+      "translations": [
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "sat",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2020-04-28 10:43:26",
+      "iframe_src": ""
+    },
+    {
+      "id": 39590,
+      "title": "Японская жена",
+      "kp_id": "503605",
+      "imdb_id": "tt1620620",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-04-19 21:46:14",
+      "orig_title": "The Japanese Wife",
+      "year": "2010-04-09",
+      "translations": [
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2020-04-28 10:42:07",
+      "iframe_src": ""
+    },
+    {
+      "id": 39589,
+      "title": "Я докажу всему миру!",
+      "kp_id": "217664",
+      "imdb_id": "tt0230993",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-04-19 21:43:33",
+      "orig_title": "Zamaane Ko Dikhana Hai",
+      "year": "1981-12-30",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-04-28 10:41:10",
+      "iframe_src": ""
+    },
+    {
+      "id": 39588,
+      "title": "Имя",
+      "kp_id": "39705",
+      "imdb_id": "tt0091598",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-04-19 21:40:18",
+      "orig_title": "Naam",
+      "year": "1986-08-30",
       "translations": [
         "Профессиональный (двухголосый закадровый)"
       ],
-      "quality": "dvdrip",
+      "quality": "sat",
       "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2020-04-21 12:08:47",
+      "update": "2020-04-28 10:40:33",
       "iframe_src": ""
     },
     {
-      "id": 39400,
-      "title": "И прольется дождь...",
-      "kp_id": "178066",
-      "imdb_id": "tt0444767",
+      "id": 39586,
+      "title": "Гнёздышко Кхослы",
+      "kp_id": "180748",
+      "imdb_id": "tt0466460",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-04-16 16:02:10",
-      "orig_title": "A Sublime Love Story: Barsaat",
-      "year": "2005-08-17",
+      "add": "2020-04-19 21:31:37",
+      "orig_title": "Khosla Ka Ghosla!",
+      "year": "2006-09-22",
       "translations": [
         "Профессиональный (двухголосый закадровый)"
       ],
-      "quality": "dvdrip",
+      "quality": "hdrip",
       "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2020-04-21 11:48:40",
+      "update": "2020-04-28 10:39:28",
       "iframe_src": ""
     },
     {
-      "id": 39399,
-      "title": "Игра в прятки",
-      "kp_id": "489257",
-      "imdb_id": "tt1492872",
+      "id": 39585,
+      "title": "Дели-6",
+      "kp_id": "373101",
+      "imdb_id": "tt1043451",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-04-16 15:58:33",
-      "orig_title": "Hide & Seek",
-      "year": "2010-03-12",
+      "add": "2020-04-19 21:29:11",
+      "orig_title": "Delhi-6",
+      "year": "2009-02-18",
       "translations": [
-        "Профессиональный (двухголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2020-04-21 11:48:17",
-      "iframe_src": ""
-    },
-    {
-      "id": 39398,
-      "title": "Как бы не влюбиться",
-      "kp_id": "36576",
-      "imdb_id": "tt0268401",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-04-16 15:56:22",
-      "orig_title": "Kahin Pyaar Na Ho Jaaye",
-      "year": "2000-11-17",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (Формат AB)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый) (Формат AB)",
-      "update": "2020-04-21 11:47:45",
-      "iframe_src": ""
-    },
-    {
-      "id": 39397,
-      "title": "Ловушка для адвоката",
-      "kp_id": "85025",
-      "imdb_id": "tt0272688",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-04-16 15:53:49",
-      "orig_title": "Kasoor",
-      "year": "2001-02-02",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2020-04-21 11:46:10",
-      "iframe_src": ""
-    },
-    {
-      "id": 14662,
-      "title": "Мистер Феличита",
-      "kp_id": "1026440",
-      "imdb_id": "tt6302050",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-12-14 22:36:55",
-      "orig_title": "Mister Felicità",
-      "year": "2017-01-01",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (iTunes)"
+        "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый) (iTunes)",
-      "update": "2020-04-21 11:50:30",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-04-28 10:38:55",
+      "iframe_src": ""
+    },
+    {
+      "id": 39584,
+      "title": "Бомбейское кино",
+      "kp_id": "88101",
+      "imdb_id": "tt0065484",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-04-19 21:25:53",
+      "orig_title": "Bombay Talkie",
+      "year": "1970-11-18",
+      "translations": [
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2020-04-28 10:26:18",
+      "iframe_src": ""
+    },
+    {
+      "id": 39582,
+      "title": "Беглянка",
+      "kp_id": "36570",
+      "imdb_id": "tt0293342",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-04-19 21:20:39",
+      "orig_title": "Lajja",
+      "year": "2001-09-19",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-04-28 10:24:46",
+      "iframe_src": ""
+    },
+    {
+      "id": 39581,
+      "title": "Амар Дип",
+      "kp_id": "41801",
+      "imdb_id": "tt0078761",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-04-19 21:15:16",
+      "orig_title": "Amar Deep",
+      "year": "1979-01-01",
+      "translations": [
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "tv",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2020-04-28 10:22:37",
+      "iframe_src": ""
+    },
+    {
+      "id": 39567,
+      "title": "Линия контроля",
+      "kp_id": "39659",
+      "imdb_id": "tt0347416",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-04-19 14:12:57",
+      "orig_title": "LOC: Kargil",
+      "year": "2003-12-12",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-04-28 10:20:58",
+      "iframe_src": ""
+    },
+    {
+      "id": 39566,
+      "title": "Междоусобная война",
+      "kp_id": "34966",
+      "imdb_id": "tt0280396",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-04-19 12:06:07",
+      "orig_title": "Adharm",
+      "year": "1992-02-21",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (ZEE TV)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый) (ZEE TV)",
+      "update": "2020-04-28 10:20:08",
+      "iframe_src": ""
+    },
+    {
+      "id": 39565,
+      "title": "Говорить опасно для здоровья",
+      "kp_id": "820459",
+      "imdb_id": "tt3465996",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-04-19 12:03:42",
+      "orig_title": "Vaayai Moodi Pesavum",
+      "year": "2014-04-24",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (SDI Media)"
+      ],
+      "quality": "hdrip",
+      "translation": "Профессиональный (многоголосый закадровый) (SDI Media)",
+      "update": "2020-04-28 09:16:08",
+      "iframe_src": ""
+    },
+    {
+      "id": 9220,
+      "title": "Бадлапур",
+      "kp_id": "841805",
+      "imdb_id": "tt3678782",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-01-26 12:30:53",
+      "orig_title": "Badlapur",
+      "year": "2015-02-19",
+      "translations": [
+        "Любительский (многоголосый закадровый) (ICG)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (ICG)",
+      "update": "2020-04-28 10:24:08",
+      "iframe_src": ""
+    },
+    {
+      "id": 7575,
+      "title": "Джил, Джанг и Джак",
+      "kp_id": "960916",
+      "imdb_id": "tt5459644",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-11-22 16:34:20",
+      "orig_title": "Jil Jung Juk",
+      "year": "2016-02-11",
+      "translations": [
+        "Любительский (многоголосый закадровый)",
+        "Любительский (многоголосый закадровый) (Honey&Hoseena)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый)",
+      "update": "2020-04-28 09:15:37",
       "iframe_src": ""
     }
   ]

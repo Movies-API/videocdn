@@ -1,364 +1,363 @@
 {
   "data": [
     {
-      "id": 29826,
-      "title": "Крыс с большой дороги",
-      "kp_id": "1098219",
-      "imdb_id": "tt7546096",
+      "id": 30017,
+      "title": "Ведьмы с Пельменной Фермы",
+      "kp_id": "1191222",
+      "imdb_id": "tt8983294",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-08-07 09:08:47",
-      "orig_title": "The Highway Rat",
-      "year": "2017-12-25",
+      "add": "2019-08-15 10:34:26",
+      "orig_title": "The Witches of Dumpling Farm",
+      "year": "2018-10-26",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-08-15 12:26:07",
+      "iframe_src": ""
+    },
+    {
+      "id": 30015,
+      "title": "Союз",
+      "kp_id": null,
+      "imdb_id": "tt4325644",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-08-15 10:30:36",
+      "orig_title": "Union",
+      "year": "2018-08-25",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-08-15 12:42:20",
+      "iframe_src": ""
+    },
+    {
+      "id": 30014,
+      "title": "Банана-Сплитс",
+      "kp_id": "1242681",
+      "imdb_id": "tt9831136",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-08-15 10:27:18",
+      "orig_title": "The Banana Splits Movie",
+      "year": "2019-07-17",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-08-15 12:25:11",
+      "iframe_src": ""
+    },
+    {
+      "id": 30009,
+      "title": "Глаз черного кота",
+      "kp_id": "98153",
+      "imdb_id": "tt0069421",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-08-15 05:52:10",
+      "orig_title": "Il tuo vizio è una stanza chiusa e solo io ne ho la chiave",
+      "year": "1972-08-18",
       "translations": [
         "Любительский (одноголосый закадровый)"
       ],
       "quality": "bd",
       "translation": "Любительский (одноголосый закадровый)",
-      "update": "2019-08-07 10:16:44",
+      "update": "2019-08-15 12:37:09",
       "iframe_src": ""
     },
     {
-      "id": 29825,
-      "title": "Она испекла убийство: Смертельный рецепт",
-      "kp_id": "975590",
-      "imdb_id": "tt5673202",
+      "id": 30007,
+      "title": "Бесноватые",
+      "kp_id": "143119",
+      "imdb_id": "tt0070013",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-08-07 09:05:39",
-      "orig_title": "Murder, She Baked: A Deadly Recipe",
-      "year": "2016-06-19",
+      "add": "2019-08-15 05:49:02",
+      "orig_title": "Les démoniaques",
+      "year": "1974-12-05",
       "translations": [
-        "Профессиональный (многоголосый закадровый) (ТВ3)"
-      ],
-      "quality": "hdtv",
-      "translation": "Профессиональный (многоголосый закадровый) (ТВ3)",
-      "update": "2019-08-07 10:14:20",
-      "iframe_src": ""
-    },
-    {
-      "id": 29824,
-      "title": "Она испекла убийство: Тайна убийства сливового пудинга",
-      "kp_id": "928797",
-      "imdb_id": "tt4933782",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-08-07 09:00:28",
-      "orig_title": "Murder, She Baked: A Plum Pudding Mystery",
-      "year": "2015-11-23",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (ТВ3)"
-      ],
-      "quality": "sat",
-      "translation": "Профессиональный (многоголосый закадровый) (ТВ3)",
-      "update": "2019-08-07 10:06:35",
-      "iframe_src": ""
-    },
-    {
-      "id": 29823,
-      "title": "Пентаграмма",
-      "kp_id": "1148851",
-      "imdb_id": "tt7711764",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-08-07 08:57:12",
-      "orig_title": "Pentagram",
-      "year": "2019-08-08",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-08-07 09:57:56",
-      "iframe_src": ""
-    },
-    {
-      "id": 29822,
-      "title": "Дорогой премьер-министр",
-      "kp_id": "1139973",
-      "imdb_id": "tt8207768",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-08-07 08:54:55",
-      "orig_title": "Mere Pyare Prime Minister",
-      "year": "2018-10-23",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-08-07 11:21:03",
-      "iframe_src": ""
-    },
-    {
-      "id": 29821,
-      "title": "Кролик",
-      "kp_id": "1053250",
-      "imdb_id": "tt6807324",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-08-07 08:52:58",
-      "orig_title": "Doe",
-      "year": "2018-09-27",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-08-07 10:20:29",
-      "iframe_src": ""
-    },
-    {
-      "id": 29820,
-      "title": "Что осталось после нас: оглядываясь на «Звездный путь: Дальний космос 9»",
-      "kp_id": null,
-      "imdb_id": "tt6332276",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-08-07 05:17:05",
-      "orig_title": "What We Left Behind: Looking Back at Deep Space Nine",
-      "year": "2019-05-13",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
+        "Авторский (одноголосый закадровый) (Алексеев Антон)"
       ],
       "quality": "bd",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-08-07 12:47:41",
+      "translation": "Авторский (одноголосый закадровый) (Алексеев Антон)",
+      "update": "2019-08-15 12:27:31",
       "iframe_src": ""
     },
     {
-      "id": 29819,
-      "title": "Джефф Бойд становится радикалом",
-      "kp_id": "905576",
-      "imdb_id": "tt4649558",
+      "id": 30006,
+      "title": "Юные соблазнительницы 3",
+      "kp_id": "96510",
+      "imdb_id": "tt0068298",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-08-07 05:15:32",
-      "orig_title": "The Radicalization of Jeff Boyd",
-      "year": "2017-11-05",
+      "add": "2019-08-15 05:47:56",
+      "orig_title": "Blutjunge Verführerinnen 3. Teil",
+      "year": "1972-12-29",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
+        "Авторский (одноголосый закадровый) (Муравский)"
       ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-08-07 12:48:11",
+      "quality": "bd",
+      "translation": "Авторский (одноголосый закадровый) (Муравский)",
+      "update": "2019-08-15 12:24:59",
       "iframe_src": ""
     },
     {
-      "id": 29816,
-      "title": "Нежелательный человек в Европе",
-      "kp_id": "1148499",
-      "imdb_id": "tt7769728",
+      "id": 30005,
+      "title": "Юные соблазнительницы 2",
+      "kp_id": "82980",
+      "imdb_id": "tt0068297",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-08-07 04:10:31",
-      "orig_title": "Les Unwanted de Europa",
-      "year": "2018-01-26",
+      "add": "2019-08-15 05:46:17",
+      "orig_title": "Blutjunge Verführerinnen 2",
+      "year": "1972-03-17",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
+        "Авторский (одноголосый закадровый) (Муравский)"
       ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-08-07 07:29:38",
+      "quality": "bd",
+      "translation": "Авторский (одноголосый закадровый) (Муравский)",
+      "update": "2019-08-15 12:17:20",
       "iframe_src": ""
     },
     {
-      "id": 29815,
-      "title": "Под таблеткой",
-      "kp_id": "1090926",
-      "imdb_id": "tt6562598",
+      "id": 30003,
+      "title": "Балетные туфельки",
+      "kp_id": "392585",
+      "imdb_id": "tt1083845",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-08-07 04:05:42",
-      "orig_title": "Pill Head",
-      "year": "2019-05-09",
+      "add": "2019-08-14 20:53:04",
+      "orig_title": "Ballet Shoes",
+      "year": "2007-12-26",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
+        "Профессиональный (многоголосый закадровый)"
       ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-08-07 07:30:09",
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-08-15 07:14:47",
       "iframe_src": ""
     },
     {
-      "id": 29814,
-      "title": "Время на исходе",
-      "kp_id": "1156491",
-      "imdb_id": "tt8420952",
+      "id": 30002,
+      "title": "Баскетбол в стиле кунг-фу",
+      "kp_id": "281172",
+      "imdb_id": "tt0848538",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-08-07 04:03:41",
-      "orig_title": "Running Out Of Time",
-      "year": "2018-01-01",
+      "add": "2019-08-14 20:48:11",
+      "orig_title": "Gong fu guan lan",
+      "year": "2008-02-07",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
+        "Любительский (одноголосый закадровый)"
       ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-08-07 07:30:58",
+      "quality": "bd",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2019-08-15 07:13:46",
       "iframe_src": ""
     },
     {
-      "id": 29813,
-      "title": "Убийца с лицом младенца",
-      "kp_id": null,
-      "imdb_id": "tt9769770",
+      "id": 30000,
+      "title": "Дом страхов",
+      "kp_id": "314795",
+      "imdb_id": "tt1002992",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-08-07 03:58:13",
-      "orig_title": "Babyface: Mayhem, Murder, Monsters",
-      "year": "2019-02-12",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-08-07 07:28:58",
-      "iframe_src": ""
-    },
-    {
-      "id": 29812,
-      "title": "Призраки Города Брюэр",
-      "kp_id": "1180054",
-      "imdb_id": "tt8848462",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-08-07 03:53:24",
-      "orig_title": "The Ghosts of Brewer Town",
-      "year": "2018-01-01",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-08-07 07:28:27",
-      "iframe_src": ""
-    },
-    {
-      "id": 29791,
-      "title": "Страх вратаря перед пенальти",
-      "kp_id": "31490",
-      "imdb_id": "tt0066773",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-08-06 09:50:50",
-      "orig_title": "Die Angst des Tormanns beim Elfmeter",
-      "year": "1972-02-19",
+      "add": "2019-08-14 20:40:42",
+      "orig_title": "House of Fears",
+      "year": "2007-10-07",
       "translations": [
         "Профессиональный (двухголосый закадровый)"
       ],
       "quality": "bd",
       "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2019-08-07 08:03:02",
+      "update": "2019-08-15 07:11:27",
       "iframe_src": ""
     },
     {
-      "id": 29758,
-      "title": "Смерть прокурора",
-      "kp_id": "738424",
-      "imdb_id": null,
+      "id": 29999,
+      "title": "Моя жизнь в розовом цвете",
+      "kp_id": "57978",
+      "imdb_id": "tt0119590",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-08-05 18:16:11",
-      "orig_title": "Смерть прокурора",
-      "year": "1991-01-01",
+      "add": "2019-08-14 20:37:20",
+      "orig_title": "Ma vie en rose",
+      "year": "1997-05-28",
       "translations": [
-        "Оригинальная дорожка"
+        "Профессиональный (многоголосый закадровый)"
       ],
-      "quality": "sat",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-08-07 12:44:45",
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-08-15 07:09:34",
       "iframe_src": ""
     },
     {
-      "id": 29530,
-      "title": "А ну-ка, дедушки!",
-      "kp_id": "304094",
-      "imdb_id": "tt0821751",
+      "id": 29998,
+      "title": "Озеро смерти",
+      "kp_id": "260545",
+      "imdb_id": "tt0839880",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-07-30 06:00:59",
-      "orig_title": "Kochagad, papebo!",
-      "year": "1981-01-01",
+      "add": "2019-08-14 20:12:01",
+      "orig_title": "Lake Dead",
+      "year": "2007-11-09",
       "translations": [
-        "Оригинальная дорожка"
+        "Профессиональный (многоголосый закадровый)"
       ],
-      "quality": "dvb",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-08-07 12:43:46",
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-08-15 07:06:06",
       "iframe_src": ""
     },
     {
-      "id": 29523,
-      "title": "Человек уходит за птицами",
-      "kp_id": "45469",
-      "imdb_id": "tt0171177",
+      "id": 29996,
+      "title": "Вирус Андромеда",
+      "kp_id": "409067",
+      "imdb_id": "tt0424600",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-07-30 05:53:17",
-      "orig_title": "Chelovek ukhodit za ptitsami",
-      "year": "1976-12-01",
+      "add": "2019-08-14 19:59:18",
+      "orig_title": "The Andromeda Strain",
+      "year": "2008-05-26",
       "translations": [
-        "Оригинальная дорожка"
+        "Полное дублирование (Пифагор)"
+      ],
+      "quality": "hdtv",
+      "translation": "Полное дублирование (Пифагор)",
+      "update": "2019-08-15 07:03:25",
+      "iframe_src": ""
+    },
+    {
+      "id": 29995,
+      "title": "Башня ужаса",
+      "kp_id": "89582",
+      "imdb_id": "tt0131620",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-08-14 19:49:06",
+      "orig_title": "Tower of Terror",
+      "year": "1997-10-26",
+      "translations": [
+        "Профессиональный (двухголосый закадровый) (НТВ)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (двухголосый закадровый) (НТВ)",
+      "update": "2019-08-15 06:55:23",
+      "iframe_src": ""
+    },
+    {
+      "id": 29994,
+      "title": "Три сыщика и тайна острова Скелетов",
+      "kp_id": "238189",
+      "imdb_id": "tt0476603",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-08-14 19:44:39",
+      "orig_title": "The Three Investigators and the Secret of Skeleton Island",
+      "year": "2007-11-08",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-08-15 06:40:56",
+      "iframe_src": ""
+    },
+    {
+      "id": 29992,
+      "title": "Невидимка 2",
+      "kp_id": "195341",
+      "imdb_id": "tt0469916",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-08-14 19:36:17",
+      "orig_title": "Hollow Man II",
+      "year": "2006-05-23",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-08-15 06:39:27",
+      "iframe_src": ""
+    },
+    {
+      "id": 29991,
+      "title": "В поисках древней гробницы",
+      "kp_id": "81011",
+      "imdb_id": "tt0314226",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-08-14 19:31:19",
+      "orig_title": "Das Jesus Video",
+      "year": "2002-12-05",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-08-15 06:37:59",
+      "iframe_src": ""
+    },
+    {
+      "id": 29989,
+      "title": "Сервис помощи с суицидом",
+      "kp_id": "1077987",
+      "imdb_id": "tt6562252",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-08-14 11:00:54",
+      "orig_title": "Suicide Service",
+      "year": "2017-11-25",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-08-07 12:41:19",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-08-14 19:55:43",
       "iframe_src": ""
     },
     {
-      "id": 29412,
-      "title": "Охота на дракона",
-      "kp_id": "42753",
-      "imdb_id": "tt0091674",
+      "id": 6742,
+      "title": "Трое мужчин и маленькая леди",
+      "kp_id": "7065",
+      "imdb_id": "tt0098966",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-07-26 20:21:03",
-      "orig_title": "Okhota na drakona",
-      "year": "1986-02-16",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "iptv",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-08-07 12:43:00",
-      "iframe_src": ""
-    },
-    {
-      "id": 25786,
-      "title": "Синонимы",
-      "kp_id": "1089726",
-      "imdb_id": "tt7016254",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-05-01 00:30:06",
-      "orig_title": "Synonymes",
-      "year": "2019-02-13",
+      "add": "2016-10-27 05:54:32",
+      "orig_title": "3 Men and a Little Lady",
+      "year": "1990-11-21",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "webdl",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-08-07 07:27:21",
+      "update": "2019-08-15 06:37:18",
       "iframe_src": ""
     },
     {
-      "id": 3891,
-      "title": "Время убивать",
-      "kp_id": "1965",
-      "imdb_id": "tt0117913",
+      "id": 1021,
+      "title": "Тринадцать привидений",
+      "kp_id": "7639",
+      "imdb_id": "tt0245674",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-07-13 08:57:38",
-      "orig_title": "A Time to Kill",
-      "year": "1996-07-24",
+      "add": "2016-04-12 15:44:16",
+      "orig_title": "Thir13en Ghosts",
+      "year": "2001-10-23",
       "translations": [
-        "Профессиональный (многоголосый закадровый)",
-        "Профессиональный (двухголосый закадровый)"
+        "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-08-07 12:46:36",
+      "update": "2019-08-15 06:58:33",
       "iframe_src": ""
     }
   ]

@@ -1,369 +1,371 @@
 {
   "data": [
     {
-      "id": 18003,
-      "title": "Свинопас",
-      "kp_id": "1067612",
-      "imdb_id": "tt7119190",
+      "id": 18201,
+      "title": "Мальчики все починят",
+      "kp_id": "1088335",
+      "imdb_id": "tt6582774",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-07-30 23:17:16",
-      "orig_title": "Der Schweinehirt",
-      "year": "2017-12-26",
+      "add": "2018-08-10 00:06:46",
+      "orig_title": "The Fix It Boys",
+      "year": "2017-04-03",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2018-08-10 06:21:49",
+      "iframe_src": ""
+    },
+    {
+      "id": 18198,
+      "title": "Наверху ещё больше искусства",
+      "kp_id": null,
+      "imdb_id": "tt5440730",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-08-09 23:37:37",
+      "orig_title": "More Art Upstairs",
+      "year": "2017-05-01",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2018-08-10 06:40:00",
+      "iframe_src": ""
+    },
+    {
+      "id": 18190,
+      "title": "Убить миссис Тингл",
+      "kp_id": "4800",
+      "imdb_id": "tt0133046",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-08-09 12:34:04",
+      "orig_title": "Teaching Mrs. Tingle",
+      "year": "1999-08-11",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
-      "quality": "hdtv",
+      "quality": "dvdrip",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2018-07-31 06:28:39",
+      "update": "2018-08-10 06:04:58",
       "iframe_src": ""
     },
     {
-      "id": 18001,
-      "title": "Под арктическим небом",
-      "kp_id": null,
-      "imdb_id": "tt6680858",
+      "id": 18189,
+      "title": "Чудо-женщина",
+      "kp_id": "409518",
+      "imdb_id": "tt1186373",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-07-30 23:14:23",
-      "orig_title": "Under an Arctic Sky",
-      "year": "2017-04-23",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-07-31 06:31:17",
-      "iframe_src": ""
-    },
-    {
-      "id": 17998,
-      "title": "Изнасилование Рейси Тэйлор",
-      "kp_id": "1021178",
-      "imdb_id": "tt6116682",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-07-30 23:03:51",
-      "orig_title": "The Rape of Recy Taylor",
-      "year": "2017-09-06",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-07-31 06:37:37",
-      "iframe_src": ""
-    },
-    {
-      "id": 17997,
-      "title": "Прощай, энтузиазм",
-      "kp_id": "1112809",
-      "imdb_id": "tt6613932",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-07-30 22:59:33",
-      "orig_title": "Adiós entusiasmo",
-      "year": "2017-04-23",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-07-31 06:39:13",
-      "iframe_src": ""
-    },
-    {
-      "id": 17996,
-      "title": "Не бойся",
-      "kp_id": "568822",
-      "imdb_id": "tt1728174",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-07-30 22:56:24",
-      "orig_title": "No tengas miedo",
-      "year": "2011-04-29",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (GreenРай Studio)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый) (GreenРай Studio)",
-      "update": "2018-07-31 06:40:44",
-      "iframe_src": ""
-    },
-    {
-      "id": 17995,
-      "title": "Война крестьян",
-      "kp_id": "1059874",
-      "imdb_id": "tt6899238",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-07-30 22:47:57",
-      "orig_title": "La guerra dei cafoni",
-      "year": "2017-04-27",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-07-31 06:49:09",
-      "iframe_src": ""
-    },
-    {
-      "id": 17994,
-      "title": "Загнанные",
-      "kp_id": "1101162",
-      "imdb_id": "tt7601896",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-07-30 22:44:56",
-      "orig_title": "Traqués",
-      "year": "2018-04-29",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "hdtv",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-07-31 06:34:26",
-      "iframe_src": ""
-    },
-    {
-      "id": 17978,
-      "title": "Кулак ярости 3",
-      "kp_id": "79592",
-      "imdb_id": "tt0080742",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-07-29 21:00:40",
-      "orig_title": "Jie quan ying zhua gong",
-      "year": "1979-05-04",
-      "translations": [
-        "Профессиональный (одноголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (одноголосый закадровый)",
-      "update": "2018-07-30 11:40:20",
-      "iframe_src": ""
-    },
-    {
-      "id": 17977,
-      "title": "Кулак ярости 2",
-      "kp_id": "135472",
-      "imdb_id": "tt0074313",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-07-29 20:58:20",
-      "orig_title": "Jing wu men xu ji",
-      "year": "1977-09-13",
-      "translations": [
-        "Профессиональный (одноголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (одноголосый закадровый)",
-      "update": "2018-07-30 11:39:59",
-      "iframe_src": ""
-    },
-    {
-      "id": 17976,
-      "title": "Слепой детектив",
-      "kp_id": "677405",
-      "imdb_id": "tt2332707",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-07-29 20:54:55",
-      "orig_title": "Man tam",
-      "year": "2013-05-19",
-      "translations": [
-        "Любительский (двухголосый закадровый) (GREEN TEA)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (двухголосый закадровый) (GREEN TEA)",
-      "update": "2018-07-30 11:37:57",
-      "iframe_src": ""
-    },
-    {
-      "id": 17975,
-      "title": "Убить императора",
-      "kp_id": "195315",
-      "imdb_id": "tt0465676",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-07-29 20:50:52",
-      "orig_title": "Ye yan",
-      "year": "2006-08-30",
+      "add": "2018-08-09 12:32:47",
+      "orig_title": "Wonder Woman",
+      "year": "2009-03-03",
       "translations": [
         "Профессиональный (двухголосый закадровый)"
       ],
       "quality": "bd",
       "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2018-07-30 11:34:26",
+      "update": "2018-08-10 06:06:13",
       "iframe_src": ""
     },
     {
-      "id": 17971,
-      "title": "Город насилия",
-      "kp_id": "268542",
-      "imdb_id": "tt0821470",
+      "id": 18187,
+      "title": "Любовный переплет",
+      "kp_id": "463418",
+      "imdb_id": "tt1313139",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-07-29 20:31:13",
-      "orig_title": "Jjakpae",
-      "year": "2006-05-25",
+      "add": "2018-08-09 12:30:04",
+      "orig_title": "The Oranges",
+      "year": "2011-09-10",
       "translations": [
-        "Профессиональный (двухголосый закадровый) (РенТВ)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (двухголосый закадровый) (РенТВ)",
-      "update": "2018-07-30 11:27:54",
-      "iframe_src": ""
-    },
-    {
-      "id": 17968,
-      "title": "Даосский маг Чон У-чхи",
-      "kp_id": "487596",
-      "imdb_id": "tt1274293",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-07-29 19:32:20",
-      "orig_title": "Woochi",
-      "year": "2009-12-23",
-      "translations": [
-        "Любительский (одноголосый закадровый)",
-        "Любительский (двухголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2018-07-30 11:33:23",
-      "iframe_src": ""
-    },
-    {
-      "id": 17966,
-      "title": "Дуэлянт",
-      "kp_id": "272387",
-      "imdb_id": "tt0475616",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-07-29 19:25:13",
-      "orig_title": "Hyeongsa",
-      "year": "2005-09-09",
-      "translations": [
-        "Любительский (двухголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (двухголосый закадровый)",
-      "update": "2018-07-30 11:12:13",
-      "iframe_src": ""
-    },
-    {
-      "id": 17965,
-      "title": "Дом свиданий",
-      "kp_id": "44269",
-      "imdb_id": "tt0194822",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-07-29 19:23:18",
-      "orig_title": "Dom svidaniy",
-      "year": "1991-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2018-07-30 11:10:35",
-      "iframe_src": ""
-    },
-    {
-      "id": 17964,
-      "title": "Дистанция",
-      "kp_id": "55150",
-      "imdb_id": "tt0278413",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-07-29 19:21:02",
-      "orig_title": "Distance",
-      "year": "2001-05-10",
-      "translations": [
-        "Авторский (одноголосый закадровый) (Алексеев)"
-      ],
-      "quality": "bd",
-      "translation": "Авторский (одноголосый закадровый) (Алексеев)",
-      "update": "2018-07-30 11:10:10",
-      "iframe_src": ""
-    },
-    {
-      "id": 16890,
-      "title": "Чистокровные",
-      "kp_id": "975388",
-      "imdb_id": "tt5649108",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-05-23 22:55:57",
-      "orig_title": "Thoroughbreds",
-      "year": "2017-01-21",
-      "translations": [
-        "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-      "update": "2018-07-31 06:35:14",
-      "iframe_src": ""
-    },
-    {
-      "id": 13770,
-      "title": "Прощальная вечеринка",
-      "kp_id": "794982",
-      "imdb_id": "tt3163304",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-10-05 22:35:39",
-      "orig_title": "Mita Tova",
-      "year": "2014-09-03",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Профессиональный (многоголосый закадровый) (GreenРай Studio)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-07-31 06:47:34",
-      "iframe_src": ""
-    },
-    {
-      "id": 7674,
-      "title": "Холодная война 2",
-      "kp_id": "941792",
-      "imdb_id": "tt5112622",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-11-28 05:40:37",
-      "orig_title": "Hon zin 2",
-      "year": "2016-07-08",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (Колобок)",
-        "Любительский (двухголосый закадровый) (STEPonee)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый) (Колобок)",
-      "update": "2018-07-30 11:38:41",
-      "iframe_src": ""
-    },
-    {
-      "id": 3179,
-      "title": "Королевская битва",
-      "kp_id": "604",
-      "imdb_id": "tt0266308",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-06-16 07:10:52",
-      "orig_title": "Batoru rowaiaru",
-      "year": "2000-12-16",
-      "translations": [
-        "Полное дублирование",
-        "Авторский (одноголосый закадровый) (Гаврилов)"
+        "Полное дублирование"
       ],
       "quality": "bd",
       "translation": "Полное дублирование",
-      "update": "2018-07-30 11:36:35",
+      "update": "2018-08-10 06:08:59",
+      "iframe_src": ""
+    },
+    {
+      "id": 18176,
+      "title": "Резня в психушке",
+      "kp_id": "34306",
+      "imdb_id": "tt0092910",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-08-08 23:43:34",
+      "orig_title": "Doom Asylum",
+      "year": "1987-01-01",
+      "translations": [
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2018-08-09 10:48:29",
+      "iframe_src": ""
+    },
+    {
+      "id": 18174,
+      "title": "Слишком серьёзная игра",
+      "kp_id": "12120",
+      "imdb_id": "tt0091706",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-08-08 23:39:05",
+      "orig_title": "Out of Bounds",
+      "year": "1986-07-25",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Дольский Андрей)"
+      ],
+      "quality": "webdl",
+      "translation": "Авторский (одноголосый закадровый) (Дольский Андрей)",
+      "update": "2018-08-09 10:50:44",
+      "iframe_src": ""
+    },
+    {
+      "id": 18172,
+      "title": "Фантомная боль",
+      "kp_id": "396650",
+      "imdb_id": "tt1123970",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-08-08 23:35:55",
+      "orig_title": "Phantomschmerz",
+      "year": "2009-04-30",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2018-08-09 10:52:54",
+      "iframe_src": ""
+    },
+    {
+      "id": 18171,
+      "title": "Хвост скорпиона",
+      "kp_id": "109718",
+      "imdb_id": "tt0066924",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-08-08 23:33:27",
+      "orig_title": "La coda dello scorpione",
+      "year": "1971-08-16",
+      "translations": [
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2018-08-09 10:56:26",
+      "iframe_src": ""
+    },
+    {
+      "id": 18164,
+      "title": "Стальные люди",
+      "kp_id": null,
+      "imdb_id": "tt6440810",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-08-08 23:04:59",
+      "orig_title": "Iron Men",
+      "year": "2017-03-03",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2018-08-09 08:06:19",
+      "iframe_src": ""
+    },
+    {
+      "id": 18161,
+      "title": "Конец лета",
+      "kp_id": "1048905",
+      "imdb_id": "tt5644394",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-08-08 22:56:54",
+      "orig_title": "Xi xiao he de xia tian",
+      "year": "2017-10-14",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Колобок)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Колобок)",
+      "update": "2018-08-09 08:09:16",
+      "iframe_src": ""
+    },
+    {
+      "id": 18027,
+      "title": "Инопланетная Осада",
+      "kp_id": "1115911",
+      "imdb_id": "tt8235966",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-08-03 00:03:48",
+      "orig_title": "Alien Siege",
+      "year": "2018-07-22",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2018-08-10 06:23:25",
+      "iframe_src": ""
+    },
+    {
+      "id": 18026,
+      "title": "Мир Зомби 2",
+      "kp_id": "1102232",
+      "imdb_id": "tt7575400",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-08-01 23:11:46",
+      "orig_title": "Zombie World 2",
+      "year": "2018-01-01",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Любительский (двухголосый закадровый) (HiWayGrope)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2018-08-09 08:00:34",
+      "iframe_src": ""
+    },
+    {
+      "id": 17920,
+      "title": "Нет хороших героев",
+      "kp_id": "924070",
+      "imdb_id": "tt4839414",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-07-26 23:44:12",
+      "orig_title": "No Good Heroes",
+      "year": "2018-07-24",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Любительский (одноголосый закадровый) (datynet)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2018-08-10 06:37:48",
+      "iframe_src": ""
+    },
+    {
+      "id": 17888,
+      "title": "Красная борода",
+      "kp_id": "64017",
+      "imdb_id": "tt0058888",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-07-25 23:05:57",
+      "orig_title": "Akahige",
+      "year": "1965-04-03",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2018-08-10 06:00:53",
+      "iframe_src": ""
+    },
+    {
+      "id": 17855,
+      "title": "Прикончи меня",
+      "kp_id": "930198",
+      "imdb_id": "tt4807272",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-07-23 22:51:02",
+      "orig_title": "Ruin Me",
+      "year": "2017-08-26",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Любительский (одноголосый закадровый) (Хихикающий доктор)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2018-08-09 08:02:41",
+      "iframe_src": ""
+    },
+    {
+      "id": 17342,
+      "title": "Ночная смена",
+      "kp_id": "1045170",
+      "imdb_id": "tt6998408",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-06-24 23:17:48",
+      "orig_title": "Nochnaya smena",
+      "year": "2018-06-21",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "webdl",
+      "translation": "Оригинальная дорожка",
+      "update": "2018-08-10 06:10:25",
+      "iframe_src": ""
+    },
+    {
+      "id": 17040,
+      "title": "Желая и надеясь",
+      "kp_id": "881405",
+      "imdb_id": "tt3627780",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-06-04 23:09:38",
+      "orig_title": "Wishin' and Hopin'",
+      "year": "2014-11-23",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "hdtv",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2018-08-10 06:03:32",
+      "iframe_src": ""
+    },
+    {
+      "id": 15607,
+      "title": "Расхитительница гробниц",
+      "kp_id": "1113247",
+      "imdb_id": "tt7781732",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-03-14 22:08:22",
+      "orig_title": "Tomb Invader",
+      "year": "2018-03-09",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)",
+        "Любительский (двухголосый закадровый) (RealFake)",
+        "Любительский (двухголосый закадровый) (HiWayGrope)",
+        "Профессиональный (многоголосый закадровый) (GreenРай Studio)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2018-08-10 06:20:18",
+      "iframe_src": ""
+    },
+    {
+      "id": 12408,
+      "title": "Дом",
+      "kp_id": "916326",
+      "imdb_id": "tt4481514",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-07-10 06:54:43",
+      "orig_title": "The House",
+      "year": "2017-06-29",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Колобок)",
+        "Любительский (двухголосый закадровый) (Колобок)",
+        "Полное дублирование"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Колобок)",
+      "update": "2018-08-10 06:15:59",
       "iframe_src": ""
     }
   ]

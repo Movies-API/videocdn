@@ -1,367 +1,366 @@
 {
   "data": [
     {
-      "id": 37105,
-      "title": "Чистокровный",
-      "kp_id": "581958",
-      "imdb_id": "tt1845211",
+      "id": 37292,
+      "title": "Гармонии Веркмейстера",
+      "kp_id": "50377",
+      "imdb_id": "tt0249241",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-02-28 13:48:01",
-      "orig_title": "Blooded",
-      "year": "2011-03-18",
+      "add": "2020-03-03 11:05:51",
+      "orig_title": "Werckmeister harmóniák",
+      "year": "2001-02-01",
       "translations": [
-        "Любительский (двухголосый закадровый)"
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-03-04 20:06:39",
+      "iframe_src": ""
+    },
+    {
+      "id": 37291,
+      "title": "Авива, любовь моя",
+      "kp_id": "269012",
+      "imdb_id": "tt0833422",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-03-03 11:02:06",
+      "orig_title": "Aviva Ahuvati",
+      "year": "2006-07-11",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Чадов Михаил)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Авторский (одноголосый закадровый) (Чадов Михаил)",
+      "update": "2020-03-04 20:12:40",
+      "iframe_src": ""
+    },
+    {
+      "id": 37290,
+      "title": "Большой кайф",
+      "kp_id": "16851",
+      "imdb_id": "tt0092654",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-03-03 10:58:16",
+      "orig_title": "The Big Easy",
+      "year": "1986-11-27",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2020-03-04 18:57:51",
+      "iframe_src": ""
+    },
+    {
+      "id": 37289,
+      "title": "300 километров в час",
+      "kp_id": "580848",
+      "imdb_id": "tt1823051",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-03-03 10:54:49",
+      "orig_title": "200 M.P.H.",
+      "year": "2011-04-26",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-03-04 20:10:42",
+      "iframe_src": ""
+    },
+    {
+      "id": 37277,
+      "title": "Странствующая блудница: Предсказание",
+      "kp_id": "713744",
+      "imdb_id": "tt2475646",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-03-03 08:19:06",
+      "orig_title": "Das Vermächtnis der Wanderhure",
+      "year": "2012-11-13",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (РенТВ)"
       ],
       "quality": "hdrip",
-      "translation": "Любительский (двухголосый закадровый)",
-      "update": "2020-02-28 21:33:29",
+      "translation": "Профессиональный (многоголосый закадровый) (РенТВ)",
+      "update": "2020-03-04 20:14:12",
       "iframe_src": ""
     },
     {
-      "id": 37104,
-      "title": "Вся жизнь впереди",
-      "kp_id": "391715",
-      "imdb_id": "tt1075114",
+      "id": 37273,
+      "title": "Весна жизни",
+      "kp_id": "51945",
+      "imdb_id": "tt0230652",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-02-28 13:44:29",
-      "orig_title": "Tutta la vita davanti",
-      "year": "2008-03-28",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-02-28 21:34:00",
-      "iframe_src": ""
-    },
-    {
-      "id": 37098,
-      "title": "Горячий шоколад",
-      "kp_id": "5045",
-      "imdb_id": "tt0104444",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-02-28 09:56:09",
-      "orig_title": "Amour et chocolat",
-      "year": "1992-11-18",
-      "translations": [
-        "Авторский (одноголосый закадровый) (Володарский)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Авторский (одноголосый закадровый) (Володарский)",
-      "update": "2020-02-28 12:29:52",
-      "iframe_src": ""
-    },
-    {
-      "id": 37091,
-      "title": "Кровавый душ",
-      "kp_id": "352158",
-      "imdb_id": "tt0213248",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-02-28 09:20:38",
-      "orig_title": "Shower of Blood",
-      "year": "2004-02-03",
-      "translations": [
-        "Профессиональный (одноголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (одноголосый закадровый)",
-      "update": "2020-02-28 12:09:21",
-      "iframe_src": ""
-    },
-    {
-      "id": 37089,
-      "title": "Карта смерти",
-      "kp_id": "17758",
-      "imdb_id": "tt0249172",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-02-28 09:01:26",
-      "orig_title": "The Suicide Club",
-      "year": "2000-01-01",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-02-28 12:28:12",
-      "iframe_src": ""
-    },
-    {
-      "id": 37087,
-      "title": "Алмания - Добро пожаловать в Германию",
-      "kp_id": "509081",
-      "imdb_id": "tt1630027",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-02-28 08:41:52",
-      "orig_title": "Almanya - Willkommen in Deutschland",
-      "year": "2011-02-12",
+      "add": "2020-03-03 08:15:27",
+      "orig_title": "Pramen zivota",
+      "year": "2000-02-03",
       "translations": [
         "Любительский (одноголосый закадровый)"
       ],
-      "quality": "hdrip",
+      "quality": "dvdrip",
       "translation": "Любительский (одноголосый закадровый)",
-      "update": "2020-02-28 12:58:24",
+      "update": "2020-03-04 20:13:25",
       "iframe_src": ""
     },
     {
-      "id": 37085,
-      "title": "Возвращение Мартина Герра",
-      "kp_id": "20906",
-      "imdb_id": "tt0084589",
+      "id": 37271,
+      "title": "Бессмертные души",
+      "kp_id": "11115",
+      "imdb_id": "tt0218619",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-02-28 06:00:25",
-      "orig_title": "Le retour de Martin Guerre",
-      "year": "1982-05-14",
+      "add": "2020-03-03 08:13:24",
+      "orig_title": "Soul Survivors",
+      "year": "2001-09-06",
       "translations": [
-        "Профессиональный (многоголосый закадровый)"
+        "Полное дублирование"
       ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-02-28 15:42:47",
+      "quality": "dvdrip",
+      "translation": "Полное дублирование",
+      "update": "2020-03-04 20:13:03",
       "iframe_src": ""
     },
     {
-      "id": 37069,
-      "title": "Разбившаяся любовь",
-      "kp_id": "577618",
-      "imdb_id": "tt1815798",
+      "id": 37267,
+      "title": "Клан вампиров",
+      "kp_id": "48251",
+      "imdb_id": "tt0310298",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-02-28 05:06:17",
-      "orig_title": "Les amants naufragés",
-      "year": "2011-06-14",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (Red Media)"
-      ],
-      "quality": "hdtv",
-      "translation": "Профессиональный (многоголосый закадровый) (Red Media)",
-      "update": "2020-02-28 13:59:52",
-      "iframe_src": ""
-    },
-    {
-      "id": 37068,
-      "title": "Пленница",
-      "kp_id": "575190",
-      "imdb_id": "tt1787120",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-02-27 19:47:26",
-      "orig_title": "Committed",
-      "year": "2011-04-17",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "tv",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-02-28 12:50:29",
-      "iframe_src": ""
-    },
-    {
-      "id": 37067,
-      "title": "Настоящая история о Джекиле и Хайде",
-      "kp_id": "87140",
-      "imdb_id": "tt0425150",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-02-27 19:45:17",
-      "orig_title": "Jekyll + Hyde",
-      "year": "2006-05-05",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "sat",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-02-28 12:53:00",
-      "iframe_src": ""
-    },
-    {
-      "id": 37066,
-      "title": "Мясник",
-      "kp_id": "281135",
-      "imdb_id": "tt0997038",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-02-27 19:42:53",
-      "orig_title": "The Butcher",
-      "year": "2009-07-10",
+      "add": "2020-03-03 08:09:17",
+      "orig_title": "Vampire Clan",
+      "year": "2002-07-13",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "dvdrip",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-02-28 12:53:53",
+      "update": "2020-03-04 20:12:32",
       "iframe_src": ""
     },
     {
-      "id": 37050,
-      "title": "Будьте как дома",
-      "kp_id": "633951",
-      "imdb_id": "tt2075141",
+      "id": 37260,
+      "title": "Ушпизин",
+      "kp_id": "103297",
+      "imdb_id": "tt0426155",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-02-27 12:29:59",
-      "orig_title": "Comme chez soi",
-      "year": "2011-10-08",
+      "add": "2020-03-03 07:58:58",
+      "orig_title": "Ha-Ushpizin",
+      "year": "2004-07-11",
       "translations": [
-        "Профессиональный (двухголосый закадровый) (Red Media)"
-      ],
-      "quality": "hdtv",
-      "translation": "Профессиональный (двухголосый закадровый) (Red Media)",
-      "update": "2020-02-28 12:56:27",
-      "iframe_src": ""
-    },
-    {
-      "id": 37010,
-      "title": "Первопроходцы: В компании незнакомцев",
-      "kp_id": "424359",
-      "imdb_id": "tt1260680",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-02-26 17:13:20",
-      "orig_title": "Pathfinders: In the Company of Strangers",
-      "year": "2011-01-11",
-      "translations": [
-        "Любительский (двухголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (двухголосый закадровый)",
-      "update": "2020-02-28 17:34:51",
-      "iframe_src": ""
-    },
-    {
-      "id": 36929,
-      "title": "Полёт",
-      "kp_id": "197856",
-      "imdb_id": "tt0287065",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-02-25 19:23:17",
-      "orig_title": "Udaan",
-      "year": "1997-10-03",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (ZEE TV)"
+        "Любительский (одноголосый закадровый)"
       ],
       "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый) (ZEE TV)",
-      "update": "2020-02-28 11:46:50",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2020-03-04 20:11:57",
       "iframe_src": ""
     },
     {
-      "id": 36928,
-      "title": "Убежденный холостяк",
-      "kp_id": "98803",
-      "imdb_id": "tt0301250",
+      "id": 37259,
+      "title": "Шпион: Операция под прикрытием",
+      "kp_id": "779060",
+      "imdb_id": "tt3025712",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-02-25 19:19:18",
-      "orig_title": "Tera Mera Saath Rahen",
-      "year": "2001-11-07",
+      "add": "2020-03-03 07:54:19",
+      "orig_title": "Seupai",
+      "year": "2013-09-05",
       "translations": [
-        "Профессиональный (двухголосый закадровый)"
+        "Любительский (одноголосый закадровый) (den904)"
       ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2020-02-28 11:43:45",
+      "quality": "hdrip",
+      "translation": "Любительский (одноголосый закадровый) (den904)",
+      "update": "2020-03-04 20:10:36",
       "iframe_src": ""
     },
     {
-      "id": 36922,
-      "title": "Записки Кейна: Жизнь узника",
-      "kp_id": "487207",
-      "imdb_id": "tt1546420",
+      "id": 37258,
+      "title": "Последний бой 300 спартанцев",
+      "kp_id": "308253",
+      "imdb_id": "tt0892737",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-02-25 18:09:34",
-      "orig_title": "The Kane Files: Life of Trial",
-      "year": "2010-10-02",
+      "add": "2020-03-03 07:51:30",
+      "orig_title": "Last Stand of the 300",
+      "year": "2007-01-01",
       "translations": [
-        "Профессиональный (двухголосый закадровый)"
+        "Профессиональный (одноголосый закадровый)"
       ],
       "quality": "hdtv",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2020-02-28 17:36:03",
+      "translation": "Профессиональный (одноголосый закадровый)",
+      "update": "2020-03-04 20:10:00",
       "iframe_src": ""
     },
     {
-      "id": 33574,
-      "title": "Я потерял своё тело",
-      "kp_id": "1253779",
-      "imdb_id": "tt9806192",
+      "id": 37257,
+      "title": "Персона нон грата",
+      "kp_id": "160937",
+      "imdb_id": "tt0472884",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-12-01 11:18:43",
-      "orig_title": "J'ai perdu mon corps",
+      "add": "2020-03-03 07:49:39",
+      "orig_title": "Persona non grata",
+      "year": "2005-09-04",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "dvdrip",
+      "translation": "Полное дублирование",
+      "update": "2020-03-04 20:09:18",
+      "iframe_src": ""
+    },
+    {
+      "id": 37256,
+      "title": "Толстяк",
+      "kp_id": "452897",
+      "imdb_id": "tt1145446",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-03-03 07:43:50",
+      "orig_title": "Fatso",
+      "year": "2008-10-24",
+      "translations": [
+        "Любительский (одноголосый закадровый) (RussianGuy27)"
+      ],
+      "quality": "hdrip",
+      "translation": "Любительский (одноголосый закадровый) (RussianGuy27)",
+      "update": "2020-03-04 20:07:41",
+      "iframe_src": ""
+    },
+    {
+      "id": 37222,
+      "title": "Утренняя принцесса",
+      "kp_id": "1351547",
+      "imdb_id": "tt11450738",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-03-02 19:09:27",
+      "orig_title": "Morning Princess",
+      "year": "2019-12-13",
+      "translations": [
+        "Любительский (двухголосый закадровый) (Колобок)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (двухголосый закадровый) (Колобок)",
+      "update": "2020-03-04 19:00:57",
+      "iframe_src": ""
+    },
+    {
+      "id": 37220,
+      "title": "Ушу",
+      "kp_id": "384538",
+      "imdb_id": "tt0790786",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-03-02 18:57:23",
+      "orig_title": "Wushu",
+      "year": "2008-09-10",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-03-04 18:31:52",
+      "iframe_src": ""
+    },
+    {
+      "id": 37219,
+      "title": "Другая семья",
+      "kp_id": "555149",
+      "imdb_id": "tt1695136",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-03-02 18:54:42",
+      "orig_title": "La otra familia",
+      "year": "2011-03-25",
+      "translations": [
+        "Любительский (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Любительский (многоголосый закадровый)",
+      "update": "2020-03-04 18:33:22",
+      "iframe_src": ""
+    },
+    {
+      "id": 37218,
+      "title": "Честь и ярость",
+      "kp_id": "5468",
+      "imdb_id": "tt0105212",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-03-02 18:52:57",
+      "orig_title": "Rage and Honor",
+      "year": "1992-05-01",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-03-04 18:34:10",
+      "iframe_src": ""
+    },
+    {
+      "id": 35277,
+      "title": "Песня имён",
+      "kp_id": "522900",
+      "imdb_id": "tt1657517",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-01-21 08:38:47",
+      "orig_title": "The Song of Names",
+      "year": "2019-09-08",
+      "translations": [
+        "Полное дублирование (iTunes)"
+      ],
+      "quality": "webdl",
+      "translation": "Полное дублирование (iTunes)",
+      "update": "2020-03-04 18:30:14",
+      "iframe_src": ""
+    },
+    {
+      "id": 33930,
+      "title": "Малыш Джо",
+      "kp_id": "1207523",
+      "imdb_id": "tt9204204",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-12-10 15:00:03",
+      "orig_title": "Little Joe",
       "year": "2019-05-17",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Любительский (многоголосый закадровый) (NewStation)"
+        "Полное дублирование (iTunes)",
+        "Original (English)"
       ],
       "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-02-28 12:31:41",
+      "translation": "Полное дублирование (iTunes)",
+      "update": "2020-03-04 18:32:39",
       "iframe_src": ""
     },
     {
-      "id": 30622,
-      "title": "Вселенная Стивена",
-      "kp_id": "1281461",
-      "imdb_id": "tt10515852",
+      "id": 539,
+      "title": "Обитель зла",
+      "kp_id": "801",
+      "imdb_id": "tt0120804",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-09-05 21:15:15",
-      "orig_title": "Steven Universe: The Movie",
-      "year": "2019-09-02",
+      "add": "2016-04-04 19:48:44",
+      "orig_title": "Resident Evil",
+      "year": "2002-03-12",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Любительский (многоголосый закадровый) (NewStation)"
+        "Полное дублирование",
+        "Original (English)",
+        "Авторский (одноголосый закадровый) (Пучков Дмитрй| Гоблин)"
       ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-02-28 12:13:30",
-      "iframe_src": ""
-    },
-    {
-      "id": 30502,
-      "title": "Студент года 2",
-      "kp_id": "1048248",
-      "imdb_id": "tt7255568",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-09-02 20:58:03",
-      "orig_title": "Student of the Year 2",
-      "year": "2019-05-10",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)",
-        "Любительский (многоголосый закадровый) (OnisFilms)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-02-28 11:45:20",
-      "iframe_src": ""
-    },
-    {
-      "id": 30348,
-      "title": "Тито и птицы",
-      "kp_id": "1172859",
-      "imdb_id": "tt8327492",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-08-27 22:28:49",
-      "orig_title": "Tito e os Pássaros",
-      "year": "2018-06-11",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Любительский (многоголосый закадровый) (NewStation)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-02-28 12:03:34",
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2020-03-04 20:08:40",
       "iframe_src": ""
     }
   ]

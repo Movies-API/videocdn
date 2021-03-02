@@ -1,363 +1,363 @@
 {
   "data": [
     {
-      "id": 6461,
-      "title": "Чунцинский куш",
-      "kp_id": "972254",
-      "imdb_id": "tt5596352",
+      "id": 6622,
+      "title": "Чужая нация",
+      "kp_id": "1702",
+      "imdb_id": "tt0094631",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-10-18 16:36:22",
-      "orig_title": "Chongqing Hot Pot",
-      "year": "2016-03-21",
+      "add": "2016-10-25 05:26:26",
+      "orig_title": "Alien Nation",
+      "year": "1988-10-07",
       "translations": [
-        "Любительский (двухголосый закадровый)"
+        "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
-      "translation": "Любительский (двухголосый закадровый)",
-      "update": "2016-10-19 05:39:25",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-10-25 11:03:32",
       "iframe_src": ""
     },
     {
-      "id": 6452,
-      "title": "Малыши",
-      "kp_id": "325645",
-      "imdb_id": "tt1020938",
+      "id": 6619,
+      "title": "Слияние двух лун",
+      "kp_id": "12341",
+      "imdb_id": "tt0096324",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-10-18 14:49:52",
-      "orig_title": "Bébé(s)",
-      "year": "2010-05-07",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "bd",
-      "translation": "Оригинальная дорожка",
-      "update": "2016-10-18 18:14:37",
-      "iframe_src": ""
-    },
-    {
-      "id": 6444,
-      "title": "Училка",
-      "kp_id": "842033",
-      "imdb_id": "tt4574604",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-18 14:35:51",
-      "orig_title": "Uchilka",
-      "year": "2015-11-13",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2016-10-18 19:22:53",
-      "iframe_src": ""
-    },
-    {
-      "id": 6443,
-      "title": "Избави нас от лукавого",
-      "kp_id": "707483",
-      "imdb_id": "tt2377322",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-18 14:34:44",
-      "orig_title": "Deliver Us from Evil",
-      "year": "2014-06-24",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2016-10-18 19:16:53",
-      "iframe_src": ""
-    },
-    {
-      "id": 6398,
-      "title": "Легенда",
-      "kp_id": "2617",
-      "imdb_id": "tt0089469",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-17 18:14:28",
-      "orig_title": "Legend",
-      "year": "1985-08-28",
+      "add": "2016-10-24 17:04:51",
+      "orig_title": "Two Moon Junction",
+      "year": "1988-04-29",
       "translations": [
         "Профессиональный (двухголосый закадровый)"
       ],
       "quality": "bd",
       "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2016-10-19 09:23:51",
+      "update": "2016-10-25 10:52:39",
       "iframe_src": ""
     },
     {
-      "id": 6397,
-      "title": "Военные потери",
-      "kp_id": "4469",
-      "imdb_id": "tt0097027",
+      "id": 6618,
+      "title": "Десятый человек",
+      "kp_id": "277751",
+      "imdb_id": "tt0096243",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-10-17 18:13:18",
-      "orig_title": "Casualties of War",
-      "year": "1989-08-18",
+      "add": "2016-10-24 17:03:43",
+      "orig_title": "The Tenth Man",
+      "year": "1988-12-04",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "hdtv",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2016-10-25 10:50:19",
+      "iframe_src": ""
+    },
+    {
+      "id": 6617,
+      "title": "Грязная дюжина: Фатальное задание",
+      "kp_id": "229407",
+      "imdb_id": "tt0095022",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-24 17:02:08",
+      "orig_title": "The Dirty Dozen: The Fatal Mission",
+      "year": "1988-02-14",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "hdtv",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2016-10-25 10:47:01",
+      "iframe_src": ""
+    },
+    {
+      "id": 6616,
+      "title": "Милая ложь",
+      "kp_id": "9237",
+      "imdb_id": "tt0096201",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-24 17:00:38",
+      "orig_title": "Sweet Lies",
+      "year": "1987-12-18",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "hdtv",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2016-10-25 10:45:25",
+      "iframe_src": ""
+    },
+    {
+      "id": 6615,
+      "title": "Исчезновение",
+      "kp_id": "8346",
+      "imdb_id": "tt0096163",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-24 16:59:30",
+      "orig_title": "Spoorloos",
+      "year": "1988-08-29",
       "translations": [
         "Профессиональный (двухголосый закадровый)"
       ],
       "quality": "bd",
       "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2016-10-19 09:20:57",
+      "update": "2016-10-25 10:43:34",
       "iframe_src": ""
     },
     {
-      "id": 6396,
-      "title": "Маппеты",
-      "kp_id": "464376",
-      "imdb_id": "tt1204342",
+      "id": 6614,
+      "title": "Служители дьявола",
+      "kp_id": "23333",
+      "imdb_id": "tt0096152",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-10-17 18:11:49",
-      "orig_title": "The Muppets",
-      "year": "2011-11-04",
+      "add": "2016-10-24 16:58:25",
+      "orig_title": "Spellbinder",
+      "year": "1988-09-23",
       "translations": [
-        "Полное дублирование"
+        "Профессиональный (двухголосый закадровый)"
       ],
       "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2016-10-19 09:18:03",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2016-10-25 10:41:29",
       "iframe_src": ""
     },
     {
-      "id": 6395,
-      "title": "Маппеты 2",
-      "kp_id": "672960",
-      "imdb_id": "tt2281587",
+      "id": 6613,
+      "title": "На холостом ходу",
+      "kp_id": "10105",
+      "imdb_id": "tt0096018",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-10-17 18:10:24",
-      "orig_title": "Muppets Most Wanted",
-      "year": "2014-03-11",
+      "add": "2016-10-24 16:57:18",
+      "orig_title": "Running on Empty",
+      "year": "1988-09-07",
       "translations": [
-        "Любительский (двухголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (двухголосый закадровый)",
-      "update": "2016-10-19 09:16:08",
-      "iframe_src": ""
-    },
-    {
-      "id": 6394,
-      "title": "Цвет денег",
-      "kp_id": "4331",
-      "imdb_id": "tt0090863",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-17 18:04:56",
-      "orig_title": "The Color of Money",
-      "year": "1986-10-08",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2016-10-19 09:14:14",
-      "iframe_src": ""
-    },
-    {
-      "id": 6393,
-      "title": "Ядовитый плющ: Секретное общество",
-      "kp_id": "397503",
-      "imdb_id": "tt1131749",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-17 18:03:56",
-      "orig_title": "Poison Ivy: The Secret Society",
-      "year": "2008-05-01",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2016-10-19 09:12:36",
-      "iframe_src": ""
-    },
-    {
-      "id": 6392,
-      "title": "Монте-Карло",
-      "kp_id": "416107",
-      "imdb_id": "tt1067774",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-17 18:02:38",
-      "orig_title": "Monte Carlo",
-      "year": "2011-06-30",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2016-10-19 09:10:37",
-      "iframe_src": ""
-    },
-    {
-      "id": 6391,
-      "title": "Грейстоук: Легенда о Тарзане, повелителе обезьян",
-      "kp_id": "7583",
-      "imdb_id": "tt0087365",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-17 18:01:33",
-      "orig_title": "Greystoke: The Legend of Tarzan, Lord of the Apes",
-      "year": "1984-03-30",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2016-10-19 09:08:38",
-      "iframe_src": ""
-    },
-    {
-      "id": 6390,
-      "title": "Консьерж",
-      "kp_id": "9412",
-      "imdb_id": "tt0106941",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-17 17:55:54",
-      "orig_title": "For Love or Money",
-      "year": "1993-10-01",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2016-10-19 09:06:37",
-      "iframe_src": ""
-    },
-    {
-      "id": 6389,
-      "title": "Свободные",
-      "kp_id": "420455",
-      "imdb_id": "tt1068242",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-17 17:54:10",
-      "orig_title": "Footloose",
-      "year": "2011-10-06",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2016-10-19 09:04:13",
-      "iframe_src": ""
-    },
-    {
-      "id": 6388,
-      "title": "100 девчонок и одна в лифтe",
-      "kp_id": "573",
-      "imdb_id": "tt0214388",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-17 17:52:55",
-      "orig_title": "100 Girls",
-      "year": "2000-09-01",
-      "translations": [
-        "Полное дублирование"
+        "Профессиональный (двухголосый закадровый)"
       ],
       "quality": "webdl",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2016-10-25 10:40:13",
+      "iframe_src": ""
+    },
+    {
+      "id": 6612,
+      "title": "Красный скорпион",
+      "kp_id": "2695",
+      "imdb_id": "tt0098180",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-24 16:55:58",
+      "orig_title": "Red Scorpion",
+      "year": "1988-10-25",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2016-10-25 10:38:43",
+      "iframe_src": ""
+    },
+    {
+      "id": 6611,
+      "title": "Вечная песня",
+      "kp_id": "3812",
+      "imdb_id": "tt0095853",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-24 16:54:40",
+      "orig_title": "Permanent Record",
+      "year": "1988-04-22",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "hdtv",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2016-10-25 10:37:07",
+      "iframe_src": ""
+    },
+    {
+      "id": 6608,
+      "title": "Зубастики 3",
+      "kp_id": "6876",
+      "imdb_id": "tt0101627",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-24 16:47:33",
+      "orig_title": "Critters 3",
+      "year": "1991-12-11",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2016-10-25 08:04:45",
+      "iframe_src": ""
+    },
+    {
+      "id": 6607,
+      "title": "Зубастики 2: Главное блюдо",
+      "kp_id": "5192",
+      "imdb_id": "tt0094919",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-24 16:46:35",
+      "orig_title": "Critters 2",
+      "year": "1988-04-29",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2016-10-25 08:03:01",
+      "iframe_src": ""
+    },
+    {
+      "id": 6605,
+      "title": "Зверь",
+      "kp_id": "9355",
+      "imdb_id": "tt0094716",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-24 16:44:35",
+      "orig_title": "The Beast of War",
+      "year": "1988-09-07",
+      "translations": [
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "hdtv",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2016-10-25 07:58:01",
+      "iframe_src": ""
+    },
+    {
+      "id": 6604,
+      "title": "Выстоять и добиться",
+      "kp_id": "2844",
+      "imdb_id": "tt0094027",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-24 16:42:41",
+      "orig_title": "Stand and Deliver",
+      "year": "1988-02-13",
+      "translations": [
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2016-10-25 07:56:34",
+      "iframe_src": ""
+    },
+    {
+      "id": 6603,
+      "title": "Огонь на поражение",
+      "kp_id": "17292",
+      "imdb_id": "tt0096098",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-24 16:41:23",
+      "orig_title": "Shoot to Kill",
+      "year": "1988-02-12",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "hdtv",
       "translation": "Полное дублирование",
-      "update": "2016-10-19 09:01:33",
+      "update": "2016-10-25 07:54:35",
       "iframe_src": ""
     },
     {
-      "id": 6387,
-      "title": "Класс 1984",
-      "kp_id": "17604",
-      "imdb_id": "tt0083739",
+      "id": 6602,
+      "title": "Гольф-клуб 2",
+      "kp_id": "19096",
+      "imdb_id": "tt0094824",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-10-17 17:51:12",
-      "orig_title": "Class of 1984",
-      "year": "1982-07-01",
+      "add": "2016-10-24 16:40:05",
+      "orig_title": "Caddyshack II",
+      "year": "1988-07-22",
       "translations": [
-        "Авторский (одноголосый закадровый) (Гаврилов)"
+        "Профессиональный (двухголосый закадровый)"
       ],
-      "quality": "bd",
-      "translation": "Авторский (одноголосый закадровый) (Гаврилов)",
-      "update": "2016-10-19 08:59:29",
+      "quality": "webdl",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2016-10-25 07:51:45",
       "iframe_src": ""
     },
     {
-      "id": 6383,
-      "title": "Там, где гнездятся орлы",
-      "kp_id": "10861",
-      "imdb_id": "tt0065207",
+      "id": 6601,
+      "title": "Гольф-клуб",
+      "kp_id": "5997",
+      "imdb_id": "tt0080487",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-10-17 10:58:27",
-      "orig_title": "Where Eagles Dare",
-      "year": "1968-12-04",
+      "add": "2016-10-24 16:38:59",
+      "orig_title": "Caddyshack",
+      "year": "1980-07-25",
       "translations": [
-        "Профессиональный (многоголосый закадровый)"
+        "Полное дублирование"
       ],
       "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-10-18 15:31:27",
+      "translation": "Полное дублирование",
+      "update": "2016-10-25 07:50:16",
       "iframe_src": ""
     },
     {
-      "id": 6381,
-      "title": "Крученый мяч",
-      "kp_id": "634232",
-      "imdb_id": "tt2083383",
+      "id": 6600,
+      "title": "Новые приключения Пеппи Длинныйчулок",
+      "kp_id": "25411",
+      "imdb_id": "tt0093744",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-10-17 10:56:16",
-      "orig_title": "Trouble with the Curve",
-      "year": "2012-09-19",
+      "add": "2016-10-24 16:37:13",
+      "orig_title": "The New Adventures of Pippi Longstocking",
+      "year": "1988-07-29",
       "translations": [
-        "Профессиональный (многоголосый закадровый)"
+        "Авторский (одноголосый закадровый) (Михалёв Алексей)"
       ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-10-18 15:27:49",
+      "quality": "webdl",
+      "translation": "Авторский (одноголосый закадровый) (Михалёв Алексей)",
+      "update": "2016-10-25 07:48:00",
       "iframe_src": ""
     },
     {
-      "id": 6380,
-      "title": "Сканнеры 3: Переворот",
-      "kp_id": "24910",
-      "imdb_id": "tt0105322",
+      "id": 6599,
+      "title": "Опасные повороты",
+      "kp_id": "31992",
+      "imdb_id": "tt0094946",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-10-17 10:54:36",
-      "orig_title": "Scanners III: The Takeover",
-      "year": "1992-01-31",
+      "add": "2016-10-24 16:35:46",
+      "orig_title": "Dangerous Curves",
+      "year": "1988-09-23",
       "translations": [
-        "Профессиональный (многоголосый закадровый)"
+        "Авторский (одноголосый закадровый) (Санаев Павел)"
       ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-10-18 15:25:44",
+      "quality": "webdl",
+      "translation": "Авторский (одноголосый закадровый) (Санаев Павел)",
+      "update": "2016-10-25 07:46:20",
       "iframe_src": ""
     },
     {
-      "id": 6378,
-      "title": "Сканнеры",
-      "kp_id": "24084",
-      "imdb_id": "tt0081455",
+      "id": 6598,
+      "title": "Неудовлетворенное сексуальное напряжение",
+      "kp_id": "493953",
+      "imdb_id": "tt1490759",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-10-17 10:52:17",
-      "orig_title": "Scanners",
-      "year": "1981-01-14",
+      "add": "2016-10-24 13:35:40",
+      "orig_title": "Tensión sexual no resuelta",
+      "year": "2010-03-18",
       "translations": [
-        "Профессиональный (многоголосый закадровый)"
+        "Полное дублирование"
       ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-10-18 15:21:36",
+      "quality": "hdtv",
+      "translation": "Полное дублирование",
+      "update": "2016-10-25 08:15:53",
       "iframe_src": ""
     }
   ]

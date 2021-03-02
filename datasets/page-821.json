@@ -1,364 +1,367 @@
 {
   "data": [
     {
-      "id": 34195,
-      "title": "Лига Легенд: Происхождение",
-      "kp_id": null,
-      "imdb_id": "tt11131032",
+      "id": 34444,
+      "title": "Вавилон 5: Третье пространство",
+      "kp_id": "93924",
+      "imdb_id": "tt0121804",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-12-17 10:37:06",
-      "orig_title": "League of Legends Origins",
-      "year": "2019-10-16",
+      "add": "2019-12-25 09:42:34",
+      "orig_title": "Babylon 5: Thirdspace",
+      "year": "1998-07-18",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-12-25 12:20:31",
+      "iframe_src": ""
+    },
+    {
+      "id": 34443,
+      "title": "Тролль в Центральном парке",
+      "kp_id": "1836",
+      "imdb_id": "tt0108395",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-12-25 09:38:47",
+      "orig_title": "A Troll in Central Park",
+      "year": "1994-07-13",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "dvdrip",
+      "translation": "Полное дублирование",
+      "update": "2019-12-25 13:00:39",
+      "iframe_src": ""
+    },
+    {
+      "id": 34436,
+      "title": "Рождественское чудо для Меган",
+      "kp_id": "1093993",
+      "imdb_id": "tt6594244",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-12-25 05:23:16",
+      "orig_title": "Megan's Christmas Miracle",
+      "year": "2018-10-10",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-12-17 14:51:36",
+      "update": "2019-12-25 08:09:00",
       "iframe_src": ""
     },
     {
-      "id": 34192,
-      "title": "Милен Фармер 2019 – в кино",
-      "kp_id": "1280668",
-      "imdb_id": "tt11244448",
+      "id": 34435,
+      "title": "Рождество в Монтане",
+      "kp_id": "1320606",
+      "imdb_id": "tt11151688",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-12-17 06:06:50",
-      "orig_title": "Mylène Farmer 2019 - Le film",
-      "year": "2019-11-07",
+      "add": "2019-12-25 05:21:21",
+      "orig_title": "Christmas in Montana",
+      "year": "2019-12-14",
       "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "bd",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-12-17 11:14:27",
-      "iframe_src": ""
-    },
-    {
-      "id": 34183,
-      "title": "Все о Лили Чоу-Чоу",
-      "kp_id": "221531",
-      "imdb_id": "tt0297721",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-12-16 19:04:30",
-      "orig_title": "Riri Shushu no subete",
-      "year": "2001-09-07",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2019-12-17 10:25:32",
-      "iframe_src": ""
-    },
-    {
-      "id": 34182,
-      "title": "Басара – княжна Го",
-      "kp_id": "164487",
-      "imdb_id": "tt0104351",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-12-16 19:02:03",
-      "orig_title": "Gô-hime",
-      "year": "1992-04-11",
-      "translations": [
-        "Авторский (одноголосый закадровый) (Алексеев)"
-      ],
-      "quality": "bd",
-      "translation": "Авторский (одноголосый закадровый) (Алексеев)",
-      "update": "2019-12-17 10:24:37",
-      "iframe_src": ""
-    },
-    {
-      "id": 34181,
-      "title": "Круто сваренные 2: Последняя кровь",
-      "kp_id": "36924",
-      "imdb_id": "tt0099888",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-12-16 18:59:27",
-      "orig_title": "Ging tin 12 siu si",
-      "year": "1990-12-29",
-      "translations": [
-        "Авторский (одноголосый закадровый) (Визгунов)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Авторский (одноголосый закадровый) (Визгунов)",
-      "update": "2019-12-17 10:23:30",
-      "iframe_src": ""
-    },
-    {
-      "id": 34179,
-      "title": "Бренность",
-      "kp_id": "383132",
-      "imdb_id": "tt0128364",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-12-16 18:54:05",
-      "orig_title": "Mujô",
-      "year": "1970-08-08",
-      "translations": [
-        "Любительский (одноголосый закадровый) (Воротилин)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (одноголосый закадровый) (Воротилин)",
-      "update": "2019-12-17 10:22:56",
-      "iframe_src": ""
-    },
-    {
-      "id": 34178,
-      "title": "Хост-клуб Оранской школы",
-      "kp_id": "623054",
-      "imdb_id": "tt2036375",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-12-16 18:51:16",
-      "orig_title": "Gekijôban Ôran kôkô hosutobu",
-      "year": "2012-03-17",
-      "translations": [
-        "Любительский (одноголосый закадровый)"
+        "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "hdtv",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2019-12-17 10:21:13",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-12-25 06:28:34",
       "iframe_src": ""
     },
     {
-      "id": 34177,
-      "title": "Рикю",
-      "kp_id": "156537",
-      "imdb_id": "tt0098204",
+      "id": 34426,
+      "title": "Уиджи: начало",
+      "kp_id": "954870",
+      "imdb_id": "tt5232468",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-12-16 18:45:15",
-      "orig_title": "Rikyu",
-      "year": "1989-09-15",
+      "add": "2019-12-24 19:53:51",
+      "orig_title": "Ouijageist",
+      "year": "2018-05-07",
       "translations": [
-        "Авторский (одноголосый закадровый) (Рябов)"
+        "Любительский (многоголосый закадровый) (AlphaProject)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (AlphaProject)",
+      "update": "2019-12-25 04:28:59",
+      "iframe_src": ""
+    },
+    {
+      "id": 34425,
+      "title": "Простая свадьба",
+      "kp_id": "1079717",
+      "imdb_id": "tt6328242",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-12-24 19:52:41",
+      "orig_title": "A Simple Wedding",
+      "year": "2018-09-21",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-12-25 04:27:44",
+      "iframe_src": ""
+    },
+    {
+      "id": 34424,
+      "title": "Мы знали друг друга",
+      "kp_id": "1075970",
+      "imdb_id": "tt7390126",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-12-24 19:50:15",
+      "orig_title": "We Used To Know Each Other",
+      "year": "2019-03-05",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-12-25 04:26:50",
+      "iframe_src": ""
+    },
+    {
+      "id": 34423,
+      "title": "Девушка мечты",
+      "kp_id": "1212652",
+      "imdb_id": "tt9248940",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-12-24 19:48:54",
+      "orig_title": "Dream Girl",
+      "year": "2019-09-13",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-12-25 06:29:02",
+      "iframe_src": ""
+    },
+    {
+      "id": 34422,
+      "title": "Идущий по линии 2: Теневой агент",
+      "kp_id": "1248486",
+      "imdb_id": "tt10295602",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-12-24 19:45:42",
+      "orig_title": "Shi tu xing zhe 2: Die ying xing dong",
+      "year": "2019-08-04",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "bd",
-      "translation": "Авторский (одноголосый закадровый) (Рябов)",
-      "update": "2019-12-17 10:19:26",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-12-24 21:26:05",
       "iframe_src": ""
     },
     {
-      "id": 34175,
-      "title": "Смертоносная пантера 2",
-      "kp_id": "233092",
-      "imdb_id": "tt0107393",
+      "id": 34419,
+      "title": "Подводное чудовище 2",
+      "kp_id": "1263769",
+      "imdb_id": "tt10324120",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-12-16 18:37:06",
-      "orig_title": "Magkasangga sa batas",
-      "year": "1993-02-02",
+      "add": "2019-12-24 13:52:52",
+      "orig_title": "Shen hai ju yao 2",
+      "year": "2018-09-19",
       "translations": [
-        "Любительский (одноголосый закадровый)"
+        "Любительский (многоголосый закадровый) (Колобок)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Колобок)",
+      "update": "2019-12-24 18:59:18",
+      "iframe_src": ""
+    },
+    {
+      "id": 34418,
+      "title": "Рождественский Купидон",
+      "kp_id": "557689",
+      "imdb_id": "tt1699746",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-12-24 13:50:48",
+      "orig_title": "Christmas Cupid",
+      "year": "2010-12-12",
+      "translations": [
+        "Полное дублирование"
       ],
       "quality": "dvdrip",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2019-12-17 10:16:57",
+      "translation": "Полное дублирование",
+      "update": "2019-12-24 19:00:59",
       "iframe_src": ""
     },
     {
-      "id": 34174,
-      "title": "Украденные годы",
-      "kp_id": "798199",
-      "imdb_id": "tt3175936",
+      "id": 34417,
+      "title": "Команда",
+      "kp_id": "3759",
+      "imdb_id": "tt0198386",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-12-16 18:33:50",
-      "orig_title": "Bei tou zou de na wu nian",
-      "year": "2013-08-29",
+      "add": "2019-12-24 13:48:55",
+      "orig_title": "The Crew",
+      "year": "2000-08-21",
       "translations": [
-        "Авторский (одноголосый закадровый) (Дольский)"
+        "Полное дублирование"
       ],
       "quality": "bd",
-      "translation": "Авторский (одноголосый закадровый) (Дольский)",
-      "update": "2019-12-17 10:16:08",
+      "translation": "Полное дублирование",
+      "update": "2019-12-24 19:01:39",
       "iframe_src": ""
     },
     {
-      "id": 34173,
-      "title": "Свидание",
-      "kp_id": "273227",
-      "imdb_id": "tt0224421",
+      "id": 34416,
+      "title": "Запретная планета",
+      "kp_id": "8367",
+      "imdb_id": "tt0049223",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-12-16 18:30:44",
-      "orig_title": "Yakusoku",
-      "year": "1972-03-29",
+      "add": "2019-12-24 13:44:27",
+      "orig_title": "Forbidden Planet",
+      "year": "1956-03-23",
       "translations": [
-        "Любительский (одноголосый закадровый)"
+        "Профессиональный (двухголосый закадровый) (Film Prestige)"
       ],
       "quality": "bd",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2019-12-17 10:10:14",
+      "translation": "Профессиональный (двухголосый закадровый) (Film Prestige)",
+      "update": "2019-12-24 19:03:09",
       "iframe_src": ""
     },
     {
-      "id": 34172,
-      "title": "Апрельская история",
-      "kp_id": "263054",
-      "imdb_id": "tt0146271",
+      "id": 34415,
+      "title": "Ожидание",
+      "kp_id": "841578",
+      "imdb_id": "tt3715122",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-12-16 18:27:59",
-      "orig_title": "Shigatsu monogatari",
-      "year": "1998-03-14",
+      "add": "2019-12-24 13:41:13",
+      "orig_title": "L'attesa",
+      "year": "2015-09-05",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Parovoz Production)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Любительский (многоголосый закадровый) (Parovoz Production)",
+      "update": "2019-12-24 19:04:23",
+      "iframe_src": ""
+    },
+    {
+      "id": 34414,
+      "title": "Телохранители и убийцы",
+      "kp_id": "454190",
+      "imdb_id": "tt1403130",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-12-24 09:14:39",
+      "orig_title": "Shi yue wei cheng",
+      "year": "2009-12-18",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2019-12-24 19:23:44",
+      "iframe_src": ""
+    },
+    {
+      "id": 32896,
+      "title": "Звериная ярость",
+      "kp_id": "1095690",
+      "imdb_id": "tt7394816",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-11-11 07:57:34",
+      "orig_title": "Primal",
+      "year": "2019-11-05",
+      "translations": [
+        "Любительский (многоголосый закадровый) (AlphaProject)",
+        "Полное дублирование (iTunes)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (AlphaProject)",
+      "update": "2019-12-25 09:41:11",
+      "iframe_src": ""
+    },
+    {
+      "id": 30683,
+      "title": "Карантин 2: Терминал",
+      "kp_id": "554179",
+      "imdb_id": "tt1699231",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-09-08 11:50:29",
+      "orig_title": "Quarantine 2: Terminal",
+      "year": "2011-01-27",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-12-24 19:02:28",
+      "iframe_src": ""
+    },
+    {
+      "id": 30022,
+      "title": "Поменяться местами",
+      "kp_id": "1117379",
+      "imdb_id": "tt8265928",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-08-15 10:55:16",
+      "orig_title": "Mon inconnue",
+      "year": "2019-01-18",
+      "translations": [
+        "Полное дублирование (iTunes)"
+      ],
+      "quality": "webdl",
+      "translation": "Полное дублирование (iTunes)",
+      "update": "2019-12-25 09:40:38",
+      "iframe_src": ""
+    },
+    {
+      "id": 26703,
+      "title": "Гори, гори ясно",
+      "kp_id": "1199596",
+      "imdb_id": "tt7752126",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-05-19 08:43:17",
+      "orig_title": "Brightburn",
+      "year": "2019-05-09",
+      "translations": [
+        "Полное дублирование",
+        "Профессиональный (многоголосый закадровый) (СВ-Студия)",
+        "Original (English)",
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
+      ],
+      "quality": "webdl",
+      "translation": "Полное дублирование",
+      "update": "2019-12-25 12:24:13",
+      "iframe_src": ""
+    },
+    {
+      "id": 13776,
+      "title": "6 стволов",
+      "kp_id": "488091",
+      "imdb_id": "tt1558576",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-10-08 09:57:26",
+      "orig_title": "6 Guns",
+      "year": "2010-03-30",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-12-17 10:09:07",
-      "iframe_src": ""
-    },
-    {
-      "id": 34171,
-      "title": "Нарака 19",
-      "kp_id": "325472",
-      "imdb_id": "tt1039892",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-12-16 18:25:20",
-      "orig_title": "Dei yuk dai sup gau tsang",
-      "year": "2007-09-06",
-      "translations": [
-        "Любительский (одноголосый закадровый) (Береговых | Jet)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Любительский (одноголосый закадровый) (Береговых | Jet)",
-      "update": "2019-12-17 10:07:43",
-      "iframe_src": ""
-    },
-    {
-      "id": 34170,
-      "title": "Новые храбрецы",
-      "kp_id": null,
-      "imdb_id": "tt7408328",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-12-16 18:23:01",
-      "orig_title": "Xin zhong lie tu",
-      "year": "2007-01-01",
-      "translations": [
-        "Любительский (одноголосый закадровый) (Береговых | Jet)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Любительский (одноголосый закадровый) (Береговых | Jet)",
-      "update": "2019-12-17 10:07:01",
-      "iframe_src": ""
-    },
-    {
-      "id": 34169,
-      "title": "Рика",
-      "kp_id": "424669",
-      "imdb_id": "tt0978631",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-12-16 18:19:15",
-      "orig_title": "Konketsuji Rika",
-      "year": "1972-11-26",
-      "translations": [
-        "Любительский (одноголосый закадровый) (den904)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Любительский (одноголосый закадровый) (den904)",
-      "update": "2019-12-17 10:06:19",
-      "iframe_src": ""
-    },
-    {
-      "id": 34168,
-      "title": "Рика 2: Одинокая странница",
-      "kp_id": "424668",
-      "imdb_id": "tt1171694",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-12-16 18:16:33",
-      "orig_title": "Konketsuji Rika: Hitoriyuku sasuraitabi",
-      "year": "1973-04-07",
-      "translations": [
-        "Любительский (одноголосый закадровый) (den904)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Любительский (одноголосый закадровый) (den904)",
-      "update": "2019-12-17 10:05:34",
-      "iframe_src": ""
-    },
-    {
-      "id": 34167,
-      "title": "Смятение",
-      "kp_id": "379618",
-      "imdb_id": "tt0058349",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-12-16 18:11:48",
-      "orig_title": "Midareru",
-      "year": "1964-01-15",
-      "translations": [
-        "Любительский (одноголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2019-12-17 10:04:25",
-      "iframe_src": ""
-    },
-    {
-      "id": 34123,
-      "title": "13 хладнокровных орлов",
-      "kp_id": "264353",
-      "imdb_id": "tt0105858",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-12-15 19:30:07",
-      "orig_title": "Xin leng xue shi san ying",
-      "year": "1993-11-11",
-      "translations": [
-        "Любительский (одноголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2019-12-17 10:01:53",
-      "iframe_src": ""
-    },
-    {
-      "id": 19312,
-      "title": "Смолфут",
-      "kp_id": "1035311",
-      "imdb_id": "tt6182908",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-10-01 23:50:18",
-      "orig_title": "Smallfoot",
-      "year": "2018-09-20",
-      "translations": [
-        "Полное дублирование",
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2019-12-17 12:39:55",
-      "iframe_src": ""
-    },
-    {
-      "id": 10457,
-      "title": "Девять жизней Рождества",
-      "kp_id": "861841",
-      "imdb_id": "tt3889642",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-03-22 11:52:11",
-      "orig_title": "The Nine Lives of Christmas",
-      "year": "2014-11-08",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
-      "update": "2019-12-17 12:15:19",
+      "update": "2019-12-24 18:58:05",
       "iframe_src": ""
     }
   ]

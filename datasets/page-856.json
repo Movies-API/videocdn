@@ -1,370 +1,366 @@
 {
   "data": [
     {
-      "id": 33548,
-      "title": "Рождество в Луизиане",
-      "kp_id": "1302114",
-      "imdb_id": "tt10953626",
+      "id": 33734,
+      "title": "Разоблачитель",
+      "kp_id": "843258",
+      "imdb_id": "tt4034414",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-11-29 12:26:06",
-      "orig_title": "Christmas in Louisiana",
-      "year": "2019-11-16",
-      "translations": [
-        "Любительский (многоголосый закадровый) (AlphaProject)"
-      ],
-      "quality": "hdtv",
-      "translation": "Любительский (многоголосый закадровый) (AlphaProject)",
-      "update": "2019-11-29 14:42:42",
-      "iframe_src": ""
-    },
-    {
-      "id": 33545,
-      "title": "Без средств",
-      "kp_id": "632572",
-      "imdb_id": "tt2073661",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-11-29 12:08:38",
-      "orig_title": "Stranded",
-      "year": "2014-10-25",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Студия Пиратского Дубляжа)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Любительский (многоголосый закадровый) (Студия Пиратского Дубляжа)",
-      "update": "2019-11-29 13:13:22",
-      "iframe_src": ""
-    },
-    {
-      "id": 33544,
-      "title": "Доставить по назначению",
-      "kp_id": "16424",
-      "imdb_id": "tt0098051",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-11-29 12:06:08",
-      "orig_title": "The Package",
-      "year": "1989-08-25",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2019-11-29 14:45:03",
-      "iframe_src": ""
-    },
-    {
-      "id": 33538,
-      "title": "Злющие мертвецы",
-      "kp_id": "565084",
-      "imdb_id": "tt1825665",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-11-29 08:15:55",
-      "orig_title": "Bach ke Zara",
-      "year": "2008-10-13",
-      "translations": [
-        "Любительский (одноголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2019-11-29 13:13:23",
-      "iframe_src": ""
-    },
-    {
-      "id": 33516,
-      "title": "Злой кот",
-      "kp_id": "220983",
-      "imdb_id": "tt0092252",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-11-29 05:45:51",
-      "orig_title": "Hung mau",
-      "year": "1987-01-01",
-      "translations": [
-        "Любительский (одноголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2019-11-29 06:33:48",
-      "iframe_src": ""
-    },
-    {
-      "id": 33515,
-      "title": "Черное солнце: Бойня в Нанкине",
-      "kp_id": "212016",
-      "imdb_id": "tt0113281",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-11-29 05:35:40",
-      "orig_title": "Hei tai yang: Nan Jing da tu sha",
-      "year": "1995-07-07",
-      "translations": [
-        "Авторский (одноголосый закадровый) (Дольский)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Авторский (одноголосый закадровый) (Дольский)",
-      "update": "2019-11-29 06:35:34",
-      "iframe_src": ""
-    },
-    {
-      "id": 33511,
-      "title": "Скелеты Железного острова",
-      "kp_id": "430785",
-      "imdb_id": "tt1318025",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-11-28 19:08:49",
-      "orig_title": "Hierro",
-      "year": "2009-05-18",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-11-29 04:52:13",
-      "iframe_src": ""
-    },
-    {
-      "id": 33508,
-      "title": "Бэтмен будущего: Возвращение Джокера",
-      "kp_id": "229306",
-      "imdb_id": "tt0233298",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-11-28 18:38:22",
-      "orig_title": "Batman Beyond: Return of the Joker",
-      "year": "2000-12-12",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2019-11-29 13:13:24",
-      "iframe_src": ""
-    },
-    {
-      "id": 33507,
-      "title": "Легендарные амазонки",
-      "kp_id": "647543",
-      "imdb_id": "tt2106514",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-11-28 18:33:20",
-      "orig_title": "Yang men nu jiang zhi jun ling ru shan",
-      "year": "2011-11-17",
-      "translations": [
-        "Любительский (двухголосый закадровый) (DeadSno & den904)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (двухголосый закадровый) (DeadSno & den904)",
-      "update": "2019-11-29 13:13:25",
-      "iframe_src": ""
-    },
-    {
-      "id": 33506,
-      "title": "Лорд Вор",
-      "kp_id": "87871",
-      "imdb_id": "tt0430674",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-11-28 18:26:44",
-      "orig_title": "The Thief Lord",
-      "year": "2006-01-05",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-11-29 14:46:36",
-      "iframe_src": ""
-    },
-    {
-      "id": 33505,
-      "title": "Тишина",
-      "kp_id": "441808",
-      "imdb_id": "tt1361835",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-11-28 18:15:16",
-      "orig_title": "Das letzte Schweigen",
-      "year": "2010-07-01",
-      "translations": [
-        "Любительский (одноголосый закадровый) (RAIM)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (одноголосый закадровый) (RAIM)",
-      "update": "2019-11-29 14:47:22",
-      "iframe_src": ""
-    },
-    {
-      "id": 33495,
-      "title": "Вкус денег",
-      "kp_id": "648003",
-      "imdb_id": "tt2106670",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-11-28 06:26:58",
-      "orig_title": "Donui mat",
-      "year": "2012-05-17",
+      "add": "2019-12-04 21:54:34",
+      "orig_title": "Jeboja",
+      "year": "2014-10-02",
       "translations": [
         "Любительский (многоголосый закадровый) (STEPonee)"
       ],
-      "quality": "bd",
+      "quality": "hdtv",
       "translation": "Любительский (многоголосый закадровый) (STEPonee)",
-      "update": "2019-11-29 06:36:40",
+      "update": "2019-12-05 08:04:18",
       "iframe_src": ""
     },
     {
-      "id": 33494,
-      "title": "Вампиры против зомби",
-      "kp_id": "160902",
-      "imdb_id": "tt0408309",
+      "id": 33733,
+      "title": "Аромат",
+      "kp_id": "678212",
+      "imdb_id": "tt2365847",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-11-28 06:11:39",
-      "orig_title": "Vampires vs. Zombies",
-      "year": "2004-04-13",
+      "add": "2019-12-04 21:43:35",
+      "orig_title": "Ganginam",
+      "year": "2012-04-11",
       "translations": [
-        "Профессиональный (двухголосый закадровый)"
+        "Любительский (многоголосый закадровый) (STEPonee)"
       ],
       "quality": "dvdrip",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2019-11-29 06:38:04",
+      "translation": "Любительский (многоголосый закадровый) (STEPonee)",
+      "update": "2019-12-05 08:00:45",
       "iframe_src": ""
     },
     {
-      "id": 31398,
-      "title": "Эверест",
-      "kp_id": "1044976",
-      "imdb_id": "tt6324278",
+      "id": 33732,
+      "title": "Ты ещё здесь",
+      "kp_id": "935618",
+      "imdb_id": "tt5011290",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-10-02 09:54:52",
-      "orig_title": "Abominable",
-      "year": "2019-09-07",
+      "add": "2019-12-04 21:38:06",
+      "orig_title": "Zhi qingchun 2: yuanlai ni hai zai zheli",
+      "year": "2016-07-08",
       "translations": [
-        "Полное дублирование (iTunes)",
-        "Original (English)"
+        "Любительский (двухголосый закадровый) (STEPonee)"
       ],
-      "quality": "webdl",
-      "translation": "Полное дублирование (iTunes)",
-      "update": "2019-11-29 17:16:52",
+      "quality": "hdtv",
+      "translation": "Любительский (двухголосый закадровый) (STEPonee)",
+      "update": "2019-12-05 08:00:12",
       "iframe_src": ""
     },
     {
-      "id": 28959,
-      "title": "Дорогуша",
-      "kp_id": "1139890",
-      "imdb_id": "tt8396294",
+      "id": 33730,
+      "title": "Августовская рапсодия",
+      "kp_id": "22362",
+      "imdb_id": "tt0101991",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-07-13 20:02:22",
-      "orig_title": "Darlin'",
-      "year": "2019-03-09",
+      "add": "2019-12-04 21:22:47",
+      "orig_title": "Hachi-gatsu no rapusodî",
+      "year": "1991-05-12",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Original (English)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-11-29 17:19:55",
-      "iframe_src": ""
-    },
-    {
-      "id": 12614,
-      "title": "Король вечеринок 3",
-      "kp_id": "421443",
-      "imdb_id": "tt1276434",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-07-24 14:15:57",
-      "orig_title": "Van Wilder: Freshman Year",
-      "year": "2009-07-14",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)",
         "Профессиональный (многоголосый закадровый)"
       ],
-      "quality": "hdtv",
+      "quality": "dvdrip",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-11-29 13:13:25",
+      "update": "2019-12-05 07:50:16",
       "iframe_src": ""
     },
     {
-      "id": 11860,
-      "title": "Открытый брак",
-      "kp_id": "1031192",
-      "imdb_id": "tt6211502",
+      "id": 33729,
+      "title": "Барабанщик",
+      "kp_id": "261055",
+      "imdb_id": "tt0831386",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-06-08 01:16:55",
-      "orig_title": "Open Marriage",
-      "year": "2017-01-14",
+      "add": "2019-12-04 21:18:56",
+      "orig_title": "Zhan. gu",
+      "year": "2007-08-09",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Original (English)"
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-12-05 07:48:09",
+      "iframe_src": ""
+    },
+    {
+      "id": 33728,
+      "title": "Бем, человек-демон",
+      "kp_id": "689995",
+      "imdb_id": "tt2210828",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-12-04 21:09:37",
+      "orig_title": "Youkai ningen Bemu",
+      "year": "2012-12-15",
+      "translations": [
+        "Любительский (двухголосый закадровый) (STEPonee)"
       ],
       "quality": "hdtv",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-11-29 06:58:29",
+      "translation": "Любительский (двухголосый закадровый) (STEPonee)",
+      "update": "2019-12-05 07:47:13",
       "iframe_src": ""
     },
     {
-      "id": 4359,
-      "title": "Небеса реальны",
-      "kp_id": "588539",
-      "imdb_id": "tt1929263",
+      "id": 33725,
+      "title": "Сын генерала",
+      "kp_id": "208844",
+      "imdb_id": "tt0099240",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-08-09 11:10:33",
-      "orig_title": "Heaven Is for Real",
-      "year": "2014-04-03",
+      "add": "2019-12-04 20:23:56",
+      "orig_title": "Janggunui adeul",
+      "year": "1990-06-09",
       "translations": [
-        "Профессиональный (многоголосый закадровый)",
-        "Original (English)"
+        "Любительский (одноголосый закадровый)"
       ],
       "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-11-29 06:57:18",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2019-12-05 07:45:43",
       "iframe_src": ""
     },
     {
-      "id": 4347,
-      "title": "Отряд самоубийц",
-      "kp_id": "468522",
-      "imdb_id": "tt1386697",
+      "id": 33724,
+      "title": "Сын генерала 2",
+      "kp_id": "208843",
+      "imdb_id": "tt0101564",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-08-09 05:50:33",
-      "orig_title": "Suicide Squad",
-      "year": "2016-08-01",
+      "add": "2019-12-04 20:21:17",
+      "orig_title": "Janggunui adeul II",
+      "year": "1991-07-20",
       "translations": [
-        "Полное дублирование",
-        "Original (English)"
+        "Любительский (одноголосый закадровый) (den904)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (одноголосый закадровый) (den904)",
+      "update": "2019-12-05 07:43:36",
+      "iframe_src": ""
+    },
+    {
+      "id": 33723,
+      "title": "Сын генерала 3",
+      "kp_id": "208842",
+      "imdb_id": "tt0150090",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-12-04 20:18:27",
+      "orig_title": "Janggunui adeul III",
+      "year": "1992-09-11",
+      "translations": [
+        "Любительский (одноголосый закадровый) (den904)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (одноголосый закадровый) (den904)",
+      "update": "2019-12-05 07:42:15",
+      "iframe_src": ""
+    },
+    {
+      "id": 33722,
+      "title": "Музыка Гиона",
+      "kp_id": "156599",
+      "imdb_id": "tt0045814",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-12-04 20:15:32",
+      "orig_title": "Gion bayashi",
+      "year": "1953-08-12",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Кузнецов Сергей)"
+      ],
+      "quality": "bd",
+      "translation": "Авторский (одноголосый закадровый) (Кузнецов Сергей)",
+      "update": "2019-12-05 07:40:53",
+      "iframe_src": ""
+    },
+    {
+      "id": 33715,
+      "title": "Братва из джунглей",
+      "kp_id": "404317",
+      "imdb_id": "tt1172587",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-12-04 19:11:46",
+      "orig_title": "Delhi Safari",
+      "year": "2012-10-19",
+      "translations": [
+        "Полное дублирование"
       ],
       "quality": "bd",
       "translation": "Полное дублирование",
-      "update": "2019-11-29 14:46:36",
+      "update": "2019-12-05 12:02:20",
       "iframe_src": ""
     },
     {
-      "id": 3355,
-      "title": "Шоссе",
-      "kp_id": "2054",
-      "imdb_id": "tt0165361",
+      "id": 33712,
+      "title": "Экспедиция на Mарс",
+      "kp_id": null,
+      "imdb_id": "tt6279452",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-06-24 04:37:38",
-      "orig_title": "Highway",
-      "year": "2002-03-26",
+      "add": "2019-12-04 18:53:56",
+      "orig_title": "Expedition Mars",
+      "year": "2016-11-16",
       "translations": [
-        "Профессиональный (двухголосый закадровый)",
-        "Original (English)"
+        "Полное дублирование"
       ],
-      "quality": "webdl",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2019-11-29 06:40:31",
+      "quality": "hdtv",
+      "translation": "Полное дублирование",
+      "update": "2019-12-05 12:02:58",
+      "iframe_src": ""
+    },
+    {
+      "id": 33710,
+      "title": "Большой взрыв",
+      "kp_id": "464123",
+      "imdb_id": "tt1307873",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-12-04 18:51:39",
+      "orig_title": "The Big Bang",
+      "year": "2010-11-03",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (СТС)"
+      ],
+      "quality": "hdrip",
+      "translation": "Профессиональный (многоголосый закадровый) (СТС)",
+      "update": "2019-12-05 12:03:27",
+      "iframe_src": ""
+    },
+    {
+      "id": 33697,
+      "title": "03:34 Землетрясение в Чили",
+      "kp_id": "622830",
+      "imdb_id": "tt1862444",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-12-04 11:42:13",
+      "orig_title": "03:34 Terremoto en Chile",
+      "year": "2011-04-18",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "hdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-12-05 07:51:28",
+      "iframe_src": ""
+    },
+    {
+      "id": 33692,
+      "title": "Кто есть кто?",
+      "kp_id": "54317",
+      "imdb_id": "tt0077563",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-12-04 10:48:35",
+      "orig_title": "Flic ou voyou",
+      "year": "1979-03-28",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-12-05 07:50:33",
+      "iframe_src": ""
+    },
+    {
+      "id": 32461,
+      "title": "Лайкни меня",
+      "kp_id": "961434",
+      "imdb_id": "tt5358570",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-28 22:14:23",
+      "orig_title": "Johahaejyo",
+      "year": "2016-02-17",
+      "translations": [
+        "Любительский (многоголосый закадровый) (STEPonee)"
+      ],
+      "quality": "hdtv",
+      "translation": "Любительский (многоголосый закадровый) (STEPonee)",
+      "update": "2019-12-05 07:49:28",
+      "iframe_src": ""
+    },
+    {
+      "id": 18837,
+      "title": "Один день",
+      "kp_id": "1044607",
+      "imdb_id": "tt6890376",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-09-07 00:31:04",
+      "orig_title": "Ha-roo",
+      "year": "2017-06-15",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Любительский (одноголосый закадровый) (BadBajo)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-12-05 07:55:48",
+      "iframe_src": ""
+    },
+    {
+      "id": 14928,
+      "title": "Скиф",
+      "kp_id": "972741",
+      "imdb_id": "tt7844166",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-01-19 21:48:47",
+      "orig_title": "The Scythian",
+      "year": "2018-01-18",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "bd",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-12-05 07:43:38",
+      "iframe_src": ""
+    },
+    {
+      "id": 8133,
+      "title": "Одержимость",
+      "kp_id": "878664",
+      "imdb_id": "tt3840534",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-12-18 08:40:44",
+      "orig_title": "Junooniyat",
+      "year": "2016-06-24",
+      "translations": [
+        "Любительский (многоголосый закадровый)",
+        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Любительский (многоголосый закадровый) (STEPonee)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (многоголосый закадровый)",
+      "update": "2019-12-05 07:53:18",
+      "iframe_src": ""
+    },
+    {
+      "id": 153,
+      "title": "Дочь Бога",
+      "kp_id": "842551",
+      "imdb_id": "tt4019560",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-02-17 14:49:12",
+      "orig_title": "Exposed",
+      "year": "2016-01-22",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (iTunes)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый) (iTunes)",
+      "update": "2019-12-05 12:01:42",
       "iframe_src": ""
     }
   ]

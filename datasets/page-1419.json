@@ -1,364 +1,366 @@
 {
   "data": [
     {
-      "id": 22759,
-      "title": "Лихорадка",
-      "kp_id": "1237913",
-      "imdb_id": "tt8949410",
+      "id": 22987,
+      "title": "Красотки",
+      "kp_id": "20876",
+      "imdb_id": "tt0181978",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-03-06 06:18:04",
-      "orig_title": "Somos Calentura: We Are The Heat",
-      "year": "2018-09-02",
+      "add": "2019-03-12 21:56:17",
+      "orig_title": "Bimboland",
+      "year": "1998-12-23",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-03-13 06:46:37",
+      "iframe_src": ""
+    },
+    {
+      "id": 22983,
+      "title": "Необыкновенное приключение в городе пасхальных яиц",
+      "kp_id": "87003",
+      "imdb_id": "tt0435635",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-03-12 21:36:29",
+      "orig_title": "The Easter Egg Adventure",
+      "year": "2004-09-05",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-03-13 10:37:06",
+      "iframe_src": ""
+    },
+    {
+      "id": 22982,
+      "title": "Витание в облаках",
+      "kp_id": "57508",
+      "imdb_id": "tt0102589",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-03-12 21:31:23",
+      "orig_title": "On peut toujours rêver",
+      "year": "1991-02-16",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-03-13 10:35:44",
+      "iframe_src": ""
+    },
+    {
+      "id": 22981,
+      "title": "На перевале",
+      "kp_id": "42373",
+      "imdb_id": "tt0275745",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-03-12 21:22:43",
+      "orig_title": "Turksib",
+      "year": "1988-01-01",
+      "translations": [
+        "Оригинальная дорожка"
       ],
       "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-03-06 13:02:16",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-03-13 10:31:16",
       "iframe_src": ""
     },
     {
-      "id": 22754,
-      "title": "Убийства в Корнуайе",
-      "kp_id": null,
-      "imdb_id": "tt8382986",
+      "id": 22980,
+      "title": "Альфавиль",
+      "kp_id": "7776",
+      "imdb_id": "tt0058898",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-03-06 06:09:22",
-      "orig_title": "Meurtres en Cornouaille",
-      "year": "2018-09-08",
+      "add": "2019-03-12 21:18:17",
+      "orig_title": "Alphaville, une étrange aventure de Lemmy Caution",
+      "year": "1965-05-05",
       "translations": [
-        "Любительский (двухголосый закадровый) (LakeFilms)"
+        "Профессиональный (многоголосый закадровый)"
       ],
-      "quality": "hdtv",
-      "translation": "Любительский (двухголосый закадровый) (LakeFilms)",
-      "update": "2019-03-06 12:08:46",
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-03-13 10:30:12",
       "iframe_src": ""
     },
     {
-      "id": 22749,
-      "title": "Чмоки-чмоки",
-      "kp_id": "977596",
-      "imdb_id": "tt5656126",
+      "id": 22978,
+      "title": "Умные вещи",
+      "kp_id": "427077",
+      "imdb_id": "tt4818936",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-03-06 06:02:16",
-      "orig_title": "Kiss Kiss",
-      "year": "2019-03-05",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-03-06 12:09:32",
-      "iframe_src": ""
-    },
-    {
-      "id": 22746,
-      "title": "Инкогнито из Петербурга",
-      "kp_id": "42604",
-      "imdb_id": "tt0076196",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-03-06 06:00:31",
-      "orig_title": "Inkognito iz Peterburga",
-      "year": "1978-07-17",
+      "add": "2019-03-12 21:11:35",
+      "orig_title": "Umnyye veshchi",
+      "year": "1973-12-30",
       "translations": [
         "Оригинальная дорожка"
       ],
       "quality": "dvdrip",
       "translation": "Оригинальная дорожка",
-      "update": "2019-03-06 12:10:12",
+      "update": "2019-03-13 06:42:04",
       "iframe_src": ""
     },
     {
-      "id": 22743,
-      "title": "Исчезнуть",
-      "kp_id": null,
-      "imdb_id": "tt3403310",
+      "id": 22977,
+      "title": "Принцесса на горошине",
+      "kp_id": "43267",
+      "imdb_id": "tt0075104",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-03-06 05:56:36",
-      "orig_title": "Fade Away",
-      "year": "2018-01-09",
+      "add": "2019-03-12 21:09:21",
+      "orig_title": "Printsessa na goroshine",
+      "year": "1977-08-14",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
+        "Оригинальная дорожка"
       ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-03-06 12:00:24",
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-03-13 06:40:46",
       "iframe_src": ""
     },
     {
-      "id": 22740,
-      "title": "Загадка Эммы Филдинг: Трагичнее, чем смерть",
-      "kp_id": "1240502",
-      "imdb_id": "tt9794314",
+      "id": 22975,
+      "title": "Ландыш серебристый",
+      "kp_id": "41283",
+      "imdb_id": "tt0265274",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-03-06 05:54:52",
-      "orig_title": "Emma Fielding: More Bitter Than Death",
-      "year": "2019-02-10",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (AlphaProject)"
-      ],
-      "quality": "hdtv",
-      "translation": "Профессиональный (многоголосый закадровый) (AlphaProject)",
-      "update": "2019-03-06 12:13:06",
-      "iframe_src": ""
-    },
-    {
-      "id": 22731,
-      "title": "Затравленная",
-      "kp_id": "81762",
-      "imdb_id": "tt0415856",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-03-05 03:55:23",
-      "orig_title": "Hounddog",
-      "year": "2007-01-22",
-      "translations": [
-        "Любительский (одноголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2019-03-05 12:46:48",
-      "iframe_src": ""
-    },
-    {
-      "id": 22729,
-      "title": "Твой сын",
-      "kp_id": "1112881",
-      "imdb_id": "tt7807026",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-03-05 03:48:37",
-      "orig_title": "Tu hijo",
-      "year": "2018-10-20",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-03-05 08:49:39",
-      "iframe_src": ""
-    },
-    {
-      "id": 22709,
-      "title": "Вакханалия",
-      "kp_id": "799085",
-      "imdb_id": "tt3167458",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-03-05 03:01:35",
-      "orig_title": "Bacchanalia",
-      "year": "2017-10-10",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-03-05 08:17:34",
-      "iframe_src": ""
-    },
-    {
-      "id": 22707,
-      "title": "Кактус Джек",
-      "kp_id": "6305",
-      "imdb_id": "tt0080097",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-03-05 02:54:21",
-      "orig_title": "The Villain",
-      "year": "1979-07-20",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (5-й канал СПб)"
-      ],
-      "quality": "hdtv",
-      "translation": "Профессиональный (многоголосый закадровый) (5-й канал СПб)",
-      "update": "2019-03-06 06:44:17",
-      "iframe_src": ""
-    },
-    {
-      "id": 22649,
-      "title": "Срок",
-      "kp_id": "689032",
-      "imdb_id": "tt2230422",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-03-03 11:33:28",
-      "orig_title": "Livstid",
-      "year": "2012-06-26",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-03-05 08:55:27",
-      "iframe_src": ""
-    },
-    {
-      "id": 22647,
-      "title": "Злодей",
-      "kp_id": "481363",
-      "imdb_id": "tt1194242",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-03-03 11:29:06",
-      "orig_title": "Le vilain",
-      "year": "2009-10-04",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-03-05 08:54:13",
-      "iframe_src": ""
-    },
-    {
-      "id": 22571,
-      "title": "Особенности банной политики, или Баня 2",
-      "kp_id": "406409",
-      "imdb_id": "tt1189002",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-02-26 21:30:26",
-      "orig_title": "Osobennosti bannoy politiki, ili banya 2",
+      "add": "2019-03-12 21:05:13",
+      "orig_title": "Landysh serebristyy",
       "year": "2000-01-01",
       "translations": [
         "Оригинальная дорожка"
       ],
+      "quality": "sat",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-03-13 06:43:40",
+      "iframe_src": ""
+    },
+    {
+      "id": 22974,
+      "title": "Кровавый кулак 7: Охота на человека",
+      "kp_id": "22354",
+      "imdb_id": "tt0112533",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-03-12 21:03:51",
+      "orig_title": "Bloodfist VII: Manhunt",
+      "year": "1995-10-03",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Карцев Пётр)"
+      ],
       "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-03-05 08:25:14",
+      "translation": "Авторский (одноголосый закадровый) (Карцев Пётр)",
+      "update": "2019-03-13 06:39:48",
       "iframe_src": ""
     },
     {
-      "id": 22487,
-      "title": "Париж – это мы",
-      "kp_id": "1136632",
-      "imdb_id": "tt7920024",
+      "id": 22973,
+      "title": "Кровавый кулак 6: Нулевая отметка",
+      "kp_id": "35052",
+      "imdb_id": "tt0109301",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-02-23 22:03:07",
-      "orig_title": "Paris est une fête",
-      "year": "2019-02-22",
+      "add": "2019-03-12 21:01:59",
+      "orig_title": "Bloodfist VI: Ground Zero",
+      "year": "1995-01-27",
       "translations": [
-        "Профессиональный (многоголосый закадровый) (AlphaProject)",
-        "Любительский (двухголосый закадровый) (LakeFilms)"
+        "Авторский (одноголосый закадровый) (Дохалов Вартан)"
       ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый) (AlphaProject)",
-      "update": "2019-03-06 12:07:59",
+      "quality": "dvdrip",
+      "translation": "Авторский (одноголосый закадровый) (Дохалов Вартан)",
+      "update": "2019-03-13 06:38:54",
       "iframe_src": ""
     },
     {
-      "id": 22448,
-      "title": "Зимние каникулы",
-      "kp_id": "54298",
-      "imdb_id": "tt0156408",
+      "id": 22972,
+      "title": "Кровавые кулаки",
+      "kp_id": "154545",
+      "imdb_id": "tt0164522",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-02-23 07:17:14",
-      "orig_title": "La classe de neige",
-      "year": "1998-05-16",
+      "add": "2019-03-12 21:00:00",
+      "orig_title": "Dang kou tan",
+      "year": "1972-05-17",
       "translations": [
-        "Профессиональный (многоголосый закадровый) (Неоклассика)"
+        "Профессиональный (одноголосый закадровый)"
       ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый) (Неоклассика)",
-      "update": "2019-03-06 06:54:51",
+      "quality": "dvdrip",
+      "translation": "Профессиональный (одноголосый закадровый)",
+      "update": "2019-03-13 06:36:40",
       "iframe_src": ""
     },
     {
-      "id": 22447,
-      "title": "Ангел-истребитель",
-      "kp_id": "8348",
-      "imdb_id": "tt0056732",
+      "id": 22971,
+      "title": "Король Дроздобород",
+      "kp_id": "419210",
+      "imdb_id": "tt1255954",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-02-23 07:15:33",
-      "orig_title": "El Ángel exterminador",
-      "year": "1962-05-16",
+      "add": "2019-03-12 20:58:14",
+      "orig_title": "König Drosselbart",
+      "year": "2008-11-13",
       "translations": [
-        "Профессиональный (многоголосый закадровый)"
+        "Профессиональный (многоголосый закадровый) (Игмар)"
       ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-03-06 06:53:40",
+      "quality": "hdtv",
+      "translation": "Профессиональный (многоголосый закадровый) (Игмар)",
+      "update": "2019-03-13 06:33:52",
       "iframe_src": ""
     },
     {
-      "id": 22427,
-      "title": "Путевка в жизнь",
-      "kp_id": "742192",
-      "imdb_id": "tt6074174",
+      "id": 22970,
+      "title": "Книга джунглей 2",
+      "kp_id": "5577",
+      "imdb_id": "tt0283426",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-02-21 11:53:30",
-      "orig_title": "Putevka v zhizn'",
-      "year": "2013-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-03-06 06:50:35",
-      "iframe_src": ""
-    },
-    {
-      "id": 22426,
-      "title": "Интердевочка",
-      "kp_id": "42610",
-      "imdb_id": "tt0097584",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-02-21 11:50:57",
-      "orig_title": "Interdevochka",
-      "year": "1990-05-18",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-03-06 06:49:51",
-      "iframe_src": ""
-    },
-    {
-      "id": 22422,
-      "title": "Красный гаолян",
-      "kp_id": "7754",
-      "imdb_id": "tt0093206",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-02-21 11:46:04",
-      "orig_title": "Hong gao liang",
-      "year": "1988-09-11",
+      "add": "2019-03-12 20:56:58",
+      "orig_title": "The Jungle Book 2",
+      "year": "2003-02-05",
       "translations": [
         "Полное дублирование"
       ],
       "quality": "bd",
       "translation": "Полное дублирование",
-      "update": "2019-03-06 06:47:07",
+      "update": "2019-03-13 06:32:35",
       "iframe_src": ""
     },
     {
-      "id": 22421,
-      "title": "Юха",
-      "kp_id": "105026",
-      "imdb_id": "tt0158692",
+      "id": 22965,
+      "title": "Теетта Раппаи",
+      "kp_id": "1174081",
+      "imdb_id": "tt8671138",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-02-21 11:44:51",
-      "orig_title": "Juha",
-      "year": "1999-02-13",
+      "add": "2019-03-12 20:48:23",
+      "orig_title": "Theetta Rappai",
+      "year": "2018-07-06",
       "translations": [
-        "Авторский (одноголосый закадровый) (Алексеев)"
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-03-13 06:37:44",
+      "iframe_src": ""
+    },
+    {
+      "id": 22961,
+      "title": "Желтая борода",
+      "kp_id": "6675",
+      "imdb_id": "tt0086618",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-03-12 20:35:42",
+      "orig_title": "Yellowbeard",
+      "year": "1983-06-24",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
-      "translation": "Авторский (одноголосый закадровый) (Алексеев)",
-      "update": "2019-03-06 06:46:03",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-03-13 10:27:46",
+      "iframe_src": ""
+    },
+    {
+      "id": 22955,
+      "title": "Хроники тайн: в сетях виноградных лоз",
+      "kp_id": "1245969",
+      "imdb_id": "tt9876822",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-03-12 20:24:19",
+      "orig_title": "The Chronicle Mysteries: Vines That Bind",
+      "year": "2019-03-03",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "hdtv",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-03-12 22:31:37",
+      "iframe_src": ""
+    },
+    {
+      "id": 22953,
+      "title": "Холодное лето пятьдесят третьего...",
+      "kp_id": "7660",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-03-12 20:21:23",
+      "orig_title": "Холодное лето пятьдесят третьего...",
+      "year": "1988-11-03",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "webdl",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-03-13 10:37:12",
+      "iframe_src": ""
+    },
+    {
+      "id": 22950,
+      "title": "Париться по пустякам",
+      "kp_id": "1077326",
+      "imdb_id": "tt7243222",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-03-12 20:18:22",
+      "orig_title": "Edaha no koto",
+      "year": "2017-08-10",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Колобок)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Колобок)",
+      "update": "2019-03-13 07:11:04",
+      "iframe_src": ""
+    },
+    {
+      "id": 20821,
+      "title": "Нитка-иголка: Сделано в Индии",
+      "kp_id": "1055047",
+      "imdb_id": "tt7147540",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-12-18 09:36:59",
+      "orig_title": "Sui Dhaaga: Made in India",
+      "year": "2018-09-28",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Любительский (многоголосый закадровый) (Honey&Hoseena)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-03-12 07:05:28",
+      "iframe_src": ""
+    },
+    {
+      "id": 20522,
+      "title": "Серебряный ветер",
+      "kp_id": "12250",
+      "imdb_id": "tt0108137",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-12-05 15:50:55",
+      "orig_title": "The Silver Brumby",
+      "year": "1993-09-16",
+      "translations": [
+        "Профессиональный (двухголосый закадровый) (Екатеринбург Арт)",
+        "Original (English)",
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (двухголосый закадровый) (Екатеринбург Арт)",
+      "update": "2019-03-13 10:32:58",
       "iframe_src": ""
     }
   ]

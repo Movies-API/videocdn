@@ -1,380 +1,370 @@
 {
   "data": [
     {
-      "id": 30546,
-      "title": "Бродяга",
-      "kp_id": "2226",
-      "imdb_id": "tt0105719",
+      "id": 30752,
+      "title": "Железный Человек: Восстание Техновора",
+      "kp_id": "733375",
+      "imdb_id": "tt2654124",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-09-03 21:35:40",
-      "orig_title": "The Vagrant",
-      "year": "1992-05-15",
+      "add": "2019-09-10 23:08:09",
+      "orig_title": "Iron Man: Rise of Technovore",
+      "year": "2013-04-09",
       "translations": [
-        "Авторский (одноголосый закадровый) (Гаврилов)"
+        "Любительский (многоголосый закадровый)"
       ],
       "quality": "bd",
-      "translation": "Авторский (одноголосый закадровый) (Гаврилов)",
-      "update": "2019-09-04 05:28:01",
+      "translation": "Любительский (многоголосый закадровый)",
+      "update": "2019-09-11 04:41:01",
       "iframe_src": ""
     },
     {
-      "id": 30545,
-      "title": "Дух желает",
-      "kp_id": "9779",
-      "imdb_id": "tt0062298",
+      "id": 30751,
+      "title": "История о камне",
+      "kp_id": null,
+      "imdb_id": "tt7866702",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-09-03 21:33:47",
-      "orig_title": "The Spirit Is Willing",
-      "year": "1967-07-07",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-09-04 05:29:29",
-      "iframe_src": ""
-    },
-    {
-      "id": 30543,
-      "title": "Заключенная №701: Скорпион",
-      "kp_id": "164840",
-      "imdb_id": "tt0226872",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-09-03 21:27:16",
-      "orig_title": "Joshû 701-gô: Sasori",
-      "year": "1972-08-25",
-      "translations": [
-        "Авторский (одноголосый закадровый) (Визгунов)"
-      ],
-      "quality": "unknown",
-      "translation": "Авторский (одноголосый закадровый) (Визгунов)",
-      "update": "2019-09-04 05:31:40",
-      "iframe_src": ""
-    },
-    {
-      "id": 30542,
-      "title": "Приключение мальгаче",
-      "kp_id": "9121",
-      "imdb_id": "tt0036621",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-09-03 21:12:14",
-      "orig_title": "Aventure malgache",
-      "year": "1944-06-01",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (СВ-Дубль)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый) (СВ-Дубль)",
-      "update": "2019-09-04 05:37:34",
-      "iframe_src": ""
-    },
-    {
-      "id": 30541,
-      "title": "Анжелика и султан",
-      "kp_id": "77357",
-      "imdb_id": "tt0061357",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-09-03 21:08:46",
-      "orig_title": "Angélique et le sultan",
-      "year": "1968-03-13",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (НТВ)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый) (НТВ)",
-      "update": "2019-09-04 05:38:46",
-      "iframe_src": ""
-    },
-    {
-      "id": 30539,
-      "title": "Бравый солдат Швейк",
-      "kp_id": "103230",
-      "imdb_id": "tt0049147",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-09-03 21:00:28",
-      "orig_title": "Dobrý voják Svejk",
-      "year": "1957-08-23",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2019-09-04 05:42:35",
-      "iframe_src": ""
-    },
-    {
-      "id": 30533,
-      "title": "Последний год",
-      "kp_id": "1101330",
-      "imdb_id": "tt7215444",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-09-03 20:43:26",
-      "orig_title": "The Final Year",
-      "year": "2017-09-08",
+      "add": "2019-09-10 23:06:07",
+      "orig_title": "The Story of the Stone",
+      "year": "2018-10-19",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-09-04 06:36:51",
-      "iframe_src": ""
-    },
-    {
-      "id": 30532,
-      "title": "Добыча",
-      "kp_id": "1159567",
-      "imdb_id": "tt8483272",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-09-03 20:38:41",
-      "orig_title": "Strike",
-      "year": "2019-05-11",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-09-04 06:34:19",
-      "iframe_src": ""
-    },
-    {
-      "id": 30525,
-      "title": "Супер Фантоцци",
-      "kp_id": "103358",
-      "imdb_id": "tt0090101",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-09-03 18:03:56",
-      "orig_title": "Super Fantozzi",
-      "year": "1986-12-23",
-      "translations": [
-        "Любительский (одноголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2019-09-04 05:51:11",
-      "iframe_src": ""
-    },
-    {
-      "id": 30465,
-      "title": "Седьмой",
-      "kp_id": "278359",
-      "imdb_id": "tt0940709",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-09-01 20:38:27",
-      "orig_title": "Cheung gong 7 hou",
-      "year": "2008-01-30",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)",
-        "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "hdrip",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-09-04 05:36:30",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-09-11 05:10:15",
       "iframe_src": ""
     },
     {
-      "id": 25993,
-      "title": "По воле божьей",
-      "kp_id": "1157488",
-      "imdb_id": "tt8095860",
+      "id": 30737,
+      "title": "Челюсть",
+      "kp_id": "1217667",
+      "imdb_id": "tt8499102",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-05-04 21:21:22",
-      "orig_title": "Grâce à Dieu",
-      "year": "2018-12-10",
+      "add": "2019-09-10 20:05:52",
+      "orig_title": "Jawline",
+      "year": "2019-01-29",
       "translations": [
-        "Полное дублирование",
-        "Полное дублирование",
-        "Полное дублирование"
+        "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
-      "translation": "Полное дублирование",
-      "update": "2019-09-04 06:13:45",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-09-11 05:19:35",
       "iframe_src": ""
     },
     {
-      "id": 18800,
-      "title": "Девица",
-      "kp_id": "992653",
-      "imdb_id": "tt5881528",
+      "id": 30729,
+      "title": "Рейв",
+      "kp_id": "1053967",
+      "imdb_id": "tt7524414",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-09-05 23:12:33",
-      "orig_title": "Damsel",
-      "year": "2018-01-23",
+      "add": "2019-09-10 19:46:54",
+      "orig_title": "Beats",
+      "year": "2019-01-24",
       "translations": [
-        "Профессиональный (многоголосый закадровый) (iTunes)",
-        "Профессиональный (многоголосый закадровый)"
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-09-11 05:24:12",
+      "iframe_src": ""
+    },
+    {
+      "id": 30722,
+      "title": "Чистый лист",
+      "kp_id": "1238620",
+      "imdb_id": "tt9052936",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-09-10 19:29:31",
+      "orig_title": "Blank",
+      "year": "2019-05-03",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-09-11 04:49:42",
+      "iframe_src": ""
+    },
+    {
+      "id": 30720,
+      "title": "Аллергия на Wi-Fi",
+      "kp_id": "1101349",
+      "imdb_id": "tt7619554",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-09-10 19:23:26",
+      "orig_title": "Ang babaeng allergic sa wifi",
+      "year": "2018-08-15",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-09-11 04:51:07",
+      "iframe_src": ""
+    },
+    {
+      "id": 30706,
+      "title": "Чемпион",
+      "kp_id": "1162120",
+      "imdb_id": "tt8515700",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-09-09 20:00:11",
+      "orig_title": "Il campione",
+      "year": "2019-04-08",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "bd",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-09-10 15:33:10",
+      "iframe_src": ""
+    },
+    {
+      "id": 30705,
+      "title": "Кровать",
+      "kp_id": null,
+      "imdb_id": "tt6202690",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-09-09 19:56:53",
+      "orig_title": "La cama",
+      "year": "2018-08-01",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-09-10 15:32:30",
+      "iframe_src": ""
+    },
+    {
+      "id": 30703,
+      "title": "Взгляд из спальни",
+      "kp_id": "1080469",
+      "imdb_id": "tt6692588",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-09-09 19:52:11",
+      "orig_title": "Bedroom Eyes",
+      "year": "2017-04-04",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-09-10 15:34:20",
+      "iframe_src": ""
+    },
+    {
+      "id": 30702,
+      "title": "Сан-Андреас: Мегаземлятресение",
+      "kp_id": "1264145",
+      "imdb_id": "tt10309088",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-09-09 19:49:49",
+      "orig_title": "San Andreas Mega Quake",
+      "year": "2019-04-03",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-09-10 15:30:32",
+      "iframe_src": ""
+    },
+    {
+      "id": 27228,
+      "title": "Мертвые не умирают",
+      "kp_id": "1171953",
+      "imdb_id": "tt8695030",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-05-29 19:46:53",
+      "orig_title": "The Dead Don't Die",
+      "year": "2019-05-14",
+      "translations": [
+        "Полное дублирование",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2019-09-10 12:49:15",
+      "iframe_src": ""
+    },
+    {
+      "id": 26455,
+      "title": "Маугли дикой планеты",
+      "kp_id": "1209780",
+      "imdb_id": "tt8329148",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-05-13 20:22:38",
+      "orig_title": "Terra Willy: Planète inconnue",
+      "year": "2019-04-03",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2019-09-11 05:17:42",
+      "iframe_src": ""
+    },
+    {
+      "id": 26118,
+      "title": "Небеса Ланкастера",
+      "kp_id": "880594",
+      "imdb_id": "tt3486080",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-05-07 14:00:04",
+      "orig_title": "Lancaster Skies",
+      "year": "2019-02-27",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Любительский (двухголосый закадровый) (LakeFilms)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-09-11 05:18:52",
+      "iframe_src": ""
+    },
+    {
+      "id": 24228,
+      "title": "Добро пожаловать в Рим",
+      "kp_id": "1086625",
+      "imdb_id": "tt7129926",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-04-09 22:44:40",
+      "orig_title": "Come un gatto in tangenziale",
+      "year": "2017-12-28",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (iTunes)"
+      ],
+      "quality": "webdl",
       "translation": "Профессиональный (многоголосый закадровый) (iTunes)",
-      "update": "2019-09-04 06:12:25",
+      "update": "2019-09-11 04:53:05",
       "iframe_src": ""
     },
     {
-      "id": 16393,
-      "title": "Коллекторы",
-      "kp_id": "1049730",
-      "imdb_id": "tt7448180",
+      "id": 13625,
+      "title": "Свадьба Уайлд",
+      "kp_id": "937978",
+      "imdb_id": "tt5066056",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-04-20 22:51:28",
-      "orig_title": "The Debt Collector",
-      "year": "2018-04-26",
+      "add": "2017-09-26 20:41:26",
+      "orig_title": "The Wilde Wedding",
+      "year": "2017-09-05",
       "translations": [
-        "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-        "Любительский (двухголосый закадровый) (HiWayGrope)",
-        "Профессиональный (многоголосый закадровый) (GreenРай Studio)",
-        "Полное дублирование (iTunes)",
-        "Авторский (одноголосый закадровый) (Чадов)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-      "update": "2019-09-04 06:36:09",
-      "iframe_src": ""
-    },
-    {
-      "id": 13169,
-      "title": "Моди",
-      "kp_id": "841897",
-      "imdb_id": "tt3721954",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-08-27 21:54:53",
-      "orig_title": "Maudie",
-      "year": "2016-09-01",
-      "translations": [
-        "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-        "Профессиональный (многоголосый закадровый) (GreenРай Studio)",
-        "Любительский (одноголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-      "update": "2019-09-04 06:30:24",
-      "iframe_src": ""
-    },
-    {
-      "id": 10750,
-      "title": "Высший пилотаж",
-      "kp_id": "2931",
-      "imdb_id": "tt0283003",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-04-05 14:46:01",
-      "orig_title": "Spun",
-      "year": "2002-09-06",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)",
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-09-04 05:26:57",
-      "iframe_src": ""
-    },
-    {
-      "id": 7095,
-      "title": "Зловещая луна",
-      "kp_id": "1920",
-      "imdb_id": "tt0115610",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-11-06 15:24:32",
-      "orig_title": "Bad Moon",
-      "year": "1996-11-01",
-      "translations": [
-        "Полное дублирование",
         "Полное дублирование"
       ],
-      "quality": "webdl",
-      "translation": "Полное дублирование",
-      "update": "2019-09-04 05:41:04",
-      "iframe_src": ""
-    },
-    {
-      "id": 5964,
-      "title": "Крип",
-      "kp_id": "51326",
-      "imdb_id": "tt0381966",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-07 11:26:50",
-      "orig_title": "Creep",
-      "year": "2004-08-10",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)",
-        "Профессиональный (двухголосый закадровый)"
-      ],
-      "quality": "hdtv",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2019-09-04 06:07:08",
-      "iframe_src": ""
-    },
-    {
-      "id": 3487,
-      "title": "Делай как надо",
-      "kp_id": "4328",
-      "imdb_id": "tt0097216",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-06-29 08:21:11",
-      "orig_title": "Do the Right Thing",
-      "year": "1989-06-14",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)",
-        "Полное дублирование (Netflix)"
-      ],
       "quality": "bd",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2019-09-04 05:34:51",
+      "translation": "Полное дублирование",
+      "update": "2019-09-11 04:45:57",
       "iframe_src": ""
     },
     {
-      "id": 2537,
-      "title": "Бесконечность",
-      "kp_id": "808543",
-      "imdb_id": "tt3327624",
+      "id": 9146,
+      "title": "Три икса: Мировое господство",
+      "kp_id": "428709",
+      "imdb_id": "tt1293847",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-05-24 19:39:55",
-      "orig_title": "Infini",
-      "year": "2015-04-11",
-      "translations": [
-        "Любительский (двухголосый закадровый)",
-        "Любительский (одноголосый закадровый) (Хихикающий доктор)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (двухголосый закадровый)",
-      "update": "2019-09-04 06:15:04",
-      "iframe_src": ""
-    },
-    {
-      "id": 1462,
-      "title": "Рождественские каникулы",
-      "kp_id": "10074",
-      "imdb_id": "tt0097958",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-04-21 15:07:40",
-      "orig_title": "Christmas Vacation",
-      "year": "1989-11-30",
+      "add": "2017-01-24 12:58:16",
+      "orig_title": "xXx: Return of Xander Cage",
+      "year": "2017-01-05",
       "translations": [
         "Полное дублирование",
-        "Original (English)",
-        "Профессиональный (многоголосый закадровый)"
+        "Original (English)"
       ],
       "quality": "bd",
       "translation": "Полное дублирование",
-      "update": "2019-09-04 06:08:23",
+      "update": "2019-09-10 12:57:14",
+      "iframe_src": ""
+    },
+    {
+      "id": 4099,
+      "title": "Три икса 2: Новый уровень",
+      "kp_id": "9523",
+      "imdb_id": "tt0329774",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-07-22 07:11:03",
+      "orig_title": "xXx: State of the Union",
+      "year": "2005-04-27",
+      "translations": [
+        "Полное дублирование",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2019-09-10 12:56:03",
+      "iframe_src": ""
+    },
+    {
+      "id": 1420,
+      "title": "И целого мира мало",
+      "kp_id": "6585",
+      "imdb_id": "tt0143145",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-04-21 12:38:36",
+      "orig_title": "The World Is Not Enough",
+      "year": "1999-11-08",
+      "translations": [
+        "Полное дублирование",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2019-09-10 12:50:22",
+      "iframe_src": ""
+    },
+    {
+      "id": 1419,
+      "title": "Завтра не умрёт никогда",
+      "kp_id": "8141",
+      "imdb_id": "tt0120347",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-04-21 12:13:08",
+      "orig_title": "Tomorrow Never Dies",
+      "year": "1997-12-12",
+      "translations": [
+        "Полное дублирование",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2019-09-10 12:51:40",
+      "iframe_src": ""
+    },
+    {
+      "id": 847,
+      "title": "Звездный десант",
+      "kp_id": "6025",
+      "imdb_id": "tt0120201",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-04-08 17:51:34",
+      "orig_title": "Starship Troopers",
+      "year": "1997-11-04",
+      "translations": [
+        "Полное дублирование",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2019-09-10 12:47:44",
       "iframe_src": ""
     }
   ]

@@ -1,363 +1,363 @@
 {
   "data": [
     {
-      "id": 6572,
-      "title": "Материнский инстинкт",
-      "kp_id": "935529",
-      "imdb_id": "tt5037982",
+      "id": 6758,
+      "title": "Багси",
+      "kp_id": "7623",
+      "imdb_id": "tt0101516",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-10-21 15:32:29",
-      "orig_title": "Her Own Justice",
-      "year": "2015-11-08",
+      "add": "2016-10-28 05:22:51",
+      "orig_title": "Bugsy",
+      "year": "1991-12-10",
       "translations": [
-        "Профессиональный (многоголосый)"
+        "Полное дублирование"
       ],
       "quality": "hdtv",
-      "translation": "Профессиональный (многоголосый)",
-      "update": "2016-10-22 15:36:04",
+      "translation": "Полное дублирование",
+      "update": "2016-10-28 14:00:37",
       "iframe_src": ""
     },
     {
-      "id": 6549,
-      "title": "Друг моей подруги",
-      "kp_id": "220492",
-      "imdb_id": "tt0092550",
+      "id": 6757,
+      "title": "Инквизитор: Колодец и маятник",
+      "kp_id": "94606",
+      "imdb_id": "tt0100369",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-10-21 05:12:36",
-      "orig_title": "L'ami de mon amie",
-      "year": "1987-08-26",
+      "add": "2016-10-28 05:21:48",
+      "orig_title": "The Pit and the Pendulum",
+      "year": "1991-05-31",
       "translations": [
-        "Профессиональный (многоголосый закадровый)"
+        "Авторский (одноголосый закадровый) (Живов Юрий)"
       ],
       "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-10-24 06:57:44",
+      "translation": "Авторский (одноголосый закадровый) (Живов Юрий)",
+      "update": "2016-10-28 13:58:45",
       "iframe_src": ""
     },
     {
-      "id": 6548,
-      "title": "Ла бамба",
-      "kp_id": "3924",
-      "imdb_id": "tt0093378",
+      "id": 6756,
+      "title": "Клоун Шейкс",
+      "kp_id": "4193",
+      "imdb_id": "tt0102898",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-10-21 05:11:25",
-      "orig_title": "La Bamba",
-      "year": "1987-07-24",
+      "add": "2016-10-28 05:19:55",
+      "orig_title": "Shakes the Clown",
+      "year": "1991-08-28",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Гаврилов Андрей)"
+      ],
+      "quality": "webdl",
+      "translation": "Авторский (одноголосый закадровый) (Гаврилов Андрей)",
+      "update": "2016-10-28 13:56:14",
+      "iframe_src": ""
+    },
+    {
+      "id": 6755,
+      "title": "Он сведет меня с ума",
+      "kp_id": "4597",
+      "imdb_id": "tt0101786",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-28 05:18:44",
+      "orig_title": "Dutch",
+      "year": "1991-07-19",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Михалёв Алексей)"
+      ],
+      "quality": "bd",
+      "translation": "Авторский (одноголосый закадровый) (Михалёв Алексей)",
+      "update": "2016-10-28 13:53:52",
+      "iframe_src": ""
+    },
+    {
+      "id": 6741,
+      "title": "Братья Крэй",
+      "kp_id": "21636",
+      "imdb_id": "tt0099951",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-27 05:53:04",
+      "orig_title": "The Krays",
+      "year": "1990-04-27",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "webdl",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-10-24 06:55:57",
+      "update": "2016-10-28 13:46:45",
       "iframe_src": ""
     },
     {
-      "id": 6546,
-      "title": "Гарри и Хендерсоны",
-      "kp_id": "2795",
-      "imdb_id": "tt0093148",
+      "id": 6736,
+      "title": "Битва за остров сокровищ",
+      "kp_id": "9320",
+      "imdb_id": "tt0099816",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-10-21 05:08:53",
-      "orig_title": "Harry and the Hendersons",
-      "year": "1987-06-05",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "hdtv",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-10-24 06:51:17",
-      "iframe_src": ""
-    },
-    {
-      "id": 6544,
-      "title": "Смерть зимой",
-      "kp_id": "20240",
-      "imdb_id": "tt0092842",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-21 05:06:51",
-      "orig_title": "Dead of Winter",
-      "year": "1987-02-06",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-10-24 06:47:15",
-      "iframe_src": ""
-    },
-    {
-      "id": 6543,
-      "title": "Теленовости",
-      "kp_id": "2536",
-      "imdb_id": "tt0092699",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-21 05:05:38",
-      "orig_title": "Broadcast News",
-      "year": "1987-12-13",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-10-24 06:45:15",
-      "iframe_src": ""
-    },
-    {
-      "id": 6540,
-      "title": "Эвита",
-      "kp_id": "13130",
-      "imdb_id": "tt0116250",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-20 15:25:41",
-      "orig_title": "Evita",
-      "year": "1996-12-14",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-10-21 11:21:16",
-      "iframe_src": ""
-    },
-    {
-      "id": 6539,
-      "title": "Свидание с ангелом",
-      "kp_id": "12343",
-      "imdb_id": "tt0092834",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-20 15:24:41",
-      "orig_title": "Date with an Angel",
-      "year": "1987-11-20",
+      "add": "2016-10-27 05:46:10",
+      "orig_title": "Haakon Haakonsen",
+      "year": "1990-10-03",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "webdl",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-10-21 11:18:53",
+      "update": "2016-10-28 10:08:10",
       "iframe_src": ""
     },
     {
-      "id": 6538,
-      "title": "Любовь нельзя купить",
-      "kp_id": "6201",
-      "imdb_id": "tt0092718",
+      "id": 6735,
+      "title": "Вопросы и ответы",
+      "kp_id": "4279",
+      "imdb_id": "tt0100442",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-10-20 15:23:43",
-      "orig_title": "Can't Buy Me Love",
-      "year": "1987-08-14",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-10-21 11:16:54",
-      "iframe_src": ""
-    },
-    {
-      "id": 6537,
-      "title": "Воровка",
-      "kp_id": "6567",
-      "imdb_id": "tt0092710",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-20 15:22:38",
-      "orig_title": "Burglar",
-      "year": "1987-03-20",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-10-21 11:14:19",
-      "iframe_src": ""
-    },
-    {
-      "id": 6536,
-      "title": "Черная вдова",
-      "kp_id": "11523",
-      "imdb_id": "tt0090738",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-20 15:21:21",
-      "orig_title": "Black Widow",
-      "year": "1987-02-06",
+      "add": "2016-10-27 05:44:12",
+      "orig_title": "Q & A",
+      "year": "1990-04-27",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-10-21 11:01:25",
+      "update": "2016-10-28 13:41:39",
       "iframe_src": ""
     },
     {
-      "id": 6535,
-      "title": "Бестселлер",
-      "kp_id": "4070",
-      "imdb_id": "tt0092641",
+      "id": 6734,
+      "title": "Открытки с края бездны",
+      "kp_id": "1576",
+      "imdb_id": "tt0100395",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-10-20 15:20:00",
-      "orig_title": "Best Seller",
-      "year": "1987-09-25",
+      "add": "2016-10-27 05:42:49",
+      "orig_title": "Postcards from the Edge",
+      "year": "1990-09-14",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
-      "quality": "bd",
+      "quality": "hdtv",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-10-21 10:59:43",
+      "update": "2016-10-28 11:00:59",
       "iframe_src": ""
     },
     {
-      "id": 6533,
-      "title": "Услужливые девушки",
-      "kp_id": "15910",
-      "imdb_id": "tt0094237",
+      "id": 6732,
+      "title": "Русалки",
+      "kp_id": "16954",
+      "imdb_id": "tt0100140",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-10-20 15:17:10",
-      "orig_title": "Valet Girls",
-      "year": "1987-01-01",
+      "add": "2016-10-27 05:40:36",
+      "orig_title": "Mermaids",
+      "year": "1990-12-14",
       "translations": [
-        "Профессиональный (двухголосый закадровый)"
+        "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "hdtv",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2016-10-24 06:35:49",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-10-28 10:11:05",
       "iframe_src": ""
     },
     {
-      "id": 6532,
-      "title": "Легкая кавалерия",
-      "kp_id": "33589",
-      "imdb_id": "tt0093416",
+      "id": 6731,
+      "title": "Состояние сердца",
+      "kp_id": "15267",
+      "imdb_id": "tt0099750",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-10-20 15:15:34",
-      "orig_title": "The Lighthorsemen",
-      "year": "1987-09-10",
+      "add": "2016-10-27 05:39:39",
+      "orig_title": "Heart Condition",
+      "year": "1990-01-12",
       "translations": [
-        "Профессиональный (двухголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2016-10-21 10:55:42",
-      "iframe_src": ""
-    },
-    {
-      "id": 6530,
-      "title": "Унесенные",
-      "kp_id": "18974",
-      "imdb_id": "tt0291502",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-20 15:13:04",
-      "orig_title": "Swept Away",
-      "year": "2002-10-08",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)"
+        "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "webdl",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2016-10-21 10:50:11",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-10-28 10:05:02",
       "iframe_src": ""
     },
     {
-      "id": 6528,
-      "title": "Месть на колёсах",
-      "kp_id": "4964",
-      "imdb_id": "tt0093876",
+      "id": 6730,
+      "title": "Папа-призрак",
+      "kp_id": "20583",
+      "imdb_id": "tt0099654",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-10-20 15:10:27",
-      "orig_title": "Rolling Vengeance",
-      "year": "1987-10-02",
+      "add": "2016-10-27 05:38:31",
+      "orig_title": "Ghost Dad",
+      "year": "1990-06-29",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-10-28 10:02:23",
+      "iframe_src": ""
+    },
+    {
+      "id": 6729,
+      "title": "Странная штука – любовь",
+      "kp_id": "6406",
+      "imdb_id": "tt0099623",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-27 05:37:29",
+      "orig_title": "Funny About Love",
+      "year": "1990-09-21",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-10-28 10:00:33",
+      "iframe_src": ""
+    },
+    {
+      "id": 6726,
+      "title": "Сирано де Бержерак",
+      "kp_id": "20891",
+      "imdb_id": "tt0099334",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-27 05:33:19",
+      "orig_title": "Cyrano de Bergerac",
+      "year": "1990-03-28",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-10-28 09:43:45",
+      "iframe_src": ""
+    },
+    {
+      "id": 6724,
+      "title": "Психованные",
+      "kp_id": "2314",
+      "imdb_id": "tt0099316",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-27 05:29:05",
+      "orig_title": "Crazy People",
+      "year": "1990-04-13",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-10-28 09:40:31",
+      "iframe_src": ""
+    },
+    {
+      "id": 6722,
+      "title": "После наступления темноты, моя дорогая",
+      "kp_id": "23923",
+      "imdb_id": "tt0098994",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-27 05:26:27",
+      "orig_title": "After Dark, My Sweet",
+      "year": "1990-08-24",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-10-28 09:33:42",
+      "iframe_src": ""
+    },
+    {
+      "id": 6720,
+      "title": "Первая сила",
+      "kp_id": "15930",
+      "imdb_id": "tt0099578",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-27 05:14:18",
+      "orig_title": "The First Power",
+      "year": "1990-04-06",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2016-10-28 09:11:11",
+      "iframe_src": ""
+    },
+    {
+      "id": 6715,
+      "title": "Лыжная школа",
+      "kp_id": "35762",
+      "imdb_id": "tt0102940",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-27 05:07:40",
+      "orig_title": "Ski School",
+      "year": "1991-01-11",
       "translations": [
         "Профессиональный (двухголосый закадровый)"
       ],
       "quality": "hdtv",
       "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2016-10-24 06:33:31",
+      "update": "2016-10-28 09:09:01",
       "iframe_src": ""
     },
     {
-      "id": 6526,
-      "title": "Мэлоун",
-      "kp_id": "21285",
-      "imdb_id": "tt0093483",
+      "id": 6713,
+      "title": "Ламбада",
+      "kp_id": "18016",
+      "imdb_id": "tt0099969",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-10-20 15:07:50",
-      "orig_title": "Malone",
-      "year": "1987-05-01",
+      "add": "2016-10-27 05:05:24",
+      "orig_title": "Lambada",
+      "year": "1990-03-16",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2016-10-28 09:06:15",
+      "iframe_src": ""
+    },
+    {
+      "id": 6710,
+      "title": "Просочившиеся в канализацию",
+      "kp_id": "32118",
+      "imdb_id": "tt0099459",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-26 16:46:32",
+      "orig_title": "Down the Drain",
+      "year": "1990-04-25",
       "translations": [
         "Профессиональный (двухголосый закадровый)"
       ],
       "quality": "hdtv",
       "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2016-10-24 06:31:42",
+      "update": "2016-10-28 09:03:41",
       "iframe_src": ""
     },
     {
-      "id": 6521,
-      "title": "Правосудие Стила",
-      "kp_id": "15924",
-      "imdb_id": "tt0094034",
+      "id": 5710,
+      "title": "Светская жизнь",
+      "kp_id": "893362",
+      "imdb_id": "tt4513674",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-10-20 15:01:16",
-      "orig_title": "Steele Justice",
-      "year": "1987-05-08",
+      "add": "2016-09-29 12:29:03",
+      "orig_title": "Café Society",
+      "year": "2016-05-11",
       "translations": [
-        "Авторский (одноголосый закадровый) (Визгунов)"
+        "Полное дублирование"
       ],
-      "quality": "hdtv",
-      "translation": "Авторский (одноголосый закадровый) (Визгунов)",
-      "update": "2016-10-24 06:30:05",
-      "iframe_src": ""
-    },
-    {
-      "id": 6498,
-      "title": "Иллюзия убийства 2",
-      "kp_id": "4952",
-      "imdb_id": "tt0101846",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-20 05:40:27",
-      "orig_title": "F/X2",
-      "year": "1991-05-10",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "hdtv",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-10-24 06:25:21",
-      "iframe_src": ""
-    },
-    {
-      "id": 6497,
-      "title": "Иллюзия убийства",
-      "kp_id": "15286",
-      "imdb_id": "tt0089118",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-20 05:39:50",
-      "orig_title": "F/X",
-      "year": "1986-02-07",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "hdtv",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-10-24 06:23:48",
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2016-10-28 06:58:46",
       "iframe_src": ""
     }
   ]

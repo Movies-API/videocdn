@@ -1,366 +1,365 @@
 {
   "data": [
     {
-      "id": 32401,
-      "title": "Вороны: Продолжение",
-      "kp_id": "413506",
-      "imdb_id": "tt1232831",
+      "id": 32560,
+      "title": "Кровь и кости",
+      "kp_id": "81551",
+      "imdb_id": "tt0419515",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-10-27 20:11:36",
-      "orig_title": "Kurôzu zero II",
-      "year": "2009-02-26",
+      "add": "2019-10-31 21:54:01",
+      "orig_title": "Chi to hone",
+      "year": "2004-10-09",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-11-05 11:51:21",
+      "iframe_src": ""
+    },
+    {
+      "id": 32557,
+      "title": "Госпожа Кровавый Снег",
+      "kp_id": "94157",
+      "imdb_id": "tt0158714",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-31 20:55:26",
+      "orig_title": "Shurayukihime",
+      "year": "1973-12-01",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Кузнецов Сергей)"
+      ],
+      "quality": "bd",
+      "translation": "Авторский (одноголосый закадровый) (Кузнецов Сергей)",
+      "update": "2019-11-05 11:55:47",
+      "iframe_src": ""
+    },
+    {
+      "id": 32555,
+      "title": "Телескоп Хаббл в 3D",
+      "kp_id": "472257",
+      "imdb_id": "tt1433813",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-31 20:45:36",
+      "orig_title": "Hubble 3D",
+      "year": "2010-03-19",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Сербин Юрий)"
+      ],
+      "quality": "bd",
+      "translation": "Авторский (одноголосый закадровый) (Сербин Юрий)",
+      "update": "2019-11-05 11:56:34",
+      "iframe_src": ""
+    },
+    {
+      "id": 32546,
+      "title": "После расставания",
+      "kp_id": "495682",
+      "imdb_id": "tt1578261",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-31 20:09:34",
+      "orig_title": "Break Ke Baad",
+      "year": "2010-11-25",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (ZEE TV)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый) (ZEE TV)",
+      "update": "2019-11-05 11:57:21",
+      "iframe_src": ""
+    },
+    {
+      "id": 32542,
+      "title": "Удивительная история странной любви",
+      "kp_id": "422430",
+      "imdb_id": "tt1252596",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-31 19:54:05",
+      "orig_title": "Ajab Prem Ki Ghazab Kahani",
+      "year": "2009-11-06",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-10-28 07:55:27",
+      "update": "2019-11-05 12:23:13",
       "iframe_src": ""
     },
     {
-      "id": 32400,
-      "title": "Гений дзюдо",
-      "kp_id": "84887",
-      "imdb_id": "tt0059677",
+      "id": 32535,
+      "title": "Барби: Рождественская история",
+      "kp_id": "424954",
+      "imdb_id": "tt1314715",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-10-27 20:05:30",
-      "orig_title": "Sugata Sanshiro",
-      "year": "1965-05-29",
+      "add": "2019-10-31 14:33:41",
+      "orig_title": "Barbie in 'A Christmas Carol'",
+      "year": "2008-10-23",
       "translations": [
         "Полное дублирование"
       ],
       "quality": "dvdrip",
       "translation": "Полное дублирование",
-      "update": "2019-10-28 07:51:45",
+      "update": "2019-11-05 08:59:48",
       "iframe_src": ""
     },
     {
-      "id": 32374,
-      "title": "Бадшах",
-      "kp_id": "77631",
-      "imdb_id": "tt0211934",
+      "id": 32534,
+      "title": "Дневники Барби",
+      "kp_id": "255038",
+      "imdb_id": "tt0795338",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-10-26 10:40:39",
-      "orig_title": "Baadshah",
-      "year": "1999-08-27",
+      "add": "2019-10-31 14:31:51",
+      "orig_title": "Barbie Diaries",
+      "year": "2006-05-09",
       "translations": [
-        "Профессиональный (многоголосый закадровый) (Формат AB)"
+        "Полное дублирование"
       ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый) (Формат AB)",
-      "update": "2019-10-28 07:34:24",
+      "quality": "dvdrip",
+      "translation": "Полное дублирование",
+      "update": "2019-11-05 09:00:42",
       "iframe_src": ""
     },
     {
-      "id": 32371,
-      "title": "Боги, наверное, сошли с ума 4",
-      "kp_id": "37037",
-      "imdb_id": "tt0107102",
+      "id": 32531,
+      "title": "Барби: Принцесса и Нищенка",
+      "kp_id": "161225",
+      "imdb_id": "tt0426955",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-10-26 10:27:48",
-      "orig_title": "Heung Gong wun fung kwong",
-      "year": "1993-07-10",
+      "add": "2019-10-31 12:37:11",
+      "orig_title": "Barbie as the Princess and the Pauper",
+      "year": "2004-09-28",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "dvdrip",
+      "translation": "Полное дублирование",
+      "update": "2019-11-05 09:01:17",
+      "iframe_src": ""
+    },
+    {
+      "id": 32530,
+      "title": "Барби: Сказочная страна. Волшебная радуга",
+      "kp_id": "295066",
+      "imdb_id": "tt1007920",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-31 12:35:21",
+      "orig_title": "Barbie Fairytopia: Magic of the Rainbow",
+      "year": "2007-03-06",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "dvdrip",
+      "translation": "Полное дублирование",
+      "update": "2019-11-05 09:01:48",
+      "iframe_src": ""
+    },
+    {
+      "id": 32529,
+      "title": "Барби и дракон",
+      "kp_id": "79676",
+      "imdb_id": "tt0313255",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-31 12:25:09",
+      "orig_title": "Barbie as Rapunzel",
+      "year": "2002-09-30",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "dvdrip",
+      "translation": "Полное дублирование",
+      "update": "2019-11-05 09:02:32",
+      "iframe_src": ""
+    },
+    {
+      "id": 32528,
+      "title": "Барби: Лебединое озеро",
+      "kp_id": "95248",
+      "imdb_id": "tt0383206",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-31 12:22:34",
+      "orig_title": "Barbie of Swan Lake",
+      "year": "2003-09-30",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "dvdrip",
+      "translation": "Полное дублирование",
+      "update": "2019-11-05 09:03:03",
+      "iframe_src": ""
+    },
+    {
+      "id": 32527,
+      "title": "Барби: Тайна феи",
+      "kp_id": "574166",
+      "imdb_id": "tt1800254",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-31 12:20:38",
+      "orig_title": "Barbie: A Fairy Secret",
+      "year": "2011-02-22",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "dvdrip",
+      "translation": "Полное дублирование",
+      "update": "2019-11-05 09:03:34",
+      "iframe_src": ""
+    },
+    {
+      "id": 32526,
+      "title": "Барби: Чудесное Рождество",
+      "kp_id": "626827",
+      "imdb_id": "tt2091240",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-31 12:18:30",
+      "orig_title": "Barbie: A Perfect Christmas",
+      "year": "2011-11-03",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "dvdrip",
+      "translation": "Полное дублирование",
+      "update": "2019-11-05 09:04:07",
+      "iframe_src": ""
+    },
+    {
+      "id": 32509,
+      "title": "Это были мы 2",
+      "kp_id": "611428",
+      "imdb_id": "tt2002626",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-30 20:44:18",
+      "orig_title": "Bokura ga ita: Kouhen",
+      "year": "2012-04-21",
+      "translations": [
+        "Любительский (двухголосый закадровый) (GREEN TEA)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Любительский (двухголосый закадровый) (GREEN TEA)",
+      "update": "2019-11-05 12:32:48",
+      "iframe_src": ""
+    },
+    {
+      "id": 32508,
+      "title": "Маскарад",
+      "kp_id": "694359",
+      "imdb_id": "tt2290840",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-30 20:35:53",
+      "orig_title": "Gwanghae: Wangyidoen namja",
+      "year": "2012-09-13",
+      "translations": [
+        "Любительский (двухголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (двухголосый закадровый)",
+      "update": "2019-11-05 12:38:10",
+      "iframe_src": ""
+    },
+    {
+      "id": 32477,
+      "title": "Папа в командировке",
+      "kp_id": "7704",
+      "imdb_id": "tt0089748",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-29 20:23:19",
+      "orig_title": "Otac na sluzbenom putu",
+      "year": "1985-01-15",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "dvdrip",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-10-28 07:31:22",
+      "update": "2019-11-05 12:43:32",
       "iframe_src": ""
     },
     {
-      "id": 32369,
-      "title": "Робинзон на Луне",
-      "kp_id": "487514",
-      "imdb_id": "tt1499666",
+      "id": 23651,
+      "title": "Принц Щелкунчик",
+      "kp_id": "4746",
+      "imdb_id": "tt0100281",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-10-26 10:22:02",
-      "orig_title": "Kimssi pyoryugi",
-      "year": "2009-05-14",
+      "add": "2019-03-29 18:45:14",
+      "orig_title": "The Nutcracker Prince",
+      "year": "1990-11-23",
       "translations": [
-        "Любительский (одноголосый закадровый)"
+        "Полное дублирование",
+        "Авторский (одноголосый закадровый) (Михалёв Алексей)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Полное дублирование",
+      "update": "2019-11-05 12:22:21",
+      "iframe_src": ""
+    },
+    {
+      "id": 21712,
+      "title": "Наши истории любви",
+      "kp_id": "676953",
+      "imdb_id": "tt2354407",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-01-21 13:47:09",
+      "orig_title": "Teri Meri Kahaani",
+      "year": "2012-06-21",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-11-05 12:19:45",
+      "iframe_src": ""
+    },
+    {
+      "id": 10654,
+      "title": "Полицейская история 2",
+      "kp_id": "22777",
+      "imdb_id": "tt0095403",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-03-31 14:24:02",
+      "orig_title": "Ging chaat goo si juk jaap",
+      "year": "1988-08-13",
+      "translations": [
+        "Любительский (одноголосый закадровый)",
+        "Авторский (одноголосый закадровый) (Яроцкий)"
       ],
       "quality": "bd",
       "translation": "Любительский (одноголосый закадровый)",
-      "update": "2019-10-28 07:30:00",
+      "update": "2019-11-05 11:54:11",
       "iframe_src": ""
     },
     {
-      "id": 32368,
-      "title": "Дон. Главарь мафии",
-      "kp_id": "104917",
-      "imdb_id": "tt0461936",
+      "id": 4157,
+      "title": "Кто я?",
+      "kp_id": "24690",
+      "imdb_id": "tt0127357",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-10-26 10:19:22",
-      "orig_title": "Don",
-      "year": "2006-10-20",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-10-28 06:47:37",
-      "iframe_src": ""
-    },
-    {
-      "id": 32366,
-      "title": "Страсть",
-      "kp_id": "84988",
-      "imdb_id": "tt0133024",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-26 10:03:16",
-      "orig_title": "Ishq",
-      "year": "1997-11-28",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (Формат AB)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый) (Формат AB)",
-      "update": "2019-10-28 06:44:08",
-      "iframe_src": ""
-    },
-    {
-      "id": 32365,
-      "title": "Как боссу утерли нос",
-      "kp_id": "40406",
-      "imdb_id": "tt0120540",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-26 10:00:44",
-      "orig_title": "Yes Boss",
-      "year": "1997-07-18",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-10-28 06:43:00",
-      "iframe_src": ""
-    },
-    {
-      "id": 32364,
-      "title": "Каран и Арджун",
-      "kp_id": "77636",
-      "imdb_id": "tt0113526",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-26 09:57:52",
-      "orig_title": "Karan Arjun",
-      "year": "1995-01-13",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-10-28 06:41:31",
-      "iframe_src": ""
-    },
-    {
-      "id": 32363,
-      "title": "Назарин",
-      "kp_id": "59136",
-      "imdb_id": "tt0051983",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-26 09:52:25",
-      "orig_title": "Nazarín",
-      "year": "1959-05-11",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (СВ-Дубль)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый) (СВ-Дубль)",
-      "update": "2019-10-28 06:37:54",
-      "iframe_src": ""
-    },
-    {
-      "id": 32361,
-      "title": "Салам Намасте",
-      "kp_id": "105789",
-      "imdb_id": "tt0456165",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-26 09:46:25",
-      "orig_title": "Salaam Namaste",
-      "year": "2005-09-09",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-10-28 06:36:45",
-      "iframe_src": ""
-    },
-    {
-      "id": 32351,
-      "title": "Боги, наверное, сошли с ума 3",
-      "kp_id": "93526",
-      "imdb_id": "tt0101864",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-25 19:43:59",
-      "orig_title": "Fei zhou he shang",
-      "year": "1991-07-05",
-      "translations": [
-        "Любительский (одноголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2019-10-28 06:07:18",
-      "iframe_src": ""
-    },
-    {
-      "id": 32348,
-      "title": "Ты, я и мы",
-      "kp_id": "325541",
-      "imdb_id": "tt1039995",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-25 19:27:35",
-      "orig_title": "U Me Aur Hum",
-      "year": "2008-04-10",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)",
-        "Профессиональный (двухголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-10-28 06:26:34",
-      "iframe_src": ""
-    },
-    {
-      "id": 32347,
-      "title": "Индия, вперед!",
-      "kp_id": "263317",
-      "imdb_id": "tt0871510",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-25 19:18:44",
-      "orig_title": "Chak De! India",
-      "year": "2007-08-10",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-10-28 05:57:55",
-      "iframe_src": ""
-    },
-    {
-      "id": 32346,
-      "title": "Поздняя весна",
-      "kp_id": "156821",
-      "imdb_id": "tt0041154",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-25 19:15:21",
-      "orig_title": "Banshun",
-      "year": "1949-09-13",
-      "translations": [
-        "Профессиональный (двухголосый закадровый) (Инис)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (двухголосый закадровый) (Инис)",
-      "update": "2019-10-28 05:56:26",
-      "iframe_src": ""
-    },
-    {
-      "id": 32345,
-      "title": "Восстание",
-      "kp_id": "49887",
-      "imdb_id": "tt0346457",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-25 19:12:44",
-      "orig_title": "Mangal Pandey: The Rising",
-      "year": "2005-08-03",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-10-28 05:54:15",
-      "iframe_src": ""
-    },
-    {
-      "id": 15647,
-      "title": "Падший ангел",
-      "kp_id": "281100",
-      "imdb_id": "tt0985636",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-03-15 14:28:12",
-      "orig_title": "Laaga Chunari Mein Daag: Journey of a Woman",
-      "year": "2007-10-12",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-10-28 06:28:06",
-      "iframe_src": ""
-    },
-    {
-      "id": 6274,
-      "title": "Путешествие Металлиста",
-      "kp_id": "227226",
-      "imdb_id": "tt0478209",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-13 16:12:42",
-      "orig_title": "Metal: A Headbanger's Journey",
-      "year": "2005-09-14",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)",
-        "Авторский (одноголосый закадровый) (Чадов)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2019-10-28 06:40:39",
-      "iframe_src": ""
-    },
-    {
-      "id": 2948,
-      "title": "Доспехи бога 2: Операция Кондор",
-      "kp_id": "24701",
-      "imdb_id": "tt0099558",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-06-06 20:58:12",
-      "orig_title": "Fei ying gai wak",
-      "year": "1991-02-07",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)",
-        "Профессиональный (двухголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-10-28 06:34:19",
-      "iframe_src": ""
-    },
-    {
-      "id": 2266,
-      "title": "Цветы войны",
-      "kp_id": "464561",
-      "imdb_id": "tt1410063",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-05-17 06:38:48",
-      "orig_title": "Jin ling shi san chai",
-      "year": "2011-12-16",
+      "add": "2016-07-25 15:32:49",
+      "orig_title": "Ngo si seoi",
+      "year": "1998-01-17",
       "translations": [
         "Полное дублирование"
       ],
       "quality": "bd",
       "translation": "Полное дублирование",
-      "update": "2019-10-28 07:54:01",
+      "update": "2019-11-05 12:41:14",
       "iframe_src": ""
     }
   ]

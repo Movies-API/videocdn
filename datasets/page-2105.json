@@ -1,363 +1,363 @@
 {
   "data": [
     {
-      "id": 7711,
-      "title": "Они продают даже дождь",
-      "kp_id": "464477",
-      "imdb_id": "tt1422032",
+      "id": 7910,
+      "title": "Северо-запад",
+      "kp_id": "732902",
+      "imdb_id": "tt2650986",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-11-28 12:14:09",
-      "orig_title": "También la lluvia",
-      "year": "2010-09-16",
+      "add": "2016-12-08 07:15:51",
+      "orig_title": "Nordvest",
+      "year": "2013-01-27",
       "translations": [
-        "Любительский (двухголосый закадровый)"
+        "Авторский (одноголосый закадровый) (Алексеев Антон)"
+      ],
+      "quality": "bd",
+      "translation": "Авторский (одноголосый закадровый) (Алексеев Антон)",
+      "update": "2016-12-08 11:10:10",
+      "iframe_src": ""
+    },
+    {
+      "id": 7909,
+      "title": "Август. Восьмого",
+      "kp_id": "565158",
+      "imdb_id": "tt2094767",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-12-08 07:08:55",
+      "orig_title": "Avgust. Vosmogo",
+      "year": "2012-02-22",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "bd",
+      "translation": "Оригинальная дорожка",
+      "update": "2016-12-08 12:12:05",
+      "iframe_src": ""
+    },
+    {
+      "id": 7908,
+      "title": "Контракт на убийство",
+      "kp_id": "888428",
+      "imdb_id": "tt4298966",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-12-07 20:27:10",
+      "orig_title": "The Murder Pact",
+      "year": "2015-08-26",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Студия Пиратского Дубляжа)"
       ],
       "quality": "hdtv",
-      "translation": "Любительский (двухголосый закадровый)",
-      "update": "2016-11-28 18:48:31",
+      "translation": "Любительский (многоголосый закадровый) (Студия Пиратского Дубляжа)",
+      "update": "2016-12-08 09:19:01",
       "iframe_src": ""
     },
     {
-      "id": 7710,
-      "title": "Баба Джун",
-      "kp_id": "845710",
-      "imdb_id": "tt3757218",
+      "id": 7907,
+      "title": "Однажды",
+      "kp_id": "281779",
+      "imdb_id": "tt0907657",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-11-28 12:12:45",
-      "orig_title": "Baba Joon",
-      "year": "2015-09-09",
+      "add": "2016-12-07 15:09:13",
+      "orig_title": "Once",
+      "year": "2007-01-20",
       "translations": [
-        "Любительский (одноголосый закадровый)"
-      ],
-      "quality": "hdrip",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2016-11-28 14:10:29",
-      "iframe_src": ""
-    },
-    {
-      "id": 7685,
-      "title": "Солдатская девушка",
-      "kp_id": "256081",
-      "imdb_id": "tt0324013",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-11-28 11:00:55",
-      "orig_title": "Soldier's Girl",
-      "year": "2003-01-20",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2016-11-29 09:12:04",
-      "iframe_src": ""
-    },
-    {
-      "id": 7683,
-      "title": "Порт назначения",
-      "kp_id": "893215",
-      "imdb_id": "tt4417522",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-11-28 07:52:24",
-      "orig_title": "Daap hyut cam mui",
-      "year": "2015-04-06",
-      "translations": [
-        "Авторский (одноголосый закадровый) (Карповский)"
+        "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
-      "translation": "Авторский (одноголосый закадровый) (Карповский)",
-      "update": "2016-11-28 12:33:35",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-12-08 12:52:47",
       "iframe_src": ""
     },
     {
-      "id": 7681,
-      "title": "Последняя капля",
-      "kp_id": "860167",
-      "imdb_id": "tt3881192",
+      "id": 7906,
+      "title": "Письма с Иводзимы",
+      "kp_id": "252260",
+      "imdb_id": "tt0498380",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-11-28 06:13:01",
-      "orig_title": "Trigger Point",
-      "year": "2015-03-03",
+      "add": "2016-12-07 15:08:00",
+      "orig_title": "Letters from Iwo Jima",
+      "year": "2006-11-15",
       "translations": [
-        "Профессиональный (многоголосый)"
+        "Профессиональный (многоголосый закадровый)"
       ],
-      "quality": "hdtv",
-      "translation": "Профессиональный (многоголосый)",
-      "update": "2016-11-28 12:32:01",
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-12-08 12:50:58",
       "iframe_src": ""
     },
     {
-      "id": 7673,
-      "title": "Радио",
-      "kp_id": "8067",
-      "imdb_id": "tt0316465",
+      "id": 7905,
+      "title": "Флика 2",
+      "kp_id": "448386",
+      "imdb_id": "tt1381767",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-11-27 13:00:00",
-      "orig_title": "Radio",
-      "year": "2003-10-24",
+      "add": "2016-12-07 15:06:35",
+      "orig_title": "Flicka 2",
+      "year": "2010-04-25",
       "translations": [
-        "Профессиональный (двухголосый закадровый)"
+        "Профессиональный (многоголосый закадровый)"
       ],
-      "quality": "hdtv",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2016-11-29 09:02:58",
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-12-08 12:48:55",
       "iframe_src": ""
     },
     {
-      "id": 7672,
-      "title": "Зло",
-      "kp_id": "48546",
-      "imdb_id": "tt0338309",
+      "id": 7904,
+      "title": "Флаги наших отцов",
+      "kp_id": "81290",
+      "imdb_id": "tt0418689",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-11-27 12:58:40",
-      "orig_title": "Ondskan",
-      "year": "2003-05-16",
+      "add": "2016-12-07 15:05:22",
+      "orig_title": "Flags of Our Fathers",
+      "year": "2006-10-20",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-12-08 12:46:59",
+      "iframe_src": ""
+    },
+    {
+      "id": 7902,
+      "title": "Стон черной змеи",
+      "kp_id": "104978",
+      "imdb_id": "tt0462200",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-12-07 15:03:09",
+      "orig_title": "Black Snake Moan",
+      "year": "2006-12-09",
       "translations": [
         "Профессиональный (двухголосый закадровый)"
       ],
       "quality": "bd",
       "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2016-11-29 08:55:15",
+      "update": "2016-12-08 12:41:43",
       "iframe_src": ""
     },
     {
-      "id": 7671,
-      "title": "Ночные волны",
-      "kp_id": "298171",
-      "imdb_id": "tt0368895",
+      "id": 7901,
+      "title": "Остаться в живых III",
+      "kp_id": "487104",
+      "imdb_id": "tt1464535",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-11-27 12:57:22",
-      "orig_title": "Nightwaves",
-      "year": "2003-04-01",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)"
-      ],
-      "quality": "hdtv",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2016-11-29 08:53:20",
-      "iframe_src": ""
-    },
-    {
-      "id": 7670,
-      "title": "Разыскиваются в Малибу",
-      "kp_id": "307",
-      "imdb_id": "tt0328099",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-11-27 12:56:09",
-      "orig_title": "Malibu's Most Wanted",
-      "year": "2003-04-10",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2016-11-29 08:51:44",
-      "iframe_src": ""
-    },
-    {
-      "id": 7668,
-      "title": "Глава государства",
-      "kp_id": "13132",
-      "imdb_id": "tt0325537",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-11-27 12:53:54",
-      "orig_title": "Head of State",
-      "year": "2003-03-28",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2016-11-29 08:46:50",
-      "iframe_src": ""
-    },
-    {
-      "id": 7667,
-      "title": "Чудо Берна",
-      "kp_id": "61539",
-      "imdb_id": "tt0326429",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-11-27 12:52:46",
-      "orig_title": "Das Wunder von Bern",
-      "year": "2003-08-31",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2016-11-29 08:44:30",
-      "iframe_src": ""
-    },
-    {
-      "id": 7663,
-      "title": "Лан Квай Фонг 3",
-      "kp_id": "821598",
-      "imdb_id": "tt3426810",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-11-27 12:46:37",
-      "orig_title": "Lan Kwai Fong 3",
-      "year": "2014-01-02",
-      "translations": [
-        "Любительский (двухголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (двухголосый закадровый)",
-      "update": "2016-11-29 08:35:27",
-      "iframe_src": ""
-    },
-    {
-      "id": 7661,
-      "title": "Натали",
-      "kp_id": "575915",
-      "imdb_id": "tt1846675",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-11-27 12:44:21",
-      "orig_title": "Natalie",
-      "year": "2010-10-28",
+      "add": "2016-12-07 15:00:17",
+      "orig_title": "Fritt vilt III",
+      "year": "2010-10-15",
       "translations": [
         "Любительский (одноголосый закадровый)"
       ],
       "quality": "bd",
       "translation": "Любительский (одноголосый закадровый)",
-      "update": "2016-11-29 08:31:34",
+      "update": "2016-12-08 12:40:09",
       "iframe_src": ""
     },
     {
-      "id": 7660,
-      "title": "Голые амбиции 2",
-      "kp_id": "841375",
-      "imdb_id": "tt3740242",
+      "id": 7900,
+      "title": "Остаться в живых: Воскрешение",
+      "kp_id": "405776",
+      "imdb_id": "tt1188990",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-11-27 12:43:19",
-      "orig_title": "Ho ching 2",
-      "year": "2014-03-25",
+      "add": "2016-12-07 14:59:37",
+      "orig_title": "Fritt vilt II",
+      "year": "2008-10-10",
       "translations": [
-        "Любительский (одноголосый закадровый)"
+        "Профессиональный (двухголосый закадровый)"
       ],
       "quality": "bd",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2016-11-29 08:29:18",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2016-12-08 12:37:11",
       "iframe_src": ""
     },
     {
-      "id": 7659,
-      "title": "Слуга",
-      "kp_id": "574887",
-      "imdb_id": "tt1905059",
+      "id": 7899,
+      "title": "Остаться в живых",
+      "kp_id": "259601",
+      "imdb_id": "tt0808276",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-11-27 12:40:31",
-      "orig_title": "Bang-ja jeon",
-      "year": "2010-06-03",
+      "add": "2016-12-07 14:58:44",
+      "orig_title": "Fritt vilt",
+      "year": "2006-10-13",
       "translations": [
-        "Любительский (одноголосый закадровый)"
+        "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2016-11-29 08:26:35",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-12-08 12:35:17",
       "iframe_src": ""
     },
     {
-      "id": 7658,
-      "title": "Искусство мести",
-      "kp_id": "21759",
-      "imdb_id": "tt0315788",
+      "id": 7898,
+      "title": "Свидание вслепую",
+      "kp_id": "106169",
+      "imdb_id": "tt0454084",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-11-27 12:39:19",
-      "orig_title": "Art of Revenge",
-      "year": "2003-02-25",
-      "translations": [
-        "Любительский (одноголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2016-11-29 08:24:02",
-      "iframe_src": ""
-    },
-    {
-      "id": 7657,
-      "title": "Медальон",
-      "kp_id": "5575",
-      "imdb_id": "tt0288045",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-11-27 12:36:37",
-      "orig_title": "The Medallion",
-      "year": "2003-08-15",
+      "add": "2016-12-07 14:57:17",
+      "orig_title": "Blind Dating",
+      "year": "2006-07-28",
       "translations": [
         "Полное дублирование"
       ],
       "quality": "bd",
       "translation": "Полное дублирование",
-      "update": "2016-11-28 12:29:22",
+      "update": "2016-12-08 12:32:28",
       "iframe_src": ""
     },
     {
-      "id": 7656,
-      "title": "Свадебная вечеринка",
-      "kp_id": "7894",
-      "imdb_id": "tt0314786",
+      "id": 7883,
+      "title": "Я – Болт",
+      "kp_id": "1008170",
+      "imdb_id": "tt4647900",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-11-27 12:35:05",
-      "orig_title": "The In-Laws",
-      "year": "2003-05-19",
+      "add": "2016-12-06 12:49:25",
+      "orig_title": "I Am Bolt",
+      "year": "2016-11-28",
       "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "webdl",
-      "translation": "Полное дублирование",
-      "update": "2016-11-28 12:26:48",
-      "iframe_src": ""
-    },
-    {
-      "id": 7655,
-      "title": "Запятнанная репутация",
-      "kp_id": "8040",
-      "imdb_id": "tt0308383",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-11-27 12:33:51",
-      "orig_title": "The Human Stain",
-      "year": "2003-08-29",
-      "translations": [
-        "Полное дублирование"
+        "Любительский (многоголосый закадровый)"
       ],
       "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2016-11-28 12:24:41",
+      "translation": "Любительский (многоголосый закадровый)",
+      "update": "2016-12-08 09:11:36",
       "iframe_src": ""
     },
     {
-      "id": 7654,
-      "title": "Кот",
-      "kp_id": "8065",
-      "imdb_id": "tt0312528",
+      "id": 7881,
+      "title": "На плаву",
+      "kp_id": "851026",
+      "imdb_id": "tt4163644",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-11-27 12:32:27",
-      "orig_title": "The Cat in the Hat",
-      "year": "2003-11-08",
+      "add": "2016-12-06 12:46:44",
+      "orig_title": "Comme un avion",
+      "year": "2015-06-10",
       "translations": [
-        "Полное дублирование"
+        "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2016-11-28 12:22:12",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2016-12-08 12:25:47",
+      "iframe_src": ""
+    },
+    {
+      "id": 7880,
+      "title": "Быть Чарли",
+      "kp_id": "906020",
+      "imdb_id": "tt4630444",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-12-06 12:45:48",
+      "orig_title": "Being Charlie",
+      "year": "2015-09-14",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2016-12-08 12:21:47",
+      "iframe_src": ""
+    },
+    {
+      "id": 7874,
+      "title": "Эксперимент Куотермасса",
+      "kp_id": "342854",
+      "imdb_id": "tt0450315",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-12-05 14:13:28",
+      "orig_title": "The Quatermass Experiment",
+      "year": "2005-04-02",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "hdtv",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-12-08 09:04:54",
+      "iframe_src": ""
+    },
+    {
+      "id": 7873,
+      "title": "Королевы",
+      "kp_id": "106234",
+      "imdb_id": "tt0434304",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-12-05 14:12:26",
+      "orig_title": "Reinas",
+      "year": "2005-04-08",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "hdtv",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-12-08 09:02:17",
+      "iframe_src": ""
+    },
+    {
+      "id": 7871,
+      "title": "Учебник любви",
+      "kp_id": "166121",
+      "imdb_id": "tt0417944",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-12-05 14:10:14",
+      "orig_title": "Manuale d'amore",
+      "year": "2005-03-18",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "hdtv",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-12-08 08:58:19",
+      "iframe_src": ""
+    },
+    {
+      "id": 7868,
+      "title": "Тигр и снег",
+      "kp_id": "81874",
+      "imdb_id": "tt0419198",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-12-05 14:01:09",
+      "orig_title": "La tigre e la neve",
+      "year": "2005-10-14",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-12-08 08:53:49",
+      "iframe_src": ""
+    },
+    {
+      "id": 7867,
+      "title": "Кальмар и кит",
+      "kp_id": "61264",
+      "imdb_id": "tt0367089",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-12-05 13:59:31",
+      "orig_title": "The Squid and the Whale",
+      "year": "2005-01-24",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-12-08 08:52:55",
       "iframe_src": ""
     }
   ]

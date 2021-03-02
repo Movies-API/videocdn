@@ -1,365 +1,374 @@
 {
   "data": [
     {
-      "id": 31787,
-      "title": "Добыча",
-      "kp_id": "1125419",
-      "imdb_id": "tt8254080",
+      "id": 31988,
+      "title": "Палачи из Шаолиня",
+      "kp_id": "116286",
+      "imdb_id": "tt0076168",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-10-12 18:46:09",
-      "orig_title": "The Prey",
-      "year": "2018-10-05",
+      "add": "2019-10-17 06:25:05",
+      "orig_title": "Hong Xi Guan",
+      "year": "1977-02-16",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
+        "Авторский (одноголосый закадровый) (Кузнецов Сергей)"
       ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-10-13 05:44:24",
+      "quality": "dvdrip",
+      "translation": "Авторский (одноголосый закадровый) (Кузнецов Сергей)",
+      "update": "2019-10-17 07:12:40",
       "iframe_src": ""
     },
     {
-      "id": 31786,
-      "title": "Озёрный вампир",
-      "kp_id": "1090700",
-      "imdb_id": "tt7296606",
+      "id": 31985,
+      "title": "Легенда о Красном драконе",
+      "kp_id": "23596",
+      "imdb_id": "tt0110054",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-10-12 18:42:21",
-      "orig_title": "The Lake Vampire",
-      "year": "2018-06-01",
+      "add": "2019-10-17 06:11:58",
+      "orig_title": "Hung Hei Kwun: Siu Lam ng zou",
+      "year": "1994-02-05",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
+        "Профессиональный (многоголосый закадровый)"
       ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-10-13 05:40:15",
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-10-17 07:07:32",
       "iframe_src": ""
     },
     {
-      "id": 31783,
-      "title": "Ужас Хэллоуина",
-      "kp_id": "948209",
-      "imdb_id": "tt5183500",
+      "id": 31983,
+      "title": "Ледяное сердце",
+      "kp_id": "21371",
+      "imdb_id": "tt0105682",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-10-12 18:35:53",
-      "orig_title": "The Terror of Hallow's Eve",
-      "year": "2017-08-28",
+      "add": "2019-10-17 06:02:48",
+      "orig_title": "Un coeur en hiver",
+      "year": "1992-09-02",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
+        "Профессиональный (многоголосый закадровый) (CP Digital)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый) (CP Digital)",
+      "update": "2019-10-17 07:06:41",
+      "iframe_src": ""
+    },
+    {
+      "id": 31982,
+      "title": "Соблазненный",
+      "kp_id": "29733",
+      "imdb_id": "tt0039589",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-17 06:00:07",
+      "orig_title": "Lured",
+      "year": "1947-08-28",
+      "translations": [
+        "Любительский (одноголосый закадровый) (den904)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Любительский (одноголосый закадровый) (den904)",
+      "update": "2019-10-17 07:05:35",
+      "iframe_src": ""
+    },
+    {
+      "id": 31977,
+      "title": "История Золушки: Рождественское желание",
+      "kp_id": "1263529",
+      "imdb_id": "tt10326928",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-16 20:03:42",
+      "orig_title": "A Cinderella Story: Christmas Wish",
+      "year": "2019-10-15",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (AlphaProject)"
       ],
       "quality": "bd",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-10-13 06:13:58",
+      "translation": "Профессиональный (многоголосый закадровый) (AlphaProject)",
+      "update": "2019-10-17 05:51:27",
       "iframe_src": ""
     },
     {
-      "id": 31782,
-      "title": "Здесь и сейчас",
-      "kp_id": "1015185",
-      "imdb_id": "tt6175086",
+      "id": 31975,
+      "title": "Среди грабителей",
+      "kp_id": "962301",
+      "imdb_id": "tt5358014",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-10-12 18:31:46",
-      "orig_title": "So was von da",
-      "year": "2018-08-16",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-10-13 06:08:17",
-      "iframe_src": ""
-    },
-    {
-      "id": 31781,
-      "title": "Танцующий дух",
-      "kp_id": "1077631",
-      "imdb_id": "tt4838328",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-12 18:30:18",
-      "orig_title": "Moko Jumbie",
-      "year": "2017-06-20",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-10-13 06:14:55",
-      "iframe_src": ""
-    },
-    {
-      "id": 31780,
-      "title": "Гениальные собаки",
-      "kp_id": "1241456",
-      "imdb_id": "tt9724076",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-12 18:27:55",
-      "orig_title": "Dog Geniuses",
-      "year": "2019-06-04",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-10-13 05:54:08",
-      "iframe_src": ""
-    },
-    {
-      "id": 31779,
-      "title": "Как убить мертвого мужа",
-      "kp_id": "1012046",
-      "imdb_id": "tt6356228",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-12 18:25:37",
-      "orig_title": "Como matar a un esposo muerto",
-      "year": "2017-09-01",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-10-13 05:47:04",
-      "iframe_src": ""
-    },
-    {
-      "id": 31777,
-      "title": "Назови имя своё 2",
-      "kp_id": "1259703",
-      "imdb_id": "tt9652888",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-12 18:22:06",
-      "orig_title": "Along Came the Devil 2",
-      "year": "2019-10-11",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-10-13 05:55:57",
-      "iframe_src": ""
-    },
-    {
-      "id": 31776,
-      "title": "Час пик",
-      "kp_id": "1128726",
-      "imdb_id": "tt7620218",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-12 18:20:34",
-      "orig_title": "Rush Hour",
-      "year": "2018-03-10",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-10-13 06:10:39",
-      "iframe_src": ""
-    },
-    {
-      "id": 31775,
-      "title": "Дороги",
-      "kp_id": "1057357",
-      "imdb_id": "tt7303530",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-12 18:19:05",
-      "orig_title": "Roads",
-      "year": "2019-04-25",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-10-13 05:31:14",
-      "iframe_src": ""
-    },
-    {
-      "id": 31772,
-      "title": "Исчезновение 2",
-      "kp_id": "1049664",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-12 18:12:49",
-      "orig_title": "Shiljong 2",
-      "year": "2017-11-30",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Колобок)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Колобок)",
-      "update": "2019-10-13 06:15:40",
-      "iframe_src": ""
-    },
-    {
-      "id": 31771,
-      "title": "Мэнсон говорит: Проникая в мысли безумца: Часть 1",
-      "kp_id": null,
-      "imdb_id": "tt7735930",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-12 18:05:34",
-      "orig_title": "Manson Speaks: Inside the Mind of a Madman",
-      "year": "2017-12-03",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-10-13 06:16:35",
-      "iframe_src": ""
-    },
-    {
-      "id": 31768,
-      "title": "Призрак Как Лима",
-      "kp_id": "1184285",
-      "imdb_id": "tt8757960",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-12 17:57:09",
-      "orig_title": "Hantu Kak Limah",
-      "year": "2018-08-09",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-10-13 06:11:34",
-      "iframe_src": ""
-    },
-    {
-      "id": 31767,
-      "title": "Фронтерас",
-      "kp_id": "1077336",
-      "imdb_id": "tt7308310",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-12 17:55:27",
-      "orig_title": "Fronteras",
-      "year": "2018-05-15",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-10-13 06:12:14",
-      "iframe_src": ""
-    },
-    {
-      "id": 31766,
-      "title": "Запутавшаяся",
-      "kp_id": "1137607",
-      "imdb_id": "tt7945420",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-12 17:51:46",
-      "orig_title": "Entangled",
-      "year": "2019-10-11",
+      "add": "2019-10-16 19:59:37",
+      "orig_title": "Among Thieves",
+      "year": "2019-10-15",
       "translations": [
         "Профессиональный (многоголосый закадровый) (AlphaProject)"
       ],
       "quality": "webdl",
       "translation": "Профессиональный (многоголосый закадровый) (AlphaProject)",
-      "update": "2019-10-13 06:02:30",
+      "update": "2019-10-17 05:52:21",
       "iframe_src": ""
     },
     {
-      "id": 31765,
-      "title": "Конец времён",
-      "kp_id": "1094196",
-      "imdb_id": "tt7224520",
+      "id": 31974,
+      "title": "100 акров ада",
+      "kp_id": "748917",
+      "imdb_id": "tt2789014",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-10-12 17:50:32",
-      "orig_title": "Endzeit",
-      "year": "2018-09-08",
+      "add": "2019-10-16 19:57:30",
+      "orig_title": "100 Acres of Hell",
+      "year": "2019-10-08",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-10-13 06:13:08",
+      "update": "2019-10-17 05:53:03",
       "iframe_src": ""
     },
     {
-      "id": 31764,
-      "title": "Айла: Дочь войны",
-      "kp_id": "1032522",
-      "imdb_id": "tt6316138",
+      "id": 31973,
+      "title": "Тыквы",
+      "kp_id": "994965",
+      "imdb_id": "tt4381382",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-10-12 17:41:12",
-      "orig_title": "Ayla: The Daughter of War",
-      "year": "2017-09-08",
+      "add": "2019-10-16 19:55:45",
+      "orig_title": "Pumpkins",
+      "year": "2018-01-21",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-10-13 06:17:17",
+      "update": "2019-10-17 05:54:58",
       "iframe_src": ""
     },
     {
-      "id": 31763,
-      "title": "53 дня: Похищение Мэри Стоффер",
-      "kp_id": "1254614",
-      "imdb_id": "tt10127490",
+      "id": 31972,
+      "title": "Портал",
+      "kp_id": null,
+      "imdb_id": "tt8398892",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-10-12 17:39:42",
-      "orig_title": "53 Days: The Abduction of Mary Stauffer",
-      "year": "2019-10-05",
+      "add": "2019-10-16 19:54:02",
+      "orig_title": "Portal",
+      "year": "2019-09-27",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-10-13 05:45:43",
+      "update": "2019-10-17 05:55:41",
       "iframe_src": ""
     },
     {
-      "id": 23151,
-      "title": "Музыкальная шкатулка",
-      "kp_id": "1060428",
-      "imdb_id": "tt5553962",
+      "id": 31971,
+      "title": "Свиноматка",
+      "kp_id": "1250984",
+      "imdb_id": "tt8850036",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-03-16 09:10:50",
-      "orig_title": "The Music Box",
-      "year": "2018-07-04",
+      "add": "2019-10-16 19:50:36",
+      "orig_title": "Pig Hag",
+      "year": "2019-03-10",
       "translations": [
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
-        "Профессиональный (многоголосый закадровый)"
+        "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
-      "update": "2019-10-13 05:42:39",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-10-17 05:56:33",
       "iframe_src": ""
     },
     {
-      "id": 19050,
-      "title": "Не выходи из дома",
-      "kp_id": "1064356",
-      "imdb_id": "tt6842126",
+      "id": 31959,
+      "title": "Рождество в Коннектикуте",
+      "kp_id": "12614",
+      "imdb_id": "tt0037595",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-09-18 21:27:34",
-      "orig_title": "Don't Leave Home",
-      "year": "2018-03-10",
+      "add": "2019-10-16 05:37:45",
+      "orig_title": "Christmas in Connecticut",
+      "year": "1945-08-11",
       "translations": [
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
-        "Профессиональный (многоголосый закадровый)"
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2019-10-17 09:06:13",
+      "iframe_src": ""
+    },
+    {
+      "id": 30590,
+      "title": "Только когда я смеюсь",
+      "kp_id": "23921",
+      "imdb_id": "tt0082853",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-09-05 12:07:37",
+      "orig_title": "Only When I Laugh",
+      "year": "1981-09-13",
+      "translations": [
+        "Профессиональный (двухголосый закадровый) (Пифагор)",
+        "Original (English)"
       ],
       "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
-      "update": "2019-10-13 06:09:50",
+      "translation": "Профессиональный (двухголосый закадровый) (Пифагор)",
+      "update": "2019-10-17 09:09:45",
+      "iframe_src": ""
+    },
+    {
+      "id": 30587,
+      "title": "Ракета на Гибралтар",
+      "kp_id": "9333",
+      "imdb_id": "tt0096003",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-09-05 12:03:26",
+      "orig_title": "Rocket Gibraltar",
+      "year": "1988-09-02",
+      "translations": [
+        "Любительский (одноголосый закадровый)",
+        "Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2019-10-17 09:13:14",
+      "iframe_src": ""
+    },
+    {
+      "id": 30384,
+      "title": "Личный рекорд",
+      "kp_id": "1930",
+      "imdb_id": "tt0084489",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-08-30 07:10:26",
+      "orig_title": "Personal Best",
+      "year": "1982-02-05",
+      "translations": [
+        "Любительский (одноголосый закадровый)",
+        "Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2019-10-17 09:12:05",
+      "iframe_src": ""
+    },
+    {
+      "id": 30378,
+      "title": "О Боже!",
+      "kp_id": "4112",
+      "imdb_id": "tt0076489",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-08-30 07:02:13",
+      "orig_title": "Oh, God!",
+      "year": "1977-10-07",
+      "translations": [
+        "Полное дублирование",
+        "Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "Полное дублирование",
+      "update": "2019-10-17 09:09:03",
+      "iframe_src": ""
+    },
+    {
+      "id": 30377,
+      "title": "О, счастливчик",
+      "kp_id": "8334",
+      "imdb_id": "tt0070464",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-08-30 07:01:01",
+      "orig_title": "O Lucky Man!",
+      "year": "1973-05-03",
+      "translations": [
+        "Полное дублирование",
+        "Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "Полное дублирование",
+      "update": "2019-10-17 09:07:21",
+      "iframe_src": ""
+    },
+    {
+      "id": 26826,
+      "title": "Перелом",
+      "kp_id": "1137716",
+      "imdb_id": "tt4332232",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-05-21 09:31:47",
+      "orig_title": "Fractures",
+      "year": "2018-11-09",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (AlphaProject)",
+        "Любительский (двухголосый закадровый) (LakeFilms)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый) (AlphaProject)",
+      "update": "2019-10-17 07:35:47",
+      "iframe_src": ""
+    },
+    {
+      "id": 8856,
+      "title": "Монастырские соблазны",
+      "kp_id": "586513",
+      "imdb_id": "tt0165325",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-01-12 10:33:46",
+      "orig_title": "Immagini di un convento",
+      "year": "1979-08-07",
+      "translations": [
+        "Любительский (одноголосый закадровый)",
+        "Авторский (одноголосый закадровый) (Алексеев Антон)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2019-10-17 07:11:25",
+      "iframe_src": ""
+    },
+    {
+      "id": 6661,
+      "title": "Замёрзший",
+      "kp_id": "2621",
+      "imdb_id": "tt0098042",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-25 15:27:49",
+      "orig_title": "Out Cold",
+      "year": "1989-03-03",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)",
+        "Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2019-10-17 09:10:32",
+      "iframe_src": ""
+    },
+    {
+      "id": 6524,
+      "title": "Неприличное везение",
+      "kp_id": "9906",
+      "imdb_id": "tt0093690",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-20 15:05:15",
+      "orig_title": "Outrageous Fortune",
+      "year": "1987-01-30",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (Первый канал | ОРТ)",
+        "Полное дублирование",
+        "Авторский (одноголосый закадровый) (Михалёв Алексей)",
+        "Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый) (Первый канал | ОРТ)",
+      "update": "2019-10-17 09:11:11",
       "iframe_src": ""
     }
   ]

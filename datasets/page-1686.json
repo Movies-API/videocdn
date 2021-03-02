@@ -1,369 +1,367 @@
 {
   "data": [
     {
-      "id": 17339,
-      "title": "Как мы избежали наказание за убийство",
-      "kp_id": "603425",
-      "imdb_id": "tt2017711",
+      "id": 17520,
+      "title": "Людоеды",
+      "kp_id": "895525",
+      "imdb_id": "tt4466872",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-06-24 22:56:24",
-      "orig_title": "How We Got Away with It",
-      "year": "2014-05-13",
+      "add": "2018-07-02 22:35:26",
+      "orig_title": "Les ogres",
+      "year": "2015-10-06",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
+        "Профессиональный (многоголосый закадровый) (GreenРай Studio)"
       ],
       "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-06-26 06:03:26",
+      "translation": "Профессиональный (многоголосый закадровый) (GreenРай Studio)",
+      "update": "2018-07-04 05:52:50",
       "iframe_src": ""
     },
     {
-      "id": 17335,
-      "title": "5x2",
-      "kp_id": "61420",
-      "imdb_id": "tt0354356",
+      "id": 17519,
+      "title": "Ханна",
+      "kp_id": "899205",
+      "imdb_id": "tt4432006",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-06-24 22:39:04",
-      "orig_title": "5x2",
-      "year": "2004-09-01",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2018-06-26 06:00:00",
-      "iframe_src": ""
-    },
-    {
-      "id": 17333,
-      "title": "Eagles of Death Metal: Наши друзья",
-      "kp_id": "1009012",
-      "imdb_id": "tt6212934",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-06-24 22:24:51",
-      "orig_title": "Eagles of Death Metal: Nos Amis (Our Friends)",
-      "year": "2017-01-14",
+      "add": "2018-07-02 22:33:17",
+      "orig_title": "Hannah",
+      "year": "2017-09-08",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "bd",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-06-26 05:55:03",
+      "update": "2018-07-04 05:51:23",
       "iframe_src": ""
     },
     {
-      "id": 17330,
-      "title": "Как дела?",
-      "kp_id": "971975",
-      "imdb_id": "tt5507934",
+      "id": 17516,
+      "title": "Первый спутник и пятнистая корова",
+      "kp_id": "842077",
+      "imdb_id": "tt3897760",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-06-24 22:08:21",
-      "orig_title": "Como va",
-      "year": "2018-01-26",
+      "add": "2018-07-02 01:35:58",
+      "orig_title": "Wooribyeol ilhowa eolrukso",
+      "year": "2014-02-20",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Колобок)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Колобок)",
+      "update": "2018-07-03 04:33:50",
+      "iframe_src": ""
+    },
+    {
+      "id": 17515,
+      "title": "Мастерская",
+      "kp_id": "1044158",
+      "imdb_id": "tt6444838",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-07-02 01:34:18",
+      "orig_title": "L'atelier",
+      "year": "2017-05-22",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-06-26 05:45:04",
-      "iframe_src": ""
-    },
-    {
-      "id": 17327,
-      "title": "Невероятное приключение",
-      "kp_id": "1071827",
-      "imdb_id": "tt6912990",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-06-24 21:49:30",
-      "orig_title": "A Doggone Adventure",
-      "year": "2018-03-20",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-06-26 05:39:42",
-      "iframe_src": ""
-    },
-    {
-      "id": 17313,
-      "title": "Beзунчик",
-      "kp_id": "12513",
-      "imdb_id": "tt0338216",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-06-22 07:32:55",
-      "orig_title": "Lucky You",
-      "year": "2007-05-01",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2018-06-22 21:11:46",
-      "iframe_src": ""
-    },
-    {
-      "id": 17312,
-      "title": "Страх и вожделение",
-      "kp_id": "12085",
-      "imdb_id": "tt0045758",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-06-22 01:06:35",
-      "orig_title": "Fear and Desire",
-      "year": "1953-03-31",
-      "translations": [
-        "Авторский (одноголосый закадровый) (Чадов)"
-      ],
-      "quality": "bd",
-      "translation": "Авторский (одноголосый закадровый) (Чадов)",
-      "update": "2018-06-22 09:46:29",
-      "iframe_src": ""
-    },
-    {
-      "id": 17310,
-      "title": "Клют",
-      "kp_id": "6272",
-      "imdb_id": "tt0067309",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-06-22 00:57:14",
-      "orig_title": "Klute",
-      "year": "1971-06-23",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "webdl",
-      "translation": "Полное дублирование",
-      "update": "2018-06-22 09:45:13",
-      "iframe_src": ""
-    },
-    {
-      "id": 17309,
-      "title": "Капли дождя на раскаленных скалах",
-      "kp_id": "59537",
-      "imdb_id": "tt0211387",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-06-22 00:55:30",
-      "orig_title": "Gouttes d'eau sur pierres brûlantes",
-      "year": "2000-02-13",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2018-06-22 09:47:06",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2018-07-03 04:34:41",
       "iframe_src": ""
     },
     {
-      "id": 17307,
-      "title": "С почестями",
-      "kp_id": "10911",
-      "imdb_id": "tt0111732",
+      "id": 17513,
+      "title": "Мы молоды. Мы сильны",
+      "kp_id": "843294",
+      "imdb_id": "tt4076058",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-06-22 00:50:18",
-      "orig_title": "With Honors",
-      "year": "1994-04-29",
+      "add": "2018-07-02 01:30:52",
+      "orig_title": "Wir sind jung. Wir sind stark.",
+      "year": "2014-10-16",
       "translations": [
-        "Полное дублирование"
+        "Профессиональный (многоголосый закадровый) (GreenРай Studio)"
       ],
       "quality": "webdl",
-      "translation": "Полное дублирование",
-      "update": "2018-06-25 09:28:53",
+      "translation": "Профессиональный (многоголосый закадровый) (GreenРай Studio)",
+      "update": "2018-07-03 04:37:03",
       "iframe_src": ""
     },
     {
-      "id": 17306,
-      "title": "Травма",
-      "kp_id": "5877",
-      "imdb_id": "tt0104053",
+      "id": 17511,
+      "title": "Точка зрения",
+      "kp_id": "1025046",
+      "imdb_id": "tt6528098",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-06-22 00:48:39",
-      "orig_title": "Trauma",
-      "year": "1993-03-12",
+      "add": "2018-07-02 01:25:57",
+      "orig_title": "Viewpoint",
+      "year": "2017-01-01",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2018-07-03 04:42:37",
+      "iframe_src": ""
+    },
+    {
+      "id": 17510,
+      "title": "День, когда мой папа превратился в куст",
+      "kp_id": "953265",
+      "imdb_id": "tt5224746",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-07-02 01:19:59",
+      "orig_title": "Toen mijn vader een struik werd",
+      "year": "2016-09-10",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "hdtv",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2018-07-03 04:48:04",
+      "iframe_src": ""
+    },
+    {
+      "id": 17456,
+      "title": "Ловчий смерти",
+      "kp_id": "63989",
+      "imdb_id": "tt0087127",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-06-29 11:34:59",
+      "orig_title": "Deathstalker",
+      "year": "1983-09-02",
       "translations": [
         "Профессиональный (двухголосый закадровый)"
       ],
       "quality": "bd",
       "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2018-06-22 09:53:01",
+      "update": "2018-07-02 11:22:28",
       "iframe_src": ""
     },
     {
-      "id": 17305,
-      "title": "Оборотни старого морга",
-      "kp_id": "54978",
-      "imdb_id": "tt0101497",
+      "id": 17454,
+      "title": "По ту сторону черной радуги",
+      "kp_id": "484392",
+      "imdb_id": "tt1534085",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-06-22 00:45:36",
-      "orig_title": "The Boneyard",
-      "year": "1991-06-12",
+      "add": "2018-06-29 11:32:37",
+      "orig_title": "Beyond the Black Rainbow",
+      "year": "2010-12-03",
       "translations": [
-        "Любительский (одноголосый закадровый)"
+        "Профессиональный (двухголосый закадровый) (Ozz.tv)"
       ],
       "quality": "bd",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2018-06-22 09:56:02",
+      "translation": "Профессиональный (двухголосый закадровый) (Ozz.tv)",
+      "update": "2018-07-02 11:20:01",
       "iframe_src": ""
     },
     {
-      "id": 17303,
-      "title": "Легенда о фехтовальщике",
-      "kp_id": "23605",
-      "imdb_id": "tt0103295",
+      "id": 17453,
+      "title": "Такси-блюз",
+      "kp_id": "42193",
+      "imdb_id": "tt0100757",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-06-22 00:40:53",
-      "orig_title": "Xiao ao jiang hu: dong fang bu bai",
-      "year": "1992-03-25",
+      "add": "2018-06-29 11:23:48",
+      "orig_title": "Taksi-Blyuz",
+      "year": "1990-09-07",
       "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "webdl",
+      "translation": "Оригинальная дорожка",
+      "update": "2018-07-02 11:18:38",
+      "iframe_src": ""
+    },
+    {
+      "id": 17452,
+      "title": "Свадьба",
+      "kp_id": "41101",
+      "imdb_id": "tt0246119",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-06-29 11:22:38",
+      "orig_title": "Svadba",
+      "year": "2000-05-14",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "webdl",
+      "translation": "Оригинальная дорожка",
+      "update": "2018-07-02 11:17:31",
+      "iframe_src": ""
+    },
+    {
+      "id": 17451,
+      "title": "Про уродов и людей",
+      "kp_id": "7650",
+      "imdb_id": "tt0156849",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-06-29 11:20:42",
+      "orig_title": "Pro urodov i lyudey",
+      "year": "1998-05-20",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "webdl",
+      "translation": "Оригинальная дорожка",
+      "update": "2018-07-02 11:15:11",
+      "iframe_src": ""
+    },
+    {
+      "id": 17450,
+      "title": "Кочегар",
+      "kp_id": "500358",
+      "imdb_id": "tt1746183",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-06-29 11:19:12",
+      "orig_title": "Kochegar",
+      "year": "2011-01-29",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "webdl",
+      "translation": "Оригинальная дорожка",
+      "update": "2018-07-02 11:11:15",
+      "iframe_src": ""
+    },
+    {
+      "id": 17449,
+      "title": "Жених из Майами",
+      "kp_id": "41333",
+      "imdb_id": "tt0111831",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-06-29 11:15:53",
+      "orig_title": "Zhenikh iz Mayami",
+      "year": "1992-07-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "hdtv",
+      "translation": "Оригинальная дорожка",
+      "update": "2018-07-02 11:07:51",
+      "iframe_src": ""
+    },
+    {
+      "id": 17448,
+      "title": "Сказка о царе Салтане",
+      "kp_id": "43813",
+      "imdb_id": "tt0174207",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-06-29 11:14:30",
+      "orig_title": "Skazka o tsare Saltane",
+      "year": "1967-09-29",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "hdtv",
+      "translation": "Оригинальная дорожка",
+      "update": "2018-07-02 11:05:45",
+      "iframe_src": ""
+    },
+    {
+      "id": 13912,
+      "title": "Бедные родственники",
+      "kp_id": "104895",
+      "imdb_id": "tt0464632",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-10-19 22:30:15",
+      "orig_title": "Bednye rodstvenniki",
+      "year": "2005-10-21",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "webdl",
+      "translation": "Оригинальная дорожка",
+      "update": "2018-07-02 11:09:13",
+      "iframe_src": ""
+    },
+    {
+      "id": 13759,
+      "title": "Марион: Мне всегда 13",
+      "kp_id": "983394",
+      "imdb_id": "tt5769002",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-10-05 21:59:15",
+      "orig_title": "Marion, 13 ans pour toujours",
+      "year": "2016-09-27",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Профессиональный (многоголосый закадровый) (GreenРай Studio)"
+      ],
+      "quality": "hdtv",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2018-07-04 05:52:56",
+      "iframe_src": ""
+    },
+    {
+      "id": 12295,
+      "title": "Том и Джерри: Вилли Вонка и шоколадная фабрика",
+      "kp_id": "1045919",
+      "imdb_id": "tt6803390",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-07-04 22:11:02",
+      "orig_title": "Tom and Jerry: Willy Wonka and the Chocolate Factory",
+      "year": "2017-06-27",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Колобок)",
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Колобок)",
+      "update": "2018-07-03 04:44:00",
+      "iframe_src": ""
+    },
+    {
+      "id": 11681,
+      "title": "2307: Операция «Андроид»",
+      "kp_id": "860213",
+      "imdb_id": "tt4261326",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-05-29 23:31:43",
+      "orig_title": "Winter's Dream",
+      "year": "2016-04-02",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)",
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2018-06-22 09:59:12",
-      "iframe_src": ""
-    },
-    {
-      "id": 17299,
-      "title": "Бассейн",
-      "kp_id": "79427",
-      "imdb_id": "tt0064816",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-06-22 00:27:11",
-      "orig_title": "La piscine",
-      "year": "1969-01-31",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2018-06-22 10:03:43",
-      "iframe_src": ""
-    },
-    {
-      "id": 17153,
-      "title": "Глаза холмов",
-      "kp_id": null,
-      "imdb_id": "tt8526530",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-06-12 22:42:01",
-      "orig_title": "Eyes In The Hills",
-      "year": "2018-06-25",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Любительский (двухголосый закадровый) (HiWayGrope)"
-      ],
-      "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-06-26 05:55:24",
+      "update": "2018-07-04 05:42:33",
       "iframe_src": ""
     },
     {
-      "id": 16999,
-      "title": "Мрачная долина",
-      "kp_id": "858643",
-      "imdb_id": "tt3767208",
+      "id": 11441,
+      "title": "Том и Джерри: Возвращение в страну Оз",
+      "kp_id": "986547",
+      "imdb_id": "tt5737408",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-06-02 21:58:32",
-      "orig_title": "Dark Vale",
-      "year": "2018-05-22",
+      "add": "2017-05-09 13:30:46",
+      "orig_title": "Tom & Jerry: Back to Oz",
+      "year": "2016-06-21",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Любительский (двухголосый закадровый) (HiWayGrope)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-06-26 05:50:55",
-      "iframe_src": ""
-    },
-    {
-      "id": 16811,
-      "title": "Совратитель",
-      "kp_id": "1130415",
-      "imdb_id": "tt8093782",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-05-18 06:20:30",
-      "orig_title": "Corruptor",
-      "year": "2017-10-01",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Любительский (двухголосый закадровый) (HiWayGrope)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-06-26 05:45:19",
-      "iframe_src": ""
-    },
-    {
-      "id": 15889,
-      "title": "За лесами",
-      "kp_id": "937654",
-      "imdb_id": "tt5060166",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-03-29 19:44:48",
-      "orig_title": "Beyond the Woods",
-      "year": "2018-02-27",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)",
-        "Любительский (двухголосый закадровый) (HiWayGrope)"
+        "Любительский (многоголосый закадровый)",
+        "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2018-06-26 05:43:02",
-      "iframe_src": ""
-    },
-    {
-      "id": 15734,
-      "title": "Квартира 212",
-      "kp_id": "975491",
-      "imdb_id": "tt5641542",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-03-19 21:05:50",
-      "orig_title": "Apartment 212",
-      "year": "2017-09-16",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)",
-        "Любительский (двухголосый закадровый) (HiWayGrope)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2018-06-26 09:02:23",
-      "iframe_src": ""
-    },
-    {
-      "id": 13286,
-      "title": "Последний американский девственник",
-      "kp_id": "20157",
-      "imdb_id": "tt0084234",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-08-31 05:16:52",
-      "orig_title": "The Last American Virgin",
-      "year": "1982-06-26",
-      "translations": [
-        "Любительский (одноголосый закадровый)",
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2018-06-22 09:54:59",
+      "translation": "Любительский (многоголосый закадровый)",
+      "update": "2018-07-03 04:46:11",
       "iframe_src": ""
     }
   ]

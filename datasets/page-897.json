@@ -1,364 +1,366 @@
 {
   "data": [
     {
-      "id": 32739,
-      "title": "Орел приземлился",
-      "kp_id": "6262",
-      "imdb_id": "tt0074452",
+      "id": 33024,
+      "title": "И разверзся Ад",
+      "kp_id": "1156577",
+      "imdb_id": "tt7947624",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-11-05 18:35:16",
-      "orig_title": "The Eagle Has Landed",
-      "year": "1976-12-25",
+      "add": "2019-11-12 20:29:33",
+      "orig_title": "Here Comes Hell",
+      "year": "2019-03-01",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-11-13 11:10:12",
+      "iframe_src": ""
+    },
+    {
+      "id": 33017,
+      "title": "Безумие, прощай",
+      "kp_id": "1034545",
+      "imdb_id": "tt6349194",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-11-12 20:23:28",
+      "orig_title": "Madness, Farewell",
+      "year": "2018-11-01",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-11-13 11:11:16",
+      "iframe_src": ""
+    },
+    {
+      "id": 32999,
+      "title": "Молот",
+      "kp_id": "477589",
+      "imdb_id": "tt1094666",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-11-12 12:30:10",
+      "orig_title": "Hamill",
+      "year": "2010-11-07",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-11-13 12:09:30",
+      "iframe_src": ""
+    },
+    {
+      "id": 32989,
+      "title": "В поисках Санта Лапуса",
+      "kp_id": "485775",
+      "imdb_id": "tt1544572",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-11-11 21:33:57",
+      "orig_title": "The Search for Santa Paws",
+      "year": "2010-11-09",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2019-11-12 14:37:53",
+      "iframe_src": ""
+    },
+    {
+      "id": 32988,
+      "title": "Брошенная на произвол судьбы",
+      "kp_id": "400714",
+      "imdb_id": "tt1016321",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-11-11 21:30:23",
+      "orig_title": "À Deriva",
+      "year": "2009-05-21",
+      "translations": [
+        "Любительский (одноголосый закадровый) (den904)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Любительский (одноголосый закадровый) (den904)",
+      "update": "2019-11-12 14:37:10",
+      "iframe_src": ""
+    },
+    {
+      "id": 32985,
+      "title": "Мебиус",
+      "kp_id": "58867",
+      "imdb_id": "tt0117069",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-11-11 21:16:30",
+      "orig_title": "Moebius",
+      "year": "1996-10-17",
       "translations": [
         "Профессиональный (двухголосый закадровый)"
       ],
-      "quality": "bd",
+      "quality": "dvdrip",
       "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2019-11-07 08:58:46",
+      "update": "2019-11-12 14:30:27",
       "iframe_src": ""
     },
     {
-      "id": 32737,
-      "title": "Долемайт",
-      "kp_id": "84544",
-      "imdb_id": "tt007289",
+      "id": 32984,
+      "title": "Металлистка",
+      "kp_id": "705053",
+      "imdb_id": "tt2374902",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-11-05 18:30:20",
-      "orig_title": "Dolemite",
-      "year": "1975-04-26",
+      "add": "2019-11-11 21:12:40",
+      "orig_title": "Málmhaus",
+      "year": "2013-09-07",
       "translations": [
-        "Авторский (одноголосый закадровый) (Багичев)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Авторский (одноголосый закадровый) (Багичев)",
-      "update": "2019-11-07 05:40:22",
-      "iframe_src": ""
-    },
-    {
-      "id": 32734,
-      "title": "Внезапно снова семнадцать",
-      "kp_id": "975920",
-      "imdb_id": "tt5665040",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-11-05 18:17:47",
-      "orig_title": "28 sui wei chengnian",
-      "year": "2015-11-01",
-      "translations": [
-        "Любительский (двухголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (двухголосый закадровый)",
-      "update": "2019-11-07 08:59:32",
-      "iframe_src": ""
-    },
-    {
-      "id": 32732,
-      "title": "Идеальный конец",
-      "kp_id": "582367",
-      "imdb_id": "tt1823059",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-11-05 18:10:30",
-      "orig_title": "A Perfect Ending",
-      "year": "2012-06-21",
-      "translations": [
-        "Любительский (многоголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Любительский (многоголосый закадровый)",
-      "update": "2019-11-07 05:39:46",
-      "iframe_src": ""
-    },
-    {
-      "id": 32729,
-      "title": "Байонетта: Кровавая судьба",
-      "kp_id": "808570",
-      "imdb_id": "tt3306776",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-11-05 17:35:44",
-      "orig_title": "Bayonetta: Bloody Fate",
-      "year": "2013-10-22",
-      "translations": [
-        "Любительский (многоголосый закадровый) (AniDUB)"
+        "Любительский (одноголосый закадровый) (PashaUp | Павел Морозов)"
       ],
       "quality": "bd",
-      "translation": "Любительский (многоголосый закадровый) (AniDUB)",
-      "update": "2019-11-07 09:00:15",
+      "translation": "Любительский (одноголосый закадровый) (PashaUp | Павел Морозов)",
+      "update": "2019-11-12 14:30:27",
       "iframe_src": ""
     },
     {
-      "id": 32728,
-      "title": "Гектор \"Эль Фадер\": познавая истину",
-      "kp_id": "1129715",
-      "imdb_id": "tt8271182",
+      "id": 32983,
+      "title": "Безымянный гангстер",
+      "kp_id": "634343",
+      "imdb_id": "tt2082221",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-11-05 17:29:19",
-      "orig_title": "Héctor el Father: Conocerás la Verdad",
-      "year": "2018-03-22",
+      "add": "2019-11-11 21:09:18",
+      "orig_title": "Bumchoiwaui junjaeng: Nabbeunnomdeul jeonsungshidae",
+      "year": "2012-02-02",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
+        "Профессиональный (двухголосый закадровый) (НТВ)"
       ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-11-07 09:00:45",
+      "quality": "bd",
+      "translation": "Профессиональный (двухголосый закадровый) (НТВ)",
+      "update": "2019-11-12 14:30:00",
       "iframe_src": ""
     },
     {
-      "id": 32727,
-      "title": "Каяк до Клемту",
-      "kp_id": "1082536",
-      "imdb_id": "tt7207726",
+      "id": 32980,
+      "title": "Отважная Лифи",
+      "kp_id": "596493",
+      "imdb_id": "tt1971466",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-11-05 17:26:34",
-      "orig_title": "Kayak to Klemtu",
-      "year": "2017-10-20",
+      "add": "2019-11-11 20:48:49",
+      "orig_title": "Madangeul naon amtak",
+      "year": "2011-07-28",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
+        "Полное дублирование"
       ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-11-07 09:01:46",
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2019-11-12 14:19:03",
       "iframe_src": ""
     },
     {
-      "id": 32724,
-      "title": "Путь позора",
-      "kp_id": "980991",
-      "imdb_id": "tt5573404",
+      "id": 32973,
+      "title": "Золотая лихорадка",
+      "kp_id": "565510",
+      "imdb_id": "tt1714176",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-11-05 17:17:52",
-      "orig_title": "Traces of Indignity",
-      "year": "2018-01-01",
+      "add": "2019-11-11 20:10:54",
+      "orig_title": "Yellow Rock",
+      "year": "2011-11-01",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
+        "Профессиональный (двухголосый закадровый) (НТВ)"
       ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-11-07 05:37:49",
+      "quality": "hdrip",
+      "translation": "Профессиональный (двухголосый закадровый) (НТВ)",
+      "update": "2019-11-12 21:12:34",
       "iframe_src": ""
     },
     {
-      "id": 32722,
-      "title": "Гонка на вымирание",
-      "kp_id": "502270",
-      "imdb_id": "tt1618448",
+      "id": 32972,
+      "title": "Психо 3",
+      "kp_id": "9744",
+      "imdb_id": "tt0091799",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-11-05 16:55:06",
-      "orig_title": "Racing Extinction",
-      "year": "2015-01-24",
-      "translations": [
-        "Любительский (многоголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый)",
-      "update": "2019-11-07 05:37:11",
-      "iframe_src": ""
-    },
-    {
-      "id": 32721,
-      "title": "Могучий Тор",
-      "kp_id": "573940",
-      "imdb_id": "tt1792794",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-11-05 16:50:06",
-      "orig_title": "Almighty Thor",
-      "year": "2011-05-07",
-      "translations": [
-        "Любительский (двухголосый закадровый)"
-      ],
-      "quality": "hdtv",
-      "translation": "Любительский (двухголосый закадровый)",
-      "update": "2019-11-07 05:36:08",
-      "iframe_src": ""
-    },
-    {
-      "id": 32716,
-      "title": "Мариус",
-      "kp_id": "585547",
-      "imdb_id": "tt1872102",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-11-05 14:05:38",
-      "orig_title": "Marius",
-      "year": "2013-07-10",
+      "add": "2019-11-11 20:08:31",
+      "orig_title": "Psycho III",
+      "year": "1986-06-27",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-11-07 12:56:57",
+      "update": "2019-11-12 21:12:33",
       "iframe_src": ""
     },
     {
-      "id": 32715,
-      "title": "Легенда о Кащее или В поисках тридесятого царства",
-      "kp_id": "431102",
-      "imdb_id": null,
+      "id": 32969,
+      "title": "Хороший вор",
+      "kp_id": "7633",
+      "imdb_id": "tt0281820",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-11-05 12:07:00",
-      "orig_title": "Легенда о Кащее или В поисках тридесятого царства",
-      "year": "2004-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "tv",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-11-07 12:37:58",
-      "iframe_src": ""
-    },
-    {
-      "id": 32714,
-      "title": "Бэтмен",
-      "kp_id": "18406",
-      "imdb_id": "tt0060153",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-11-05 11:50:56",
-      "orig_title": "Batman: The Movie",
-      "year": "1966-07-30",
+      "add": "2019-11-11 19:51:12",
+      "orig_title": "The Good Thief",
+      "year": "2002-09-06",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-11-07 05:35:38",
-      "iframe_src": ""
-    },
-    {
-      "id": 32713,
-      "title": "Я вышла замуж за странную личность",
-      "kp_id": "220512",
-      "imdb_id": "tt0119346",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-11-05 11:46:19",
-      "orig_title": "I Married a Strange Person!",
-      "year": "1997-09-08",
-      "translations": [
-        "Любительский (одноголосый закадровый)"
       ],
       "quality": "dvdrip",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2019-11-07 05:35:00",
-      "iframe_src": ""
-    },
-    {
-      "id": 32712,
-      "title": "Голубая бездна",
-      "kp_id": "410072",
-      "imdb_id": "tt1223922",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-11-05 11:39:39",
-      "orig_title": "Blue",
-      "year": "2009-10-16",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-11-07 05:31:08",
+      "update": "2019-11-12 21:14:07",
       "iframe_src": ""
     },
     {
-      "id": 32711,
-      "title": "Кулак Северной Звезды",
-      "kp_id": "14427",
-      "imdb_id": "tt0113074",
+      "id": 32968,
+      "title": "Психо 4: Начало",
+      "kp_id": "80267",
+      "imdb_id": "tt0102724",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-11-05 11:20:41",
-      "orig_title": "Fist of the North Star",
-      "year": "1995-04-22",
+      "add": "2019-11-11 19:49:15",
+      "orig_title": "Psycho IV: The Beginning",
+      "year": "1990-11-10",
       "translations": [
-        "Авторский (одноголосый закадровый) (Багичев)"
-      ],
-      "quality": "webdl",
-      "translation": "Авторский (одноголосый закадровый) (Багичев)",
-      "update": "2019-11-07 05:30:14",
-      "iframe_src": ""
-    },
-    {
-      "id": 32710,
-      "title": "Мальчик, который умел летать",
-      "kp_id": "1673",
-      "imdb_id": "tt0090768",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-11-05 10:53:15",
-      "orig_title": "The Boy Who Could Fly",
-      "year": "1986-09-26",
-      "translations": [
-        "Любительский (одноголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2019-11-07 05:29:38",
-      "iframe_src": ""
-    },
-    {
-      "id": 32545,
-      "title": "Плохие спят спокойно",
-      "kp_id": "64018",
-      "imdb_id": "tt0054460",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-31 20:06:25",
-      "orig_title": "Warui yatsu hodo yoku nemuru",
-      "year": "1960-09-15",
-      "translations": [
-        "Любительский (одноголосый закадровый)"
+        "Профессиональный (многоголосый закадровый) (ДТВ)"
       ],
       "quality": "bd",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2019-11-07 07:55:56",
+      "translation": "Профессиональный (многоголосый закадровый) (ДТВ)",
+      "update": "2019-11-12 21:21:17",
       "iframe_src": ""
     },
     {
-      "id": 32510,
-      "title": "Еще нет",
-      "kp_id": "157070",
-      "imdb_id": "tt0107474",
+      "id": 32967,
+      "title": "Огни большого города",
+      "kp_id": "414",
+      "imdb_id": "tt0021749",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-10-30 20:47:59",
-      "orig_title": "Maadadayo",
-      "year": "1993-04-17",
+      "add": "2019-11-11 19:47:36",
+      "orig_title": "City Lights",
+      "year": "1931-01-30",
       "translations": [
-        "Профессиональный (двухголосый закадровый)"
+        "Original (English)"
       ],
       "quality": "bd",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2019-11-07 07:54:49",
+      "translation": "Original (English)",
+      "update": "2019-11-12 15:17:05",
       "iframe_src": ""
     },
     {
-      "id": 23354,
-      "title": "Пилоты Тада",
-      "kp_id": "1205766",
-      "imdb_id": "tt7116548",
+      "id": 31199,
+      "title": "Проклятие «Мэри»",
+      "kp_id": "1093221",
+      "imdb_id": "tt5834854",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-03-21 22:31:11",
-      "orig_title": "Thud Pilot",
-      "year": "2018-06-01",
+      "add": "2019-09-26 09:45:54",
+      "orig_title": "Mary",
+      "year": "2019-08-23",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "webdl",
+      "translation": "Полное дублирование",
+      "update": "2019-11-12 14:51:17",
+      "iframe_src": ""
+    },
+    {
+      "id": 31165,
+      "title": "Женщины мафии 2",
+      "kp_id": "1180793",
+      "imdb_id": "tt8858420",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-09-25 09:20:58",
+      "orig_title": "Kobiety mafii 2",
+      "year": "2019-02-22",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)",
-        "Любительский (многоголосый закадровый) (Колобок)"
+        "Авторский (одноголосый закадровый) (Гаевский Евгений)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-11-12 14:56:59",
+      "iframe_src": ""
+    },
+    {
+      "id": 19301,
+      "title": "Руби и Повелитель воды",
+      "kp_id": "1115748",
+      "imdb_id": "tt8925102",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-09-30 20:24:54",
+      "orig_title": "The Ladybug",
+      "year": "2018-02-02",
+      "translations": [
+        "Полное дублирование"
       ],
       "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-11-07 05:38:46",
+      "translation": "Полное дублирование",
+      "update": "2019-11-12 14:47:06",
+      "iframe_src": ""
+    },
+    {
+      "id": 17972,
+      "title": "Террор в прямом эфире",
+      "kp_id": "764902",
+      "imdb_id": "tt2990738",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-07-29 20:33:20",
+      "orig_title": "Deo tereo raibeu",
+      "year": "2013-07-26",
+      "translations": [
+        "Любительский (двухголосый закадровый) (GREEN TEA)",
+        "Любительский (двухголосый закадровый) (DeadSno & den904)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (двухголосый закадровый) (GREEN TEA)",
+      "update": "2019-11-12 14:16:09",
+      "iframe_src": ""
+    },
+    {
+      "id": 10793,
+      "title": "Ниже холма 60",
+      "kp_id": "565698",
+      "imdb_id": "tt1418646",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-04-06 21:20:59",
+      "orig_title": "Beneath Hill 60",
+      "year": "2010-04-15",
+      "translations": [
+        "Любительский (двухголосый закадровый)",
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (двухголосый закадровый)",
+      "update": "2019-11-12 14:30:00",
+      "iframe_src": ""
+    },
+    {
+      "id": 10754,
+      "title": "Воробей",
+      "kp_id": "402949",
+      "imdb_id": "tt0491044",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-04-05 14:50:50",
+      "orig_title": "Man jeuk",
+      "year": "2008-02-11",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-11-12 14:33:45",
       "iframe_src": ""
     }
   ]

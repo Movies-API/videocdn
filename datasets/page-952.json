@@ -1,364 +1,382 @@
 {
   "data": [
     {
-      "id": 31724,
-      "title": "Swamp Ape",
-      "kp_id": "1016684",
-      "imdb_id": "tt6363646",
+      "id": 31921,
+      "title": "Нечто странное",
+      "kp_id": "123292",
+      "imdb_id": "tt0062288",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-10-11 15:22:22",
-      "orig_title": "Swamp Ape",
-      "year": "2017-01-01",
+      "add": "2019-10-15 09:05:05",
+      "orig_title": "Something Weird",
+      "year": "1968-03-27",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-10-11 19:12:30",
-      "iframe_src": ""
-    },
-    {
-      "id": 31723,
-      "title": "Глаз бури 2: Огонь веры",
-      "kp_id": "1137998",
-      "imdb_id": "tt8174450",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-11 15:19:13",
-      "orig_title": "The Other Side of Heaven 2: Fire of Faith",
-      "year": "2019-06-28",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-10-11 20:18:00",
-      "iframe_src": ""
-    },
-    {
-      "id": 31709,
-      "title": "Сыны Дании",
-      "kp_id": "1230388",
-      "imdb_id": "tt9514970",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-10 20:32:10",
-      "orig_title": "Danmarks sønner",
-      "year": "2019-01-24",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-10-12 06:47:24",
-      "iframe_src": ""
-    },
-    {
-      "id": 31694,
-      "title": "Эммануэль в тюрьме",
-      "kp_id": "159789",
-      "imdb_id": "tt0085250",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-10 17:38:18",
-      "orig_title": "Blade Violent - I violenti",
-      "year": "1983-08-31",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)"
+        "Авторский (одноголосый закадровый) (Котов Вячеслав)"
       ],
       "quality": "dvdrip",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2019-10-11 12:36:05",
+      "translation": "Авторский (одноголосый закадровый) (Котов Вячеслав)",
+      "update": "2019-10-16 07:47:16",
       "iframe_src": ""
     },
     {
-      "id": 31692,
-      "title": "Ностальгия по папочке",
-      "kp_id": "36323",
-      "imdb_id": "tt0099341",
+      "id": 31920,
+      "title": "Хулиган Раджу",
+      "kp_id": "1131953",
+      "imdb_id": "tt7796428",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-10-10 17:15:31",
-      "orig_title": "Daddy Nostalgie",
-      "year": "1990-09-05",
+      "add": "2019-10-15 08:55:15",
+      "orig_title": "Raju Gadu",
+      "year": "2018-05-31",
       "translations": [
-        "Профессиональный (многоголосый закадровый)"
+        "Любительский (двухголосый закадровый)"
       ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-10-11 12:32:18",
+      "quality": "webdl",
+      "translation": "Любительский (двухголосый закадровый)",
+      "update": "2019-10-16 07:48:15",
       "iframe_src": ""
     },
     {
-      "id": 31691,
-      "title": "Рождение оборотня",
-      "kp_id": "50622",
-      "imdb_id": "tt0365265",
+      "id": 31919,
+      "title": "Инугами",
+      "kp_id": "130209",
+      "imdb_id": "tt0277044",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-10-10 17:11:31",
-      "orig_title": "Ginger Snaps Back: The Beginning",
-      "year": "2004-07-10",
+      "add": "2019-10-15 08:43:09",
+      "orig_title": "Inugami",
+      "year": "2001-01-27",
       "translations": [
-        "Профессиональный (двухголосый закадровый)"
+        "Любительский (одноголосый закадровый) (Береговых | Jet)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (одноголосый закадровый) (Береговых | Jet)",
+      "update": "2019-10-16 08:11:33",
+      "iframe_src": ""
+    },
+    {
+      "id": 31861,
+      "title": "Воскрешение",
+      "kp_id": "532868",
+      "imdb_id": "tt1571408",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-14 13:27:51",
+      "orig_title": "Opstandelsen",
+      "year": "2010-08-21",
+      "translations": [
+        "Любительский (одноголосый закадровый) (den904)"
       ],
       "quality": "bd",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2019-10-11 12:31:37",
+      "translation": "Любительский (одноголосый закадровый) (den904)",
+      "update": "2019-10-16 06:52:38",
       "iframe_src": ""
     },
     {
-      "id": 31690,
-      "title": "Тарзан и женщина-леопард",
-      "kp_id": "27377",
-      "imdb_id": "tt0039011",
+      "id": 30335,
+      "title": "Американская готика",
+      "kp_id": "8842",
+      "imdb_id": "tt0094642",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-10-10 17:01:57",
-      "orig_title": "Tarzan and the Leopard Woman",
-      "year": "1946-03-29",
+      "add": "2019-08-27 19:17:00",
+      "orig_title": "American Gothic",
+      "year": "1987-08-17",
       "translations": [
-        "Профессиональный (двухголосый закадровый)"
+        "Профессиональный (многоголосый закадровый)",
+        "Original (English)"
       ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2019-10-11 12:29:06",
-      "iframe_src": ""
-    },
-    {
-      "id": 31670,
-      "title": "Прочисть мозги",
-      "kp_id": "261418",
-      "imdb_id": "tt0810868",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-09 18:39:33",
-      "orig_title": "Free Rainer",
-      "year": "2007-09-11",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "dvdrip",
+      "quality": "bd",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-10-11 12:28:18",
+      "update": "2019-10-16 10:27:00",
       "iframe_src": ""
     },
     {
-      "id": 31648,
-      "title": "Неприкасаемые",
-      "kp_id": "1637",
-      "imdb_id": "tt0065895",
+      "id": 30050,
+      "title": "Девушка с обложки",
+      "kp_id": "26664",
+      "imdb_id": "tt0037175",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-10-09 17:30:09",
-      "orig_title": "Gli intoccabili",
-      "year": "1969-04-01",
+      "add": "2019-08-16 13:42:26",
+      "orig_title": "Pin Up Girl",
+      "year": "1944-04-25",
       "translations": [
         "Профессиональный (многоголосый закадровый) (5-й канал СПб)",
         "Original (English)"
       ],
       "quality": "bd",
       "translation": "Профессиональный (многоголосый закадровый) (5-й канал СПб)",
-      "update": "2019-10-11 12:45:17",
+      "update": "2019-10-16 10:33:28",
       "iframe_src": ""
     },
     {
-      "id": 31631,
-      "title": "Тайная сила",
-      "kp_id": "472776",
-      "imdb_id": null,
+      "id": 30049,
+      "title": "Оглянись во гневе",
+      "kp_id": "14574",
+      "imdb_id": "tt0051879",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-10-09 08:30:17",
-      "orig_title": "Тайная сила",
-      "year": "2002-01-01",
+      "add": "2019-08-16 13:41:17",
+      "orig_title": "Look Back in Anger",
+      "year": "1959-05-28",
       "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "tv",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-10-11 13:53:50",
-      "iframe_src": ""
-    },
-    {
-      "id": 31630,
-      "title": "Королевская игра",
-      "kp_id": "740958",
-      "imdb_id": "tt3128098",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-09 08:29:01",
-      "orig_title": "Korolevskaya igra",
-      "year": "1996-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "sat",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-10-11 13:55:00",
-      "iframe_src": ""
-    },
-    {
-      "id": 31629,
-      "title": "Десантник Стёпочкин 2: Стёпочкин и лунный десант",
-      "kp_id": "503046",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-09 08:27:51",
-      "orig_title": "Десантник Стёпочкин 2: Стёпочкин и лунный десант",
-      "year": "2008-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-10-11 13:55:36",
-      "iframe_src": ""
-    },
-    {
-      "id": 31628,
-      "title": "Ночь вопросов...",
-      "kp_id": "64208",
-      "imdb_id": "tt0107678",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-09 08:26:49",
-      "orig_title": "Nich pytan",
-      "year": "1993-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-10-11 13:57:12",
-      "iframe_src": ""
-    },
-    {
-      "id": 31627,
-      "title": "Итальянец",
-      "kp_id": "160954",
-      "imdb_id": "tt0450450",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-09 08:25:14",
-      "orig_title": "Italyanets",
-      "year": "2005-02-14",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-10-11 13:58:10",
-      "iframe_src": ""
-    },
-    {
-      "id": 31626,
-      "title": "Десантник Стёпочкин",
-      "kp_id": "502734",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-09 08:20:09",
-      "orig_title": "Десантник Стёпочкин",
-      "year": "2004-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-10-11 13:59:09",
-      "iframe_src": ""
-    },
-    {
-      "id": 31625,
-      "title": "Бременские музыканты & Co",
-      "kp_id": "280735",
-      "imdb_id": "tt1037022",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-09 08:18:52",
-      "orig_title": "Bremenskie muzykanty",
-      "year": "2001-03-09",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-10-11 13:59:54",
-      "iframe_src": ""
-    },
-    {
-      "id": 31624,
-      "title": "Афера",
-      "kp_id": "40984",
-      "imdb_id": "tt0307932",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-09 08:17:41",
-      "orig_title": "Afera",
-      "year": "2001-06-15",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-10-11 14:00:59",
-      "iframe_src": ""
-    },
-    {
-      "id": 31623,
-      "title": "Последняя битва",
-      "kp_id": "14311",
-      "imdb_id": "tt0085426",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-09 08:15:54",
-      "orig_title": "Le dernier combat",
-      "year": "1983-04-06",
-      "translations": [
-        "Оригинальная дорожка"
+        "Профессиональный (многоголосый закадровый)",
+        "Original (English)"
       ],
       "quality": "bd",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-10-11 14:06:50",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-10-16 10:30:53",
       "iframe_src": ""
     },
     {
-      "id": 26533,
-      "title": "Час волка",
-      "kp_id": "15178",
-      "imdb_id": "tt0063759",
+      "id": 30046,
+      "title": "Задержите рассвет",
+      "kp_id": "2083",
+      "imdb_id": "tt0033722",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-05-14 21:29:44",
-      "orig_title": "Vargtimmen",
-      "year": "1968-02-19",
+      "add": "2019-08-16 13:37:52",
+      "orig_title": "Hold Back the Dawn",
+      "year": "1941-09-11",
       "translations": [
-        "Профессиональный (двухголосый закадровый) (iTunes)"
+        "Любительский (одноголосый закадровый)",
+        "Original (English)"
       ],
       "quality": "bd",
-      "translation": "Профессиональный (двухголосый закадровый) (iTunes)",
-      "update": "2019-10-11 12:47:30",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2019-10-16 10:29:45",
       "iframe_src": ""
     },
     {
-      "id": 22242,
-      "title": "Бойн Фолс",
-      "kp_id": "973490",
-      "imdb_id": "tt5608000",
+      "id": 30045,
+      "title": "Бегущий человек",
+      "kp_id": "14080",
+      "imdb_id": "tt0057463",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-02-12 09:03:56",
-      "orig_title": "Boyne Falls",
-      "year": "2018-04-18",
+      "add": "2019-08-16 13:35:19",
+      "orig_title": "The Running Man",
+      "year": "1963-09-13",
       "translations": [
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
+        "Полное дублирование",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2019-10-16 10:41:00",
+      "iframe_src": ""
+    },
+    {
+      "id": 30040,
+      "title": "Токсичный мститель 3: Последнее искушение Токси",
+      "kp_id": "25298",
+      "imdb_id": "tt0098502",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-08-16 13:28:18",
+      "orig_title": "The Toxic Avenger Part III: The Last Temptation of Toxie",
+      "year": "1989-11-10",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Гранкин Евгений)",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Авторский (одноголосый закадровый) (Гранкин Евгений)",
+      "update": "2019-10-16 10:42:22",
+      "iframe_src": ""
+    },
+    {
+      "id": 30039,
+      "title": "Ворон",
+      "kp_id": "32181",
+      "imdb_id": "tt0026912",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-08-16 13:27:13",
+      "orig_title": "The Raven",
+      "year": "1935-07-08",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Визгунов Сергей)",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Авторский (одноголосый закадровый) (Визгунов Сергей)",
+      "update": "2019-10-16 10:39:56",
+      "iframe_src": ""
+    },
+    {
+      "id": 30038,
+      "title": "Неизвестная земля",
+      "kp_id": "205513",
+      "imdb_id": "tt0050622",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-08-16 13:25:35",
+      "orig_title": "The Land Unknown",
+      "year": "1957-08-21",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Лагута Андрей)",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Авторский (одноголосый закадровый) (Лагута Андрей)",
+      "update": "2019-10-16 10:39:04",
+      "iframe_src": ""
+    },
+    {
+      "id": 30037,
+      "title": "Бетонные джунгли",
+      "kp_id": "23732",
+      "imdb_id": "tt0083755",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-08-16 13:03:31",
+      "orig_title": "The Concrete Jungle",
+      "year": "1982-09-03",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Дьяконов Константин)",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Авторский (одноголосый закадровый) (Дьяконов Константин)",
+      "update": "2019-10-16 10:36:28",
+      "iframe_src": ""
+    },
+    {
+      "id": 30035,
+      "title": "Мими",
+      "kp_id": "27991",
+      "imdb_id": "tt0026718",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-08-16 13:01:17",
+      "orig_title": "Mimi",
+      "year": "1935-03-29",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Рутилов)",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Авторский (одноголосый закадровый) (Рутилов)",
+      "update": "2019-10-16 10:32:16",
+      "iframe_src": ""
+    },
+    {
+      "id": 30034,
+      "title": "Кровавые оргии черных сестер",
+      "kp_id": "102046",
+      "imdb_id": "tt0070066",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-08-16 12:59:49",
+      "orig_title": "Der Fluch der schwarzen Schwestern",
+      "year": "1973-10-16",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Алексеев Антон)",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Авторский (одноголосый закадровый) (Алексеев Антон)",
+      "update": "2019-10-16 10:28:12",
+      "iframe_src": ""
+    },
+    {
+      "id": 30033,
+      "title": "Пятеро против казино",
+      "kp_id": "11165",
+      "imdb_id": "tt0048077",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-08-16 12:58:28",
+      "orig_title": "5 Against the House",
+      "year": "1955-06-10",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Рутилов)",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Авторский (одноголосый закадровый) (Рутилов)",
+      "update": "2019-10-16 10:25:41",
+      "iframe_src": ""
+    },
+    {
+      "id": 15354,
+      "title": "На юг",
+      "kp_id": "4209",
+      "imdb_id": "tt0077621",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-03-04 07:42:07",
+      "orig_title": "Goin' South",
+      "year": "1978-10-06",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)",
+        "Original (English)"
       ],
       "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
-      "update": "2019-10-11 19:58:34",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-10-16 10:43:22",
+      "iframe_src": ""
+    },
+    {
+      "id": 6541,
+      "title": "Пять углов",
+      "kp_id": "4330",
+      "imdb_id": "tt0093029",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-21 05:02:57",
+      "orig_title": "Five Corners",
+      "year": "1987-09-11",
+      "translations": [
+        "Профессиональный (двухголосый закадровый) (СВ-Дубль)",
+        "Авторский (одноголосый закадровый) (Сербин Юрий)",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (двухголосый закадровый) (СВ-Дубль)",
+      "update": "2019-10-16 10:28:59",
+      "iframe_src": ""
+    },
+    {
+      "id": 5507,
+      "title": "Основной инстинкт 2: Жажда риска",
+      "kp_id": "85198",
+      "imdb_id": "tt0430912",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-09-26 13:04:47",
+      "orig_title": "Basic Instinct 2",
+      "year": "2006-03-21",
+      "translations": [
+        "Полное дублирование",
+        "Original (English)",
+        "Авторский (одноголосый закадровый) (Гаврилов Андрей)",
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2019-10-16 10:24:01",
+      "iframe_src": ""
+    },
+    {
+      "id": 3529,
+      "title": "Супермен",
+      "kp_id": "7145",
+      "imdb_id": "tt0078346",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-06-30 06:52:12",
+      "orig_title": "Superman",
+      "year": "1978-12-10",
+      "translations": [
+        "Полное дублирование",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2019-10-16 10:35:48",
       "iframe_src": ""
     }
   ]

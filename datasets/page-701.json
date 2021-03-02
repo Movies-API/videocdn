@@ -1,365 +1,363 @@
 {
   "data": [
     {
-      "id": 36435,
-      "title": "Кентервильское привидение",
-      "kp_id": "271984",
-      "imdb_id": "tt0090792",
+      "id": 36604,
+      "title": "Мистерия",
+      "kp_id": "554427",
+      "imdb_id": "tt1701218",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-02-17 19:59:21",
-      "orig_title": "The Canterville Ghost",
-      "year": "1987-02-23",
+      "add": "2020-02-19 20:31:55",
+      "orig_title": "Mysteria",
+      "year": "2011-10-23",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (НТВ)"
+      ],
+      "quality": "hdrip",
+      "translation": "Профессиональный (многоголосый закадровый) (НТВ)",
+      "update": "2020-02-20 13:12:50",
+      "iframe_src": ""
+    },
+    {
+      "id": 36603,
+      "title": "Жестокая схватка",
+      "kp_id": "282713",
+      "imdb_id": "tt0961202",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-02-19 20:29:55",
+      "orig_title": "Final Engagement",
+      "year": "2007-01-01",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "dvdrip",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-02-18 05:33:55",
+      "update": "2020-02-20 13:13:24",
       "iframe_src": ""
     },
     {
-      "id": 36434,
-      "title": "Холод в сердце",
-      "kp_id": "22229",
-      "imdb_id": "tt0118870",
+      "id": 36602,
+      "title": "Будучи там",
+      "kp_id": "541",
+      "imdb_id": "tt0078841",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-02-17 19:54:38",
-      "orig_title": "Cold Around the Heart",
-      "year": "1997-11-07",
+      "add": "2020-02-19 20:25:00",
+      "orig_title": "Being There",
+      "year": "1979-12-20",
       "translations": [
-        "Профессиональный (многоголосый закадровый) (Первый канал | ОРТ)"
+        "Полное дублирование"
       ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый) (Первый канал | ОРТ)",
-      "update": "2020-02-18 05:33:18",
-      "iframe_src": ""
-    },
-    {
-      "id": 36433,
-      "title": "Ты и я",
-      "kp_id": "80158",
-      "imdb_id": "tt0378072",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-02-17 19:52:23",
-      "orig_title": "Hum Tum",
-      "year": "2004-05-28",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-02-18 05:32:49",
-      "iframe_src": ""
-    },
-    {
-      "id": 36432,
-      "title": "Валет червей",
-      "kp_id": "840804",
-      "imdb_id": "tt3833520",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-02-17 19:47:42",
-      "orig_title": "Jack of the Red Hearts",
-      "year": "2015-05-06",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-02-18 05:32:06",
-      "iframe_src": ""
-    },
-    {
-      "id": 36431,
-      "title": "Невада Смит",
-      "kp_id": "13319",
-      "imdb_id": "tt0060748",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-02-17 19:45:07",
-      "orig_title": "Nevada Smith",
-      "year": "1966-05-23",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (5-й канал СПб)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый) (5-й канал СПб)",
-      "update": "2020-02-18 05:31:29",
-      "iframe_src": ""
-    },
-    {
-      "id": 36430,
-      "title": "Приключения Пиноккио",
-      "kp_id": "5926",
-      "imdb_id": "tt0115472",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-02-17 19:42:49",
-      "orig_title": "The Adventures of Pinocchio",
-      "year": "1996-07-26",
-      "translations": [
-        "Авторский (одноголосый закадровый) (Гаврилов)"
-      ],
-      "quality": "bd",
-      "translation": "Авторский (одноголосый закадровый) (Гаврилов)",
-      "update": "2020-02-18 05:30:43",
-      "iframe_src": ""
-    },
-    {
-      "id": 36428,
-      "title": "Битва за Англию",
-      "kp_id": "10363",
-      "imdb_id": "tt0064072",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-02-17 19:35:15",
-      "orig_title": "Battle of Britain",
-      "year": "1969-09-16",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-02-18 05:19:38",
-      "iframe_src": ""
-    },
-    {
-      "id": 36427,
-      "title": "Зомби 2",
-      "kp_id": "1273167",
-      "imdb_id": "tt9766166",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-02-17 17:20:05",
-      "orig_title": "Z-O-M-B-I-E-S 2",
-      "year": "2020-02-14",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-02-17 18:56:01",
-      "iframe_src": ""
-    },
-    {
-      "id": 36426,
-      "title": "Love All You Have Left",
-      "kp_id": "963043",
-      "imdb_id": "tt5464242",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-02-17 17:17:05",
-      "orig_title": "Love All You Have Left",
-      "year": "2018-06-29",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-02-17 18:57:21",
-      "iframe_src": ""
-    },
-    {
-      "id": 36424,
-      "title": "Isi & Ossi",
-      "kp_id": "1272923",
-      "imdb_id": "tt9806322",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-02-17 17:14:03",
-      "orig_title": "Isi & Ossi",
-      "year": "2020-02-14",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-02-17 21:22:29",
-      "iframe_src": ""
-    },
-    {
-      "id": 36422,
-      "title": "Зеленее травы",
-      "kp_id": "1190541",
-      "imdb_id": "tt7422822",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-02-17 14:56:24",
-      "orig_title": "Greener Grass",
-      "year": "2019-01-26",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (iTunes)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый) (iTunes)",
-      "update": "2020-02-17 19:25:24",
-      "iframe_src": ""
-    },
-    {
-      "id": 36407,
-      "title": "Тутанхамон: Проклятие гробницы",
-      "kp_id": "193855",
-      "imdb_id": "tt0464799",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-02-17 08:38:52",
-      "orig_title": "The Curse of King Tut's Tomb",
-      "year": "2006-04-11",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-02-17 17:19:32",
-      "iframe_src": ""
-    },
-    {
-      "id": 36370,
-      "title": "Священный амулет",
-      "kp_id": "39661",
-      "imdb_id": "tt0366985",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-02-16 20:37:39",
-      "orig_title": "Rudraksh",
-      "year": "2004-02-13",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2020-02-18 06:34:16",
-      "iframe_src": ""
-    },
-    {
-      "id": 36356,
-      "title": "Смертельная лиса",
-      "kp_id": "1051460",
-      "imdb_id": "tt7494060",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-02-16 19:27:20",
-      "orig_title": "The Extreme Fox",
-      "year": "2014-07-01",
-      "translations": [
-        "Любительский (двухголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (двухголосый закадровый)",
-      "update": "2020-02-18 06:32:40",
-      "iframe_src": ""
-    },
-    {
-      "id": 36285,
-      "title": "Луна в окружении звезд",
-      "kp_id": "180711",
-      "imdb_id": "tt0483980",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-02-14 22:35:20",
-      "orig_title": "Chukkallo Chandrudu",
-      "year": "2006-01-14",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-02-18 06:31:15",
-      "iframe_src": ""
-    },
-    {
-      "id": 36284,
-      "title": "Стена",
-      "kp_id": "78552",
-      "imdb_id": "tt0072860",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-02-14 22:32:18",
-      "orig_title": "Deewaar",
-      "year": "1975-01-24",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-02-18 06:30:19",
-      "iframe_src": ""
-    },
-    {
-      "id": 36283,
-      "title": "Гоутам и Нанда",
-      "kp_id": "1057294",
-      "imdb_id": "tt7128254",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-02-14 22:27:22",
-      "orig_title": "Goutham Nanda",
-      "year": "2017-07-27",
-      "translations": [
-        "Любительский (двухголосый закадровый) (DeadSno & den904)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (двухголосый закадровый) (DeadSno & den904)",
-      "update": "2020-02-18 06:27:18",
-      "iframe_src": ""
-    },
-    {
-      "id": 36282,
-      "title": "Дом-призрак",
-      "kp_id": "586300",
-      "imdb_id": "tt1887763",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-02-14 22:24:28",
-      "orig_title": "Haunted - 3D",
-      "year": "2011-05-06",
-      "translations": [
-        "Любительский (многоголосый закадровый) (ICG)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (многоголосый закадровый) (ICG)",
-      "update": "2020-02-18 06:13:33",
-      "iframe_src": ""
-    },
-    {
-      "id": 12054,
-      "title": "Солдат",
-      "kp_id": "722309",
-      "imdb_id": "tt2556308",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-06-20 04:49:29",
-      "orig_title": "Holiday",
-      "year": "2014-06-05",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (ZEE TV)",
-        "Любительский (многоголосый закадровый) (ICG)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый) (ZEE TV)",
-      "update": "2020-02-18 06:11:41",
-      "iframe_src": ""
-    },
-    {
-      "id": 10733,
-      "title": "Сын маски",
-      "kp_id": "4982",
-      "imdb_id": "tt0362165",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-04-04 15:38:51",
-      "orig_title": "Son of the Mask",
-      "year": "2005-02-11",
-      "translations": [
-        "Полное дублирование",
-        "Original (English)"
-      ],
-      "quality": "bd",
+      "quality": "hdrip",
       "translation": "Полное дублирование",
-      "update": "2020-02-17 20:20:05",
+      "update": "2020-02-20 13:14:13",
+      "iframe_src": ""
+    },
+    {
+      "id": 36587,
+      "title": "Веселые мошенники возвращаются",
+      "kp_id": "394527",
+      "imdb_id": "tt1092005",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-02-19 18:18:59",
+      "orig_title": "Golmaal Returns",
+      "year": "2008-10-29",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (Red Media)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый) (Red Media)",
+      "update": "2020-02-20 14:57:26",
+      "iframe_src": ""
+    },
+    {
+      "id": 36586,
+      "title": "Веселые мошенники 3",
+      "kp_id": "490401",
+      "imdb_id": "tt1562859",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-02-19 18:10:50",
+      "orig_title": "Golmaal 3",
+      "year": "2010-11-05",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (Red Media)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый) (Red Media)",
+      "update": "2020-02-20 14:55:21",
+      "iframe_src": ""
+    },
+    {
+      "id": 36583,
+      "title": "Герой Нарасима Редди",
+      "kp_id": "1057175",
+      "imdb_id": "tt7283064",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-02-19 18:05:36",
+      "orig_title": "Sye Raa Narasimha Reddy",
+      "year": "2019-09-27",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Honey&Hoseena)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Honey&Hoseena)",
+      "update": "2020-02-20 14:54:30",
+      "iframe_src": ""
+    },
+    {
+      "id": 36582,
+      "title": "Заблудшие души",
+      "kp_id": "7130",
+      "imdb_id": "tt0160484",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-02-19 18:03:25",
+      "orig_title": "Lost Souls",
+      "year": "2000-10-13",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-02-20 16:37:51",
+      "iframe_src": ""
+    },
+    {
+      "id": 36580,
+      "title": "Скрытая любовь",
+      "kp_id": "261492",
+      "imdb_id": "tt0847743",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-02-19 17:59:55",
+      "orig_title": "L'amore nascosto",
+      "year": "2007-09-13",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-02-20 16:37:23",
+      "iframe_src": ""
+    },
+    {
+      "id": 36579,
+      "title": "Трепет",
+      "kp_id": "607649",
+      "imdb_id": "tt1954381",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-02-19 17:57:11",
+      "orig_title": "Dhada",
+      "year": "2011-08-11",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (Red Media)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый) (Red Media)",
+      "update": "2020-02-20 14:52:38",
+      "iframe_src": ""
+    },
+    {
+      "id": 36578,
+      "title": "Комната смерти",
+      "kp_id": "281224",
+      "imdb_id": "tt0990361",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-02-19 17:56:17",
+      "orig_title": "La chambre des morts",
+      "year": "2007-11-14",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "hdtv",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-02-20 16:36:51",
+      "iframe_src": ""
+    },
+    {
+      "id": 36577,
+      "title": "Подмена",
+      "kp_id": "34903",
+      "imdb_id": "tt0255097",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-02-19 17:54:09",
+      "orig_title": "Deewane",
+      "year": "2000-08-11",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (SDI Media)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый) (SDI Media)",
+      "update": "2020-02-20 14:52:00",
+      "iframe_src": ""
+    },
+    {
+      "id": 36576,
+      "title": "Добыча",
+      "kp_id": "568768",
+      "imdb_id": "tt1726861",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-02-19 17:42:19",
+      "orig_title": "La proie",
+      "year": "2011-04-13",
+      "translations": [
+        "Любительский (одноголосый закадровый)  (zamez)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (одноголосый закадровый)  (zamez)",
+      "update": "2020-02-20 16:36:10",
+      "iframe_src": ""
+    },
+    {
+      "id": 36575,
+      "title": "Без тебя 2",
+      "kp_id": "978049",
+      "imdb_id": "tt5717110",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-02-19 17:19:03",
+      "orig_title": "Tum Bin 2",
+      "year": "2016-11-17",
+      "translations": [
+        "Любительский (многоголосый закадровый) (FanStudio)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (FanStudio)",
+      "update": "2020-02-20 14:50:41",
+      "iframe_src": ""
+    },
+    {
+      "id": 36574,
+      "title": "Скиталец",
+      "kp_id": "317950",
+      "imdb_id": "tt1020937",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-02-19 17:15:47",
+      "orig_title": "Awarapan",
+      "year": "2007-06-29",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "hdtv",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-02-20 14:49:56",
+      "iframe_src": ""
+    },
+    {
+      "id": 36557,
+      "title": "Как остаться в живых",
+      "kp_id": "161170",
+      "imdb_id": "tt0327698",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-02-19 16:16:20",
+      "orig_title": "The Even Stevens Movie",
+      "year": "2013-06-13",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-02-20 16:35:30",
+      "iframe_src": ""
+    },
+    {
+      "id": 36537,
+      "title": "Закон есть закон",
+      "kp_id": "27035",
+      "imdb_id": "tt0051851",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-02-19 12:05:43",
+      "orig_title": "La legge è legge",
+      "year": "1958-09-17",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "dvdrip",
+      "translation": "Полное дублирование",
+      "update": "2020-02-20 16:34:12",
+      "iframe_src": ""
+    },
+    {
+      "id": 36536,
+      "title": "Собиратель костей",
+      "kp_id": "20999",
+      "imdb_id": "tt0139076",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-02-19 12:02:37",
+      "orig_title": "Bone Daddy",
+      "year": "1998-06-19",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-02-20 16:33:22",
+      "iframe_src": ""
+    },
+    {
+      "id": 36535,
+      "title": "Боец поневоле",
+      "kp_id": "666876",
+      "imdb_id": "tt1884312",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-02-19 11:14:32",
+      "orig_title": "Forced to Fight",
+      "year": "2013-10-01",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (НТВ)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый) (НТВ)",
+      "update": "2020-02-20 16:32:40",
+      "iframe_src": ""
+    },
+    {
+      "id": 14840,
+      "title": "Весёлые мошенники 4",
+      "kp_id": "577480",
+      "imdb_id": "tt1806913",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-01-08 21:30:26",
+      "orig_title": "Golmaal Again",
+      "year": "2017-10-19",
+      "translations": [
+        "Любительский (многоголосый закадровый) (FanStudio)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (многоголосый закадровый) (FanStudio)",
+      "update": "2020-02-20 14:56:35",
+      "iframe_src": ""
+    },
+    {
+      "id": 8832,
+      "title": "Герой",
+      "kp_id": "922507",
+      "imdb_id": "tt4467202",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-01-11 13:08:03",
+      "orig_title": "Hero",
+      "year": "2015-09-10",
+      "translations": [
+        "Любительский (многоголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый)",
+      "update": "2020-02-20 14:58:17",
       "iframe_src": ""
     }
   ]

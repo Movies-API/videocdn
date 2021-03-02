@@ -1,367 +1,384 @@
 {
   "data": [
     {
-      "id": 37003,
-      "title": "День благодарения с Картерами",
-      "kp_id": "1310045",
-      "imdb_id": "tt11063548",
+      "id": 37255,
+      "title": "Поцелуй перед смертью",
+      "kp_id": "21745",
+      "imdb_id": "tt0049414",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-02-26 13:30:13",
-      "orig_title": "Thanksgiving with the Carters",
-      "year": "2019-11-11",
+      "add": "2020-03-02 21:48:33",
+      "orig_title": "A Kiss Before Dying",
+      "year": "1956-04-20",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-02-26 20:47:55",
-      "iframe_src": ""
-    },
-    {
-      "id": 37001,
-      "title": "Черепа 3",
-      "kp_id": "80762",
-      "imdb_id": "tt0352851",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-02-26 13:26:11",
-      "orig_title": "The Skulls III",
-      "year": "2004-03-23",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2020-02-26 20:48:33",
-      "iframe_src": ""
-    },
-    {
-      "id": 36999,
-      "title": "Крещение",
-      "kp_id": "1340371",
-      "imdb_id": "tt11541780",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-02-26 13:05:43",
-      "orig_title": "Botez",
-      "year": "2019-12-26",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2020-02-26 20:49:35",
-      "iframe_src": ""
-    },
-    {
-      "id": 36982,
-      "title": "Брокен Хилл",
-      "kp_id": "410178",
-      "imdb_id": "tt1212909",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-02-26 11:29:32",
-      "orig_title": "Broken Hill",
-      "year": "2009-09-11",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)"
-      ],
-      "quality": "hdtv",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2020-02-27 06:11:24",
-      "iframe_src": ""
-    },
-    {
-      "id": 36981,
-      "title": "Хоум Ран",
-      "kp_id": "623976",
-      "imdb_id": "tt2051894",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-02-26 11:28:28",
-      "orig_title": "Home Run",
-      "year": "2013-04-19",
-      "translations": [
-        "Профессиональный (двухголосый закадровый) (SDI Media)"
-      ],
-      "quality": "hdrip",
-      "translation": "Профессиональный (двухголосый закадровый) (SDI Media)",
-      "update": "2020-02-27 06:10:03",
-      "iframe_src": ""
-    },
-    {
-      "id": 36980,
-      "title": "Маленькие пальчики",
-      "kp_id": "4137",
-      "imdb_id": "tt0316768",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-02-26 11:26:58",
-      "orig_title": "Tiptoes",
-      "year": "2003-09-08",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2020-02-27 06:08:56",
-      "iframe_src": ""
-    },
-    {
-      "id": 36979,
-      "title": "Тот же, но совсем другой",
-      "kp_id": "442912",
-      "imdb_id": "tt1368443",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-02-26 11:23:20",
-      "orig_title": "Same Same But Different",
-      "year": "2009-08-13",
-      "translations": [
-        "Любительский (одноголосый закадровый) (cybervlad)",
-        "Профессиональный (двухголосый закадровый) (Еврокино)"
+        "Профессиональный (двухголосый закадровый) (НТВ)"
       ],
       "quality": "bd",
-      "translation": "Любительский (одноголосый закадровый) (cybervlad)",
-      "update": "2020-02-27 06:07:28",
+      "translation": "Профессиональный (двухголосый закадровый) (НТВ)",
+      "update": "2020-03-03 12:13:54",
       "iframe_src": ""
     },
     {
-      "id": 36969,
-      "title": "Миа",
-      "kp_id": "1295705",
-      "imdb_id": "tt10778964",
+      "id": 37254,
+      "title": "Каньоны",
+      "kp_id": "673087",
+      "imdb_id": "tt2292959",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-02-26 08:39:50",
-      "orig_title": "Mia",
-      "year": "2019-10-31",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-02-26 18:24:45",
-      "iframe_src": ""
-    },
-    {
-      "id": 36968,
-      "title": "Зоинк",
-      "kp_id": "1099429",
-      "imdb_id": "tt6366268",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-02-26 08:37:05",
-      "orig_title": "Zoink",
-      "year": "2017-01-01",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-02-26 18:24:36",
-      "iframe_src": ""
-    },
-    {
-      "id": 36967,
-      "title": "Рецепт Опасности",
-      "kp_id": "1201651",
-      "imdb_id": "tt9119200",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-02-26 08:30:41",
-      "orig_title": "Fatal Friend Request",
-      "year": "2019-05-15",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-02-26 18:24:35",
-      "iframe_src": ""
-    },
-    {
-      "id": 36965,
-      "title": "Война наркокартелей",
-      "kp_id": "1282357",
-      "imdb_id": "tt10525174",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-02-26 07:05:04",
-      "orig_title": "Narco Soldiers",
-      "year": "2019-01-01",
-      "translations": [
-        "Любительский (многоголосый закадровый) (@MUZOBOZ@)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-      "update": "2020-02-26 18:24:35",
-      "iframe_src": ""
-    },
-    {
-      "id": 36938,
-      "title": "Бесстрашный 3",
-      "kp_id": "1069368",
-      "imdb_id": "tt7059844",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-02-25 21:13:31",
-      "orig_title": "Dabangg 3",
-      "year": "2019-12-20",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Honey&Hoseena)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Honey&Hoseena)",
-      "update": "2020-02-26 20:50:44",
-      "iframe_src": ""
-    },
-    {
-      "id": 36896,
-      "title": "Смотритель",
-      "kp_id": "402767",
-      "imdb_id": "tt1166118",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-02-25 06:31:56",
-      "orig_title": "The Watch",
-      "year": "2008-03-02",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-02-27 05:58:48",
-      "iframe_src": ""
-    },
-    {
-      "id": 36803,
-      "title": "Апрельский апокалипсис",
-      "kp_id": "629372",
-      "imdb_id": "tt2070604",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-02-23 17:21:49",
-      "orig_title": "April Apocalypse",
-      "year": "2013-10-12",
-      "translations": [
-        "Любительский (двухголосый закадровый) (DeadSno & den904)",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (двухголосый закадровый) (DeadSno & den904)",
-      "update": "2020-02-27 05:57:03",
-      "iframe_src": ""
-    },
-    {
-      "id": 36659,
-      "title": "Сангам",
-      "kp_id": "39729",
-      "imdb_id": "tt0058547",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-02-20 17:52:18",
-      "orig_title": "Sangam",
-      "year": "1964-06-18",
+      "add": "2020-03-02 21:46:46",
+      "orig_title": "The Canyons",
+      "year": "2013-07-29",
       "translations": [
         "Полное дублирование"
       ],
       "quality": "bd",
       "translation": "Полное дублирование",
-      "update": "2020-02-27 06:01:15",
+      "update": "2020-03-03 12:14:27",
       "iframe_src": ""
     },
     {
-      "id": 34728,
-      "title": "Холоп",
-      "kp_id": "1183582",
-      "imdb_id": "tt11418452",
+      "id": 37252,
+      "title": "Птицы",
+      "kp_id": "559",
+      "imdb_id": "tt0056869",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-01-04 13:17:31",
-      "orig_title": "Холоп",
-      "year": "2019-12-27",
+      "add": "2020-03-02 21:43:09",
+      "orig_title": "The Birds",
+      "year": "1963-03-28",
+      "translations": [
+        "Профессиональный (двухголосый закадровый) (Премьер Видео Фильм)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (двухголосый закадровый) (Премьер Видео Фильм)",
+      "update": "2020-03-03 12:15:00",
+      "iframe_src": ""
+    },
+    {
+      "id": 37250,
+      "title": "Сумерки",
+      "kp_id": "543352",
+      "imdb_id": "tt1467061",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-03-02 21:40:56",
+      "orig_title": "Schemer",
+      "year": "2010-09-25",
+      "translations": [
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "hdrip",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2020-03-03 12:15:20",
+      "iframe_src": ""
+    },
+    {
+      "id": 37248,
+      "title": "Наш дом",
+      "kp_id": "499939",
+      "imdb_id": "tt1467388",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-03-02 21:38:44",
+      "orig_title": "Nosso Lar",
+      "year": "2010-09-03",
+      "translations": [
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2020-03-03 12:15:55",
+      "iframe_src": ""
+    },
+    {
+      "id": 37234,
+      "title": "Солги красиво",
+      "kp_id": "708072",
+      "imdb_id": "tt2374002",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-03-02 20:54:56",
+      "orig_title": "Minte-mã frumos",
+      "year": "2012-10-19",
+      "translations": [
+        "Любительский (одноголосый закадровый) (datynet)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Любительский (одноголосый закадровый) (datynet)",
+      "update": "2020-03-03 12:16:40",
+      "iframe_src": ""
+    },
+    {
+      "id": 37232,
+      "title": "Блеск славы",
+      "kp_id": "5591",
+      "imdb_id": "tt0116422",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-03-02 20:52:45",
+      "orig_title": "Glory Daze",
+      "year": "1995-10-01",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-03-03 12:17:11",
+      "iframe_src": ""
+    },
+    {
+      "id": 37214,
+      "title": "Тень монарха",
+      "kp_id": "679392",
+      "imdb_id": "tt2359281",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-03-02 17:35:46",
+      "orig_title": "Shadow of the Monarch",
+      "year": "2017-08-09",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-03-03 10:50:41",
+      "iframe_src": ""
+    },
+    {
+      "id": 33374,
+      "title": "Повелители Салема",
+      "kp_id": "568640",
+      "imdb_id": "tt1731697",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-11-22 11:16:02",
+      "orig_title": "The Lords of Salem",
+      "year": "2012-09-10",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)",
+        "Любительский (одноголосый закадровый) (den904)",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-03-03 07:51:01",
+      "iframe_src": ""
+    },
+    {
+      "id": 33275,
+      "title": "Паранормальное явление: Метка Дьявола",
+      "kp_id": "714932",
+      "imdb_id": "tt2473682",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-11-19 12:51:47",
+      "orig_title": "Paranormal Activity: The Marked Ones",
+      "year": "2014-01-01",
+      "translations": [
+        "Полное дублирование",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2020-03-03 07:52:20",
+      "iframe_src": ""
+    },
+    {
+      "id": 33212,
+      "title": "Немножко женаты",
+      "kp_id": "462508",
+      "imdb_id": "tt1195478",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-11-18 13:58:14",
+      "orig_title": "The Five-Year Engagement",
+      "year": "2012-04-18",
+      "translations": [
+        "Полное дублирование",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2020-03-03 07:48:17",
+      "iframe_src": ""
+    },
+    {
+      "id": 33189,
+      "title": "Тайны старого отеля",
+      "kp_id": "502111",
+      "imdb_id": "tt1594562",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-11-17 15:50:43",
+      "orig_title": "The Innkeepers",
+      "year": "2011-03-12",
+      "translations": [
+        "Полное дублирование",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2020-03-03 07:50:09",
+      "iframe_src": ""
+    },
+    {
+      "id": 33165,
+      "title": "Ворон: Жестокое причастие",
+      "kp_id": "11501",
+      "imdb_id": "tt0353324",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-11-16 15:50:41",
+      "orig_title": "The Crow: Wicked Prayer",
+      "year": "2005-06-03",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (CP Digital)",
+        "Авторский (одноголосый закадровый) (Карповский Антон)",
+        "Авторский (одноголосый закадровый) (Немахов)",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый) (CP Digital)",
+      "update": "2020-03-03 07:46:56",
+      "iframe_src": ""
+    },
+    {
+      "id": 33106,
+      "title": "Закопанные",
+      "kp_id": "145242",
+      "imdb_id": "tt0445939",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-11-14 14:12:54",
+      "orig_title": "The Burrowers",
+      "year": "2008-09-09",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-03-03 07:45:57",
+      "iframe_src": ""
+    },
+    {
+      "id": 33104,
+      "title": "Свора",
+      "kp_id": "104986",
+      "imdb_id": "tt0455362",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-11-14 14:07:08",
+      "orig_title": "The Breed",
+      "year": "2006-06-01",
+      "translations": [
+        "Полное дублирование",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2020-03-03 07:44:53",
+      "iframe_src": ""
+    },
+    {
+      "id": 32996,
+      "title": "Рождественские приключения семейства Фоксов",
+      "kp_id": "490959",
+      "imdb_id": "tt1567140",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-11-12 08:14:50",
+      "orig_title": "The Night Before the Night Before Christmas",
+      "year": "2010-09-20",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-03-03 07:53:15",
+      "iframe_src": ""
+    },
+    {
+      "id": 26665,
+      "title": "Дар",
+      "kp_id": "1118076",
+      "imdb_id": "tt8678070",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-05-17 22:08:53",
+      "orig_title": "The Gift",
+      "year": "2019-05-09",
       "translations": [
         "Оригинальная дорожка"
       ],
       "quality": "webdl",
       "translation": "Оригинальная дорожка",
-      "update": "2020-02-27 04:25:13",
+      "update": "2020-03-03 12:18:55",
       "iframe_src": ""
     },
     {
-      "id": 34591,
-      "title": "Спящий зверь",
-      "kp_id": "395214",
-      "imdb_id": "tt0053992",
+      "id": 8535,
+      "title": "Великая стена",
+      "kp_id": "611822",
+      "imdb_id": "tt2034800",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-12-29 21:34:09",
-      "orig_title": "Kemono no nemuri",
-      "year": "1960-04-06",
+      "add": "2017-01-03 04:53:49",
+      "orig_title": "The Great Wall",
+      "year": "2016-12-16",
       "translations": [
-        "Авторский (одноголосый закадровый) (Дольский)"
+        "Полное дублирование",
+        "Авторский (одноголосый закадровый) (Гаврилов Андрей)",
+        "Original (English)"
       ],
       "quality": "bd",
-      "translation": "Авторский (одноголосый закадровый) (Дольский)",
-      "update": "2020-02-27 06:02:03",
+      "translation": "Полное дублирование",
+      "update": "2020-03-03 07:49:13",
       "iframe_src": ""
     },
     {
-      "id": 25130,
-      "title": "Амар, Акбар, Антони",
-      "kp_id": "41812",
-      "imdb_id": "tt0075669",
+      "id": 5489,
+      "title": "В поисках приключений",
+      "kp_id": "6846",
+      "imdb_id": "tt0117420",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-04-22 20:39:52",
-      "orig_title": "Amar Akbar Anthony",
-      "year": "1977-05-27",
+      "add": "2016-09-26 07:49:08",
+      "orig_title": "The Quest",
+      "year": "1996-04-19",
       "translations": [
-        "Профессиональный (многоголосый закадровый) (РТР | Россия)",
-        "Профессиональный (многоголосый закадровый) (Формат AB)"
+        "Профессиональный (многоголосый)",
+        "Профессиональный (двухголосый закадровый) (Twister)",
+        "Авторский (одноголосый закадровый) (Живов Юрий)",
+        "Авторский (одноголосый закадровый) (Гаврилов Андрей)",
+        "Original (English)"
       ],
       "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый) (РТР | Россия)",
-      "update": "2020-02-27 06:12:55",
+      "translation": "Профессиональный (многоголосый)",
+      "update": "2020-03-03 07:54:15",
       "iframe_src": ""
     },
     {
-      "id": 9688,
-      "title": "Автострада",
-      "kp_id": "569124",
-      "imdb_id": "tt1740002",
+      "id": 3189,
+      "title": "Святые из Бундока",
+      "kp_id": "4917",
+      "imdb_id": "tt0144117",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-02-14 13:35:21",
-      "orig_title": "Che sau",
-      "year": "2012-06-21",
+      "add": "2016-06-16 07:32:08",
+      "orig_title": "The Boondock Saints",
+      "year": "1999-08-04",
       "translations": [
-        "Авторский (одноголосый закадровый) (Сербин)",
-        "Любительский (одноголосый закадровый) (den904)"
+        "Профессиональный (многоголосый закадровый)",
+        "Профессиональный (многоголосый закадровый) (Союз Видео)",
+        "Профессиональный (двухголосый закадровый) (Tycoon)",
+        "Авторский (одноголосый закадровый) (Пучков Дмитрй| Гоблин)",
+        "Original (English)"
       ],
       "quality": "bd",
-      "translation": "Авторский (одноголосый закадровый) (Сербин)",
-      "update": "2020-02-27 06:00:51",
-      "iframe_src": ""
-    },
-    {
-      "id": 6856,
-      "title": "Не может быть!",
-      "kp_id": "46368",
-      "imdb_id": "tt0073442",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-31 12:12:02",
-      "orig_title": "Ne mozhet byt!",
-      "year": "1975-10-23",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2020-02-27 06:04:45",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-03-03 07:43:23",
       "iframe_src": ""
     }
   ]

@@ -1,370 +1,365 @@
 {
   "data": [
     {
-      "id": 29283,
-      "title": "Жена моего мужа",
-      "kp_id": "1101240",
+      "id": 29466,
+      "title": "Забытая река",
+      "kp_id": "1075305",
+      "imdb_id": "tt6915596",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-07-28 12:00:50",
+      "orig_title": "Mayaanadhi",
+      "year": "2017-12-22",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-07-28 16:44:35",
+      "iframe_src": ""
+    },
+    {
+      "id": 29465,
+      "title": "Сын",
+      "kp_id": "1140823",
+      "imdb_id": "tt8160262",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-07-28 11:58:36",
+      "orig_title": "El Hijo",
+      "year": "2019-05-02",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-07-28 16:45:57",
+      "iframe_src": ""
+    },
+    {
+      "id": 29463,
+      "title": "Особый Эд",
+      "kp_id": "1204279",
+      "imdb_id": "tt8916810",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-07-28 11:54:05",
+      "orig_title": "Special Ed",
+      "year": "2018-01-01",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-07-28 16:45:12",
+      "iframe_src": ""
+    },
+    {
+      "id": 29462,
+      "title": "Девушки с шариками",
+      "kp_id": "916629",
+      "imdb_id": "tt4725842",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-07-28 11:51:51",
+      "orig_title": "Girls with Balls",
+      "year": "2018-08-23",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-07-28 16:41:31",
+      "iframe_src": ""
+    },
+    {
+      "id": 29460,
+      "title": "Бой",
+      "kp_id": "1194950",
+      "imdb_id": "tt9010900",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-07-28 11:47:36",
+      "orig_title": "Boi",
+      "year": "2019-03-29",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-07-28 16:29:05",
+      "iframe_src": ""
+    },
+    {
+      "id": 29459,
+      "title": "Билл Тилман и бандиты",
+      "kp_id": "1153663",
+      "imdb_id": "tt7941194",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-07-28 11:43:04",
+      "orig_title": "Bill Tilghman and the Outlaws",
+      "year": "2019-02-07",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-07-28 16:24:21",
+      "iframe_src": ""
+    },
+    {
+      "id": 29454,
+      "title": "Пробуждая мертвецов",
+      "kp_id": "915748",
+      "imdb_id": "tt4765610",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-07-26 23:09:56",
+      "orig_title": "Wake the Dead",
+      "year": "2017-10-27",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-07-28 07:30:09",
+      "iframe_src": ""
+    },
+    {
+      "id": 29449,
+      "title": "Иной",
+      "kp_id": "1042856",
       "imdb_id": null,
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-07-22 06:34:34",
-      "orig_title": "Жена моего мужа",
-      "year": "2019-07-21",
+      "add": "2019-07-26 22:54:45",
+      "orig_title": "The Other One",
+      "year": "2017-04-02",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-07-28 07:31:01",
+      "iframe_src": ""
+    },
+    {
+      "id": 29445,
+      "title": "Маленькая принцесса",
+      "kp_id": "1048949",
+      "imdb_id": "tt8191502",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-07-26 22:20:35",
+      "orig_title": "Sogongnyeo",
+      "year": "2017-10-13",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-07-28 07:32:56",
+      "iframe_src": ""
+    },
+    {
+      "id": 29424,
+      "title": "Сын полка",
+      "kp_id": "439872",
+      "imdb_id": "tt3001484",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-07-26 21:13:14",
+      "orig_title": "Syn polka",
+      "year": "1981-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-07-29 04:57:58",
+      "iframe_src": ""
+    },
+    {
+      "id": 29423,
+      "title": "Агент в мини-юбке",
+      "kp_id": "411989",
+      "imdb_id": "tt5114340",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-07-26 21:08:35",
+      "orig_title": "Agent v mini-yubke",
+      "year": "2000-01-01",
       "translations": [
         "Оригинальная дорожка"
       ],
       "quality": "hdtv",
       "translation": "Оригинальная дорожка",
-      "update": "2019-07-22 08:09:34",
+      "update": "2019-07-29 04:57:50",
       "iframe_src": ""
     },
     {
-      "id": 29282,
-      "title": "Церковь",
-      "kp_id": "723927",
-      "imdb_id": "tt2482856",
+      "id": 29421,
+      "title": "Птицы наших надежд",
+      "kp_id": "43345",
+      "imdb_id": "tt0376096",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-07-22 06:30:51",
-      "orig_title": "The Church",
-      "year": "2018-10-05",
+      "add": "2019-07-26 20:44:44",
+      "orig_title": "Ptitsy nashikh nadezhd",
+      "year": "1977-04-25",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-07-22 07:56:36",
-      "iframe_src": ""
-    },
-    {
-      "id": 29281,
-      "title": "Меч республиканцев",
-      "kp_id": null,
-      "imdb_id": "tt8484012",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-07-22 06:29:35",
-      "orig_title": "Sword of Trust",
-      "year": "2019-07-19",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-07-22 07:57:42",
-      "iframe_src": ""
-    },
-    {
-      "id": 29280,
-      "title": "Щенок в подарок или как найти свою любовь",
-      "kp_id": "1064226",
-      "imdb_id": "tt7159616",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-07-22 06:28:25",
-      "orig_title": "Puppy Swap Love Unleashed",
-      "year": "2019-07-16",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-07-22 07:59:06",
-      "iframe_src": ""
-    },
-    {
-      "id": 29279,
-      "title": "Недобрые тени",
-      "kp_id": null,
-      "imdb_id": "tt8623076",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-07-22 06:23:41",
-      "orig_title": "Malevolent Shadows",
-      "year": "2017-09-01",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-07-22 08:00:16",
-      "iframe_src": ""
-    },
-    {
-      "id": 29278,
-      "title": "Убийство в Любероне",
-      "kp_id": "1153787",
-      "imdb_id": "tt8178502",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-07-22 06:21:45",
-      "orig_title": "Crime dans le Luberon",
-      "year": "2018-09-18",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (AlphaProject)"
-      ],
-      "quality": "hdtv",
-      "translation": "Профессиональный (многоголосый закадровый) (AlphaProject)",
-      "update": "2019-07-22 08:01:07",
-      "iframe_src": ""
-    },
-    {
-      "id": 29276,
-      "title": "Гонка за совершенством",
-      "kp_id": null,
-      "imdb_id": "tt8242812",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-07-22 06:19:08",
-      "orig_title": "Chasing Perfect",
-      "year": "2019-05-20",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-07-22 08:03:07",
-      "iframe_src": ""
-    },
-    {
-      "id": 29229,
-      "title": "Жилец",
-      "kp_id": "279105",
-      "imdb_id": "tt0851530",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-07-20 20:33:09",
-      "orig_title": "The Lodger",
-      "year": "2009-01-14",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "hdtv",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-07-22 10:52:45",
-      "iframe_src": ""
-    },
-    {
-      "id": 29228,
-      "title": "Игрушки",
-      "kp_id": "31963",
-      "imdb_id": "tt0085764",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-07-20 20:28:55",
-      "orig_title": "Joysticks",
-      "year": "1983-03-04",
-      "translations": [
-        "Любительский (одноголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2019-07-22 10:50:41",
-      "iframe_src": ""
-    },
-    {
-      "id": 29223,
-      "title": "Смертельная ошибка",
-      "kp_id": "28417",
-      "imdb_id": "tt0066496",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-07-20 20:12:21",
-      "orig_title": "Tödlicher Irrtum",
-      "year": "1970-07-03",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2019-07-22 07:55:17",
-      "iframe_src": ""
-    },
-    {
-      "id": 29222,
-      "title": "Сирийская невеста",
-      "kp_id": "86215",
-      "imdb_id": "tt0423310",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-07-20 20:06:15",
-      "orig_title": "The Syrian Bride",
-      "year": "2004-08-11",
-      "translations": [
-        "Профессиональный (двухголосый закадровый) (СВ-Дубль)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (двухголосый закадровый) (СВ-Дубль)",
-      "update": "2019-07-22 07:52:05",
-      "iframe_src": ""
-    },
-    {
-      "id": 29221,
-      "title": "Чертовы футболисты",
-      "kp_id": "454583",
-      "imdb_id": "tt1390424",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-07-20 20:04:15",
-      "orig_title": "Teufelskicker",
-      "year": "2010-03-11",
-      "translations": [
-        "Полное дублирование"
+        "Оригинальная дорожка"
       ],
       "quality": "sat",
-      "translation": "Полное дублирование",
-      "update": "2019-07-22 07:51:39",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-07-29 04:54:15",
       "iframe_src": ""
     },
     {
-      "id": 29220,
-      "title": "Тереза",
-      "kp_id": "164858",
-      "imdb_id": "tt0094121",
+      "id": 29418,
+      "title": "На семи ветрах",
+      "kp_id": "46283",
+      "imdb_id": "tt0056269",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-07-20 20:02:33",
-      "orig_title": "Teresa",
-      "year": "1987-11-26",
+      "add": "2019-07-26 20:39:51",
+      "orig_title": "Na semi vetrakh",
+      "year": "1962-05-08",
       "translations": [
-        "Профессиональный (двухголосый закадровый)"
+        "Оригинальная дорожка"
       ],
       "quality": "dvdrip",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2019-07-22 07:50:39",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-07-29 04:53:59",
       "iframe_src": ""
     },
     {
-      "id": 29219,
-      "title": "Возьми мои глаза",
-      "kp_id": "50228",
-      "imdb_id": "tt0350193",
+      "id": 29411,
+      "title": "Про любовь, дружбу и судьбу",
+      "kp_id": "43286",
+      "imdb_id": "tt0300374",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-07-20 20:00:52",
-      "orig_title": "Te doy mis ojos",
-      "year": "2003-09-24",
+      "add": "2019-07-26 20:16:01",
+      "orig_title": "Pro lyubov, druzhbu i sud'bu",
+      "year": "1988-01-05",
       "translations": [
-        "Профессиональный (двухголосый закадровый)"
+        "Оригинальная дорожка"
       ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2019-07-22 07:49:26",
+      "quality": "sat",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-07-29 04:51:55",
       "iframe_src": ""
     },
     {
-      "id": 29216,
-      "title": "Вкус женщины",
-      "kp_id": "264712",
-      "imdb_id": "tt0100548",
+      "id": 29410,
+      "title": "Путь к сердцу",
+      "kp_id": "493799",
+      "imdb_id": "tt4676080",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-07-20 19:53:22",
-      "orig_title": "Sapore di donna",
-      "year": "1990-12-31",
+      "add": "2019-07-26 20:11:19",
+      "orig_title": "Put k serdtsu",
+      "year": "1971-01-19",
       "translations": [
-        "Любительский (одноголосый закадровый)"
+        "Оригинальная дорожка"
       ],
-      "quality": "dvdrip",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2019-07-22 07:48:49",
+      "quality": "vhs",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-07-29 04:50:59",
       "iframe_src": ""
     },
     {
-      "id": 29085,
-      "title": "Эта твёрдая земля",
-      "kp_id": "718232",
+      "id": 29409,
+      "title": "Ринг",
+      "kp_id": "446101",
+      "imdb_id": "tt2350964",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-07-26 20:06:42",
+      "orig_title": "Ring",
+      "year": "1973-12-03",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "sat",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-07-29 04:49:57",
+      "iframe_src": ""
+    },
+    {
+      "id": 22278,
+      "title": "Асфальтовые джунгли",
+      "kp_id": "1033528",
+      "imdb_id": "tt6175802",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-02-14 00:03:31",
+      "orig_title": "Asphaltgorillas",
+      "year": "2018-08-30",
+      "translations": [
+        "Любительский (двухголосый закадровый) (HiWayGrope)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (двухголосый закадровый) (HiWayGrope)",
+      "update": "2019-07-28 07:25:24",
+      "iframe_src": ""
+    },
+    {
+      "id": 17284,
+      "title": "Олюшка",
+      "kp_id": "1114846",
       "imdb_id": null,
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-07-17 22:26:20",
-      "orig_title": "Эта твёрдая земля",
-      "year": "1967-01-01",
+      "add": "2018-06-21 00:51:04",
+      "orig_title": "Олюшка",
+      "year": "2018-06-19",
       "translations": [
         "Оригинальная дорожка"
       ],
       "quality": "webdl",
       "translation": "Оригинальная дорожка",
-      "update": "2019-07-22 10:54:46",
+      "update": "2019-07-28 07:26:58",
       "iframe_src": ""
     },
     {
-      "id": 22370,
-      "title": "Земля",
-      "kp_id": "64099",
-      "imdb_id": "tt0117909",
+      "id": 15855,
+      "title": "Близкий дух",
+      "kp_id": "1004054",
+      "imdb_id": "tt5119116",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-02-17 22:05:50",
-      "orig_title": "Tierra",
-      "year": "1996-05-24",
-      "translations": [
-        "Авторский (одноголосый закадровый) (Карцев)",
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Авторский (одноголосый закадровый) (Карцев)",
-      "update": "2019-07-22 07:53:29",
-      "iframe_src": ""
-    },
-    {
-      "id": 20170,
-      "title": "Догмэн",
-      "kp_id": "1070264",
-      "imdb_id": "tt6768578",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-11-18 18:58:42",
-      "orig_title": "Dogman",
-      "year": "2018-05-16",
-      "translations": [
-        "Полное дублирование",
-        "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
-        "Профессиональный (многоголосый закадровый)",
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2019-07-22 10:46:03",
-      "iframe_src": ""
-    },
-    {
-      "id": 8601,
-      "title": "Папарацци",
-      "kp_id": "6821",
-      "imdb_id": "tt0338325",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-01-05 05:07:01",
-      "orig_title": "Paparazzi",
-      "year": "2004-09-03",
+      "add": "2018-03-26 15:09:16",
+      "orig_title": "Pyewacket",
+      "year": "2017-09-11",
       "translations": [
         "Полное дублирование",
         "Полное дублирование"
       ],
-      "quality": "hdtv",
+      "quality": "webdl",
       "translation": "Полное дублирование",
-      "update": "2019-07-22 08:06:34",
+      "update": "2019-07-28 16:26:54",
       "iframe_src": ""
     },
     {
-      "id": 7453,
-      "title": "Ночь вампиров",
-      "kp_id": "22208",
-      "imdb_id": "tt0245120",
+      "id": 13387,
+      "title": "В моей смерти прошу винить Клаву К.",
+      "kp_id": "45606",
+      "imdb_id": "tt0080073",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-11-15 05:18:48",
-      "orig_title": "The Forsaken",
-      "year": "2001-04-27",
+      "add": "2017-09-08 11:16:33",
+      "orig_title": "V moey smerti proshu vinit Klavu K.",
+      "year": "1982-07-13",
       "translations": [
-        "Профессиональный (многоголосый закадровый)",
-        "Профессиональный (многоголосый закадровый)"
+        "Оригинальная дорожка",
+        "Оригинальная дорожка"
       ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-07-22 10:51:18",
+      "quality": "sat",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-07-29 04:56:07",
       "iframe_src": ""
     }
   ]

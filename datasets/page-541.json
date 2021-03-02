@@ -1,376 +1,371 @@
 {
   "data": [
     {
-      "id": 39376,
-      "title": "Из земли",
-      "kp_id": "1085001",
-      "imdb_id": "tt6793972",
+      "id": 39645,
+      "title": "Предчувствие",
+      "kp_id": "89212",
+      "imdb_id": "tt0419280",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-04-16 13:54:24",
-      "orig_title": "From the Ground",
-      "year": "2020-02-10",
+      "add": "2020-04-21 07:32:35",
+      "orig_title": "Yogen",
+      "year": "2004-10-02",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-04-16 20:53:16",
-      "iframe_src": ""
-    },
-    {
-      "id": 39375,
-      "title": "Наркоманы",
-      "kp_id": "970242",
-      "imdb_id": "tt5580130",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-04-16 13:52:04",
-      "orig_title": "Dope Fiend",
-      "year": "2017-08-29",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-04-16 20:56:22",
-      "iframe_src": ""
-    },
-    {
-      "id": 39374,
-      "title": "Маска",
-      "kp_id": "1355063",
-      "imdb_id": "tt11953628",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-04-16 13:49:40",
-      "orig_title": "Maska",
-      "year": "2020-03-27",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-04-16 20:54:41",
-      "iframe_src": ""
-    },
-    {
-      "id": 39373,
-      "title": "Симби Зомби",
-      "kp_id": "955732",
-      "imdb_id": "tt5265974",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-04-16 13:47:42",
-      "orig_title": "Simbi_Xombies",
-      "year": "2019-11-15",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-04-16 20:57:23",
-      "iframe_src": ""
-    },
-    {
-      "id": 39355,
-      "title": "Арденнская ветчина",
-      "kp_id": "127680",
-      "imdb_id": "tt0209052",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-04-15 21:15:05",
-      "orig_title": "Jambon d'Ardenne",
-      "year": "1977-04-21",
-      "translations": [
-        "Любительский (одноголосый закадровый)"
+        "Профессиональный (двухголосый закадровый) (РенТВ)"
       ],
       "quality": "dvdrip",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2020-04-16 21:05:50",
+      "translation": "Профессиональный (двухголосый закадровый) (РенТВ)",
+      "update": "2020-04-21 18:27:00",
       "iframe_src": ""
     },
     {
-      "id": 39353,
-      "title": "Под знаком Монте-Кристо",
-      "kp_id": "196937",
-      "imdb_id": "tt0174227",
+      "id": 39638,
+      "title": "Пунктик",
+      "kp_id": "6674",
+      "imdb_id": "tt0090852",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-04-15 21:11:08",
-      "orig_title": "Sous le signe de Monte-Cristo",
-      "year": "1968-12-11",
+      "add": "2020-04-21 06:08:57",
+      "orig_title": "Clockwise",
+      "year": "1986-03-14",
+      "translations": [
+        "Профессиональный (двухголосый закадровый) (Екатеринбург Арт)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (двухголосый закадровый) (Екатеринбург Арт)",
+      "update": "2020-04-22 04:38:50",
+      "iframe_src": ""
+    },
+    {
+      "id": 39602,
+      "title": "Моя супермама",
+      "kp_id": "555809",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-04-20 17:26:29",
+      "orig_title": "Nina Undercover - Agentin mit Kids",
+      "year": "2011-06-01",
+      "translations": [
+        "Полное дублирование (СТС)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Полное дублирование (СТС)",
+      "update": "2020-04-21 17:39:21",
+      "iframe_src": ""
+    },
+    {
+      "id": 39600,
+      "title": "Мужская работа",
+      "kp_id": "325277",
+      "imdb_id": "tt0890882",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-04-20 17:20:28",
+      "orig_title": "Miehen työ",
+      "year": "2007-01-25",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
-      "quality": "tv",
+      "quality": "dvdrip",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-04-16 21:07:03",
+      "update": "2020-04-21 17:39:43",
       "iframe_src": ""
     },
     {
-      "id": 39309,
-      "title": "Пасхальный холокост",
-      "kp_id": null,
-      "imdb_id": "tt12092784",
+      "id": 39599,
+      "title": "Я пережил нашествие зомби",
+      "kp_id": "725367",
+      "imdb_id": "tt2536124",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-04-14 13:38:32",
-      "orig_title": "Easter Holocaust",
-      "year": "2020-04-04",
+      "add": "2020-04-20 17:19:04",
+      "orig_title": "I Survived a Zombie Holocaust",
+      "year": "2014-08-23",
+      "translations": [
+        "Любительский (одноголосый закадровый) (Васька Куролесов)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Любительский (одноголосый закадровый) (Васька Куролесов)",
+      "update": "2020-04-21 17:40:05",
+      "iframe_src": ""
+    },
+    {
+      "id": 39598,
+      "title": "В погоне за кометой: «Розетта»",
+      "kp_id": "910021",
+      "imdb_id": "tt4200326",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-04-20 17:17:46",
+      "orig_title": "Landing on a Comet: Rosetta Mission",
+      "year": "2014-11-12",
+      "translations": [
+        "Профессиональный (одноголосый закадровый) (Discovery)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (одноголосый закадровый) (Discovery)",
+      "update": "2020-04-21 17:40:47",
+      "iframe_src": ""
+    },
+    {
+      "id": 39597,
+      "title": "Ад живых мертвецов",
+      "kp_id": "95436",
+      "imdb_id": "tt0082559",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-04-20 17:14:55",
+      "orig_title": "Virus",
+      "year": "1980-11-17",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-04-21 17:45:26",
+      "iframe_src": ""
+    },
+    {
+      "id": 39575,
+      "title": "Рай",
+      "kp_id": "694",
+      "imdb_id": "tt0246677",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-04-19 18:01:15",
+      "orig_title": "Heaven",
+      "year": "2002-02-06",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (AMS)"
+      ],
+      "quality": "hdrip",
+      "translation": "Профессиональный (многоголосый закадровый) (AMS)",
+      "update": "2020-04-21 17:53:34",
+      "iframe_src": ""
+    },
+    {
+      "id": 39574,
+      "title": "Тихие голоса прошлого",
+      "kp_id": "301076",
+      "imdb_id": "tt0844025",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-04-19 17:58:31",
+      "orig_title": "Still Small Voices",
+      "year": "2007-01-06",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2020-04-21 17:54:21",
+      "iframe_src": ""
+    },
+    {
+      "id": 39572,
+      "title": "Святой Джон из Лас-Вегаса",
+      "kp_id": "421542",
+      "imdb_id": "tt1276105",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-04-19 17:47:11",
+      "orig_title": "Saint John of Las Vegas",
+      "year": "2009-06-10",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "dvdrip",
+      "translation": "Полное дублирование",
+      "update": "2020-04-21 17:55:51",
+      "iframe_src": ""
+    },
+    {
+      "id": 39569,
+      "title": "Барабанная дробь 2: Новый бит",
+      "kp_id": "829422",
+      "imdb_id": "tt3520698",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-04-19 17:41:54",
+      "orig_title": "Drumline: A New Beat",
+      "year": "2014-10-27",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (SDI Media)"
+      ],
+      "quality": "hdtv",
+      "translation": "Профессиональный (многоголосый закадровый) (SDI Media)",
+      "update": "2020-04-21 17:57:16",
+      "iframe_src": ""
+    },
+    {
+      "id": 39445,
+      "title": "Вынужденные обстоятельства",
+      "kp_id": "78561",
+      "imdb_id": "tt0071800",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-04-17 21:09:22",
+      "orig_title": "Majboor",
+      "year": "1974-12-06",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-04-21 12:33:53",
+      "iframe_src": ""
+    },
+    {
+      "id": 39443,
+      "title": "Самозванцы поневоле",
+      "kp_id": "108429",
+      "imdb_id": "tt0175530",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-04-17 21:04:18",
+      "orig_title": "Chor Machaye Shor",
+      "year": "1974-03-18",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (Формат AB)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый) (Формат AB)",
+      "update": "2020-04-21 12:33:14",
+      "iframe_src": ""
+    },
+    {
+      "id": 39440,
+      "title": "Призрак",
+      "kp_id": "105074",
+      "imdb_id": "tt0399530",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-04-17 14:21:02",
+      "orig_title": "Pyaar Ka Saaya",
+      "year": "1991-11-29",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-04-21 12:31:57",
+      "iframe_src": ""
+    },
+    {
+      "id": 39387,
+      "title": "Городские мифы",
+      "kp_id": "811367",
+      "imdb_id": "tt3316122",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-04-16 15:08:09",
+      "orig_title": "Urban Myths",
+      "year": "2020-01-01",
       "translations": [
         "Original (English)"
       ],
       "quality": "webdl",
       "translation": "Original (English)",
-      "update": "2020-04-16 09:16:18",
+      "update": "2020-04-22 06:19:26",
       "iframe_src": ""
     },
     {
-      "id": 39174,
-      "title": "Керосин",
-      "kp_id": "1254097",
-      "imdb_id": "tt10146198",
+      "id": 39209,
+      "title": "Легенды «Смертельной битвы»: Месть Скорпиона",
+      "kp_id": "1228043",
+      "imdb_id": "tt9580138",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-04-12 10:41:08",
-      "orig_title": "Kerosin",
-      "year": "2019-11-14",
+      "add": "2020-04-13 05:35:35",
+      "orig_title": "Mortal Kombat Legends: Scorpions Revenge",
+      "year": "2020-04-12",
       "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2020-04-16 13:17:04",
-      "iframe_src": ""
-    },
-    {
-      "id": 39165,
-      "title": "Любовь. Свадьба. Повтор",
-      "kp_id": "1263065",
-      "imdb_id": "tt5096470",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-04-11 20:06:22",
-      "orig_title": "Love. Wedding. Repeat",
-      "year": "2020-04-10",
-      "translations": [
-        "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-        "Original (English)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-      "update": "2020-04-16 09:44:54",
-      "iframe_src": ""
-    },
-    {
-      "id": 39042,
-      "title": "Смертельная доза",
-      "kp_id": "1164737",
-      "imdb_id": "tt8540100",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-04-09 04:15:30",
-      "orig_title": "Murder RX",
-      "year": "2020-04-07",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Original (English)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-04-16 09:46:55",
-      "iframe_src": ""
-    },
-    {
-      "id": 39039,
-      "title": "Золотая пыль",
-      "kp_id": "981052",
-      "imdb_id": "tt5588938",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-04-09 03:56:04",
-      "orig_title": "Gold Dust",
-      "year": "2020-04-07",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Original (English)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-04-16 09:19:12",
-      "iframe_src": ""
-    },
-    {
-      "id": 39036,
-      "title": "Дотянуть до рассвета",
-      "kp_id": "1142346",
-      "imdb_id": "tt8150698",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-04-09 03:42:30",
-      "orig_title": "Dead by Dawn",
-      "year": "2020-01-01",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Original (English)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-04-16 09:15:26",
-      "iframe_src": ""
-    },
-    {
-      "id": 39035,
-      "title": "Патрик. Святой покровитель Ирландии",
-      "kp_id": null,
-      "imdb_id": "tt9111316",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-04-09 03:33:43",
-      "orig_title": "I Am Patrick: The Patron Saint of Ireland",
-      "year": "2020-03-12",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Original (English)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-04-16 09:41:18",
-      "iframe_src": ""
-    },
-    {
-      "id": 38908,
-      "title": "Ленивая Сьюзен",
-      "kp_id": "1168078",
-      "imdb_id": "tt8633560",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-04-05 03:44:15",
-      "orig_title": "Lazy Susan",
-      "year": "2020-01-01",
-      "translations": [
-        "Любительский (многоголосый закадровый) (AlphaProject)",
-        "Original (English)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (AlphaProject)",
-      "update": "2020-04-16 09:43:34",
-      "iframe_src": ""
-    },
-    {
-      "id": 38907,
-      "title": "Кофе и Карим",
-      "kp_id": "1263451",
-      "imdb_id": "tt9898858",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-04-05 03:42:18",
-      "orig_title": "Coffee & Kareem",
-      "year": "2020-04-03",
-      "translations": [
-        "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
         "Любительский (двухголосый закадровый) (LakeFilms)",
-        "Original (English)"
+        "Original (English)",
+        "Профессиональный (многоголосый закадровый) (NewComers)",
+        "Любительский (многоголосый закадровый) (Flarrow Films)"
       ],
       "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-      "update": "2020-04-16 09:14:37",
+      "translation": "Любительский (двухголосый закадровый) (LakeFilms)",
+      "update": "2020-04-21 17:52:45",
       "iframe_src": ""
     },
     {
-      "id": 38861,
-      "title": "Под чужим именем",
-      "kp_id": "753933",
-      "imdb_id": "tt2819446",
+      "id": 38632,
+      "title": "Откупоренные",
+      "kp_id": "1215057",
+      "imdb_id": "tt9261218",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-04-03 19:48:38",
-      "orig_title": "False Colors",
-      "year": "2020-04-01",
+      "add": "2020-03-28 11:47:47",
+      "orig_title": "Uncorked",
+      "year": "2020-03-27",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)",
         "Original (English)"
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-04-16 09:16:59",
+      "update": "2020-04-22 06:17:09",
       "iframe_src": ""
     },
     {
-      "id": 38847,
-      "title": "Невозможные шутники: Фильм",
-      "kp_id": "1207342",
-      "imdb_id": "tt9208444",
+      "id": 38538,
+      "title": "Охотничья луна",
+      "kp_id": "1060196",
+      "imdb_id": "tt5761986",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-04-03 04:41:48",
-      "orig_title": "Impractical Jokers: The Movie",
-      "year": "2020-02-21",
+      "add": "2020-03-26 11:52:32",
+      "orig_title": "Hunter's Moon",
+      "year": "2020-03-24",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)",
         "Original (English)"
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-04-16 09:42:25",
+      "update": "2020-04-22 06:15:21",
       "iframe_src": ""
     },
     {
-      "id": 38800,
-      "title": "Падаль",
-      "kp_id": "1277994",
-      "imdb_id": "tt10419672",
+      "id": 37354,
+      "title": "Человек-невидимка",
+      "kp_id": "420454",
+      "imdb_id": "tt1051906",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-04-02 06:19:11",
-      "orig_title": "Carrion",
-      "year": "2020-03-31",
-      "translations": [
-        "Любительский (многоголосый закадровый) (AlphaProject)",
-        "Original (English)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (AlphaProject)",
-      "update": "2020-04-16 09:13:49",
-      "iframe_src": ""
-    },
-    {
-      "id": 35908,
-      "title": "Лапочка",
-      "kp_id": "1118271",
-      "imdb_id": "tt8151874",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-02-07 15:54:44",
-      "orig_title": "Honey Boy",
-      "year": "2019-01-25",
-      "translations": [
-        "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-        "Профессиональный (многоголосый закадровый) (iTunes)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-      "update": "2020-04-16 13:16:15",
-      "iframe_src": ""
-    },
-    {
-      "id": 35808,
-      "title": "Гретель и Гензель",
-      "kp_id": "1209712",
-      "imdb_id": "tt9086228",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-02-04 13:51:01",
-      "orig_title": "Gretel & Hansel",
-      "year": "2020-01-30",
+      "add": "2020-03-04 07:35:04",
+      "orig_title": "The Invisible Man",
+      "year": "2020-02-24",
       "translations": [
         "Полное дублирование (iTunes)",
+        "Любительский (многоголосый закадровый)",
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
         "Original (English)"
       ],
       "quality": "webdl",
       "translation": "Полное дублирование (iTunes)",
-      "update": "2020-04-16 09:40:05",
+      "update": "2020-04-22 06:14:26",
+      "iframe_src": ""
+    },
+    {
+      "id": 13083,
+      "title": "2210: Конец света",
+      "kp_id": "592437",
+      "imdb_id": "tt1715324",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-08-21 05:12:18",
+      "orig_title": "Collapse: Based on the Book by Jared Diamond",
+      "year": "2010-09-18",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-04-21 17:51:32",
       "iframe_src": ""
     }
   ]

@@ -1,368 +1,370 @@
 {
   "data": [
     {
-      "id": 29045,
-      "title": "Цыплячья вечеринка",
-      "kp_id": "1066145",
-      "imdb_id": "tt7423450",
+      "id": 29283,
+      "title": "Жена моего мужа",
+      "kp_id": "1101240",
+      "imdb_id": null,
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-07-15 21:33:27",
-      "orig_title": "The Chicken Party",
-      "year": "2018-04-18",
+      "add": "2019-07-22 06:34:34",
+      "orig_title": "Жена моего мужа",
+      "year": "2019-07-21",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "hdtv",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-07-22 08:09:34",
+      "iframe_src": ""
+    },
+    {
+      "id": 29281,
+      "title": "Меч республиканцев",
+      "kp_id": null,
+      "imdb_id": "tt8484012",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-07-22 06:29:35",
+      "orig_title": "Sword of Trust",
+      "year": "2019-07-19",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-07-16 05:56:07",
+      "update": "2019-07-22 07:57:42",
       "iframe_src": ""
     },
     {
-      "id": 29037,
-      "title": "Гори, моя звезда",
-      "kp_id": "44562",
-      "imdb_id": "tt0314118",
+      "id": 29280,
+      "title": "Щенок в подарок или как найти свою любовь",
+      "kp_id": "1064226",
+      "imdb_id": "tt7159616",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-07-15 21:11:56",
-      "orig_title": "Gori, moya zvezda!",
-      "year": "1958-04-14",
+      "add": "2019-07-22 06:28:25",
+      "orig_title": "Puppy Swap Love Unleashed",
+      "year": "2019-07-16",
       "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-07-16 06:43:57",
-      "iframe_src": ""
-    },
-    {
-      "id": 29036,
-      "title": "Крылья",
-      "kp_id": "587325",
-      "imdb_id": "tt5847580",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-07-15 21:08:42",
-      "orig_title": "Krylya",
-      "year": "1956-06-09",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "sat",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-07-16 06:42:15",
-      "iframe_src": ""
-    },
-    {
-      "id": 29035,
-      "title": "Кыш и Двапортфеля",
-      "kp_id": "45039",
-      "imdb_id": "tt0071732",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-07-15 21:05:08",
-      "orig_title": "Kysh i Dvaportfelya",
-      "year": "1974-12-16",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "sat",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-07-16 06:41:19",
-      "iframe_src": ""
-    },
-    {
-      "id": 29034,
-      "title": "Ласточка",
-      "kp_id": "45044",
-      "imdb_id": "tt0319730",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-07-15 21:01:56",
-      "orig_title": "Lastochka",
-      "year": "1958-01-07",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "vhs",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-07-16 06:40:29",
-      "iframe_src": ""
-    },
-    {
-      "id": 29033,
-      "title": "Люди на мосту",
-      "kp_id": "45167",
-      "imdb_id": "tt0176957",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-07-15 20:59:08",
-      "orig_title": "Lyudi na mostu",
-      "year": "1960-01-09",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "sat",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-07-16 06:39:53",
-      "iframe_src": ""
-    },
-    {
-      "id": 29032,
-      "title": "Мы жили по соседству",
-      "kp_id": "46763",
-      "imdb_id": "tt0251885",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-07-15 20:55:32",
-      "orig_title": "My zhili po sosedstvu",
-      "year": "1982-03-24",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-07-16 06:38:42",
-      "iframe_src": ""
-    },
-    {
-      "id": 29031,
-      "title": "На подмостках сцены",
-      "kp_id": "46277",
-      "imdb_id": "tt0049536",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-07-15 20:51:39",
-      "orig_title": "Na podmostkakh stseny",
-      "year": "1956-06-28",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "sat",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-07-16 06:37:30",
-      "iframe_src": ""
-    },
-    {
-      "id": 29030,
-      "title": "Особое поручение",
-      "kp_id": "570180",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-07-15 20:48:47",
-      "orig_title": "Особое поручение",
-      "year": "1958-04-21",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "vhs",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-07-16 06:36:54",
-      "iframe_src": ""
-    },
-    {
-      "id": 29028,
-      "title": "Парни музкоманды",
-      "kp_id": "169977",
-      "imdb_id": "tt0361966",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-07-15 20:32:32",
-      "orig_title": "Nvagakhmbi tghanere",
-      "year": "1961-04-10",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "sat",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-07-16 06:32:35",
-      "iframe_src": ""
-    },
-    {
-      "id": 29027,
-      "title": "Путешествие в апрель",
-      "kp_id": "43362",
-      "imdb_id": "tt0237624",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-07-15 20:29:18",
-      "orig_title": "Puteshestviye v aprel",
-      "year": "1963-04-06",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "vhs",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-07-16 06:29:56",
-      "iframe_src": ""
-    },
-    {
-      "id": 29026,
-      "title": "Платки",
-      "kp_id": "412502",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-07-15 20:26:19",
-      "orig_title": "Платки",
-      "year": "2008-01-07",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-07-16 06:20:27",
-      "iframe_src": ""
-    },
-    {
-      "id": 29025,
-      "title": "Потерянная фотография",
-      "kp_id": "43176",
-      "imdb_id": "tt0173027",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-07-15 20:16:42",
-      "orig_title": "Poteryannaya fotografiya",
-      "year": "1960-05-12",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "sat",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-07-16 06:13:26",
-      "iframe_src": ""
-    },
-    {
-      "id": 29024,
-      "title": "Шторм",
-      "kp_id": "43767",
-      "imdb_id": "tt0050966",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-07-15 20:13:34",
-      "orig_title": "Shtorm",
-      "year": "1957-10-15",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-07-16 06:10:39",
-      "iframe_src": ""
-    },
-    {
-      "id": 29023,
-      "title": "Верные сердца",
-      "kp_id": "45729",
-      "imdb_id": "tt0053413",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-07-15 20:10:08",
-      "orig_title": "Vernye serdtsa",
-      "year": "1959-11-16",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-07-16 06:08:21",
-      "iframe_src": ""
-    },
-    {
-      "id": 29022,
-      "title": "Первоклашки",
-      "kp_id": "683783",
-      "imdb_id": "tt4094436",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-07-15 20:03:12",
-      "orig_title": "Pervoklashki",
-      "year": "2012-11-25",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "sat",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-07-16 06:07:01",
-      "iframe_src": ""
-    },
-    {
-      "id": 28961,
-      "title": "4 канистры",
-      "kp_id": "1134550",
-      "imdb_id": "tt8242160",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-07-13 20:05:32",
-      "orig_title": "4 latas",
-      "year": "2019-03-01",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Любительский (многоголосый закадровый) (Mallorn Studio)"
+        "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-07-16 05:49:48",
+      "update": "2019-07-22 07:59:06",
       "iframe_src": ""
     },
     {
-      "id": 28851,
-      "title": "Тьма внутри",
-      "kp_id": "1062826",
-      "imdb_id": "tt6842446",
+      "id": 29279,
+      "title": "Недобрые тени",
+      "kp_id": null,
+      "imdb_id": "tt8623076",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-07-10 19:43:32",
-      "orig_title": "The Dark Within",
-      "year": "2019-07-01",
+      "add": "2019-07-22 06:23:41",
+      "orig_title": "Malevolent Shadows",
+      "year": "2017-09-01",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Любительский (многоголосый закадровый) (Mallorn Studio)"
+        "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-07-16 05:48:07",
+      "update": "2019-07-22 08:00:16",
       "iframe_src": ""
     },
     {
-      "id": 22187,
-      "title": "Не вместе",
-      "kp_id": "1001206",
-      "imdb_id": "tt6043072",
+      "id": 29278,
+      "title": "Убийство в Любероне",
+      "kp_id": "1153787",
+      "imdb_id": "tt8178502",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-02-10 22:40:27",
-      "orig_title": "Untogether",
-      "year": "2018-04-23",
+      "add": "2019-07-22 06:21:45",
+      "orig_title": "Crime dans le Luberon",
+      "year": "2018-09-18",
       "translations": [
-        "Профессиональный (многоголосый закадровый) (СВ-Студия)",
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
+        "Профессиональный (многоголосый закадровый) (AlphaProject)"
       ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый) (СВ-Студия)",
-      "update": "2019-07-16 05:53:06",
+      "quality": "hdtv",
+      "translation": "Профессиональный (многоголосый закадровый) (AlphaProject)",
+      "update": "2019-07-22 08:01:07",
       "iframe_src": ""
     },
     {
-      "id": 21732,
-      "title": "Растяжки",
-      "kp_id": "1054994",
-      "imdb_id": "tt7088028",
+      "id": 29276,
+      "title": "Гонка за совершенством",
+      "kp_id": null,
+      "imdb_id": "tt8242812",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-01-22 10:54:22",
-      "orig_title": "Stretch Marks",
-      "year": "2018-01-01",
+      "add": "2019-07-22 06:19:08",
+      "orig_title": "Chasing Perfect",
+      "year": "2019-05-20",
       "translations": [
-        "Любительский (двухголосый закадровый) (HiWayGrope)",
-        "Любительский (многоголосый закадровый) (Колобок)",
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
+        "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
-      "translation": "Любительский (двухголосый закадровый) (HiWayGrope)",
-      "update": "2019-07-16 05:58:03",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-07-22 08:03:07",
+      "iframe_src": ""
+    },
+    {
+      "id": 29236,
+      "title": "Сибирский Потрошитель",
+      "kp_id": "1141606",
+      "imdb_id": "tt8307258",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-07-21 07:17:30",
+      "orig_title": "Sibirskiy potroshitel",
+      "year": "2016-04-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "webdl",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-07-22 11:26:50",
+      "iframe_src": ""
+    },
+    {
+      "id": 29235,
+      "title": "Новый аттракцион",
+      "kp_id": "46476",
+      "imdb_id": "tt0167314",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-07-21 07:13:11",
+      "orig_title": "Novyy attraktsion",
+      "year": "1958-05-12",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "sat",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-07-22 11:25:10",
+      "iframe_src": ""
+    },
+    {
+      "id": 29234,
+      "title": "Солдатка",
+      "kp_id": "627875",
+      "imdb_id": "tt5094012",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-07-21 07:09:21",
+      "orig_title": "Soldatka",
+      "year": "1960-03-05",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "vhs",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-07-22 11:24:15",
+      "iframe_src": ""
+    },
+    {
+      "id": 29233,
+      "title": "Таврия",
+      "kp_id": "469660",
+      "imdb_id": "tt4782316",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-07-21 07:06:37",
+      "orig_title": "Tavriya",
+      "year": "1960-09-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-07-22 11:02:35",
+      "iframe_src": ""
+    },
+    {
+      "id": 29232,
+      "title": "Умирать не страшно",
+      "kp_id": "42522",
+      "imdb_id": "tt0136583",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-07-21 07:02:56",
+      "orig_title": "Umirat ne strashno",
+      "year": "1991-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-07-22 10:59:18",
+      "iframe_src": ""
+    },
+    {
+      "id": 29231,
+      "title": "В этот праздничный вечер",
+      "kp_id": "843723",
+      "imdb_id": "tt7915738",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-07-21 06:58:46",
+      "orig_title": "V etot prazdnichnyi vecher",
+      "year": "1959-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "sat",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-07-22 10:58:33",
+      "iframe_src": ""
+    },
+    {
+      "id": 29230,
+      "title": "Жеребенок",
+      "kp_id": "45312",
+      "imdb_id": "tt0170837",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-07-20 21:22:50",
+      "orig_title": "Zherebyonok",
+      "year": "1960-03-20",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-07-22 10:57:49",
+      "iframe_src": ""
+    },
+    {
+      "id": 29229,
+      "title": "Жилец",
+      "kp_id": "279105",
+      "imdb_id": "tt0851530",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-07-20 20:33:09",
+      "orig_title": "The Lodger",
+      "year": "2009-01-14",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "hdtv",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-07-22 10:52:45",
+      "iframe_src": ""
+    },
+    {
+      "id": 29228,
+      "title": "Игрушки",
+      "kp_id": "31963",
+      "imdb_id": "tt0085764",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-07-20 20:28:55",
+      "orig_title": "Joysticks",
+      "year": "1983-03-04",
+      "translations": [
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2019-07-22 10:50:41",
+      "iframe_src": ""
+    },
+    {
+      "id": 29085,
+      "title": "Эта твёрдая земля",
+      "kp_id": "718232",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-07-17 22:26:20",
+      "orig_title": "Эта твёрдая земля",
+      "year": "1967-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "webdl",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-07-22 10:54:46",
+      "iframe_src": ""
+    },
+    {
+      "id": 23988,
+      "title": "Знак судьбы",
+      "kp_id": "409062",
+      "imdb_id": "tt3069598",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-04-06 22:08:35",
+      "orig_title": "Znak sudby",
+      "year": "2007-02-03",
+      "translations": [
+        "Оригинальная дорожка",
+        "Оригинальная дорожка"
+      ],
+      "quality": "hdtv",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-07-22 10:56:04",
+      "iframe_src": ""
+    },
+    {
+      "id": 20170,
+      "title": "Догмэн",
+      "kp_id": "1070264",
+      "imdb_id": "tt6768578",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-11-18 18:58:42",
+      "orig_title": "Dogman",
+      "year": "2018-05-16",
+      "translations": [
+        "Полное дублирование",
+        "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
+        "Профессиональный (многоголосый закадровый)",
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2019-07-22 10:46:03",
+      "iframe_src": ""
+    },
+    {
+      "id": 8601,
+      "title": "Папарацци",
+      "kp_id": "6821",
+      "imdb_id": "tt0338325",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-01-05 05:07:01",
+      "orig_title": "Paparazzi",
+      "year": "2004-09-03",
+      "translations": [
+        "Полное дублирование",
+        "Полное дублирование"
+      ],
+      "quality": "hdtv",
+      "translation": "Полное дублирование",
+      "update": "2019-07-22 08:06:34",
+      "iframe_src": ""
+    },
+    {
+      "id": 7453,
+      "title": "Ночь вампиров",
+      "kp_id": "22208",
+      "imdb_id": "tt0245120",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-11-15 05:18:48",
+      "orig_title": "The Forsaken",
+      "year": "2001-04-27",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)",
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-07-22 10:51:18",
       "iframe_src": ""
     }
   ]

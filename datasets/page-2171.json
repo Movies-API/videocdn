@@ -1,363 +1,363 @@
 {
   "data": [
     {
-      "id": 6008,
-      "title": "Роковая поездка",
-      "kp_id": "916892",
-      "imdb_id": "tt4770142",
+      "id": 6190,
+      "title": "Детские игры",
+      "kp_id": "5891",
+      "imdb_id": "tt0094862",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-10-09 11:35:29",
-      "orig_title": "The Wrong Car",
-      "year": "2016-01-16",
+      "add": "2016-10-12 05:33:36",
+      "orig_title": "Child's Play",
+      "year": "1988-11-09",
       "translations": [
-        "Любительский (многоголосый закадровый)"
-      ],
-      "quality": "hdtv",
-      "translation": "Любительский (многоголосый закадровый)",
-      "update": "2016-10-09 12:45:48",
-      "iframe_src": ""
-    },
-    {
-      "id": 6007,
-      "title": "Аджар",
-      "kp_id": "929789",
-      "imdb_id": "tt4906984",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-09 11:33:32",
-      "orig_title": "Azhar",
-      "year": "2016-05-13",
-      "translations": [
-        "Профессиональный (многоголосый)"
+        "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
-      "translation": "Профессиональный (многоголосый)",
-      "update": "2016-10-09 15:02:11",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-10-13 05:26:09",
       "iframe_src": ""
     },
     {
-      "id": 6000,
-      "title": "Под Личиной",
-      "kp_id": "968475",
-      "imdb_id": "tt5512872",
+      "id": 6189,
+      "title": "Детские игры 3",
+      "kp_id": "5882",
+      "imdb_id": "tt0103956",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-10-09 11:16:04",
-      "orig_title": "Be Somebody",
-      "year": "2016-06-10",
+      "add": "2016-10-12 05:32:08",
+      "orig_title": "Child's Play 3",
+      "year": "1991-08-30",
       "translations": [
-        "Любительский (двухголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (двухголосый закадровый)",
-      "update": "2016-10-09 13:51:16",
-      "iframe_src": ""
-    },
-    {
-      "id": 5996,
-      "title": "Любовь без участия",
-      "kp_id": "961372",
-      "imdb_id": "tt5340362",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-09 10:55:17",
-      "orig_title": "Anything for Love",
-      "year": "2016-02-14",
-      "translations": [
-        "Любительский (многоголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый)",
-      "update": "2016-10-09 13:14:54",
-      "iframe_src": ""
-    },
-    {
-      "id": 5995,
-      "title": "Оцепенелый",
-      "kp_id": "895405",
-      "imdb_id": "tt4470266",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-09 10:41:26",
-      "orig_title": "Numb",
-      "year": "2015-10-03",
-      "translations": [
-        "Любительский (многоголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый)",
-      "update": "2016-10-09 11:45:24",
-      "iframe_src": ""
-    },
-    {
-      "id": 5993,
-      "title": "Грязная красотка",
-      "kp_id": "806874",
-      "imdb_id": "tt3278416",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-09 10:36:04",
-      "orig_title": "Dirty Beautiful",
-      "year": "2015-02-28",
-      "translations": [
-        "Любительский (многоголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый)",
-      "update": "2016-10-09 11:43:57",
-      "iframe_src": ""
-    },
-    {
-      "id": 5991,
-      "title": "Персона нон грата",
-      "kp_id": "845968",
-      "imdb_id": "tt4162012",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-09 05:03:42",
-      "orig_title": "Sugihara Chiune",
-      "year": "2015-10-13",
-      "translations": [
-        "Любительский (многоголосый закадровый)"
+        "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
-      "translation": "Любительский (многоголосый закадровый)",
-      "update": "2016-10-09 10:28:26",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-10-13 05:23:59",
       "iframe_src": ""
     },
     {
-      "id": 5990,
-      "title": "Клубная жизнь",
-      "kp_id": "778695",
-      "imdb_id": "tt3038734",
+      "id": 6187,
+      "title": "Невеста Чаки",
+      "kp_id": "5871",
+      "imdb_id": "tt0144120",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-10-09 05:01:35",
-      "orig_title": "Club Life",
-      "year": "2015-05-29",
+      "add": "2016-10-12 05:29:36",
+      "orig_title": "Bride of Chucky",
+      "year": "1998-10-15",
       "translations": [
-        "Любительский (многоголосый закадровый)"
+        "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
-      "translation": "Любительский (многоголосый закадровый)",
-      "update": "2016-10-09 10:30:42",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-10-13 05:18:59",
       "iframe_src": ""
     },
     {
-      "id": 5987,
-      "title": "Бункер",
-      "kp_id": "757717",
-      "imdb_id": "tt2847438",
+      "id": 6185,
+      "title": "Беспечные времена в «Риджмонт Хай»",
+      "kp_id": "4781",
+      "imdb_id": "tt0083929",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-10-08 14:57:42",
-      "orig_title": "Der Bunker",
-      "year": "2015-02-07",
-      "translations": [
-        "Любительский (одноголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2016-10-08 17:25:25",
-      "iframe_src": ""
-    },
-    {
-      "id": 5985,
-      "title": "Я знаю, где Лиззи",
-      "kp_id": "930233",
-      "imdb_id": "tt4952558",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-08 14:55:11",
-      "orig_title": "I Know Where Lizzie Is",
-      "year": "2016-04-10",
-      "translations": [
-        "Любительский (многоголосый закадровый)"
-      ],
-      "quality": "hdrip",
-      "translation": "Любительский (многоголосый закадровый)",
-      "update": "2016-10-08 17:31:48",
-      "iframe_src": ""
-    },
-    {
-      "id": 5983,
-      "title": "Любовь в бегах",
-      "kp_id": "630492",
-      "imdb_id": "tt2065938",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-08 14:50:40",
-      "orig_title": "Love on the Run",
-      "year": "2016-08-26",
-      "translations": [
-        "Любительский (многоголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый)",
-      "update": "2016-10-08 17:33:09",
-      "iframe_src": ""
-    },
-    {
-      "id": 5950,
-      "title": "Внук Гагарина",
-      "kp_id": "253752",
-      "imdb_id": "tt1082885",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-07 09:48:21",
-      "orig_title": "Vnuk Gagarina",
-      "year": "2007-05-25",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2016-10-08 15:43:43",
-      "iframe_src": ""
-    },
-    {
-      "id": 5947,
-      "title": "Реальный мир",
-      "kp_id": "762626",
-      "imdb_id": "tt2899142",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-07 08:54:39",
-      "orig_title": "Is This the Real World",
-      "year": "2015-04-09",
-      "translations": [
-        "Любительский (многоголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый)",
-      "update": "2016-10-07 11:36:01",
-      "iframe_src": ""
-    },
-    {
-      "id": 5946,
-      "title": "Премия Дарвина",
-      "kp_id": "86943",
-      "imdb_id": "tt0428446",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-07 08:28:11",
-      "orig_title": "The Darwin Awards",
-      "year": "2006-01-25",
+      "add": "2016-10-12 05:26:59",
+      "orig_title": "Fast Times at Ridgemont High",
+      "year": "1982-08-13",
       "translations": [
         "Профессиональный (двухголосый закадровый)"
       ],
-      "quality": "dvdrip",
+      "quality": "bd",
       "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2016-10-09 04:52:18",
+      "update": "2016-10-13 05:12:52",
       "iframe_src": ""
     },
     {
-      "id": 5933,
-      "title": "Киднеппинг",
-      "kp_id": "845476",
-      "imdb_id": "tt3875310",
+      "id": 6184,
+      "title": "Детская игра",
+      "kp_id": "10111",
+      "imdb_id": "tt0068369",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-10-07 03:06:42",
-      "orig_title": "Kidnep",
-      "year": "2015-04-15",
+      "add": "2016-10-12 05:25:45",
+      "orig_title": "Child's Play",
+      "year": "1972-12-12",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2016-10-13 05:10:02",
+      "iframe_src": ""
+    },
+    {
+      "id": 6183,
+      "title": "Птаха",
+      "kp_id": "21426",
+      "imdb_id": "tt0086969",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-12 05:23:36",
+      "orig_title": "Birdy",
+      "year": "1984-12-21",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2016-10-13 05:08:51",
+      "iframe_src": ""
+    },
+    {
+      "id": 6181,
+      "title": "Чтo скрывает ложь",
+      "kp_id": "535367",
+      "imdb_id": "tt1674784",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-11 15:54:27",
+      "orig_title": "Trespass",
+      "year": "2011-09-14",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2016-10-13 05:06:33",
+      "iframe_src": ""
+    },
+    {
+      "id": 6180,
+      "title": "Беглец",
+      "kp_id": "840572",
+      "imdb_id": "tt3687398",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-11 15:53:15",
+      "orig_title": "The Runner",
+      "year": "2015-08-07",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2016-10-13 05:04:25",
+      "iframe_src": ""
+    },
+    {
+      "id": 6179,
+      "title": "Голодный кролик атакует",
+      "kp_id": "461946",
+      "imdb_id": "tt1214962",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-11 15:51:19",
+      "orig_title": "Seeking Justice",
+      "year": "2011-09-02",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2016-10-13 05:02:39",
+      "iframe_src": ""
+    },
+    {
+      "id": 6176,
+      "title": "Воскрешая мертвецов",
+      "kp_id": "4044",
+      "imdb_id": "tt0163988",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-11 15:37:25",
+      "orig_title": "Bringing Out the Dead",
+      "year": "1999-10-22",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "webdl",
+      "translation": "Полное дублирование",
+      "update": "2016-10-13 04:57:09",
+      "iframe_src": ""
+    },
+    {
+      "id": 6100,
+      "title": "Библиотекарь 3: Проклятие иудовой чаши",
+      "kp_id": "400594",
+      "imdb_id": "tt1146438",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-11 06:08:18",
+      "orig_title": "The Librarian: The Curse of the Judas Chalice",
+      "year": "2008-12-07",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-10-13 04:49:19",
+      "iframe_src": ""
+    },
+    {
+      "id": 6099,
+      "title": "Библиотекарь 2: Возвращение в Копи Царя Соломона",
+      "kp_id": "229931",
+      "imdb_id": "tt0455596",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-11 06:07:16",
+      "orig_title": "The Librarian: Return to King Solomon's Mines",
+      "year": "2006-10-09",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-10-13 04:47:39",
+      "iframe_src": ""
+    },
+    {
+      "id": 6098,
+      "title": "Библиотекарь: В поисках копья судьбы",
+      "kp_id": "161030",
+      "imdb_id": "tt0412915",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-11 06:06:03",
+      "orig_title": "The Librarian: Quest for the Spear",
+      "year": "2004-12-05",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-10-13 04:45:07",
+      "iframe_src": ""
+    },
+    {
+      "id": 6097,
+      "title": "Загорелые на лыжах",
+      "kp_id": "21674",
+      "imdb_id": "tt0078907",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-11 06:04:34",
+      "orig_title": "Les bronzés font du ski",
+      "year": "1979-11-22",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-10-13 04:43:03",
+      "iframe_src": ""
+    },
+    {
+      "id": 6096,
+      "title": "Веселые и загорелые",
+      "kp_id": "102310",
+      "imdb_id": "tt0445800",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-11 06:03:20",
+      "orig_title": "Les bronzés 3: amis pour la vie",
+      "year": "2006-02-01",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-10-13 04:41:11",
+      "iframe_src": ""
+    },
+    {
+      "id": 5819,
+      "title": "Дым",
+      "kp_id": "3778",
+      "imdb_id": "tt0114478",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-04 06:22:23",
+      "orig_title": "Smoke",
+      "year": "1995-02-10",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2016-10-13 07:00:56",
+      "iframe_src": ""
+    },
+    {
+      "id": 5817,
+      "title": "Версия",
+      "kp_id": "260421",
+      "imdb_id": "tt0804522",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-04 06:21:06",
+      "orig_title": "Rendition",
+      "year": "2007-09-07",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-10-13 06:54:20",
+      "iframe_src": ""
+    },
+    {
+      "id": 5814,
+      "title": "Лихорадка",
+      "kp_id": "690053",
+      "imdb_id": "tt2242176",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-04 06:18:48",
+      "orig_title": "Horsehead",
+      "year": "2014-09-07",
+      "translations": [
+        "Любительский (двухголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (двухголосый закадровый)",
+      "update": "2016-10-13 07:00:53",
+      "iframe_src": ""
+    },
+    {
+      "id": 5813,
+      "title": "Стигматы",
+      "kp_id": "4140",
+      "imdb_id": "tt0145531",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-04 06:17:58",
+      "orig_title": "Stigmata",
+      "year": "1999-09-10",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2016-10-13 06:47:04",
+      "iframe_src": ""
+    },
+    {
+      "id": 5812,
+      "title": "Лесной змей",
+      "kp_id": "722189",
+      "imdb_id": "tt2535470",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-04 06:16:44",
+      "orig_title": "Wyrmwood",
+      "year": "2014-09-19",
       "translations": [
         "Любительский (одноголосый закадровый)"
       ],
-      "quality": "webdl",
+      "quality": "bd",
       "translation": "Любительский (одноголосый закадровый)",
-      "update": "2016-10-07 05:54:15",
-      "iframe_src": ""
-    },
-    {
-      "id": 5905,
-      "title": "Ночь страха",
-      "kp_id": "467118",
-      "imdb_id": "tt1438176",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-06 15:10:49",
-      "orig_title": "Fright Night",
-      "year": "2011-08-14",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2016-10-10 05:27:34",
-      "iframe_src": ""
-    },
-    {
-      "id": 5904,
-      "title": "Огонь из преисподней",
-      "kp_id": "4386",
-      "imdb_id": "tt0119123",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-06 15:09:29",
-      "orig_title": "Fire Down Below",
-      "year": "1997-09-05",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "webdl",
-      "translation": "Полное дублирование",
-      "update": "2016-10-10 05:24:12",
-      "iframe_src": ""
-    },
-    {
-      "id": 5903,
-      "title": "Пуленепробиваемый",
-      "kp_id": "311",
-      "imdb_id": "tt0245803",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-06 15:08:15",
-      "orig_title": "Bulletproof Monk",
-      "year": "2003-04-16",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2016-10-10 05:22:29",
-      "iframe_src": ""
-    },
-    {
-      "id": 5891,
-      "title": "Фантазм 5",
-      "kp_id": "838655",
-      "imdb_id": "tt3627704",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-06 04:53:06",
-      "orig_title": "Phantasm: Ravager",
-      "year": "2016-09-25",
-      "translations": [
-        "Любительский (одноголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2016-10-09 15:09:27",
-      "iframe_src": ""
-    },
-    {
-      "id": 5669,
-      "title": "Я устал от тебя",
-      "kp_id": "543581",
-      "imdb_id": "tt1691920",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-09-28 15:19:33",
-      "orig_title": "I Melt with You",
-      "year": "2011-01-26",
-      "translations": [
-        "Профессиональный (многоголосый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый)",
-      "update": "2016-10-06 16:49:00",
+      "update": "2016-10-13 06:57:05",
       "iframe_src": ""
     }
   ]

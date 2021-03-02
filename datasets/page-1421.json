@@ -1,365 +1,363 @@
 {
   "data": [
     {
-      "id": 22712,
-      "title": "Ради любви к Джорджу",
-      "kp_id": "810794",
-      "imdb_id": "tt3330948",
+      "id": 22949,
+      "title": "За гранью тишины",
+      "kp_id": "51474",
+      "imdb_id": "tt0116692",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-03-05 03:11:24",
-      "orig_title": "For the Love of George",
-      "year": "2018-02-13",
+      "add": "2019-03-11 22:37:36",
+      "orig_title": "Jenseits der Stille",
+      "year": "1996-12-19",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (Культура)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый) (Культура)",
+      "update": "2019-03-12 05:44:51",
+      "iframe_src": ""
+    },
+    {
+      "id": 22940,
+      "title": "Красный эффект",
+      "kp_id": null,
+      "imdb_id": "tt6192716",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-03-11 21:30:11",
+      "orig_title": "The Red Effect",
+      "year": "2017-03-17",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-03-12 05:34:15",
+      "iframe_src": ""
+    },
+    {
+      "id": 22938,
+      "title": "Любовь на продажу",
+      "kp_id": "1125669",
+      "imdb_id": "tt8065796",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-03-11 21:22:21",
+      "orig_title": "Love for Sale",
+      "year": "2018-03-15",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-03-12 05:31:51",
+      "iframe_src": ""
+    },
+    {
+      "id": 22936,
+      "title": "День стирки",
+      "kp_id": "805703",
+      "imdb_id": "tt3260760",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-03-11 21:19:04",
+      "orig_title": "Laundry Day",
+      "year": "2018-06-19",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-03-12 05:41:39",
+      "iframe_src": ""
+    },
+    {
+      "id": 22935,
+      "title": "День матери",
+      "kp_id": "1138963",
+      "imdb_id": "tt8228700",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-03-11 21:17:16",
+      "orig_title": "La fête des mères",
+      "year": "2018-05-23",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Колобок)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Колобок)",
+      "update": "2019-03-12 05:38:57",
+      "iframe_src": ""
+    },
+    {
+      "id": 22929,
+      "title": "Инстакиллер",
+      "kp_id": "1173015",
+      "imdb_id": "tt8709452",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-03-11 21:01:04",
+      "orig_title": "Instakiller",
+      "year": "2018-12-08",
       "translations": [
         "Профессиональный (многоголосый закадровый) (AlphaProject)"
       ],
-      "quality": "webdl",
+      "quality": "hdtv",
       "translation": "Профессиональный (многоголосый закадровый) (AlphaProject)",
-      "update": "2019-03-05 06:44:18",
+      "update": "2019-03-12 05:30:47",
       "iframe_src": ""
     },
     {
-      "id": 22708,
-      "title": "Тысяча и одна ночь: Часть 3. Зачарованный",
-      "kp_id": "912047",
-      "imdb_id": "tt4692242",
+      "id": 22924,
+      "title": "Ты один",
+      "kp_id": "872584",
+      "imdb_id": "tt3910416",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-03-05 03:00:01",
-      "orig_title": "As Mil e Uma Noites: Volume 3, O Encantado",
-      "year": "2015-05-20",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-03-05 06:45:44",
-      "iframe_src": ""
-    },
-    {
-      "id": 22646,
-      "title": "Весьегонская волчица",
-      "kp_id": "252027",
-      "imdb_id": "tt1068302",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-03-03 11:26:42",
-      "orig_title": "Vesegonskaya volchitsa",
-      "year": "2004-08-26",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-03-04 11:13:58",
-      "iframe_src": ""
-    },
-    {
-      "id": 22645,
-      "title": "Гарвардский бомж",
-      "kp_id": "326935",
-      "imdb_id": "tt0338109",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-03-03 11:25:15",
-      "orig_title": "Homeless to Harvard: The Liz Murray Story",
-      "year": "2003-04-07",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-03-04 11:11:18",
-      "iframe_src": ""
-    },
-    {
-      "id": 22644,
-      "title": "Генри и Джун",
-      "kp_id": "6727",
-      "imdb_id": "tt0099762",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-03-03 11:23:56",
-      "orig_title": "Henry & June",
-      "year": "1990-09-28",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-03-04 11:10:14",
-      "iframe_src": ""
-    },
-    {
-      "id": 22643,
-      "title": "Муму",
-      "kp_id": "46734",
-      "imdb_id": "tt0249031",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-03-03 11:21:18",
-      "orig_title": "Mumu",
-      "year": "1959-11-10",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvb",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-03-04 11:08:07",
-      "iframe_src": ""
-    },
-    {
-      "id": 22642,
-      "title": "Тит – правитель Рима",
-      "kp_id": "3607",
-      "imdb_id": "tt0120866",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-03-03 11:20:04",
-      "orig_title": "Titus",
-      "year": "1999-12-25",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-03-04 11:06:09",
-      "iframe_src": ""
-    },
-    {
-      "id": 22641,
-      "title": "Цыпочки",
-      "kp_id": "47262",
-      "imdb_id": "tt0368774",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-03-03 11:18:25",
-      "orig_title": "The Heart Is Deceitful Above All Things",
-      "year": "2004-05-15",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (Екатеринбург Арт)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый) (Екатеринбург Арт)",
-      "update": "2019-03-04 11:04:47",
-      "iframe_src": ""
-    },
-    {
-      "id": 22640,
-      "title": "Горькая правда",
-      "kp_id": "1144287",
-      "imdb_id": "tt7897122",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-03-03 10:56:33",
-      "orig_title": "It's a Hard Truth Ain't It",
-      "year": "2018-04-25",
+      "add": "2019-03-11 20:51:27",
+      "orig_title": "Escape Artist",
+      "year": "2017-03-22",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-03-04 11:02:39",
+      "update": "2019-03-12 05:29:41",
       "iframe_src": ""
     },
     {
-      "id": 22639,
-      "title": "Интернет-мальчик: История Аарона Шварца",
-      "kp_id": "827868",
-      "imdb_id": "tt3268458",
+      "id": 22922,
+      "title": "Задержание",
+      "kp_id": "1057519",
+      "imdb_id": "tt6813264",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-03-03 10:47:13",
-      "orig_title": "The Internet's Own Boy: The Story of Aaron Swartz",
-      "year": "2014-01-20",
-      "translations": [
-        "Профессиональный (двухголосый закадровый) (SDI Media)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (двухголосый закадровый) (SDI Media)",
-      "update": "2019-03-04 11:01:55",
-      "iframe_src": ""
-    },
-    {
-      "id": 22637,
-      "title": "Икар",
-      "kp_id": "1009062",
-      "imdb_id": "tt6333060",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-03-03 10:40:38",
-      "orig_title": "Icarus",
-      "year": "2017-01-20",
-      "translations": [
-        "Профессиональный (одноголосый закадровый)",
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (одноголосый закадровый)",
-      "update": "2019-03-04 11:09:06",
-      "iframe_src": ""
-    },
-    {
-      "id": 22636,
-      "title": "Похмелье в Долине Смерти",
-      "kp_id": "1170159",
-      "imdb_id": "tt8655858",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-03-03 10:30:46",
-      "orig_title": "Hangover in Death Valley",
-      "year": "2018-01-01",
+      "add": "2019-03-11 20:48:08",
+      "orig_title": "Detainment",
+      "year": "2018-05-30",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-03-04 10:58:01",
+      "update": "2019-03-12 05:40:21",
       "iframe_src": ""
     },
     {
-      "id": 22635,
-      "title": "Грета",
-      "kp_id": "395404",
-      "imdb_id": "tt1059925",
+      "id": 22892,
+      "title": "Женские тайны",
+      "kp_id": "856",
+      "imdb_id": "tt0210358",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-03-03 10:28:33",
-      "orig_title": "Greta",
-      "year": "2009-11-25",
-      "translations": [
-        "Профессиональный (двухголосый закадровый) (НТВ)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (двухголосый закадровый) (НТВ)",
-      "update": "2019-03-04 10:56:38",
-      "iframe_src": ""
-    },
-    {
-      "id": 22634,
-      "title": "Эротический сон наяву",
-      "kp_id": "372590",
-      "imdb_id": "tt0478143",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-03-03 10:22:14",
-      "orig_title": "Erotic day dream",
-      "year": "2000-01-01",
+      "add": "2019-03-10 17:22:51",
+      "orig_title": "Things You Can Tell Just by Looking at Her",
+      "year": "2000-01-22",
       "translations": [
         "Профессиональный (двухголосый закадровый)"
       ],
-      "quality": "iptv",
+      "quality": "dvdrip",
       "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2019-03-04 10:55:27",
+      "update": "2019-03-11 11:38:15",
       "iframe_src": ""
     },
     {
-      "id": 22633,
-      "title": "Дом ночных грез",
-      "kp_id": "18880",
-      "imdb_id": "tt0129910",
+      "id": 22891,
+      "title": "Завершить историю",
+      "kp_id": "706925",
+      "imdb_id": "tt2279864",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-03-03 10:20:27",
-      "orig_title": "The Exotic House of Wax",
-      "year": "1997-11-25",
+      "add": "2019-03-10 17:21:07",
+      "orig_title": "Clear History",
+      "year": "2013-08-10",
       "translations": [
-        "Авторский (одноголосый закадровый) (Сербин)"
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-03-11 11:39:01",
+      "iframe_src": ""
+    },
+    {
+      "id": 22890,
+      "title": "Зануда",
+      "kp_id": "404315",
+      "imdb_id": "tt1182924",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-03-10 17:19:46",
+      "orig_title": "L'emmerdeur",
+      "year": "2008-12-10",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "hdtv",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-03-11 11:39:59",
+      "iframe_src": ""
+    },
+    {
+      "id": 22889,
+      "title": "Займемся любовью",
+      "kp_id": "41319",
+      "imdb_id": "tt0312063",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-03-10 17:18:28",
+      "orig_title": "Zaymyomsya lyubovyu",
+      "year": "2002-04-11",
+      "translations": [
+        "Оригинальная дорожка"
       ],
       "quality": "dvdrip",
-      "translation": "Авторский (одноголосый закадровый) (Сербин)",
-      "update": "2019-03-04 10:54:15",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-03-11 11:40:49",
       "iframe_src": ""
     },
     {
-      "id": 22632,
-      "title": "Джон, грязная истина",
-      "kp_id": "1214356",
-      "imdb_id": "tt9290234",
+      "id": 22888,
+      "title": "Ночь ведьм",
+      "kp_id": "272460",
+      "imdb_id": "tt0892117",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-03-03 10:19:05",
-      "orig_title": "Dirty John, The Dirty Truth",
-      "year": "2019-01-14",
+      "add": "2019-03-10 17:16:59",
+      "orig_title": "Witches' Night",
+      "year": "2007-10-27",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-03-11 11:42:02",
+      "iframe_src": ""
+    },
+    {
+      "id": 22886,
+      "title": "Доверься мужчине",
+      "kp_id": "86228",
+      "imdb_id": "tt0427968",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-03-10 17:11:54",
+      "orig_title": "Trust the Man",
+      "year": "2005-09-12",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2019-03-11 11:42:48",
+      "iframe_src": ""
+    },
+    {
+      "id": 22885,
+      "title": "Обращение на запад",
+      "kp_id": "1399",
+      "imdb_id": "tt0033159",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-03-10 17:08:24",
+      "orig_title": "Three Faces West",
+      "year": "1940-07-03",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (Светла)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый) (Светла)",
+      "update": "2019-03-11 11:43:51",
+      "iframe_src": ""
+    },
+    {
+      "id": 22884,
+      "title": "Волшебник страны Оз",
+      "kp_id": "379",
+      "imdb_id": "tt0032138",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-03-10 17:06:21",
+      "orig_title": "The Wizard of Oz",
+      "year": "1939-08-11",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2019-03-11 11:45:10",
+      "iframe_src": ""
+    },
+    {
+      "id": 22882,
+      "title": "Кораблестроитель",
+      "kp_id": "841848",
+      "imdb_id": "tt3704854",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-03-10 16:59:47",
+      "orig_title": "The Boat Builder",
+      "year": "2015-11-06",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
-      "quality": "webdl",
+      "quality": "dvdrip",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-03-04 10:53:39",
+      "update": "2019-03-11 11:55:14",
       "iframe_src": ""
     },
     {
-      "id": 22062,
-      "title": "Спасти Ленинград",
-      "kp_id": "1101223",
+      "id": 22879,
+      "title": "Счастливчики",
+      "kp_id": "205795",
+      "imdb_id": "tt0056651",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-03-10 16:37:47",
+      "orig_title": "Les Veinards",
+      "year": "1963-04-26",
+      "translations": [
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2019-03-11 11:56:08",
+      "iframe_src": ""
+    },
+    {
+      "id": 22874,
+      "title": "Проект Ельцин",
+      "kp_id": "14404",
+      "imdb_id": "tt0324619",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-03-10 16:21:41",
+      "orig_title": "Spinning Boris",
+      "year": "2003-10-23",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2019-03-11 12:23:30",
+      "iframe_src": ""
+    },
+    {
+      "id": 22827,
+      "title": "Звёзды",
+      "kp_id": "1142555",
       "imdb_id": null,
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-02-05 04:51:53",
-      "orig_title": "Спасти Ленинград",
-      "year": "2019-02-07",
+      "add": "2019-03-07 22:21:14",
+      "orig_title": "Звёзды",
+      "year": "2019-03-11",
       "translations": [
         "Оригинальная дорожка"
       ],
       "quality": "webdl",
       "translation": "Оригинальная дорожка",
-      "update": "2019-03-04 12:38:11",
-      "iframe_src": ""
-    },
-    {
-      "id": 17789,
-      "title": "Последнее путешествие Леандера",
-      "kp_id": "991856",
-      "imdb_id": "tt5790534",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-07-18 23:57:59",
-      "orig_title": "Leanders letzte Reise",
-      "year": "2017-09-21",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (GreenРай Studio)",
-        "Профессиональный (двухголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый) (GreenРай Studio)",
-      "update": "2019-03-04 13:02:48",
-      "iframe_src": ""
-    },
-    {
-      "id": 8431,
-      "title": "За счастьем",
-      "kp_id": "45183",
-      "imdb_id": "tt0252109",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-12-29 05:50:52",
-      "orig_title": "За счастьем",
-      "year": "1982-12-20",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvb",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-03-05 06:32:42",
-      "iframe_src": ""
-    },
-    {
-      "id": 2661,
-      "title": "Прогулка по Бангкоку",
-      "kp_id": "841840",
-      "imdb_id": "tt3985434",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-05-27 11:33:18",
-      "orig_title": "On a marche sur Bangkok",
-      "year": "2014-08-23",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-03-04 13:00:02",
+      "update": "2019-03-12 05:27:03",
       "iframe_src": ""
     }
   ]

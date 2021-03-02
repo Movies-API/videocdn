@@ -1,363 +1,363 @@
 {
   "data": [
     {
-      "id": 3526,
-      "title": "Когда Гарри встретил Салли",
-      "kp_id": "1589",
-      "imdb_id": "tt0098635",
+      "id": 3727,
+      "title": "Сомнение",
+      "kp_id": "309385",
+      "imdb_id": "tt0918927",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-06-30 06:48:03",
-      "orig_title": "When Harry Met Sally...",
-      "year": "1989-07-12",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-06-30 11:26:43",
-      "iframe_src": ""
-    },
-    {
-      "id": 3525,
-      "title": "Разум и чувства",
-      "kp_id": "6148",
-      "imdb_id": "tt0114388",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-06-30 06:46:37",
-      "orig_title": "Sense and Sensibility",
-      "year": "1995-12-13",
+      "add": "2016-07-06 11:08:36",
+      "orig_title": "Doubt",
+      "year": "2008-10-30",
       "translations": [
         "Полное дублирование"
       ],
       "quality": "bd",
       "translation": "Полное дублирование",
-      "update": "2016-06-30 11:30:38",
+      "update": "2016-07-06 18:57:58",
       "iframe_src": ""
     },
     {
-      "id": 3521,
-      "title": "Голова-ластик",
-      "kp_id": "15780",
-      "imdb_id": "tt0074486",
+      "id": 3725,
+      "title": "Семейка Тененбаум",
+      "kp_id": "809",
+      "imdb_id": "tt0265666",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-06-30 06:22:05",
-      "orig_title": "Eraserhead",
-      "year": "1977-03-19",
+      "add": "2016-07-06 11:05:55",
+      "orig_title": "The Royal Tenenbaums",
+      "year": "2001-10-05",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-07-06 18:43:48",
+      "iframe_src": ""
+    },
+    {
+      "id": 3724,
+      "title": "Водная жизнь",
+      "kp_id": "18543",
+      "imdb_id": "tt0362270",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-07-06 11:05:08",
+      "orig_title": "The Life Aquatic With Steve Zissou",
+      "year": "2004-11-20",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-07-06 18:48:33",
+      "iframe_src": ""
+    },
+    {
+      "id": 3723,
+      "title": "Марго на свадьбе",
+      "kp_id": "253228",
+      "imdb_id": "tt0757361",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-07-06 10:49:52",
+      "orig_title": "Margot at the Wedding",
+      "year": "2007-08-31",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2016-07-06 17:24:17",
+      "iframe_src": ""
+    },
+    {
+      "id": 3722,
+      "title": "Милая Фрэнсис",
+      "kp_id": "677442",
+      "imdb_id": "tt2347569",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-07-06 10:41:05",
+      "orig_title": "Frances Ha",
+      "year": "2012-09-01",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2016-07-06 17:22:04",
+      "iframe_src": ""
+    },
+    {
+      "id": 3721,
+      "title": "Медовый месяц в Лас-Вегасе",
+      "kp_id": "7234",
+      "imdb_id": "tt0104438",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-07-06 10:40:16",
+      "orig_title": "Honeymoon in Vegas",
+      "year": "1992-08-28",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2016-07-06 17:18:31",
+      "iframe_src": ""
+    },
+    {
+      "id": 3720,
+      "title": "Валентинка",
+      "kp_id": "404459",
+      "imdb_id": "tt1120985",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-07-06 10:38:41",
+      "orig_title": "Blue Valentine",
+      "year": "2010-01-24",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-07-06 17:16:46",
+      "iframe_src": ""
+    },
+    {
+      "id": 3718,
+      "title": "Далекая Сторона Иерихона",
+      "kp_id": "109960",
+      "imdb_id": "tt0463984",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-07-06 10:34:46",
+      "orig_title": "The Far Side of Jericho",
+      "year": "2006-12-10",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2016-07-06 17:11:07",
+      "iframe_src": ""
+    },
+    {
+      "id": 3717,
+      "title": "Cirque du Soleil: Сказочный мир",
+      "kp_id": "575211",
+      "imdb_id": "tt1792647",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-07-06 10:32:57",
+      "orig_title": "Cirque du Soleil: Worlds Away",
+      "year": "2012-10-20",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2016-07-06 15:08:02",
+      "iframe_src": ""
+    },
+    {
+      "id": 3715,
+      "title": "Далекие мечты",
+      "kp_id": "4755",
+      "imdb_id": "tt0095916",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-07-06 10:29:52",
+      "orig_title": "Promised Land",
+      "year": "1988-01-22",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2016-07-06 17:09:00",
+      "iframe_src": ""
+    },
+    {
+      "id": 3714,
+      "title": "В плену песков",
+      "kp_id": "4596",
+      "imdb_id": "tt0106868",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-07-06 10:28:55",
+      "orig_title": "A Far Off Place",
+      "year": "1993-03-12",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-07-06 17:06:35",
+      "iframe_src": ""
+    },
+    {
+      "id": 3712,
+      "title": "Коктейль",
+      "kp_id": "11075",
+      "imdb_id": "tt0094889",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-07-06 10:27:07",
+      "orig_title": "Cocktail",
+      "year": "1988-07-29",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2016-07-06 17:47:50",
+      "iframe_src": ""
+    },
+    {
+      "id": 3710,
+      "title": "Станционный смотритель",
+      "kp_id": "8042",
+      "imdb_id": "tt0340377",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-07-06 10:09:37",
+      "orig_title": "The Station Agent",
+      "year": "2003-01-26",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-07-06 17:29:36",
+      "iframe_src": ""
+    },
+    {
+      "id": 3709,
+      "title": "Парикмахерская",
+      "kp_id": "603",
+      "imdb_id": "tt0303714",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-07-06 05:31:30",
+      "orig_title": "Barbershop",
+      "year": "2002-08-07",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-07-06 12:10:56",
+      "iframe_src": ""
+    },
+    {
+      "id": 3707,
+      "title": "Парикмахерская 3",
+      "kp_id": "838672",
+      "imdb_id": "tt3628584",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-07-06 05:27:18",
+      "orig_title": "Barbershop: The Next Cut",
+      "year": "2016-04-15",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Parovoz Production)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Parovoz Production)",
+      "update": "2016-07-06 10:44:29",
+      "iframe_src": ""
+    },
+    {
+      "id": 3705,
+      "title": "Я видел свет",
+      "kp_id": "471261",
+      "imdb_id": "tt1490785",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-07-06 05:20:08",
+      "orig_title": "I Saw the Light",
+      "year": "2015-09-11",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (iTunes)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый) (iTunes)",
+      "update": "2016-07-06 09:31:32",
+      "iframe_src": ""
+    },
+    {
+      "id": 3700,
+      "title": "Битва в Сиэтле",
+      "kp_id": "260895",
+      "imdb_id": "tt0850253",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-07-05 16:55:54",
+      "orig_title": "Battle in Seattle",
+      "year": "2007-09-08",
       "translations": [
         "Любительский (одноголосый закадровый)"
       ],
       "quality": "bd",
       "translation": "Любительский (одноголосый закадровый)",
-      "update": "2016-06-30 11:24:52",
+      "update": "2016-07-06 13:25:45",
       "iframe_src": ""
     },
     {
-      "id": 3514,
-      "title": "Домино",
-      "kp_id": "81682",
-      "imdb_id": "tt0421054",
+      "id": 3692,
+      "title": "Елизавета",
+      "kp_id": "5560",
+      "imdb_id": "tt0127536",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-06-30 04:59:14",
-      "orig_title": "Domino",
-      "year": "2005-09-25",
+      "add": "2016-07-05 16:38:42",
+      "orig_title": "Elizabeth",
+      "year": "1998-09-08",
       "translations": [
         "Полное дублирование"
       ],
-      "quality": "bd",
+      "quality": "hddvd",
       "translation": "Полное дублирование",
-      "update": "2016-06-30 12:05:41",
+      "update": "2016-07-06 13:29:13",
       "iframe_src": ""
     },
     {
-      "id": 3512,
-      "title": "Столкновение с бездной",
-      "kp_id": "5011",
-      "imdb_id": "tt0120647",
+      "id": 3682,
+      "title": "Женщина-кошка",
+      "kp_id": "3523",
+      "imdb_id": "tt0327554",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-06-30 04:56:03",
-      "orig_title": "Deep Impact",
-      "year": "1998-05-07",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2016-06-30 12:02:59",
-      "iframe_src": ""
-    },
-    {
-      "id": 3511,
-      "title": "Играй, как Бекхэм",
-      "kp_id": "313",
-      "imdb_id": "tt0286499",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-06-30 04:54:40",
-      "orig_title": "Bend It Like Beckham",
-      "year": "2002-04-11",
+      "add": "2016-07-05 16:04:40",
+      "orig_title": "Catwoman",
+      "year": "2004-07-19",
       "translations": [
         "Профессиональный (двухголосый закадровый)"
       ],
       "quality": "bd",
       "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2016-06-30 11:59:23",
+      "update": "2016-07-06 14:04:49",
       "iframe_src": ""
     },
     {
-      "id": 3510,
-      "title": "Хоть раз в жизни",
-      "kp_id": "596208",
-      "imdb_id": "tt1980929",
+      "id": 3645,
+      "title": "Можешь рассчитывать на меня",
+      "kp_id": "566",
+      "imdb_id": "tt0203230",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-06-30 04:52:56",
-      "orig_title": "Begin again",
-      "year": "2013-09-07",
+      "add": "2016-07-04 09:39:23",
+      "orig_title": "You Can Count on Me",
+      "year": "2000-01-21",
       "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2016-06-30 11:56:03",
-      "iframe_src": ""
-    },
-    {
-      "id": 3508,
-      "title": "Неадекватные люди",
-      "kp_id": "542581",
-      "imdb_id": "tt1722450",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-06-30 04:38:26",
-      "orig_title": "Neadekvatnye lyudi",
-      "year": "2011-11-17",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "bd",
-      "translation": "Оригинальная дорожка",
-      "update": "2016-06-30 07:23:47",
-      "iframe_src": ""
-    },
-    {
-      "id": 3507,
-      "title": "Посланник",
-      "kp_id": "406209",
-      "imdb_id": "tt0790712",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-06-29 15:44:57",
-      "orig_title": "The Messenger",
-      "year": "2009-01-19",
-      "translations": [
-        "Авторский (одноголосый закадровый) (Сербин)"
-      ],
-      "quality": "bd",
-      "translation": "Авторский (одноголосый закадровый) (Сербин)",
-      "update": "2016-06-30 06:20:10",
-      "iframe_src": ""
-    },
-    {
-      "id": 3506,
-      "title": "Бунтующая юность",
-      "kp_id": "197324",
-      "imdb_id": "tt0403702",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-06-29 14:48:07",
-      "orig_title": "Youth in Revolt",
-      "year": "2009-09-11",
-      "translations": [
-        "Профессиональный (двухголосый закадровый) (Ozz.tv)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (двухголосый закадровый) (Ozz.tv)",
-      "update": "2016-06-30 06:23:45",
-      "iframe_src": ""
-    },
-    {
-      "id": 3504,
-      "title": "Перерыв на бездумье",
-      "kp_id": "826666",
-      "imdb_id": "tt3505712",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-06-29 14:45:01",
-      "orig_title": "Time Out of Mind",
-      "year": "2014-09-07",
-      "translations": [
-        "Любительский (двухголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (двухголосый закадровый)",
-      "update": "2016-06-30 06:54:33",
-      "iframe_src": ""
-    },
-    {
-      "id": 3503,
-      "title": "Подручный Хадсакера",
-      "kp_id": "2889",
-      "imdb_id": "tt0110074",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-06-29 14:43:31",
-      "orig_title": "The Hudsucker Proxy",
-      "year": "1994-03-11",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-06-30 06:52:17",
-      "iframe_src": ""
-    },
-    {
-      "id": 3502,
-      "title": "Любовь и сигареты",
-      "kp_id": "61269",
-      "imdb_id": "tt0368222",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-06-29 14:41:57",
-      "orig_title": "Romance & Cigarettes",
-      "year": "2005-09-06",
-      "translations": [
-        "Полное дублирование"
+        "Профессиональный (двухголосый закадровый)"
       ],
       "quality": "hdtv",
-      "translation": "Полное дублирование",
-      "update": "2016-06-30 06:50:09",
-      "iframe_src": ""
-    },
-    {
-      "id": 3501,
-      "title": "Восходящее солнце",
-      "kp_id": "5431",
-      "imdb_id": "tt0107969",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-06-29 14:40:10",
-      "orig_title": "Rising Sun",
-      "year": "1993-07-30",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-06-30 06:45:55",
-      "iframe_src": ""
-    },
-    {
-      "id": 3500,
-      "title": "Бастион",
-      "kp_id": "512339",
-      "imdb_id": "tt1640548",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-06-29 14:38:35",
-      "orig_title": "Rampart",
-      "year": "2011-09-10",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)"
-      ],
-      "quality": "bd",
       "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2016-06-30 06:44:00",
-      "iframe_src": ""
-    },
-    {
-      "id": 3499,
-      "title": "Кажется, я люблю свою жену",
-      "kp_id": "252886",
-      "imdb_id": "tt0770772",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-06-29 14:36:33",
-      "orig_title": "I Think I Love My Wife",
-      "year": "2007-03-07",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-06-30 06:41:29",
-      "iframe_src": ""
-    },
-    {
-      "id": 3495,
-      "title": "Бартон Финк",
-      "kp_id": "2890",
-      "imdb_id": "tt0101410",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-06-29 14:29:56",
-      "orig_title": "Barton Fink",
-      "year": "1991-08-21",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-06-30 06:31:08",
-      "iframe_src": ""
-    },
-    {
-      "id": 3494,
-      "title": "Зверофабрика",
-      "kp_id": "590",
-      "imdb_id": "tt0204137",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-06-29 14:28:29",
-      "orig_title": "Animal Factory",
-      "year": "2000-01-24",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-06-30 06:29:00",
-      "iframe_src": ""
-    },
-    {
-      "id": 3481,
-      "title": "Последний император",
-      "kp_id": "7663",
-      "imdb_id": "tt0093389",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-06-29 07:57:04",
-      "orig_title": "The Last Emperor",
-      "year": "1987-10-04",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-06-30 06:13:30",
-      "iframe_src": ""
-    },
-    {
-      "id": 3466,
-      "title": "Ребенок Розмари",
-      "kp_id": "8425",
-      "imdb_id": "tt0063522",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-06-29 07:30:18",
-      "orig_title": "Rosemary's Baby",
-      "year": "1968-06-12",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-06-30 06:16:44",
+      "update": "2016-07-06 09:51:21",
       "iframe_src": ""
     }
   ]

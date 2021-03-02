@@ -1,369 +1,364 @@
 {
   "data": [
     {
-      "id": 38105,
-      "title": "Секретное оружие",
-      "kp_id": "1311245",
-      "imdb_id": "tt10985590",
+      "id": 38266,
+      "title": "Солдаты мафии",
+      "kp_id": "602775",
+      "imdb_id": "tt2009434",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-03-17 15:23:39",
-      "orig_title": "Sekretnoe oruzhie",
-      "year": "2019-12-01",
+      "add": "2020-03-19 19:03:57",
+      "orig_title": "Bhagawat Ek Jung",
+      "year": "2001-02-01",
       "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "bd",
-      "translation": "Оригинальная дорожка",
-      "update": "2020-03-17 20:44:37",
-      "iframe_src": ""
-    },
-    {
-      "id": 38103,
-      "title": "Она носила желтую ленту",
-      "kp_id": "1373",
-      "imdb_id": "tt0041866",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-03-17 15:18:35",
-      "orig_title": "She Wore a Yellow Ribbon",
-      "year": "1949-07-26",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (5-й канал СПб)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый) (5-й канал СПб)",
-      "update": "2020-03-17 20:46:31",
-      "iframe_src": ""
-    },
-    {
-      "id": 38100,
-      "title": "Фея",
-      "kp_id": "679346",
-      "imdb_id": "tt2378191",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-03-17 15:09:01",
-      "orig_title": "The Haunting of Helena",
-      "year": "2012-08-24",
-      "translations": [
-        "Любительский (одноголосый закадровый) (den904)"
+        "Любительский (двухголосый закадровый)"
       ],
       "quality": "dvdrip",
-      "translation": "Любительский (одноголосый закадровый) (den904)",
-      "update": "2020-03-17 20:46:55",
+      "translation": "Любительский (двухголосый закадровый)",
+      "update": "2020-03-23 08:40:06",
       "iframe_src": ""
     },
     {
-      "id": 38098,
-      "title": "Кодекс чести",
-      "kp_id": "35603",
-      "imdb_id": "tt0306800",
+      "id": 38265,
+      "title": "От помолвки до свадьбы",
+      "kp_id": "406575",
+      "imdb_id": "tt1194608",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-03-17 15:03:50",
-      "orig_title": "The Face of the Serpent",
-      "year": "2003-04-07",
-      "translations": [
-        "Авторский (одноголосый закадровый) (Кузнецов)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Авторский (одноголосый закадровый) (Кузнецов)",
-      "update": "2020-03-17 20:47:29",
-      "iframe_src": ""
-    },
-    {
-      "id": 38097,
-      "title": "Пятый пациент",
-      "kp_id": "195312",
-      "imdb_id": "tt0481519",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-03-17 15:01:37",
-      "orig_title": "The Fifth Patient",
-      "year": "2007-06-10",
-      "translations": [
-        "Профессиональный (двухголосый закадровый) (НТВ)"
-      ],
-      "quality": "hdrip",
-      "translation": "Профессиональный (двухголосый закадровый) (НТВ)",
-      "update": "2020-03-17 20:48:31",
-      "iframe_src": ""
-    },
-    {
-      "id": 38095,
-      "title": "Список смертников",
-      "kp_id": "575509",
-      "imdb_id": "tt1788391",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-03-17 14:42:54",
-      "orig_title": "Kill List",
-      "year": "2011-03-12",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (Amedia)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый) (Amedia)",
-      "update": "2020-03-17 20:50:00",
-      "iframe_src": ""
-    },
-    {
-      "id": 38094,
-      "title": "Один в темноте 2",
-      "kp_id": "273553",
-      "imdb_id": "tt0913951",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-03-17 11:20:36",
-      "orig_title": "Alone in the Dark II",
-      "year": "2008-09-25",
+      "add": "2020-03-19 19:01:30",
+      "orig_title": "Ek Vivaah... Aisa Bhi",
+      "year": "2008-11-06",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
-      "quality": "bd",
+      "quality": "dvdrip",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-03-18 04:57:11",
+      "update": "2020-03-23 08:38:43",
       "iframe_src": ""
     },
     {
-      "id": 38086,
-      "title": "Марк Марон: Конец веселым временам",
-      "kp_id": "1354948",
-      "imdb_id": "tt11810418",
+      "id": 38264,
+      "title": "Да здравствует любовь!",
+      "kp_id": "95405",
+      "imdb_id": "tt0176075",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-03-17 06:59:56",
-      "orig_title": "Marc Maron: End Times Fun",
-      "year": "2020-03-10",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-03-18 05:01:50",
-      "iframe_src": ""
-    },
-    {
-      "id": 38082,
-      "title": "Распутник",
-      "kp_id": "973493",
-      "imdb_id": "tt5655604",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-03-17 06:56:03",
-      "orig_title": "Wild Man",
-      "year": "2017-03-05",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-03-17 18:06:37",
-      "iframe_src": ""
-    },
-    {
-      "id": 38080,
-      "title": "Пять легких пьес",
-      "kp_id": "4218",
-      "imdb_id": "tt0065724",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-03-16 21:12:45",
-      "orig_title": "Five Easy Pieces",
-      "year": "1970-09-11",
+      "add": "2020-03-19 18:59:11",
+      "orig_title": "Pyar Kiye Jaa",
+      "year": "1966-01-01",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-03-17 20:49:59",
-      "iframe_src": ""
-    },
-    {
-      "id": 38079,
-      "title": "Помогите стать отцом",
-      "kp_id": "630470",
-      "imdb_id": "tt1935065",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-03-16 21:11:03",
-      "orig_title": "Not Suitable for Children",
-      "year": "2012-06-06",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2020-03-17 20:50:35",
-      "iframe_src": ""
-    },
-    {
-      "id": 38078,
-      "title": "Богини любви",
-      "kp_id": "974",
-      "imdb_id": "tt0059402",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-03-16 20:57:38",
-      "orig_title": "The Love Goddesses",
-      "year": "1965-03-03",
-      "translations": [
-        "Original (English)"
-      ],
       "quality": "dvdrip",
-      "translation": "Original (English)",
-      "update": "2020-03-17 20:51:22",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-03-23 08:37:50",
       "iframe_src": ""
     },
     {
-      "id": 38001,
-      "title": "Необъяснимое",
+      "id": 38263,
+      "title": "Чанду-воришка",
+      "kp_id": "225044",
+      "imdb_id": "tt0187115",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-03-19 18:55:34",
+      "orig_title": "Kshana Kshanam",
+      "year": "1991-10-09",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2020-03-23 08:37:19",
+      "iframe_src": ""
+    },
+    {
+      "id": 38261,
+      "title": "Твое сердце сошло с ума",
+      "kp_id": "224734",
+      "imdb_id": "tt0322027",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-03-19 15:55:40",
+      "orig_title": "Dil Tera Diwana",
+      "year": "1996-08-09",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-03-23 08:33:20",
+      "iframe_src": ""
+    },
+    {
+      "id": 38260,
+      "title": "Датта против Датты",
       "kp_id": null,
-      "imdb_id": "tt10691908",
+      "imdb_id": "tt2556700",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-03-15 04:21:22",
-      "orig_title": "Confound",
-      "year": "2019-01-01",
+      "add": "2020-03-19 15:52:24",
+      "orig_title": "Dutta Vs. Dutta",
+      "year": "2012-11-23",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
+        "Любительский (двухголосый закадровый)"
       ],
       "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-03-17 18:05:51",
+      "translation": "Любительский (двухголосый закадровый)",
+      "update": "2020-03-23 08:24:33",
       "iframe_src": ""
     },
     {
-      "id": 33850,
-      "title": "21 мост",
-      "kp_id": "1174226",
-      "imdb_id": "tt8688634",
+      "id": 38258,
+      "title": "Моё сердце очень сильно забилось",
+      "kp_id": "757006",
+      "imdb_id": "tt2846134",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-12-08 13:33:51",
-      "orig_title": "21 Bridges",
-      "year": "2019-09-25",
+      "add": "2020-03-19 15:46:29",
+      "orig_title": "Gunde Jaari Gallanthayyinde",
+      "year": "2013-04-18",
       "translations": [
-        "Полное дублирование (iTunes)",
-        "Original (English)"
+        "Профессиональный (многоголосый закадровый) (Red Media)"
       ],
-      "quality": "webdl",
-      "translation": "Полное дублирование (iTunes)",
-      "update": "2020-03-17 16:07:34",
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый) (Red Media)",
+      "update": "2020-03-23 08:22:13",
       "iframe_src": ""
     },
     {
-      "id": 33191,
-      "title": "Над кольцом",
-      "kp_id": "5115",
-      "imdb_id": "tt0109035",
+      "id": 38257,
+      "title": "Хитрость против алчности",
+      "kp_id": "98888",
+      "imdb_id": "tt0175448",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-11-17 15:53:47",
-      "orig_title": "Above the Rim",
-      "year": "1994-03-23",
+      "add": "2020-03-19 15:43:11",
+      "orig_title": "Apna Desh",
+      "year": "1972-05-26",
       "translations": [
-        "Любительский (одноголосый закадровый)",
-        "Original (English)"
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-03-23 08:21:42",
+      "iframe_src": ""
+    },
+    {
+      "id": 38256,
+      "title": "Кто я для тебя?",
+      "kp_id": "76504",
+      "imdb_id": "tt0110076",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-03-19 15:38:50",
+      "orig_title": "Hum Aapke Hain Koun...!",
+      "year": "1994-08-05",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (Формат AB)"
       ],
       "quality": "hdtv",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2020-03-17 16:00:17",
+      "translation": "Профессиональный (многоголосый закадровый) (Формат AB)",
+      "update": "2020-03-23 08:19:23",
       "iframe_src": ""
     },
     {
-      "id": 23381,
-      "title": "Империя",
-      "kp_id": "8117",
-      "imdb_id": "tt0262396",
+      "id": 38255,
+      "title": "Братан Мунна 2",
+      "kp_id": "104918",
+      "imdb_id": "tt0456144",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-03-23 07:20:53",
-      "orig_title": "Empire",
-      "year": "2002-12-06",
+      "add": "2020-03-19 15:36:08",
+      "orig_title": "Lage Raho Munna Bhai",
+      "year": "2006-09-01",
       "translations": [
-        "Профессиональный (многоголосый закадровый)",
-        "Original (English)"
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-03-23 08:18:39",
+      "iframe_src": ""
+    },
+    {
+      "id": 38254,
+      "title": "Водопад любви",
+      "kp_id": "95919",
+      "imdb_id": "tt0104072",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-03-19 15:33:35",
+      "orig_title": "Deedar",
+      "year": "1992-08-14",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "webdl",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-03-17 16:10:52",
+      "update": "2020-03-23 08:17:56",
       "iframe_src": ""
     },
     {
-      "id": 22344,
-      "title": "Опасные танцы",
-      "kp_id": "1049414",
-      "imdb_id": null,
+      "id": 38211,
+      "title": "Долг превыше всего",
+      "kp_id": "64145",
+      "imdb_id": "tt0347332",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-02-17 00:18:01",
-      "orig_title": "Опасные танцы",
-      "year": "2018-01-01",
+      "add": "2020-03-18 22:20:02",
+      "orig_title": "Khakee",
+      "year": "2004-01-23",
       "translations": [
-        "Оригинальная дорожка"
+        "Профессиональный (многоголосый закадровый) (Формат AB)"
       ],
       "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2020-03-17 20:51:01",
+      "translation": "Профессиональный (многоголосый закадровый) (Формат AB)",
+      "update": "2020-03-23 07:52:43",
       "iframe_src": ""
     },
     {
-      "id": 6297,
-      "title": "Кибер-террор",
-      "kp_id": "850729",
-      "imdb_id": "tt4135218",
+      "id": 38210,
+      "title": "Любовь и богатство",
+      "kp_id": "98786",
+      "imdb_id": "tt0175756",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-10-14 15:01:58",
-      "orig_title": "Cyberbully",
-      "year": "2015-01-15",
+      "add": "2020-03-18 22:17:01",
+      "orig_title": "Humjoli",
+      "year": "1970-01-01",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "iptv",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-03-23 07:51:33",
+      "iframe_src": ""
+    },
+    {
+      "id": 38209,
+      "title": "Мунна",
+      "kp_id": "314955",
+      "imdb_id": "tt0897374",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-03-18 22:14:40",
+      "orig_title": "Munna",
+      "year": "2007-05-02",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (Red Media)"
+      ],
+      "quality": "hdtv",
+      "translation": "Профессиональный (многоголосый закадровый) (Red Media)",
+      "update": "2020-03-23 07:50:49",
+      "iframe_src": ""
+    },
+    {
+      "id": 38208,
+      "title": "Мятежник",
+      "kp_id": "689665",
+      "imdb_id": "tt2235858",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-03-18 22:12:19",
+      "orig_title": "Rebel",
+      "year": "2012-09-27",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (Red Media)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый) (Red Media)",
+      "update": "2020-03-23 07:49:50",
+      "iframe_src": ""
+    },
+    {
+      "id": 38207,
+      "title": "Прекрасная танцовщица",
+      "kp_id": "96466",
+      "imdb_id": "tt0178218",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-03-18 22:08:43",
+      "orig_title": "Abhinetri",
+      "year": "1970-05-12",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-03-23 07:48:11",
+      "iframe_src": ""
+    },
+    {
+      "id": 38206,
+      "title": "Репутация",
+      "kp_id": "39756",
+      "imdb_id": "tt0041123",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-03-18 22:05:50",
+      "orig_title": "Andaz",
+      "year": "1949-01-01",
+      "translations": [
+        "Любительский (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Любительский (многоголосый закадровый)",
+      "update": "2020-03-23 07:24:36",
+      "iframe_src": ""
+    },
+    {
+      "id": 38205,
+      "title": "Авторитет",
+      "kp_id": "1189935",
+      "imdb_id": "tt7715202",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-03-18 22:03:22",
+      "orig_title": "Sarkar",
+      "year": "2018-11-05",
+      "translations": [
+        "Любительский (многоголосый закадровый) (FanStudio)"
+      ],
+      "quality": "hddvd",
+      "translation": "Любительский (многоголосый закадровый) (FanStudio)",
+      "update": "2020-03-23 08:25:52",
+      "iframe_src": ""
+    },
+    {
+      "id": 38203,
+      "title": "Виная Видея Рама",
+      "kp_id": "1156576",
+      "imdb_id": "tt8361196",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-03-18 21:50:52",
+      "orig_title": "Vinaya Vidheya Rama",
+      "year": "2019-01-10",
+      "translations": [
+        "Любительский (многоголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый)",
+      "update": "2020-03-23 07:49:10",
+      "iframe_src": ""
+    },
+    {
+      "id": 9341,
+      "title": "Приятные воспоминания",
+      "kp_id": "36571",
+      "imdb_id": "tt0248617",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-01-31 13:45:50",
+      "orig_title": "Yaadein...",
+      "year": "2001-06-27",
       "translations": [
         "Профессиональный (многоголосый закадровый)",
-        "Original (English)"
+        "Профессиональный (многоголосый закадровый) (Формат AB)"
       ],
-      "quality": "webdl",
+      "quality": "dvdrip",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-03-17 16:09:30",
-      "iframe_src": ""
-    },
-    {
-      "id": 5951,
-      "title": "Визит инспектора",
-      "kp_id": "889465",
-      "imdb_id": "tt4271918",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-10-07 10:01:28",
-      "orig_title": "An Inspector Calls",
-      "year": "2015-09-13",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (FocusX)",
-        "Original (English)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый) (FocusX)",
-      "update": "2020-03-17 16:08:21",
-      "iframe_src": ""
-    },
-    {
-      "id": 1997,
-      "title": "Убить Смучи",
-      "kp_id": "649",
-      "imdb_id": "tt0266452",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-05-10 04:20:58",
-      "orig_title": "Death to Smoochy",
-      "year": "2002-02-28",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)",
-        "Original (English)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-03-17 16:10:04",
+      "update": "2020-03-23 07:54:10",
       "iframe_src": ""
     }
   ]

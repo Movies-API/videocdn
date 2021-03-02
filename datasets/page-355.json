@@ -1,747 +1,763 @@
 {
   "data": [
     {
-      "id": 42372,
-      "title": "В дальних краях",
-      "kp_id": "1027499",
-      "imdb_id": "tt6063616",
+      "id": 42590,
+      "title": "В жизни музыки",
+      "kp_id": "990548",
+      "imdb_id": "tt5496628",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-08-08 06:38:17",
-      "orig_title": "Far Away Places",
-      "year": "2018-01-01",
+      "add": "2020-08-20 04:09:36",
+      "orig_title": "In the Life of Music",
+      "year": "2018-05-05",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-08-08 09:07:19",
+      "update": "2020-08-20 06:31:03",
       "iframe_src": ""
     },
     {
-      "id": 42371,
-      "title": "Бабулин дом",
-      "kp_id": "1167361",
-      "imdb_id": "tt8637302",
+      "id": 42585,
+      "title": "Перл",
+      "kp_id": "1379935",
+      "imdb_id": "tt12325668",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-08-08 06:33:24",
-      "orig_title": "Grandma's House",
-      "year": "2018-10-20",
+      "add": "2020-08-19 17:03:11",
+      "orig_title": "Pearl",
+      "year": "2020-08-11",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
+        "Original (English)"
       ],
       "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-08-08 09:06:09",
+      "translation": "Original (English)",
+      "update": "2020-08-20 07:19:07",
       "iframe_src": ""
     },
     {
-      "id": 42370,
-      "title": "Средь горных скал",
-      "kp_id": "1098213",
-      "imdb_id": "tt7203330",
+      "id": 42582,
+      "title": "Детстроук: Рыцари и Драконы",
+      "kp_id": null,
+      "imdb_id": "tt12876132",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-08-07 20:36:40",
-      "orig_title": "Among Mountain Crags",
-      "year": "2018-10-05",
+      "add": "2020-08-19 16:46:10",
+      "orig_title": "Deathstroke Knights & Dragons: The Movie",
+      "year": "2020-08-04",
       "translations": [
-        "Любительский (двухголосый закадровый) (Колобок)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (двухголосый закадровый) (Колобок)",
-      "update": "2020-08-09 03:58:31",
-      "iframe_src": ""
-    },
-    {
-      "id": 42368,
-      "title": "Нежность по-американски",
-      "kp_id": "1225618",
-      "imdb_id": "tt8975162",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-08-07 20:31:14",
-      "orig_title": "American Tender",
-      "year": "2018-10-18",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-08-08 09:05:24",
-      "iframe_src": ""
-    },
-    {
-      "id": 42362,
-      "title": "Макс Перезагрузка и Бластеры Пустоты",
-      "kp_id": "1085390",
-      "imdb_id": "tt7424290",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-08-07 20:17:20",
-      "orig_title": "Max Reload and the Nether Blasters",
-      "year": "2020-08-07",
-      "translations": [
-        "Любительский (многоголосый закадровый) (@MUZOBOZ@)"
-      ],
-      "quality": "hddvd",
-      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-      "update": "2020-08-08 05:39:55",
-      "iframe_src": ""
-    },
-    {
-      "id": 42354,
-      "title": "Психологини на карантине",
-      "kp_id": "1388518",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-08-07 17:31:14",
-      "orig_title": "Психологини на карантине",
-      "year": "2020-05-28",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2020-08-08 09:02:31",
-      "iframe_src": ""
-    },
-    {
-      "id": 42352,
-      "title": "Пингвин",
-      "kp_id": "1328622",
-      "imdb_id": "tt11323316",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-08-07 12:15:05",
-      "orig_title": "Penguin",
-      "year": "2020-06-19",
-      "translations": [
-        "Любительский (многоголосый закадровый) (ICG + OnisFilms)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (ICG + OnisFilms)",
-      "update": "2020-08-07 17:01:05",
-      "iframe_src": ""
-    },
-    {
-      "id": 42349,
-      "title": "Убийца мечты",
-      "kp_id": "1157683",
-      "imdb_id": "tt7817890",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-08-07 10:04:00",
-      "orig_title": "Dream Killer",
-      "year": "2019-04-25",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-08-07 15:10:57",
-      "iframe_src": ""
-    },
-    {
-      "id": 42348,
-      "title": "Тёмное правосудие",
-      "kp_id": "1095013",
-      "imdb_id": "tt7128822",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-08-07 09:59:56",
-      "orig_title": "Justice Dot Net",
-      "year": "2018-06-13",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-08-07 15:09:15",
-      "iframe_src": ""
-    },
-    {
-      "id": 42347,
-      "title": "Сила воды",
-      "kp_id": "1149113",
-      "imdb_id": "tt7791184",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-08-07 09:57:02",
-      "orig_title": "La promesse de l'eau",
-      "year": "2019-01-11",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-08-07 15:08:41",
-      "iframe_src": ""
-    },
-    {
-      "id": 42346,
-      "title": "Любовь и мечта",
-      "kp_id": "1087485",
-      "imdb_id": "tt7143602",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-08-07 09:46:34",
-      "orig_title": "Love and dream",
-      "year": "2018-05-13",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-08-07 15:07:04",
-      "iframe_src": ""
-    },
-    {
-      "id": 42339,
-      "title": "Махинаторы",
-      "kp_id": "1006259",
-      "imdb_id": "tt6107796",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-08-07 06:55:14",
-      "orig_title": "Schemers",
-      "year": "2019-06-29",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (iTunes)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый) (iTunes)",
-      "update": "2020-08-07 16:59:53",
-      "iframe_src": ""
-    },
-    {
-      "id": 42326,
-      "title": "Соблазн",
-      "kp_id": "1264362",
-      "imdb_id": "tt10323178",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-08-06 20:58:15",
-      "orig_title": "Cruel Fixation",
-      "year": "2019-10-10",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-08-08 07:15:25",
-      "iframe_src": ""
-    },
-    {
-      "id": 42325,
-      "title": "Рождественский купон",
-      "kp_id": "1256668",
-      "imdb_id": "tt10165624",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-08-06 20:56:26",
-      "orig_title": "Christmas Coupon",
-      "year": "2019-12-02",
-      "translations": [
-        "Любительский (многоголосый закадровый) (AlphaProject)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (AlphaProject)",
-      "update": "2020-08-08 07:14:50",
-      "iframe_src": ""
-    },
-    {
-      "id": 42292,
-      "title": "Страх",
-      "kp_id": "916533",
-      "imdb_id": "tt4741354",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-08-04 16:23:16",
-      "orig_title": "La peur",
-      "year": "2015-08-12",
-      "translations": [
-        "Любительский (одноголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2020-08-07 16:48:32",
-      "iframe_src": ""
-    },
-    {
-      "id": 42291,
-      "title": "Прямой эфир из Багдада",
-      "kp_id": "94472",
-      "imdb_id": "tt0319758",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-08-04 16:21:50",
-      "orig_title": "Live from Baghdad",
-      "year": "2002-12-07",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "hdtv",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-08-07 16:48:17",
-      "iframe_src": ""
-    },
-    {
-      "id": 42290,
-      "title": "Беложопый Холокост",
-      "kp_id": "723114",
-      "imdb_id": "tt2403914",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-08-04 16:20:36",
-      "orig_title": "Honky Holocaust",
-      "year": "2014-01-01",
-      "translations": [
-        "Любительский (одноголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2020-08-07 16:47:56",
-      "iframe_src": ""
-    },
-    {
-      "id": 42289,
-      "title": "«Гинденбург»: Последний полёт",
-      "kp_id": "518108",
-      "imdb_id": "tt1642620",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-08-04 16:18:42",
-      "orig_title": "Hindenburg: The Last Flight",
-      "year": "2013-03-01",
-      "translations": [
-        "Полное дублирование"
+        "Original (English)"
       ],
       "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2020-08-07 16:16:38",
+      "translation": "Original (English)",
+      "update": "2020-08-20 06:40:40",
       "iframe_src": ""
     },
     {
-      "id": 42288,
-      "title": "Слезы на продажу",
-      "kp_id": "135960",
-      "imdb_id": "tt0380249",
+      "id": 42581,
+      "title": "Без конца",
+      "kp_id": "55289",
+      "imdb_id": "tt0086961",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-08-04 16:17:01",
-      "orig_title": "Carlston za Ognjenku",
-      "year": "2008-01-30",
+      "add": "2020-08-19 07:22:21",
+      "orig_title": "Bez konca",
+      "year": "1985-06-17",
       "translations": [
-        "Авторский (одноголосый закадровый) (Алексеев)"
+        "Профессиональный (двухголосый закадровый) (СВ-Дубль)"
       ],
-      "quality": "dvdrip",
-      "translation": "Авторский (одноголосый закадровый) (Алексеев)",
-      "update": "2020-08-07 16:47:38",
+      "quality": "bd",
+      "translation": "Профессиональный (двухголосый закадровый) (СВ-Дубль)",
+      "update": "2020-08-20 06:38:05",
       "iframe_src": ""
     },
     {
-      "id": 41982,
-      "title": "Ожидания шторма",
-      "kp_id": "1146258",
-      "imdb_id": "tt7304824",
+      "id": 42494,
+      "title": "Перед пожаром",
+      "kp_id": "906657",
+      "imdb_id": "tt4255196",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-07-24 19:04:40",
-      "orig_title": "Ofrenda a la tormenta",
-      "year": "2020-06-12",
+      "add": "2020-08-16 14:06:00",
+      "orig_title": "Before the Fire",
+      "year": "2020-03-07",
       "translations": [
         "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-        "Любительский (многоголосый закадровый) (@MUZOBOZ@)"
+        "Любительский (одноголосый закадровый) (datynet)",
+        "Original (English)"
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-      "update": "2020-08-07 17:05:10",
+      "update": "2020-08-20 07:09:55",
       "iframe_src": ""
     },
     {
-      "id": 3752,
-      "title": "Смертельный тренинг",
-      "kp_id": "1178196",
+      "id": 42493,
+      "title": "Проклятье слепых мертвецов",
+      "kp_id": "1140854",
+      "imdb_id": "tt7802180",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-08-16 14:02:54",
+      "orig_title": "Curse of the Blind Dead",
+      "year": "2020-07-24",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-08-20 06:39:44",
+      "iframe_src": ""
+    },
+    {
+      "id": 42482,
+      "title": "Руби и отбивай",
+      "kp_id": "1103262",
+      "imdb_id": "tt5616506",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-08-16 11:31:32",
+      "orig_title": "Cut and Chop",
+      "year": "2020-02-13",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-08-20 07:10:38",
+      "iframe_src": ""
+    },
+    {
+      "id": 42468,
+      "title": "Бесстрашный",
+      "kp_id": "1172670",
+      "imdb_id": "tt8675288",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-08-14 08:34:42",
+      "orig_title": "Fearless",
+      "year": "2020-08-14",
+      "translations": [
+        "Полное дублирование (Пифагор)",
+        "Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "Полное дублирование (Пифагор)",
+      "update": "2020-08-20 07:13:55",
+      "iframe_src": ""
+    },
+    {
+      "id": 42445,
+      "title": "Сдулся",
+      "kp_id": "1153680",
+      "imdb_id": "tt8334452",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-08-13 12:42:05",
+      "orig_title": "Ballbuster",
+      "year": "2020-08-04",
+      "translations": [
+        "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
+        "Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
+      "update": "2020-08-20 07:00:57",
+      "iframe_src": ""
+    },
+    {
+      "id": 42426,
+      "title": "Под давлением",
+      "kp_id": null,
+      "imdb_id": "tt1441950",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-08-11 22:02:39",
+      "orig_title": "Pressure",
+      "year": "2020-08-11",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-08-20 07:20:50",
+      "iframe_src": ""
+    },
+    {
+      "id": 42424,
+      "title": "Монструозный",
+      "kp_id": "1381444",
+      "imdb_id": "tt12198504",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-08-11 21:59:12",
+      "orig_title": "Monstrous",
+      "year": "2020-08-11",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-08-20 07:17:42",
+      "iframe_src": ""
+    },
+    {
+      "id": 42421,
+      "title": "Ладья",
+      "kp_id": "1215586",
+      "imdb_id": "tt8487982",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-08-11 21:54:50",
+      "orig_title": "Rook",
+      "year": "2020-08-11",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-08-20 07:59:30",
+      "iframe_src": ""
+    },
+    {
+      "id": 42419,
+      "title": "Восстание роботов",
+      "kp_id": "1387474",
+      "imdb_id": "tt12416066",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-08-11 21:51:00",
+      "orig_title": "Robot Riot",
+      "year": "2020-08-11",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-08-20 07:58:33",
+      "iframe_src": ""
+    },
+    {
+      "id": 42418,
+      "title": "Тёмная сторона улицы",
+      "kp_id": "1228842",
+      "imdb_id": "tt9552452",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-08-11 21:44:34",
+      "orig_title": "The Dark End of the Street",
+      "year": "2020-08-11",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-08-20 08:05:54",
+      "iframe_src": ""
+    },
+    {
+      "id": 42309,
+      "title": "Списанные",
+      "kp_id": "1134114",
+      "imdb_id": "tt7978236",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-08-05 08:16:24",
+      "orig_title": "The Discarded",
+      "year": "2020-08-04",
+      "translations": [
+        "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
+        "Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
+      "update": "2020-08-20 08:06:42",
+      "iframe_src": ""
+    },
+    {
+      "id": 39329,
+      "title": "Гора йети",
+      "kp_id": "1290316",
+      "imdb_id": "tt10674930",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-04-15 06:40:36",
+      "orig_title": "Abominable",
+      "year": "2019-01-01",
+      "translations": [
+        "Любительский (двухголосый закадровый) (LakeFilms)",
+        "Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (двухголосый закадровый) (LakeFilms)",
+      "update": "2020-08-20 06:59:23",
+      "iframe_src": ""
+    },
+    {
+      "id": 38860,
+      "title": "Инстапсихопатка",
+      "kp_id": "1246328",
+      "imdb_id": "tt9024292",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-04-03 19:46:04",
+      "orig_title": "InstaFame",
+      "year": "2020-02-06",
+      "translations": [
+        "Любительский (многоголосый закадровый) (AlphaProject)",
+        "Original (English)"
+      ],
+      "quality": "hdtv",
+      "translation": "Любительский (многоголосый закадровый) (AlphaProject)",
+      "update": "2020-08-20 07:15:42",
+      "iframe_src": ""
+    },
+    {
+      "id": 35749,
+      "title": "Украденная мамой: История Камайи Мобли",
+      "kp_id": "1282946",
+      "imdb_id": "tt10540628",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-02-02 22:38:23",
+      "orig_title": "Stolen by My Mother: The Kamiyah Mobley Story",
+      "year": "2020-01-18",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Original (English)"
+      ],
+      "quality": "hdtv",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-08-20 08:00:15",
+      "iframe_src": ""
+    },
+    {
+      "id": 35745,
+      "title": "Подруга - убийца",
+      "kp_id": "1283964",
+      "imdb_id": "tt10525236",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-02-02 21:34:24",
+      "orig_title": "A Daughter's Ordeal",
+      "year": "2020-01-23",
+      "translations": [
+        "Любительский (многоголосый закадровый) (AlphaProject)",
+        "Original (English)"
+      ],
+      "quality": "hdtv",
+      "translation": "Любительский (многоголосый закадровый) (AlphaProject)",
+      "update": "2020-08-20 06:57:48",
+      "iframe_src": ""
+    },
+    {
+      "id": 35589,
+      "title": "Побег от сталкера",
+      "kp_id": "1242414",
+      "imdb_id": "tt9814242",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-01-28 21:06:04",
+      "orig_title": "Escaping My Stalker",
+      "year": "2020-01-01",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Original (English)"
+      ],
+      "quality": "hdtv",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-08-20 07:12:55",
+      "iframe_src": ""
+    },
+    {
+      "id": 3833,
+      "title": "Здесь есть тот, кого я люблю",
+      "kp_id": "994671",
+      "imdb_id": "tt5679980",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-01-07 02:49:56",
+      "orig_title": "Suki na hito ga iru koto",
+      "year": "2016-07-11",
+      "translations": [
+        "Любительский (одноголосый закадровый) (GREEN TEA)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 10,
+      "episodes": 10,
+      "update": "2019-01-07 07:58:58",
+      "iframe_src": ""
+    },
+    {
+      "id": 3832,
+      "title": "Мусаси Миямото",
+      "kp_id": "838757",
+      "imdb_id": "tt3425792",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-01-07 02:37:25",
+      "orig_title": "Miyamoto Musashi",
+      "year": "2014-03-15",
+      "translations": [
+        "Любительский (двухголосый закадровый) (GREEN TEA)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 2,
+      "episodes": 2,
+      "update": "2019-01-07 07:51:57",
+      "iframe_src": ""
+    },
+    {
+      "id": 3824,
+      "title": "Вторая первая любовь",
+      "kp_id": "1138857",
       "imdb_id": null,
       "world_art_id": null,
       "type": "serial",
-      "add": "2018-12-25 01:27:39",
-      "orig_title": "Смертельный тренинг",
-      "year": "2018-12-22",
+      "add": "2019-01-05 23:59:53",
+      "orig_title": "Вторая первая любовь",
+      "year": "2019-01-05",
       "translations": [
         "Оригинальная дорожка"
       ],
       "seasons_count": 1,
       "episodes_count": 4,
       "episodes": 4,
-      "update": "2018-12-25 08:45:06",
+      "update": "2019-01-06 08:41:21",
       "iframe_src": ""
     },
     {
-      "id": 3750,
-      "title": "Управляемые",
-      "kp_id": "1145424",
-      "imdb_id": "tt8451888",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2018-12-24 10:48:41",
-      "orig_title": "Driven",
-      "year": "2018-01-01",
-      "translations": [
-        "Любительский (двухголосый закадровый) (Sunshine Studio)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 6,
-      "episodes": 6,
-      "update": "2018-12-25 08:46:14",
-      "iframe_src": ""
-    },
-    {
-      "id": 3748,
-      "title": "Красота внутри",
-      "kp_id": "1171931",
-      "imdb_id": "tt8801708",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2018-12-23 00:45:05",
-      "orig_title": "Byuti insaideu",
-      "year": "2018-10-01",
-      "translations": [
-        "Любительский (двухголосый закадровый) (SoftBox)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 16,
-      "episodes": 16,
-      "update": "2018-12-24 13:52:11",
-      "iframe_src": ""
-    },
-    {
-      "id": 3746,
-      "title": "Где приземляются звёзды",
-      "kp_id": "1112067",
-      "imdb_id": "tt8991740",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2018-12-21 09:14:44",
-      "orig_title": "Yeowoogakshibyeol",
-      "year": "2018-10-01",
-      "translations": [
-        "Любительский (одноголосый закадровый)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 16,
-      "episodes": 16,
-      "update": "2018-12-23 20:28:41",
-      "iframe_src": ""
-    },
-    {
-      "id": 3744,
-      "title": "Сильная женщина То Бон-сун",
-      "kp_id": "1008439",
-      "imdb_id": "tt6263222",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2018-12-21 00:42:42",
-      "orig_title": "Him-ssen yeo-ja Do Bong-soon",
-      "year": "2017-02-24",
-      "translations": [
-        "Любительский (двухголосый закадровый) (SoftBox)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 17,
-      "episodes": 17,
-      "update": "2018-12-21 10:55:00",
-      "iframe_src": ""
-    },
-    {
-      "id": 3743,
-      "title": "Особый закон романтики",
-      "kp_id": "1049797",
+      "id": 3814,
+      "title": "Рожденная звездой",
+      "kp_id": "913016",
       "imdb_id": null,
       "world_art_id": null,
       "type": "serial",
-      "add": "2018-12-21 00:35:23",
-      "orig_title": "Romaenseu teukbyeolbeop",
-      "year": "2017-10-24",
-      "translations": [
-        "Любительский (многоголосый закадровый) (SovetRomantica)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 6,
-      "episodes": 6,
-      "update": "2018-12-21 07:36:21",
-      "iframe_src": ""
-    },
-    {
-      "id": 3742,
-      "title": "Правила Геймера",
-      "kp_id": "1049652",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2018-12-21 00:31:01",
-      "orig_title": "Правила геймера",
-      "year": "2018-05-31",
+      "add": "2019-01-03 13:04:30",
+      "orig_title": "Рожденная звездой",
+      "year": "2015-10-12",
       "translations": [
         "Оригинальная дорожка"
       ],
       "seasons_count": 1,
-      "episodes_count": 2,
-      "episodes": 2,
-      "update": "2018-12-21 07:38:32",
+      "episodes_count": 12,
+      "episodes": 12,
+      "update": "2019-01-04 09:38:03",
       "iframe_src": ""
     },
     {
-      "id": 3740,
-      "title": "Легенда о возвышении жены наследного принца",
-      "kp_id": "1047360",
-      "imdb_id": "tt5319572",
+      "id": 3810,
+      "title": "Хван Джин-и",
+      "kp_id": "573976",
+      "imdb_id": "tt2319856",
       "world_art_id": null,
       "type": "serial",
-      "add": "2018-12-20 09:47:57",
-      "orig_title": "Tai zi fei sheng zhi ji",
-      "year": "2015-11-13",
-      "translations": [
-        "Любительский (одноголосый закадровый) (GREEN TEA)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 37,
-      "episodes": 37,
-      "update": "2018-12-23 21:20:29",
-      "iframe_src": ""
-    },
-    {
-      "id": 3739,
-      "title": "Дьявольские умы",
-      "kp_id": "1046528",
-      "imdb_id": "tt5733054",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2018-12-20 09:36:34",
-      "orig_title": "Evil Minds",
-      "year": "2015-05-08",
+      "add": "2019-01-02 19:44:21",
+      "orig_title": "Hwang Jin Yi",
+      "year": "2006-10-11",
       "translations": [
         "Любительский (одноголосый закадровый) (GREEN TEA)"
       ],
       "seasons_count": 1,
       "episodes_count": 24,
       "episodes": 24,
-      "update": "2018-12-23 22:07:41",
+      "update": "2019-01-04 07:24:10",
       "iframe_src": ""
     },
     {
-      "id": 3737,
-      "title": "Контригра",
-      "kp_id": "584014",
-      "imdb_id": "tt3792186",
+      "id": 3809,
+      "title": "Ноль",
+      "kp_id": "1112825",
+      "imdb_id": null,
       "world_art_id": null,
       "type": "serial",
-      "add": "2018-12-20 09:13:40",
-      "orig_title": "Kontrigra",
-      "year": "2011-09-05",
+      "add": "2019-01-01 15:45:13",
+      "orig_title": "Ноль",
+      "year": "2018-12-22",
       "translations": [
         "Оригинальная дорожка"
       ],
       "seasons_count": 1,
-      "episodes_count": 8,
-      "episodes": 8,
-      "update": "2018-12-23 01:16:15",
+      "episodes_count": 2,
+      "episodes": 2,
+      "update": "2019-01-03 11:39:24",
       "iframe_src": ""
     },
     {
-      "id": 3733,
-      "title": "Королева кольца",
-      "kp_id": "1008574",
-      "imdb_id": "tt6212842",
+      "id": 3808,
+      "title": "Счастливый гороскоп: Инструкция по применению",
+      "kp_id": "731960",
+      "imdb_id": "tt2585230",
       "world_art_id": null,
       "type": "serial",
-      "add": "2018-12-20 00:50:33",
-      "orig_title": "Banjiui Yeowang",
-      "year": "2017-03-09",
+      "add": "2019-01-01 15:39:23",
+      "orig_title": "Ilnyeone yeoldoo namja",
+      "year": "2012-02-15",
       "translations": [
-        "Любительский (двухголосый закадровый) (SoftBox)"
+        "Любительский (многоголосый закадровый) (STEPonee)"
       ],
       "seasons_count": 1,
-      "episodes_count": 6,
-      "episodes": 6,
-      "update": "2018-12-20 14:03:04",
+      "episodes_count": 16,
+      "episodes": 16,
+      "update": "2019-01-07 13:54:40",
       "iframe_src": ""
     },
     {
-      "id": 3732,
-      "title": "Жвачка",
-      "kp_id": "952175",
-      "imdb_id": "tt5153782",
+      "id": 3807,
+      "title": "Толстый Тони и компания",
+      "kp_id": "820524",
+      "imdb_id": "tt3457530",
       "world_art_id": null,
       "type": "serial",
-      "add": "2018-12-20 00:31:42",
-      "orig_title": "Pungseonggeom",
-      "year": "2015-10-26",
+      "add": "2019-01-01 15:33:39",
+      "orig_title": "Fat Tony & Co",
+      "year": "2014-02-23",
       "translations": [
+        "Профессиональный (двухголосый закадровый) (ViruseProject)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 9,
+      "episodes": 9,
+      "update": "2019-01-03 12:58:01",
+      "iframe_src": ""
+    },
+    {
+      "id": 3794,
+      "title": "Арне Даль: Реквием",
+      "kp_id": "954085",
+      "imdb_id": "tt4428744",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2018-12-30 13:39:23",
+      "orig_title": "Arne Dahl: Dödsmässa",
+      "year": "2015-03-01",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (ShowJet)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 2,
+      "episodes": 2,
+      "update": "2019-01-07 13:59:01",
+      "iframe_src": ""
+    },
+    {
+      "id": 3793,
+      "title": "Арне Даль: Сон в летнюю ночь",
+      "kp_id": "954086",
+      "imdb_id": "tt4396192",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2018-12-30 13:35:05",
+      "orig_title": "Arne Dahl: En midsommarnattsdröm",
+      "year": "2015-02-15",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (ShowJet)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 2,
+      "episodes": 2,
+      "update": "2019-01-07 13:56:59",
+      "iframe_src": ""
+    },
+    {
+      "id": 3792,
+      "title": "Город лунного луча",
+      "kp_id": "891592",
+      "imdb_id": "tt3906560",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2018-12-30 13:21:29",
+      "orig_title": "Moonbeam City",
+      "year": "2015-09-16",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (2x2)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 10,
+      "episodes": 10,
+      "update": "2019-01-01 08:56:39",
+      "iframe_src": ""
+    },
+    {
+      "id": 3791,
+      "title": "Бойцовский мир с Фрэнком Грилло",
+      "kp_id": "1199122",
+      "imdb_id": "tt9047526",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2018-12-30 13:15:34",
+      "orig_title": "Fightworld",
+      "year": "2018-10-12",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (BTI Studios)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 5,
+      "episodes": 5,
+      "update": "2019-01-01 08:48:08",
+      "iframe_src": ""
+    },
+    {
+      "id": 3778,
+      "title": "Храбрейшие воины",
+      "kp_id": "745548",
+      "imdb_id": "tt2474952",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2018-12-27 14:39:26",
+      "orig_title": "Bravest Warriors",
+      "year": "2012-11-08",
+      "translations": [
+        "Полное дублирование (2x2)"
+      ],
+      "seasons_count": 3,
+      "episodes_count": 35,
+      "episodes": 6,
+      "update": "2019-01-01 08:38:34",
+      "iframe_src": ""
+    },
+    {
+      "id": 3758,
+      "title": "Сияющий офис",
+      "kp_id": "1009105",
+      "imdb_id": "tt6464184",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2018-12-26 01:16:51",
+      "orig_title": "Jachebalgwang Opiseu",
+      "year": "2017-03-15",
+      "translations": [
+        "Любительский (одноголосый закадровый) (GREEN TEA)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 16,
+      "episodes": 16,
+      "update": "2018-12-31 21:34:53",
+      "iframe_src": ""
+    },
+    {
+      "id": 3757,
+      "title": "Королева на 7 дней",
+      "kp_id": "1042591",
+      "imdb_id": "tt6788748",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2018-12-26 00:39:46",
+      "orig_title": "7 Ilui Wangbi",
+      "year": "2017-05-31",
+      "translations": [
+        "Любительский (двухголосый закадровый) (GREEN TEA)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 20,
+      "episodes": 20,
+      "update": "2018-12-31 21:53:29",
+      "iframe_src": ""
+    },
+    {
+      "id": 3756,
+      "title": "Пять пальцев",
+      "kp_id": "802725",
+      "imdb_id": "tt2242048",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2018-12-26 00:13:41",
+      "orig_title": "Da-seot son-ga-rak",
+      "year": "2012-08-18",
+      "translations": [
+        "Любительский (двухголосый закадровый) (GREEN TEA)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 12,
+      "episodes": 12,
+      "update": "2018-12-31 21:59:50",
+      "iframe_src": ""
+    },
+    {
+      "id": 3546,
+      "title": "Листмейстер",
+      "kp_id": "972793",
+      "imdb_id": "tt5602660",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2018-11-20 10:18:35",
+      "orig_title": "Peiji Teoneo",
+      "year": "2016-03-26",
+      "translations": [
+        "Любительский (двухголосый закадровый) (SoftBox)",
+        "Любительский (одноголосый закадровый) (GREEN TEA)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 3,
+      "episodes": 3,
+      "update": "2019-01-07 08:00:07",
+      "iframe_src": ""
+    },
+    {
+      "id": 3534,
+      "title": "Сказка о керёнской фее",
+      "kp_id": "1112724",
+      "imdb_id": "tt8523030",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2018-11-19 11:21:13",
+      "orig_title": "Mama Fairy and the Woodcutter",
+      "year": "2018-11-05",
+      "translations": [
+        "Любительский (многоголосый закадровый) (ColdFilm)",
         "Любительский (двухголосый закадровый) (SoftBox)"
       ],
       "seasons_count": 1,
       "episodes_count": 16,
       "episodes": 16,
-      "update": "2018-12-20 14:00:12",
+      "update": "2019-01-04 07:14:50",
       "iframe_src": ""
     },
     {
-      "id": 3728,
-      "title": "Гаргульи: Хроники Голиафа",
-      "kp_id": "258193",
-      "imdb_id": "tt0115184",
+      "id": 1412,
+      "title": "Миднайт, Техас",
+      "kp_id": "964024",
+      "imdb_id": "tt5464086",
       "world_art_id": null,
       "type": "serial",
-      "add": "2018-12-19 19:46:34",
-      "orig_title": "Gargoyles: The Goliath Chronicles",
-      "year": "1996-09-07",
+      "add": "2017-07-21 19:03:41",
+      "orig_title": "Midnight, Texas",
+      "year": "2017-07-24",
       "translations": [
-        "Полное дублирование"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 13,
-      "episodes": 13,
-      "update": "2018-12-22 09:23:13",
-      "iframe_src": ""
-    },
-    {
-      "id": 3720,
-      "title": "Стандарты красоты",
-      "kp_id": "893920",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2018-12-18 07:54:35",
-      "orig_title": "Стандарты красоты",
-      "year": "2017-12-31",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 4,
-      "episodes": 4,
-      "update": "2018-12-21 10:09:44",
-      "iframe_src": ""
-    },
-    {
-      "id": 3719,
-      "title": "Пуля",
-      "kp_id": "1111897",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2018-12-18 00:42:10",
-      "orig_title": "Пуля",
-      "year": "2018-12-17",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 10,
-      "episodes": 10,
-      "update": "2018-12-23 01:10:30",
-      "iframe_src": ""
-    },
-    {
-      "id": 3709,
-      "title": "Приключения Джеки Чана",
-      "kp_id": "181548",
-      "imdb_id": "tt0259141",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2018-12-15 21:45:25",
-      "orig_title": "Jackie Chan Adventures",
-      "year": "2000-09-09",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "seasons_count": 5,
-      "episodes_count": 95,
-      "episodes": 13,
-      "update": "2018-12-23 13:42:07",
-      "iframe_src": ""
-    },
-    {
-      "id": 3700,
-      "title": "Медиум",
-      "kp_id": "257785",
-      "imdb_id": "tt0412175",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2018-12-14 21:30:28",
-      "orig_title": "Medium",
-      "year": "2006-07-15",
-      "translations": [
-        "Профессиональный (двухголосый закадровый) (NovaFilm)",
-        "Профессиональный (многоголосый закадровый) (ТВ3)",
-        "Профессиональный (многоголосый закадровый) (NovaFilm)"
-      ],
-      "seasons_count": 7,
-      "episodes_count": 129,
-      "episodes": 13,
-      "update": "2018-12-23 16:26:11",
-      "iframe_src": ""
-    },
-    {
-      "id": 3312,
-      "title": "Грузовичок Лёва",
-      "kp_id": "1112959",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2018-10-15 12:36:09",
-      "orig_title": "Грузовичок Лёва",
-      "year": "2014-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 2,
-      "episodes_count": 114,
-      "episodes": 69,
-      "update": "2018-12-24 13:46:13",
-      "iframe_src": ""
-    },
-    {
-      "id": 1601,
-      "title": "Улица",
-      "kp_id": "1049171",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2017-10-05 11:39:55",
-      "orig_title": "Улица",
-      "year": "2017-10-02",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 3,
-      "episodes_count": 180,
-      "episodes": 66,
-      "update": "2018-12-21 12:03:28",
-      "iframe_src": ""
-    },
-    {
-      "id": 512,
-      "title": "Вне времени",
-      "kp_id": "968215",
-      "imdb_id": "tt5511582",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2016-10-06 05:55:49",
-      "orig_title": "Timeless",
-      "year": "2016-10-03",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (Кравец)",
         "Профессиональный (многоголосый закадровый) (LostFilm)"
       ],
       "seasons_count": 2,
-      "episodes_count": 28,
-      "episodes": 12,
-      "update": "2018-12-25 02:30:08",
+      "episodes_count": 19,
+      "episodes": 9,
+      "update": "2019-01-02 15:09:32",
+      "iframe_src": ""
+    },
+    {
+      "id": 191,
+      "title": "Нация Z",
+      "kp_id": "841371",
+      "imdb_id": "tt3843168",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2016-06-15 13:51:21",
+      "orig_title": "Z Nation",
+      "year": "2014-09-12",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (LostFilm)",
+        "Профессиональный (двухголосый закадровый) (LostFilm)"
+      ],
+      "seasons_count": 5,
+      "episodes_count": 68,
+      "episodes": 13,
+      "update": "2019-01-02 15:08:06",
       "iframe_src": ""
     }
   ]

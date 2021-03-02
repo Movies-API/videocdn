@@ -1,370 +1,373 @@
 {
   "data": [
     {
-      "id": 20866,
-      "title": "Серые волки",
-      "kp_id": "41042",
-      "imdb_id": "tt0108085",
+      "id": 21048,
+      "title": "Большой ансамбль",
+      "kp_id": "28819",
+      "imdb_id": "tt0047878",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-12-19 23:46:08",
-      "orig_title": "Serye volki",
-      "year": "1993-09-01",
+      "add": "2018-12-26 23:01:03",
+      "orig_title": "The Big Combo",
+      "year": "1955-02-13",
       "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2018-12-20 08:42:33",
-      "iframe_src": ""
-    },
-    {
-      "id": 20865,
-      "title": "Когда старый телефон зазвонит",
-      "kp_id": null,
-      "imdb_id": "tt6727978",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-12-19 23:41:25",
-      "orig_title": "When the Old Phone Rings",
-      "year": "2017-04-21",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Колобок)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Колобок)",
-      "update": "2018-12-20 08:45:37",
-      "iframe_src": ""
-    },
-    {
-      "id": 20863,
-      "title": "Вещество: Спектакль в Лондоне",
-      "kp_id": "1149834",
-      "imdb_id": "tt7214964",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-12-19 23:36:08",
-      "orig_title": "The Residue: Live in London",
-      "year": "2017-07-17",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-12-20 08:54:51",
-      "iframe_src": ""
-    },
-    {
-      "id": 20862,
-      "title": "Всему есть цена",
-      "kp_id": "1101450",
-      "imdb_id": "tt7475540",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-12-19 23:34:35",
-      "orig_title": "The Price of Everything",
-      "year": "2018-01-19",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "hdtv",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-12-20 08:55:44",
-      "iframe_src": ""
-    },
-    {
-      "id": 20861,
-      "title": "Продукты питания и жилье",
-      "kp_id": "902265",
-      "imdb_id": "tt4572998",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-12-19 23:31:26",
-      "orig_title": "Techo y comida",
-      "year": "2015-04-23",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-12-20 08:58:20",
-      "iframe_src": ""
-    },
-    {
-      "id": 20857,
-      "title": "Маленькие женщины",
-      "kp_id": "1027769",
-      "imdb_id": "tt6495094",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-12-19 23:18:52",
-      "orig_title": "Little Women",
-      "year": "2018-09-28",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-12-20 09:03:03",
-      "iframe_src": ""
-    },
-    {
-      "id": 20855,
-      "title": "Жажда жизни",
-      "kp_id": "1012181",
-      "imdb_id": "tt6492974",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-12-19 23:14:09",
-      "orig_title": "La Soif de Vivre",
-      "year": "2018-02-07",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "hdtv",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-12-20 09:06:20",
-      "iframe_src": ""
-    },
-    {
-      "id": 20854,
-      "title": "Исповедь содержанки",
-      "kp_id": "40865",
-      "imdb_id": "tt0104533",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-12-19 23:11:17",
-      "orig_title": "Ispoved soderzhanki",
-      "year": "1992-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "sat",
-      "translation": "Оригинальная дорожка",
-      "update": "2018-12-20 09:07:13",
-      "iframe_src": ""
-    },
-    {
-      "id": 20853,
-      "title": "Смерть на барбекю",
-      "kp_id": "993977",
-      "imdb_id": "tt5904552",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-12-19 23:05:53",
-      "orig_title": "Death at a Barbecue",
-      "year": "2017-06-01",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Колобок)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Колобок)",
-      "update": "2018-12-20 09:11:24",
-      "iframe_src": ""
-    },
-    {
-      "id": 20852,
-      "title": "Рождество снова и снова",
-      "kp_id": "829385",
-      "imdb_id": "tt3503454",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-12-19 22:57:35",
-      "orig_title": "Christmas All Over Again",
-      "year": "2016-12-13",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-12-20 09:13:13",
-      "iframe_src": ""
-    },
-    {
-      "id": 20851,
-      "title": "12 стульев",
-      "kp_id": "46789",
-      "imdb_id": "tt0065670",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-12-19 11:40:50",
-      "orig_title": "12 stulev",
-      "year": "1972-02-24",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2018-12-20 09:18:01",
-      "iframe_src": ""
-    },
-    {
-      "id": 20850,
-      "title": "Суп из капусты",
-      "kp_id": "81042",
-      "imdb_id": "tt0083109",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-12-19 06:55:36",
-      "orig_title": "La soupe aux choux",
-      "year": "1981-12-02",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (НТВ)"
+        "Авторский (одноголосый закадровый) (Сербин Юрий)"
       ],
       "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый) (НТВ)",
-      "update": "2018-12-20 09:16:24",
+      "translation": "Авторский (одноголосый закадровый) (Сербин Юрий)",
+      "update": "2018-12-27 07:36:08",
       "iframe_src": ""
     },
     {
-      "id": 20827,
-      "title": "Крысы, или ночная мафия",
-      "kp_id": "45004",
-      "imdb_id": "tt0102241",
+      "id": 21047,
+      "title": "Синий георгин",
+      "kp_id": "8616",
+      "imdb_id": "tt0038369",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-12-18 14:26:29",
-      "orig_title": "Krysy, ili nochnaya mafiya",
-      "year": "1991-01-01",
+      "add": "2018-12-26 22:59:32",
+      "orig_title": "The Blue Dahlia",
+      "year": "1946-04-19",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Кашкин Александр | Первомайский)"
+      ],
+      "quality": "bd",
+      "translation": "Авторский (одноголосый закадровый) (Кашкин Александр | Первомайский)",
+      "update": "2018-12-27 07:36:51",
+      "iframe_src": ""
+    },
+    {
+      "id": 21046,
+      "title": "Кровавое кимоно",
+      "kp_id": "18056",
+      "imdb_id": "tt0052713",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-12-26 22:55:26",
+      "orig_title": "The Crimson Kimono",
+      "year": "1959-08-21",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (5-й канал СПб)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый) (5-й канал СПб)",
+      "update": "2018-12-27 07:38:42",
+      "iframe_src": ""
+    },
+    {
+      "id": 21045,
+      "title": "Большой фанат",
+      "kp_id": "430635",
+      "imdb_id": "tt1228953",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-12-26 22:53:18",
+      "orig_title": "Big Fan",
+      "year": "2009-01-18",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Чадов Михаил)"
+      ],
+      "quality": "webdl",
+      "translation": "Авторский (одноголосый закадровый) (Чадов Михаил)",
+      "update": "2018-12-27 07:39:59",
+      "iframe_src": ""
+    },
+    {
+      "id": 21044,
+      "title": "В тылу врага 3: Колумбия",
+      "kp_id": "409193",
+      "imdb_id": "tt1208647",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-12-26 22:49:56",
+      "orig_title": "Behind Enemy Lines: Colombia",
+      "year": "2009-01-06",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2018-12-27 07:42:41",
+      "iframe_src": ""
+    },
+    {
+      "id": 21043,
+      "title": "Малыш",
+      "kp_id": "5106",
+      "imdb_id": "tt0255819",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-12-26 22:45:33",
+      "orig_title": "Baby Boy",
+      "year": "2001-06-21",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Чадов Михаил)"
+      ],
+      "quality": "webdl",
+      "translation": "Авторский (одноголосый закадровый) (Чадов Михаил)",
+      "update": "2018-12-27 08:08:02",
+      "iframe_src": ""
+    },
+    {
+      "id": 21042,
+      "title": "Эммануэль и каннибалы",
+      "kp_id": "71039",
+      "imdb_id": "tt0075984",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-12-26 22:42:43",
+      "orig_title": "Emanuelle e gli ultimi cannibali",
+      "year": "1977-10-21",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Визгунов Сергей)"
+      ],
+      "quality": "bd",
+      "translation": "Авторский (одноголосый закадровый) (Визгунов Сергей)",
+      "update": "2018-12-27 07:47:23",
+      "iframe_src": ""
+    },
+    {
+      "id": 21041,
+      "title": "Дома, построенные в октябре",
+      "kp_id": "843007",
+      "imdb_id": "tt1958043",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-12-26 22:18:10",
+      "orig_title": "The Houses October Built",
+      "year": "2014-10-10",
+      "translations": [
+        "Любительский (двухголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (двухголосый закадровый)",
+      "update": "2018-12-27 08:16:30",
+      "iframe_src": ""
+    },
+    {
+      "id": 21040,
+      "title": "Порнодемия",
+      "kp_id": "1219457",
+      "imdb_id": "tt9204352",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-12-26 22:13:56",
+      "orig_title": "Porndemic",
+      "year": "2018-12-07",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2018-12-27 08:22:22",
+      "iframe_src": ""
+    },
+    {
+      "id": 20374,
+      "title": "Защита свидетелей",
+      "kp_id": "77322",
+      "imdb_id": "tt0191655",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-11-29 09:06:50",
+      "orig_title": "Witness Protection",
+      "year": "1999-12-11",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)",
+        "Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2018-12-26 14:44:26",
+      "iframe_src": ""
+    },
+    {
+      "id": 20370,
+      "title": "Священный дым",
+      "kp_id": "9706",
+      "imdb_id": "tt0144715",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-11-29 09:02:46",
+      "orig_title": "Holy Smoke",
+      "year": "1999-09-04",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (Первый канал | ОРТ)",
+        "Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый) (Первый канал | ОРТ)",
+      "update": "2018-12-26 14:38:56",
+      "iframe_src": ""
+    },
+    {
+      "id": 19908,
+      "title": "Ток-радио",
+      "kp_id": "12127",
+      "imdb_id": "tt0096219",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-11-01 12:40:39",
+      "orig_title": "Talk Radio",
+      "year": "1988-12-23",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (Неоклассика)",
+        "Original (English)",
+        "Авторский (одноголосый закадровый) (Котов Вячеслав)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый) (Неоклассика)",
+      "update": "2018-12-27 07:46:13",
+      "iframe_src": ""
+    },
+    {
+      "id": 16621,
+      "title": "Собибор",
+      "kp_id": "905031",
+      "imdb_id": "tt6324614",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-05-04 22:40:25",
+      "orig_title": "Sobibor",
+      "year": "2018-05-04",
       "translations": [
         "Оригинальная дорожка"
       ],
-      "quality": "webdl",
+      "quality": "bd",
       "translation": "Оригинальная дорожка",
-      "update": "2018-12-20 09:19:22",
+      "update": "2018-12-27 08:10:50",
       "iframe_src": ""
     },
     {
-      "id": 20771,
-      "title": "Истории ужасов на Хэллоуин",
-      "kp_id": null,
-      "imdb_id": "tt9369332",
+      "id": 15596,
+      "title": "Санта и компания",
+      "kp_id": "1049040",
+      "imdb_id": "tt7018010",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-12-15 12:24:35",
-      "orig_title": "Halloween Horror Tales",
-      "year": "2018-11-29",
+      "add": "2018-03-13 22:07:09",
+      "orig_title": "Santa & Cie",
+      "year": "2017-12-03",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)",
-        "Любительский (двухголосый закадровый) (HiWayGrope)"
+        "Профессиональный (многоголосый закадровый) (GreenРай Studio)",
+        "Полное дублирование"
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-12-20 09:09:01",
+      "update": "2018-12-27 08:19:02",
       "iframe_src": ""
     },
     {
-      "id": 20540,
-      "title": "Горсть свинца",
-      "kp_id": "1088104",
-      "imdb_id": "tt7468604",
+      "id": 8633,
+      "title": "Каприз",
+      "kp_id": "852764",
+      "imdb_id": "tt3612984",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-12-07 08:43:36",
-      "orig_title": "A Fistful of Lead",
-      "year": "2018-01-01",
+      "add": "2017-01-05 14:09:57",
+      "orig_title": "Caprice",
+      "year": "2015-01-16",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Любительский (двухголосый закадровый) (HiWayGrope)"
+        "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-12-20 09:14:14",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2018-12-27 08:12:32",
       "iframe_src": ""
     },
     {
-      "id": 20329,
-      "title": "Панк из Солт-Лейк-Сити",
-      "kp_id": "2014",
-      "imdb_id": "tt0133189",
+      "id": 7445,
+      "title": "Джози и кошечки",
+      "kp_id": "3602",
+      "imdb_id": "tt0236348",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-11-28 07:50:29",
-      "orig_title": "SLC Punk!",
-      "year": "1998-09-24",
+      "add": "2016-11-15 05:07:33",
+      "orig_title": "Josie and the Pussycats",
+      "year": "2001-04-06",
       "translations": [
-        "Авторский (одноголосый закадровый) (Яроцкий)",
+        "Профессиональный (многоголосый закадровый)",
         "Original (English)"
       ],
       "quality": "webdl",
-      "translation": "Авторский (одноголосый закадровый) (Яроцкий)",
-      "update": "2018-12-20 12:51:50",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2018-12-26 14:42:20",
       "iframe_src": ""
     },
     {
-      "id": 20328,
-      "title": "Фотограф",
-      "kp_id": "13878",
-      "imdb_id": "tt0126604",
+      "id": 6039,
+      "title": "Женщина сверху",
+      "kp_id": "3770",
+      "imdb_id": "tt0206420",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-11-28 07:49:27",
-      "orig_title": "Pecker",
-      "year": "1998-09-11",
+      "add": "2016-10-09 16:18:03",
+      "orig_title": "Woman on Top",
+      "year": "2000-06-24",
       "translations": [
-        "Авторский (одноголосый закадровый) (Санаев)",
+        "Профессиональный (многоголосый закадровый)",
         "Original (English)"
       ],
       "quality": "webdl",
-      "translation": "Авторский (одноголосый закадровый) (Санаев)",
-      "update": "2018-12-20 12:51:01",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2018-12-26 14:45:14",
       "iframe_src": ""
     },
     {
-      "id": 20327,
-      "title": "Ночное видение",
-      "kp_id": "4627",
-      "imdb_id": "tt0117177",
+      "id": 2828,
+      "title": "Большие глаза",
+      "kp_id": "573869",
+      "imdb_id": "tt1126590",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-11-28 07:47:55",
-      "orig_title": "Night Vision",
-      "year": "1997-03-01",
+      "add": "2016-06-02 09:30:45",
+      "orig_title": "Big Eyes",
+      "year": "2014-11-13",
       "translations": [
-        "Авторский (одноголосый закадровый) (Сербин)",
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2018-12-27 08:14:20",
+      "iframe_src": ""
+    },
+    {
+      "id": 1898,
+      "title": "Планета страха",
+      "kp_id": "273063",
+      "imdb_id": "tt1077258",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-05-05 12:27:41",
+      "orig_title": "Planet Terror",
+      "year": "2007-06-21",
+      "translations": [
+        "Полное дублирование",
+        "Авторский (одноголосый закадровый) (Матвеев Алексей | Doctor Joker)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2018-12-27 08:09:24",
+      "iframe_src": ""
+    },
+    {
+      "id": 435,
+      "title": "Самый пьяный округ в мире",
+      "kp_id": "461972",
+      "imdb_id": "tt1212450",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-04-01 18:04:01",
+      "orig_title": "Lawless",
+      "year": "2012-05-19",
+      "translations": [
+        "Полное дублирование",
         "Original (English)"
       ],
       "quality": "bd",
-      "translation": "Авторский (одноголосый закадровый) (Сербин)",
-      "update": "2018-12-20 12:49:12",
-      "iframe_src": ""
-    },
-    {
-      "id": 20263,
-      "title": "В компании мужчин",
-      "kp_id": "22945",
-      "imdb_id": "tt0119361",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-11-25 14:07:58",
-      "orig_title": "In the Company of Men",
-      "year": "1997-01-19",
-      "translations": [
-        "Авторский (одноголосый закадровый) (Карцев)",
-        "Original (English)"
-      ],
-      "quality": "webdl",
-      "translation": "Авторский (одноголосый закадровый) (Карцев)",
-      "update": "2018-12-20 12:50:11",
-      "iframe_src": ""
-    },
-    {
-      "id": 19792,
-      "title": "Голая Джульетта",
-      "kp_id": "1089780",
-      "imdb_id": "tt5607096",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-10-25 22:14:53",
-      "orig_title": "Juliet, Naked",
-      "year": "2018-01-19",
-      "translations": [
-        "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-        "Профессиональный (многоголосый закадровый) (iTunes)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-      "update": "2018-12-20 09:05:27",
+      "translation": "Полное дублирование",
+      "update": "2018-12-26 14:47:44",
       "iframe_src": ""
     }
   ]

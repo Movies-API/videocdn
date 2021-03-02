@@ -1,363 +1,368 @@
 {
   "data": [
     {
-      "id": 29699,
-      "title": "Закон",
-      "kp_id": "45215",
-      "imdb_id": "tt0098704",
+      "id": 29874,
+      "title": "Блондинка и блондинка",
+      "kp_id": "271710",
+      "imdb_id": "tt0893509",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-08-02 21:13:35",
-      "orig_title": "Zakon",
-      "year": "1989-01-01",
+      "add": "2019-08-08 22:28:59",
+      "orig_title": "Blonde and Blonder",
+      "year": "2008-01-18",
       "translations": [
-        "Оригинальная дорожка"
+        "Полное дублирование"
       ],
       "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-08-05 06:49:33",
+      "translation": "Полное дублирование",
+      "update": "2019-08-09 07:52:25",
       "iframe_src": ""
     },
     {
-      "id": 29698,
-      "title": "Встреча на переправе",
-      "kp_id": "490370",
-      "imdb_id": null,
+      "id": 29873,
+      "title": "Два дня в Париже",
+      "kp_id": "261073",
+      "imdb_id": "tt0841044",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-08-02 21:07:04",
-      "orig_title": "Встреча на переправе",
-      "year": "1964-05-28",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "vhs",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-08-05 06:48:50",
-      "iframe_src": ""
-    },
-    {
-      "id": 29692,
-      "title": "Тайна",
-      "kp_id": "624227",
-      "imdb_id": "tt3127052",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-08-02 20:56:49",
-      "orig_title": "Tayna",
-      "year": "1963-03-24",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "vhs",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-08-05 06:43:48",
-      "iframe_src": ""
-    },
-    {
-      "id": 29685,
-      "title": "Тапер",
-      "kp_id": "471713",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-08-02 18:29:46",
-      "orig_title": "Тапер",
-      "year": "1989-01-01",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2019-08-05 06:43:18",
-      "iframe_src": ""
-    },
-    {
-      "id": 29684,
-      "title": "Суд идет",
-      "kp_id": "638780",
-      "imdb_id": "tt8212314",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-08-02 18:22:30",
-      "orig_title": "Sud idyot",
-      "year": "1963-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "vhs",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-08-05 06:42:17",
-      "iframe_src": ""
-    },
-    {
-      "id": 29683,
-      "title": "Шестнадцатая весна",
-      "kp_id": "43744",
-      "imdb_id": "tt0056481",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-08-02 18:18:45",
-      "orig_title": "Shestnadtsataya vesna",
-      "year": "1963-07-15",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-08-05 06:40:59",
-      "iframe_src": ""
-    },
-    {
-      "id": 29682,
-      "title": "Серый разбойник",
-      "kp_id": "43699",
-      "imdb_id": "tt0049740",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-08-02 18:15:34",
-      "orig_title": "Seryy razboynik",
-      "year": "1956-08-28",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "sat",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-08-05 06:40:21",
-      "iframe_src": ""
-    },
-    {
-      "id": 29681,
-      "title": "Садуто туто",
-      "kp_id": "43584",
-      "imdb_id": "tt0337133",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-08-02 18:12:16",
-      "orig_title": "Saduto tuto",
-      "year": "1974-07-24",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "sat",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-08-05 06:39:48",
-      "iframe_src": ""
-    },
-    {
-      "id": 29679,
-      "title": "Рембрандт",
-      "kp_id": "991584",
-      "imdb_id": "tt5862640",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-08-02 18:04:00",
-      "orig_title": "Rembrandt",
-      "year": "1963-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-08-05 06:38:14",
-      "iframe_src": ""
-    },
-    {
-      "id": 29678,
-      "title": "Радуница",
-      "kp_id": "647596",
-      "imdb_id": "tt3084794",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-08-02 18:00:08",
-      "orig_title": "Radunitsa",
-      "year": "1984-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "sat",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-08-05 06:37:12",
-      "iframe_src": ""
-    },
-    {
-      "id": 29677,
-      "title": "Принимаю бой",
-      "kp_id": "586474",
-      "imdb_id": "tt5026520",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-08-02 17:56:20",
-      "orig_title": "Prinimayu boy",
-      "year": "1963-04-12",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "vhs",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-08-05 06:36:23",
-      "iframe_src": ""
-    },
-    {
-      "id": 29676,
-      "title": "Последний хлеб",
-      "kp_id": "461868",
-      "imdb_id": "tt5019796",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-08-02 17:52:30",
-      "orig_title": "Posledniy khleb",
-      "year": "1963-08-19",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-08-05 06:35:29",
-      "iframe_src": ""
-    },
-    {
-      "id": 29675,
-      "title": "После свадьбы",
-      "kp_id": "494747",
-      "imdb_id": "tt5016520",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-08-02 17:48:40",
-      "orig_title": "Posle svadby",
-      "year": "1962-01-21",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "sat",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-08-05 06:34:51",
-      "iframe_src": ""
-    },
-    {
-      "id": 29674,
-      "title": "Понедельник – день тяжелый",
-      "kp_id": "420324",
-      "imdb_id": "tt5221564",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-08-02 17:43:45",
-      "orig_title": "Ponedelnik: den tyazhyolyy",
-      "year": "1964-06-06",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-08-05 06:34:14",
-      "iframe_src": ""
-    },
-    {
-      "id": 29672,
-      "title": "Перекресток",
-      "kp_id": "42925",
-      "imdb_id": "tt0170365",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-08-02 17:36:23",
-      "orig_title": "Perekrestok",
-      "year": "1963-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "sat",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-08-05 06:33:03",
-      "iframe_src": ""
-    },
-    {
-      "id": 29671,
-      "title": "Павлик Морозов",
-      "kp_id": "991956",
-      "imdb_id": "tt5860648",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-08-02 17:33:21",
-      "orig_title": "Pavlik Morozov",
-      "year": "1963-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "sat",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-08-05 06:13:06",
-      "iframe_src": ""
-    },
-    {
-      "id": 29670,
-      "title": "Незабываемый 1919 год",
-      "kp_id": "46431",
-      "imdb_id": "tt0044964",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-08-02 17:30:20",
-      "orig_title": "Nezabyvaemyy 1919 god",
-      "year": "1951-05-03",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-08-05 06:13:56",
-      "iframe_src": ""
-    },
-    {
-      "id": 29668,
-      "title": "Меня зовут Кожа",
-      "kp_id": "445962",
-      "imdb_id": "tt1804605",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-08-02 17:19:54",
-      "orig_title": "Menya zovut Kozha",
-      "year": "1964-05-19",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "sat",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-08-05 06:10:37",
-      "iframe_src": ""
-    },
-    {
-      "id": 29667,
-      "title": "Мелодии Дунаевского",
-      "kp_id": "46601",
-      "imdb_id": "tt0351329",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-08-02 17:14:53",
-      "orig_title": "Melodii Dunaevskogo",
-      "year": "1963-12-30",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "sat",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-08-05 06:10:22",
-      "iframe_src": ""
-    },
-    {
-      "id": 22622,
-      "title": "Романс Х",
-      "kp_id": "63889",
-      "imdb_id": "tt0194314",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-02-28 23:39:21",
-      "orig_title": "Romance",
-      "year": "1999-04-14",
+      "add": "2019-08-08 22:22:10",
+      "orig_title": "2 Days in Paris",
+      "year": "2007-02-10",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-08-05 06:46:37",
+      "update": "2019-08-09 07:51:39",
+      "iframe_src": ""
+    },
+    {
+      "id": 29859,
+      "title": "Годзилла",
+      "kp_id": "63873",
+      "imdb_id": "tt0047034",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-08-08 22:01:09",
+      "orig_title": "Gojira",
+      "year": "1954-11-03",
+      "translations": [
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2019-08-09 07:50:10",
+      "iframe_src": ""
+    },
+    {
+      "id": 29856,
+      "title": "Нэнси Дрю",
+      "kp_id": "276244",
+      "imdb_id": "tt0329414",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-08-08 21:45:57",
+      "orig_title": "Nancy Drew",
+      "year": "2002-12-15",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "sat",
+      "translation": "Полное дублирование",
+      "update": "2019-08-09 07:44:38",
+      "iframe_src": ""
+    },
+    {
+      "id": 29855,
+      "title": "Школьный стрелок",
+      "kp_id": "591584",
+      "imdb_id": "tt1876330",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-08-08 21:13:54",
+      "orig_title": "Hello Herman",
+      "year": "2012-10-20",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-08-09 07:44:00",
+      "iframe_src": ""
+    },
+    {
+      "id": 29854,
+      "title": "Игра на выживание",
+      "kp_id": "13678",
+      "imdb_id": "tt0111323",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-08-08 21:08:24",
+      "orig_title": "Surviving the Game",
+      "year": "1994-04-15",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-08-09 07:40:59",
+      "iframe_src": ""
+    },
+    {
+      "id": 29853,
+      "title": "Именем итальянского народа",
+      "kp_id": "57100",
+      "imdb_id": "tt0067242",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-08-08 21:03:54",
+      "orig_title": "In nome del popolo italiano",
+      "year": "1971-12-18",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "dvdrip",
+      "translation": "Полное дублирование",
+      "update": "2019-08-09 07:37:55",
+      "iframe_src": ""
+    },
+    {
+      "id": 29852,
+      "title": "Последний страж",
+      "kp_id": "252859",
+      "imdb_id": "tt0758762",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-08-08 20:57:00",
+      "orig_title": "The Last Sentinel",
+      "year": "2007-05-19",
+      "translations": [
+        "Любительский (двухголосый закадровый)",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (двухголосый закадровый)",
+      "update": "2019-08-09 11:26:38",
+      "iframe_src": ""
+    },
+    {
+      "id": 29851,
+      "title": "Идеальное алиби",
+      "kp_id": "16730",
+      "imdb_id": "tt0114114",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-08-08 20:17:18",
+      "orig_title": "Perfect Alibi",
+      "year": "1995-09-05",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Карцев Пётр)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Авторский (одноголосый закадровый) (Карцев Пётр)",
+      "update": "2019-08-09 07:17:35",
+      "iframe_src": ""
+    },
+    {
+      "id": 29850,
+      "title": "Плетеный человек",
+      "kp_id": "5678",
+      "imdb_id": "tt0070917",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-08-08 20:07:05",
+      "orig_title": "The Wicker Man",
+      "year": "1973-12-06",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2019-08-09 07:15:45",
+      "iframe_src": ""
+    },
+    {
+      "id": 29849,
+      "title": "Их осталось только трое",
+      "kp_id": "146945",
+      "imdb_id": "tt0055520",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-08-08 19:34:26",
+      "orig_title": "Then There Were Three",
+      "year": "1961-11-01",
+      "translations": [
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2019-08-09 07:47:20",
+      "iframe_src": ""
+    },
+    {
+      "id": 29848,
+      "title": "Жестокая игра",
+      "kp_id": "58554",
+      "imdb_id": "tt0086505",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-08-08 19:27:08",
+      "orig_title": "Un jeu brutal",
+      "year": "1983-09-28",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-08-09 07:12:52",
+      "iframe_src": ""
+    },
+    {
+      "id": 23665,
+      "title": "Дамбо",
+      "kp_id": "841636",
+      "imdb_id": "tt3861390",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-03-30 15:50:21",
+      "orig_title": "Dumbo",
+      "year": "2019-03-11",
+      "translations": [
+        "Полное дублирование",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2019-08-11 06:19:27",
+      "iframe_src": ""
+    },
+    {
+      "id": 18188,
+      "title": "Бесшабашное ограбление",
+      "kp_id": "2400",
+      "imdb_id": "tt0286152",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-08-09 12:31:35",
+      "orig_title": "Stark Raving Mad",
+      "year": "2002-08-23",
+      "translations": [
+        "Полное дублирование",
+        "Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "Полное дублирование",
+      "update": "2019-08-09 11:29:00",
+      "iframe_src": ""
+    },
+    {
+      "id": 15430,
+      "title": "Встречное расследование",
+      "kp_id": "264829",
+      "imdb_id": "tt0825239",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-03-06 10:17:04",
+      "orig_title": "Contre-enquête",
+      "year": "2007-03-07",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2019-08-09 07:10:33",
+      "iframe_src": ""
+    },
+    {
+      "id": 10961,
+      "title": "Изгнанные из Рая",
+      "kp_id": "760080",
+      "imdb_id": "tt2859246",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-04-13 21:58:18",
+      "orig_title": "Rakuen Tsuiho: Expelled from Paradise",
+      "year": "2014-11-15",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2019-08-11 08:03:31",
+      "iframe_src": ""
+    },
+    {
+      "id": 8848,
+      "title": "Розовая пантера наносит ответный удар",
+      "kp_id": "10294",
+      "imdb_id": "tt0075066",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-01-12 06:49:34",
+      "orig_title": "The Pink Panther Strikes Again",
+      "year": "1976-12-15",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2019-08-09 07:17:13",
+      "iframe_src": ""
+    },
+    {
+      "id": 3318,
+      "title": "12 разгневанных мужчин",
+      "kp_id": "346",
+      "imdb_id": "tt0050083",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-06-23 11:15:12",
+      "orig_title": "12 Angry Men",
+      "year": "1957-04-10",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-08-09 07:53:03",
+      "iframe_src": ""
+    },
+    {
+      "id": 1398,
+      "title": "Пила 6",
+      "kp_id": "414547",
+      "imdb_id": "tt1233227",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-04-21 09:44:43",
+      "orig_title": "Saw VI",
+      "year": "2009-10-22",
+      "translations": [
+        "Полное дублирование",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2019-08-11 06:07:16",
+      "iframe_src": ""
+    },
+    {
+      "id": 33,
+      "title": "Прогулка",
+      "kp_id": "829368",
+      "imdb_id": "tt3488710",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-02-06 22:58:43",
+      "orig_title": "The Walk",
+      "year": "2015-09-16",
+      "translations": [
+        "Полное дублирование",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2019-08-11 06:01:39",
       "iframe_src": ""
     }
   ]

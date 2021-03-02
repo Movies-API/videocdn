@@ -1,374 +1,366 @@
 {
   "data": [
     {
-      "id": 24250,
-      "title": "Леденящие душу истории - антология",
-      "kp_id": "1229461",
-      "imdb_id": "tt9606548",
+      "id": 24505,
+      "title": "Кто поедет в Трускавец?",
+      "kp_id": "271688",
+      "imdb_id": "tt1871304",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-04-10 08:03:06",
-      "orig_title": "New Chilling Tales - the Anthology",
-      "year": "2019-03-24",
+      "add": "2019-04-13 08:02:17",
+      "orig_title": "Kto poedet v Truskavets",
+      "year": "1977-01-01",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-04-10 11:18:03",
-      "iframe_src": ""
-    },
-    {
-      "id": 24230,
-      "title": "Пришелец Мессия",
-      "kp_id": null,
-      "imdb_id": "tt9914458",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-04-09 22:48:57",
-      "orig_title": "Alien Messiah",
-      "year": "2019-03-18",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
+        "Оригинальная дорожка"
       ],
       "quality": "dvdrip",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-04-10 11:25:31",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-04-13 09:29:14",
       "iframe_src": ""
     },
     {
-      "id": 24226,
-      "title": "Изгой",
-      "kp_id": "1094825",
-      "imdb_id": "tt6323870",
+      "id": 24501,
+      "title": "Деточки",
+      "kp_id": "745585",
+      "imdb_id": "tt3113176",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-04-09 22:40:41",
-      "orig_title": "Derelict",
-      "year": "2017-10-17",
+      "add": "2019-04-13 07:42:59",
+      "orig_title": "Detochki",
+      "year": "2013-04-03",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
+        "Оригинальная дорожка"
       ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-04-10 11:31:34",
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-04-13 09:26:23",
       "iframe_src": ""
     },
     {
-      "id": 24224,
-      "title": "Вечный боец",
+      "id": 24500,
+      "title": "Дирижёр",
+      "kp_id": "661124",
+      "imdb_id": "tt2287699",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-04-13 07:41:20",
+      "orig_title": "Dirizhyor",
+      "year": "2012-03-29",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "bd",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-04-13 09:22:03",
+      "iframe_src": ""
+    },
+    {
+      "id": 24498,
+      "title": "Гарпастум",
+      "kp_id": "194036",
+      "imdb_id": "tt0488832",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-04-13 07:38:33",
+      "orig_title": "Garpastum",
+      "year": "2005-09-11",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-04-13 09:21:01",
+      "iframe_src": ""
+    },
+    {
+      "id": 24496,
+      "title": "Испанский вояж Степаныча",
+      "kp_id": "276270",
+      "imdb_id": "tt6371824",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-04-13 07:35:25",
+      "orig_title": "Ispanskiy voyazh Stepanycha",
+      "year": "2006-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-04-13 09:19:27",
+      "iframe_src": ""
+    },
+    {
+      "id": 24495,
+      "title": "Коктебель",
+      "kp_id": "41252",
+      "imdb_id": "tt0372366",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-04-13 07:33:43",
+      "orig_title": "Koktebel",
+      "year": "2003-09-25",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-04-13 09:17:01",
+      "iframe_src": ""
+    },
+    {
+      "id": 24494,
+      "title": "Тупой жирный заяц",
+      "kp_id": "271975",
+      "imdb_id": "tt1297429",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-04-13 07:24:22",
+      "orig_title": "Tupoy zhirnyy zayats",
+      "year": "2007-04-03",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-04-13 09:12:54",
+      "iframe_src": ""
+    },
+    {
+      "id": 24467,
+      "title": "Плохой коп",
       "kp_id": null,
-      "imdb_id": "tt6097216",
+      "imdb_id": "tt5474302",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-04-09 22:37:51",
-      "orig_title": "Forever Fighter",
-      "year": "2017-08-04",
+      "add": "2019-04-12 21:26:45",
+      "orig_title": "Buliang Nujing",
+      "year": "2016-01-31",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-04-10 11:44:27",
-      "iframe_src": ""
-    },
-    {
-      "id": 24161,
-      "title": "Демон",
-      "kp_id": "929488",
-      "imdb_id": "tt4935158",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-04-09 06:38:08",
-      "orig_title": "Demon",
-      "year": "2015-09-17",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Колобок)",
-        "Любительский (одноголосый закадровый)"
+        "Любительский (многоголосый закадровый) (Колобок)"
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Колобок)",
-      "update": "2019-04-10 11:21:37",
+      "update": "2019-04-14 05:56:16",
       "iframe_src": ""
     },
     {
-      "id": 24107,
-      "title": "Шизофрения",
-      "kp_id": "41048",
-      "imdb_id": "tt0152409",
+      "id": 24466,
+      "title": "Бендеры",
+      "kp_id": "959052",
+      "imdb_id": "tt5338770",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-04-08 02:51:13",
-      "orig_title": "Shizofreniya",
-      "year": "1997-07-28",
+      "add": "2019-04-12 21:24:54",
+      "orig_title": "Bender",
+      "year": "2016-10-14",
       "translations": [
-        "Оригинальная дорожка"
+        "Любительский (многоголосый закадровый) (Колобок)"
       ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-04-10 09:00:28",
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Колобок)",
+      "update": "2019-04-14 05:57:07",
       "iframe_src": ""
     },
     {
-      "id": 24106,
-      "title": "Сентиментальный роман",
-      "kp_id": "43678",
-      "imdb_id": "tt0075190",
+      "id": 24459,
+      "title": "Я просто прикалываюсь",
+      "kp_id": "1233809",
+      "imdb_id": "tt9617546",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-04-08 02:45:53",
-      "orig_title": "Sentimentalnyy roman",
-      "year": "1976-12-01",
+      "add": "2019-04-12 21:04:54",
+      "orig_title": "I'm Just F*cking With You",
+      "year": "2019-03-10",
       "translations": [
-        "Оригинальная дорожка"
+        "Любительский (многоголосый закадровый) (Синема УС)"
       ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-04-10 08:59:37",
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-04-14 05:58:34",
       "iframe_src": ""
     },
     {
-      "id": 24105,
-      "title": "Семь нянек",
-      "kp_id": "43664",
-      "imdb_id": "tt0056466",
+      "id": 24456,
+      "title": "Стихи забвения",
+      "kp_id": "1049350",
+      "imdb_id": "tt7224496",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-04-08 02:30:03",
-      "orig_title": "Sem nyanek",
-      "year": "1962-08-04",
+      "add": "2019-04-12 20:57:40",
+      "orig_title": "Los Versos del Olvido",
+      "year": "2017-09-03",
       "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-04-10 08:58:59",
-      "iframe_src": ""
-    },
-    {
-      "id": 24104,
-      "title": "Притяжение",
-      "kp_id": "437003",
-      "imdb_id": "tt4516884",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-04-08 02:21:19",
-      "orig_title": "Prityazhenie",
-      "year": "2009-04-02",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-04-10 08:58:13",
-      "iframe_src": ""
-    },
-    {
-      "id": 24103,
-      "title": "Приказ: Огонь не открывать",
-      "kp_id": "43247",
-      "imdb_id": "tt0237608",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-04-08 02:13:19",
-      "orig_title": "Prikaz: ogon ne otkryvat",
-      "year": "1982-02-28",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-04-10 08:57:27",
-      "iframe_src": ""
-    },
-    {
-      "id": 24102,
-      "title": "Последний уик-энд",
-      "kp_id": "160898",
-      "imdb_id": "tt0764271",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-04-08 02:02:57",
-      "orig_title": "Posledniy uik-end",
-      "year": "2005-11-07",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-04-10 08:56:23",
-      "iframe_src": ""
-    },
-    {
-      "id": 24101,
-      "title": "Полное дыхание",
-      "kp_id": "356795",
-      "imdb_id": "tt1325618",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-04-08 01:56:30",
-      "orig_title": "Polnoe dykhanie",
-      "year": "2008-11-07",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-04-10 08:55:43",
-      "iframe_src": ""
-    },
-    {
-      "id": 24100,
-      "title": "По улицам комод водили...",
-      "kp_id": "43018",
-      "imdb_id": "tt0078094",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-04-08 01:41:04",
-      "orig_title": "Po ulitsam komod vodili...",
-      "year": "1978-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-04-10 08:52:20",
-      "iframe_src": ""
-    },
-    {
-      "id": 20889,
-      "title": "В случае убийства набирайте «М»",
-      "kp_id": "9028",
-      "imdb_id": "tt0046912",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-12-21 09:34:23",
-      "orig_title": "Dial M for Murder",
-      "year": "1954-05-19",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)",
-        "Original (English)"
+        "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-04-10 11:02:08",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-04-14 05:51:16",
       "iframe_src": ""
     },
     {
-      "id": 10264,
-      "title": "Логан",
-      "kp_id": "807682",
-      "imdb_id": "tt3315342",
+      "id": 24454,
+      "title": "Операция \"Тень\"",
+      "kp_id": "1080869",
+      "imdb_id": "tt7496972",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-03-08 23:37:25",
-      "orig_title": "Logan",
-      "year": "2017-02-17",
+      "add": "2019-04-12 20:54:08",
+      "orig_title": "Operasjon Mørkemann",
+      "year": "2018-03-23",
       "translations": [
-        "Полное дублирование",
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Авторский (одноголосый закадровый) (Чадов)",
-        "Original (English)"
+        "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2019-04-10 10:56:52",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-04-14 06:04:22",
       "iframe_src": ""
     },
     {
-      "id": 4257,
-      "title": "Наркоз",
-      "kp_id": "37547",
-      "imdb_id": "tt0211933",
+      "id": 24453,
+      "title": "Нона",
+      "kp_id": "1051393",
+      "imdb_id": "tt6902708",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-08-01 15:39:09",
-      "orig_title": "Awake",
-      "year": "2007-11-14",
+      "add": "2019-04-12 20:50:57",
+      "orig_title": "Nona",
+      "year": "2017-09-10",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-04-14 05:54:48",
+      "iframe_src": ""
+    },
+    {
+      "id": 24452,
+      "title": "Мои провинциалы",
+      "kp_id": "1038771",
+      "imdb_id": "tt6593240",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-04-12 20:48:34",
+      "orig_title": "Mes provinciales",
+      "year": "2018-02-18",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Колобок)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Колобок)",
+      "update": "2019-04-14 06:01:18",
+      "iframe_src": ""
+    },
+    {
+      "id": 24449,
+      "title": "Рассвет в раю",
+      "kp_id": "1178836",
+      "imdb_id": "tt8801584",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-04-12 20:43:57",
+      "orig_title": "Sunrise in Heaven",
+      "year": "2019-04-09",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-04-14 06:02:28",
+      "iframe_src": ""
+    },
+    {
+      "id": 22786,
+      "title": "Шедевр",
+      "kp_id": "1100861",
+      "imdb_id": "tt7605922",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-03-07 04:04:42",
+      "orig_title": "Mi obra maestra",
+      "year": "2018-08-16",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (iTunes)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый) (iTunes)",
+      "update": "2019-04-14 05:41:05",
+      "iframe_src": ""
+    },
+    {
+      "id": 22689,
+      "title": "Любовницы",
+      "kp_id": "1100374",
+      "imdb_id": "tt7670276",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-03-04 09:39:17",
+      "orig_title": "Lyubovnitsy",
+      "year": "2019-03-08",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "webdl",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-04-14 05:53:12",
+      "iframe_src": ""
+    },
+    {
+      "id": 20342,
+      "title": "Русское Краткое. Выпуск 1",
+      "kp_id": "1186152",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-11-28 09:36:42",
+      "orig_title": "Русское Краткое. Выпуск 1",
+      "year": "2018-10-19",
+      "translations": [
+        "Оригинальная дорожка",
+        "Оригинальная дорожка"
+      ],
+      "quality": "webdl",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-04-14 05:43:36",
+      "iframe_src": ""
+    },
+    {
+      "id": 17849,
+      "title": "Великий уравнитель 2",
+      "kp_id": "840294",
+      "imdb_id": "tt3766354",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-07-23 22:41:12",
+      "orig_title": "The Equalizer 2",
+      "year": "2018-07-19",
       "translations": [
         "Полное дублирование",
         "Original (English)"
       ],
       "quality": "bd",
       "translation": "Полное дублирование",
-      "update": "2019-04-10 11:02:58",
+      "update": "2019-04-13 15:28:08",
       "iframe_src": ""
     },
     {
-      "id": 2762,
-      "title": "Достучаться до небес",
-      "kp_id": "32898",
-      "imdb_id": "tt0119472",
+      "id": 1869,
+      "title": "Код Да Винчи",
+      "kp_id": "77711",
+      "imdb_id": "tt0382625",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-05-31 07:20:10",
-      "orig_title": "Knockin' on Heaven's Door",
-      "year": "1997-02-20",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)",
-        "Полное дублирование",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-04-10 10:58:04",
-      "iframe_src": ""
-    },
-    {
-      "id": 784,
-      "title": "Гладиатор",
-      "kp_id": "474",
-      "imdb_id": "tt0172495",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-04-08 14:24:08",
-      "orig_title": "Gladiator",
-      "year": "2000-05-01",
+      "add": "2016-05-04 16:07:59",
+      "orig_title": "The Da Vinci Code",
+      "year": "2006-05-17",
       "translations": [
         "Полное дублирование",
         "Original (English)"
       ],
       "quality": "bd",
       "translation": "Полное дублирование",
-      "update": "2019-04-10 11:00:39",
-      "iframe_src": ""
-    },
-    {
-      "id": 774,
-      "title": "Ной",
-      "kp_id": "596001",
-      "imdb_id": "tt1959490",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-04-07 19:52:11",
-      "orig_title": "Noah",
-      "year": "2014-03-10",
-      "translations": [
-        "Полное дублирование",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2019-04-10 10:56:04",
-      "iframe_src": ""
-    },
-    {
-      "id": 52,
-      "title": "Человек-Муравей",
-      "kp_id": "195496",
-      "imdb_id": "tt0478970",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-02-08 10:19:52",
-      "orig_title": "Ant-Man",
-      "year": "2015-06-29",
-      "translations": [
-        "Полное дублирование",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2019-04-10 11:08:46",
+      "update": "2019-04-13 15:29:10",
       "iframe_src": ""
     }
   ]

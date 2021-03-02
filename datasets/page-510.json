@@ -1,366 +1,387 @@
 {
   "data": [
     {
-      "id": 39978,
-      "title": "Собачий день",
-      "kp_id": "893882",
-      "imdb_id": null,
+      "id": 40152,
+      "title": "Кунтиланак 2",
+      "kp_id": "1263334",
+      "imdb_id": "tt10276328",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-04-30 05:00:12",
-      "orig_title": "Собачий день",
-      "year": "2015-12-07",
+      "add": "2020-05-06 04:37:35",
+      "orig_title": "Kuntilanak 2",
+      "year": "2019-06-04",
       "translations": [
-        "Оригинальная дорожка"
+        "Любительский (двухголосый закадровый) (Колобок)"
       ],
       "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2020-04-30 06:14:16",
+      "translation": "Любительский (двухголосый закадровый) (Колобок)",
+      "update": "2020-05-06 10:36:44",
       "iframe_src": ""
     },
     {
-      "id": 39977,
-      "title": "Меркель",
-      "kp_id": "1247085",
-      "imdb_id": "tt9262068",
+      "id": 40150,
+      "title": "Человеческий зоопарк",
+      "kp_id": "1373691",
+      "imdb_id": "tt5575918",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-04-30 04:54:28",
-      "orig_title": "Die Getriebenen",
-      "year": "2020-04-15",
+      "add": "2020-05-06 04:19:31",
+      "orig_title": "Human Zoo",
+      "year": "2020-05-05",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-04-30 06:54:09",
+      "update": "2020-05-06 10:42:46",
       "iframe_src": ""
     },
     {
-      "id": 39958,
-      "title": "Пес из Лас-Вегаса",
-      "kp_id": "19095",
-      "imdb_id": "tt0102813",
+      "id": 40140,
+      "title": "Аутсайдер",
+      "kp_id": "1224632",
+      "imdb_id": "tt9493708",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-04-29 20:28:56",
-      "orig_title": "Rover Dangerfield",
-      "year": "1991-07-01",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "dvdrip",
-      "translation": "Полное дублирование",
-      "update": "2020-04-29 21:12:04",
-      "iframe_src": ""
-    },
-    {
-      "id": 39957,
-      "title": "Мечта",
-      "kp_id": "1316888",
-      "imdb_id": "tt11173106",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-04-29 20:25:29",
-      "orig_title": "Sufna",
-      "year": "2020-02-14",
+      "add": "2020-05-05 21:54:26",
+      "orig_title": "Underdog",
+      "year": "2019-01-08",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-04-30 04:52:50",
+      "update": "2020-05-06 08:36:58",
       "iframe_src": ""
     },
     {
-      "id": 39955,
-      "title": "Вверх и вниз",
-      "kp_id": "488039",
-      "imdb_id": "tt1547050",
+      "id": 40139,
+      "title": "Пока мы не падем",
+      "kp_id": "1155735",
+      "imdb_id": "tt8047210",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-04-29 20:20:43",
-      "orig_title": "Up&Down",
-      "year": "2012-08-21",
+      "add": "2020-05-05 21:52:06",
+      "orig_title": "Til vi falder",
+      "year": "2018-11-28",
       "translations": [
-        "Профессиональный (двухголосый закадровый)"
-      ],
-      "quality": "sat",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2020-04-29 21:32:29",
-      "iframe_src": ""
-    },
-    {
-      "id": 39954,
-      "title": "Американская история 4: Загадка ночи",
-      "kp_id": "211948",
-      "imdb_id": "tt0197230",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-04-29 20:18:56",
-      "orig_title": "An American Tail: The Mystery of the Night Monster",
-      "year": "1999-12-09",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "dvdrip",
-      "translation": "Полное дублирование",
-      "update": "2020-04-29 21:12:23",
-      "iframe_src": ""
-    },
-    {
-      "id": 39953,
-      "title": "Зло",
-      "kp_id": "78938",
-      "imdb_id": "tt0198279",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-04-29 20:16:32",
-      "orig_title": "Absence of the Good",
-      "year": "1999-10-15",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-04-29 21:12:54",
-      "iframe_src": ""
-    },
-    {
-      "id": 39952,
-      "title": "Палач",
-      "kp_id": "167886",
-      "imdb_id": "tt0440464",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-04-29 20:13:21",
-      "orig_title": "The Headsman",
-      "year": "2005-08-31",
-      "translations": [
-        "Авторский (одноголосый закадровый) (Сербин)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Авторский (одноголосый закадровый) (Сербин)",
-      "update": "2020-04-29 21:13:24",
-      "iframe_src": ""
-    },
-    {
-      "id": 39948,
-      "title": "Игра возмездия",
-      "kp_id": "4969",
-      "imdb_id": "tt0323571",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-04-29 12:45:59",
-      "orig_title": "Nemesis Game",
-      "year": "2003-05-15",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
+        "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-04-30 04:48:15",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-05-06 08:37:46",
       "iframe_src": ""
     },
     {
-      "id": 39946,
-      "title": "Обыкновенные люди",
-      "kp_id": "2810",
-      "imdb_id": "tt0081283",
+      "id": 40138,
+      "title": "Помни меня",
+      "kp_id": "1032510",
+      "imdb_id": "tt4999290",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-04-29 12:05:24",
-      "orig_title": "Ordinary People",
-      "year": "1980-09-19",
+      "add": "2020-05-05 21:42:05",
+      "orig_title": "Remember Me",
+      "year": "2019-08-02",
       "translations": [
-        "Профессиональный (двухголосый закадровый) (НТВ)"
-      ],
-      "quality": "hdtv",
-      "translation": "Профессиональный (двухголосый закадровый) (НТВ)",
-      "update": "2020-04-29 21:15:34",
-      "iframe_src": ""
-    },
-    {
-      "id": 39944,
-      "title": "Фрау Элла",
-      "kp_id": "734921",
-      "imdb_id": "tt2669766",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-04-29 11:58:14",
-      "orig_title": "Frau Ella",
-      "year": "2013-10-17",
-      "translations": [
-        "Любительский (одноголосый закадровый) (PashaUp | Павел Морозов)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (одноголосый закадровый) (PashaUp | Павел Морозов)",
-      "update": "2020-04-29 21:17:32",
-      "iframe_src": ""
-    },
-    {
-      "id": 39941,
-      "title": "Последняя фантазия",
-      "kp_id": "1109853",
-      "imdb_id": "tt4773054",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-04-29 08:14:06",
-      "orig_title": "Akharin Dastan",
-      "year": "2018-05-16",
-      "translations": [
-        "Полное дублирование (iTunes)"
-      ],
-      "quality": "webdl",
-      "translation": "Полное дублирование (iTunes)",
-      "update": "2020-04-29 14:46:13",
-      "iframe_src": ""
-    },
-    {
-      "id": 39761,
-      "title": "Материнская клятва",
-      "kp_id": "86834",
-      "imdb_id": "tt0362798",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-04-23 22:48:04",
-      "orig_title": "Kasam Paida Karne Wale Ki",
-      "year": "1984-11-23",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-04-29 14:24:02",
-      "iframe_src": ""
-    },
-    {
-      "id": 39753,
-      "title": "Неведомое",
-      "kp_id": "460077",
-      "imdb_id": "tt1415252",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-04-23 16:41:53",
-      "orig_title": "Agyaat",
-      "year": "2009-08-07",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (ZEE TV)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый) (ZEE TV)",
-      "update": "2020-04-29 14:24:02",
-      "iframe_src": ""
-    },
-    {
-      "id": 39750,
-      "title": "Роковая тень",
-      "kp_id": "503876",
-      "imdb_id": "tt1612573",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-04-23 16:34:48",
-      "orig_title": "Rokkk",
-      "year": "2010-03-05",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "sat",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-04-29 14:24:01",
-      "iframe_src": ""
-    },
-    {
-      "id": 38236,
-      "title": "Верю в любовь",
-      "kp_id": "1255550",
-      "imdb_id": "tt9779516",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-03-19 13:02:31",
-      "orig_title": "I Still Believe",
-      "year": "2020-03-11",
-      "translations": [
-        "Полное дублирование",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2020-04-29 21:16:54",
-      "iframe_src": ""
-    },
-    {
-      "id": 36421,
-      "title": "Обыкновенная любовь",
-      "kp_id": "1138413",
-      "imdb_id": "tt6012380",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-02-17 14:25:26",
-      "orig_title": "Ordinary Love",
-      "year": "2019-09-09",
-      "translations": [
-        "Любительский (двухголосый закадровый) (LakeFilms)",
         "Любительский (многоголосый закадровый) (AlphaProject)"
       ],
       "quality": "webdl",
-      "translation": "Любительский (двухголосый закадровый) (LakeFilms)",
-      "update": "2020-04-29 20:39:34",
+      "translation": "Любительский (многоголосый закадровый) (AlphaProject)",
+      "update": "2020-05-06 11:04:46",
       "iframe_src": ""
     },
     {
-      "id": 22572,
-      "title": "Особенности русской бани",
-      "kp_id": "397896",
-      "imdb_id": "tt1130991",
+      "id": 40136,
+      "title": "Доктор С",
+      "kp_id": "1198732",
+      "imdb_id": "tt9060114",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-02-26 21:32:00",
-      "orig_title": "Osobennosti russkoy bani",
-      "year": "1999-09-27",
+      "add": "2020-05-05 21:07:00",
+      "orig_title": "Doctor S",
+      "year": "2018-10-16",
       "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2020-04-30 04:46:41",
-      "iframe_src": ""
-    },
-    {
-      "id": 8493,
-      "title": "Вирус",
-      "kp_id": "766637",
-      "imdb_id": "tt2351310",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-12-30 19:51:57",
-      "orig_title": "Gamgi",
-      "year": "2013-08-15",
-      "translations": [
-        "Любительский (двухголосый закадровый)",
-        "Профессиональный (многоголосый закадровый) (iTunes)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (двухголосый закадровый)",
-      "update": "2020-04-30 06:39:59",
-      "iframe_src": ""
-    },
-    {
-      "id": 5167,
-      "title": "Восточный ветер",
-      "kp_id": "703187",
-      "imdb_id": "tt2356464",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-09-08 15:14:29",
-      "orig_title": "Ostwind",
-      "year": "2013-03-21",
-      "translations": [
-        "Полное дублирование"
+        "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-05-06 08:46:59",
+      "iframe_src": ""
+    },
+    {
+      "id": 40135,
+      "title": "Игра в куклы: Псы войны",
+      "kp_id": "1368541",
+      "imdb_id": "tt12158538",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-05-05 21:04:23",
+      "orig_title": "Cry Havoc",
+      "year": "2020-05-05",
+      "translations": [
+        "Любительский (двухголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (двухголосый закадровый)",
+      "update": "2020-05-06 10:36:18",
+      "iframe_src": ""
+    },
+    {
+      "id": 40134,
+      "title": "Идеальный муж",
+      "kp_id": "1169320",
+      "imdb_id": "tt8653640",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-05-05 21:01:43",
+      "orig_title": "An Ideal Husband",
+      "year": "2018-06-05",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-05-06 08:45:25",
+      "iframe_src": ""
+    },
+    {
+      "id": 40133,
+      "title": "Кошки-мышки",
+      "kp_id": "1051531",
+      "imdb_id": "tt7225144",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-05-05 20:50:31",
+      "orig_title": "Bearkittens",
+      "year": "2018-04-19",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-05-06 08:43:30",
+      "iframe_src": ""
+    },
+    {
+      "id": 40132,
+      "title": "Экзорцизм на высоте 60 000 футов",
+      "kp_id": "1105048",
+      "imdb_id": "tt7677420",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-05-05 20:48:25",
+      "orig_title": "Exorcism at 60,000 Feet",
+      "year": "2019-08-09",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-05-06 08:39:17",
+      "iframe_src": ""
+    },
+    {
+      "id": 40130,
+      "title": "Острова",
+      "kp_id": "962537",
+      "imdb_id": "tt5304664",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-05-05 20:42:17",
+      "orig_title": "The Islands",
+      "year": "2019-12-06",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Любительский (двухголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-05-06 10:43:04",
+      "iframe_src": ""
+    },
+    {
+      "id": 40034,
+      "title": "Приключения приятеля сантехника",
+      "kp_id": "122871",
+      "imdb_id": "tt0077125",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-05-01 08:12:55",
+      "orig_title": "Adventures of a Plumber's Mate",
+      "year": "1978-05-18",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Гаврилов Андрей)",
+        "Авторский (одноголосый закадровый) (Дольский Андрей)",
+        "Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "Авторский (одноголосый закадровый) (Гаврилов Андрей)",
+      "update": "2020-05-06 06:57:08",
+      "iframe_src": ""
+    },
+    {
+      "id": 40033,
+      "title": "Убей меня позже",
+      "kp_id": "18216",
+      "imdb_id": "tt0243595",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-05-01 08:10:54",
+      "orig_title": "Kill Me Later",
+      "year": "2001-03-02",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Есарев Дмитрий)",
+        "Original (English)",
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Авторский (одноголосый закадровый) (Есарев Дмитрий)",
+      "update": "2020-05-06 06:55:09",
+      "iframe_src": ""
+    },
+    {
+      "id": 40032,
+      "title": "Знак Дракона",
+      "kp_id": "18237",
+      "imdb_id": "tt0108169",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-05-01 08:08:50",
+      "orig_title": "Snapdragon",
+      "year": "1993-12-01",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Горчаков Василий)",
+        "Авторский (одноголосый закадровый) (Михалёв Алексей)",
+        "Original (English)",
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Авторский (одноголосый закадровый) (Горчаков Василий)",
+      "update": "2020-05-06 06:23:27",
+      "iframe_src": ""
+    },
+    {
+      "id": 40031,
+      "title": "Вирус",
+      "kp_id": "4925",
+      "imdb_id": "tt0117716",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-05-01 08:06:34",
+      "orig_title": "Virus",
+      "year": "1996-12-10",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Визгунов Сергей)",
+        "Авторский (одноголосый закадровый) (Гаврилов Андрей)",
+        "Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "Авторский (одноголосый закадровый) (Визгунов Сергей)",
+      "update": "2020-05-06 06:19:53",
+      "iframe_src": ""
+    },
+    {
+      "id": 22625,
+      "title": "Ну разве не романтично?",
+      "kp_id": "714878",
+      "imdb_id": "tt2452244",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-03-03 08:02:00",
+      "orig_title": "Isn't It Romantic",
+      "year": "2019-02-13",
+      "translations": [
+        "Полное дублирование (Пифагор)",
+        "Любительский (двухголосый закадровый) (LakeFilms)",
+        "Original (English)",
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
+      ],
+      "quality": "webdl",
+      "translation": "Полное дублирование (Пифагор)",
+      "update": "2020-05-06 11:29:27",
+      "iframe_src": ""
+    },
+    {
+      "id": 21530,
+      "title": "Молоко и мёд",
+      "kp_id": "993787",
+      "imdb_id": "tt5803438",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-01-15 22:51:55",
+      "orig_title": "Milk and Honey: The Movie",
+      "year": "2018-11-02",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
+      "update": "2020-05-06 11:30:27",
+      "iframe_src": ""
+    },
+    {
+      "id": 16953,
+      "title": "Лос-Анджелес в огне",
+      "kp_id": "1008739",
+      "imdb_id": "tt5843850",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-05-30 09:59:58",
+      "orig_title": "Kings",
+      "year": "2017-09-13",
+      "translations": [
+        "Полное дублирование",
+        "Любительский (многоголосый закадровый) (Колобок)",
+        "Профессиональный (многоголосый закадровый) (GreenРай Studio)",
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
+      ],
+      "quality": "bd",
       "translation": "Полное дублирование",
-      "update": "2020-04-29 17:12:39",
+      "update": "2020-05-06 11:29:58",
+      "iframe_src": ""
+    },
+    {
+      "id": 16665,
+      "title": "Остров собак",
+      "kp_id": "939785",
+      "imdb_id": "tt5104604",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-05-06 21:50:12",
+      "orig_title": "Isle of Dogs",
+      "year": "2018-02-15",
+      "translations": [
+        "Полное дублирование (iTunes)",
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование (iTunes)",
+      "update": "2020-05-06 11:31:34",
+      "iframe_src": ""
+    },
+    {
+      "id": 6983,
+      "title": "Человек эпохи Возрождения",
+      "kp_id": "4836",
+      "imdb_id": "tt0110971",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-11-02 15:37:54",
+      "orig_title": "Renaissance Man",
+      "year": "1994-06-03",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)",
+        "Авторский (одноголосый закадровый) (Гаврилов Андрей)",
+        "Профессиональный (многоголосый закадровый) (СТС)",
+        "Профессиональный (двухголосый закадровый) (Twister)",
+        "Профессиональный (двухголосый закадровый) (Екатеринбург Арт)",
+        "Original (English)",
+        "Авторский (одноголосый закадровый) (Визгунов Сергей)",
+        "Авторский (одноголосый закадровый) (Гаврилов Андрей)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2020-05-06 06:08:44",
       "iframe_src": ""
     }
   ]

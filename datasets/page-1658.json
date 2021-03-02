@@ -1,367 +1,364 @@
 {
   "data": [
     {
-      "id": 17903,
-      "title": "Вендетта по-корсикански",
-      "kp_id": "57788",
-      "imdb_id": "tt0073066",
+      "id": 18112,
+      "title": "44 страницы",
+      "kp_id": "1059423",
+      "imdb_id": "tt6159734",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-07-25 23:53:40",
-      "orig_title": "Les grands moyens",
-      "year": "1976-02-06",
+      "add": "2018-08-05 21:18:44",
+      "orig_title": "44 Pages",
+      "year": "2017-03-06",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2018-08-06 07:32:12",
+      "iframe_src": ""
+    },
+    {
+      "id": 18081,
+      "title": "Ловушка для родителей 2",
+      "kp_id": "230644",
+      "imdb_id": "tt0091721",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-08-05 15:55:58",
+      "orig_title": "The Parent Trap II",
+      "year": "1986-07-26",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2018-08-06 07:57:22",
+      "iframe_src": ""
+    },
+    {
+      "id": 18080,
+      "title": "Эй, убийство!",
+      "kp_id": "189799",
+      "imdb_id": "tt0058382",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-08-05 15:54:31",
+      "orig_title": "Murder Ahoy",
+      "year": "1964-09-22",
+      "translations": [
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2018-08-06 07:57:03",
+      "iframe_src": ""
+    },
+    {
+      "id": 18079,
+      "title": "Тихая ночь, смертельная ночь 3: Лучше поберегись!",
+      "kp_id": "17132",
+      "imdb_id": "tt0098331",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-08-05 15:53:03",
+      "orig_title": "Silent Night, Deadly Night 3: Better Watch Out!",
+      "year": "1989-11-09",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Живов Юрий)"
+      ],
+      "quality": "webdl",
+      "translation": "Авторский (одноголосый закадровый) (Живов Юрий)",
+      "update": "2018-08-06 07:55:49",
+      "iframe_src": ""
+    },
+    {
+      "id": 18078,
+      "title": "Поверженный идол",
+      "kp_id": "62646",
+      "imdb_id": "tt0202046",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-08-05 15:46:43",
+      "orig_title": "Unmasking the Idol",
+      "year": "1986-11-17",
+      "translations": [
+        "Профессиональный (двухголосый закадровый) (НТВ)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (двухголосый закадровый) (НТВ)",
+      "update": "2018-08-06 07:54:11",
+      "iframe_src": ""
+    },
+    {
+      "id": 18077,
+      "title": "Бермудский треугольник",
+      "kp_id": "64407",
+      "imdb_id": "tt0098518",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-08-05 15:45:11",
+      "orig_title": "Trójkat bermudzki",
+      "year": "1988-10-17",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Чадов Михаил)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Авторский (одноголосый закадровый) (Чадов Михаил)",
+      "update": "2018-08-06 07:52:32",
+      "iframe_src": ""
+    },
+    {
+      "id": 18076,
+      "title": "Ломка",
+      "kp_id": "597518",
+      "imdb_id": "tt1977895",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-08-05 15:42:36",
+      "orig_title": "Resolution",
+      "year": "2012-04-22",
       "translations": [
         "Полное дублирование"
       ],
-      "quality": "vhs",
+      "quality": "bd",
       "translation": "Полное дублирование",
-      "update": "2018-07-26 05:06:24",
+      "update": "2018-08-06 07:52:23",
       "iframe_src": ""
     },
     {
-      "id": 17902,
-      "title": "Увольнение на берег",
-      "kp_id": "42548",
-      "imdb_id": "tt0314826",
+      "id": 18075,
+      "title": "Инициация: Тихая ночь, смертельная ночь 4",
+      "kp_id": "21777",
+      "imdb_id": "tt0100618",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-07-25 23:51:49",
-      "orig_title": "Uvolnenie na bereg",
-      "year": "1962-07-18",
+      "add": "2018-08-05 15:40:59",
+      "orig_title": "Initiation: Silent Night, Deadly Night 4",
+      "year": "1990-11-21",
       "translations": [
-        "Оригинальная дорожка"
+        "Авторский (одноголосый закадровый) (Живов Юрий)"
       ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2018-07-26 05:08:02",
+      "quality": "webdl",
+      "translation": "Авторский (одноголосый закадровый) (Живов Юрий)",
+      "update": "2018-08-06 07:51:50",
       "iframe_src": ""
     },
     {
-      "id": 17901,
-      "title": "Кровавое посвящение",
-      "kp_id": "9768",
-      "imdb_id": "tt0087472",
+      "id": 18074,
+      "title": "Тихая ночь, смертельная ночь 5: Создатель игрушек",
+      "kp_id": "21776",
+      "imdb_id": "tt0105410",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-07-25 23:49:05",
-      "orig_title": "The Initiation",
-      "year": "1984-12-07",
+      "add": "2018-08-05 15:39:26",
+      "orig_title": "Silent Night, Deadly Night 5: The Toy Maker",
+      "year": "1991-11-06",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Визгунов Сергей)"
+      ],
+      "quality": "webdl",
+      "translation": "Авторский (одноголосый закадровый) (Визгунов Сергей)",
+      "update": "2018-08-06 07:50:40",
+      "iframe_src": ""
+    },
+    {
+      "id": 18071,
+      "title": "Солдат Жаннетт",
+      "kp_id": "730832",
+      "imdb_id": "tt2551460",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-08-05 15:25:08",
+      "orig_title": "Soldate Jeannette",
+      "year": "2013-01-18",
       "translations": [
         "Профессиональный (двухголосый закадровый)"
       ],
-      "quality": "bd",
+      "quality": "sat",
       "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2018-07-26 05:09:57",
+      "update": "2018-08-06 07:45:38",
       "iframe_src": ""
     },
     {
-      "id": 17899,
-      "title": "Шумный день",
-      "kp_id": "43772",
-      "imdb_id": "tt0054303",
+      "id": 18070,
+      "title": "Гимн",
+      "kp_id": "99880",
+      "imdb_id": "tt0408161",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-07-25 23:44:34",
-      "orig_title": "Shumnyy den",
-      "year": "1961-01-07",
+      "add": "2018-08-05 15:23:44",
+      "orig_title": "Sanka",
+      "year": "1972-12-29",
       "translations": [
-        "Оригинальная дорожка"
+        "Любительский (одноголосый закадровый)"
       ],
       "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2018-07-26 05:21:16",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2018-08-06 07:44:44",
       "iframe_src": ""
     },
     {
-      "id": 17898,
-      "title": "Невеста с Севера",
-      "kp_id": "95349",
-      "imdb_id": "tt0359384",
+      "id": 18069,
+      "title": "Откровения сексуального маньяка главе криминальной полиции",
+      "kp_id": "40046",
+      "imdb_id": "tt0069186",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-07-25 23:42:53",
-      "orig_title": "Harsnatsun hyusisits",
-      "year": "1975-11-19",
+      "add": "2018-08-05 15:22:03",
+      "orig_title": "Rivelazioni di un maniaco sessuale al capo della squadra mobile",
+      "year": "1972-08-11",
       "translations": [
-        "Оригинальная дорожка"
+        "Любительский (одноголосый закадровый)"
       ],
       "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2018-07-26 05:22:36",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2018-08-06 07:43:15",
       "iframe_src": ""
     },
     {
-      "id": 17897,
-      "title": "Парк Горького",
-      "kp_id": "15898",
-      "imdb_id": "tt0085615",
+      "id": 18068,
+      "title": "Психотерапевт",
+      "kp_id": "57531",
+      "imdb_id": "tt0081387",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-07-25 23:41:16",
-      "orig_title": "Gorky Park",
-      "year": "1983-12-16",
+      "add": "2018-08-05 15:20:23",
+      "orig_title": "Psy",
+      "year": "1981-02-04",
       "translations": [
         "Профессиональный (двухголосый закадровый)"
       ],
-      "quality": "bd",
+      "quality": "dvdrip",
       "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2018-07-26 05:24:03",
+      "update": "2018-08-06 07:43:05",
       "iframe_src": ""
     },
     {
-      "id": 17895,
-      "title": "Одна любовь за другой",
-      "kp_id": "963500",
-      "imdb_id": "tt5457078",
+      "id": 18067,
+      "title": "Рисуй или занимайся любовью",
+      "kp_id": "109374",
+      "imdb_id": "tt0431975",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-07-25 23:34:26",
-      "orig_title": "Love After Love",
-      "year": "2017-04-22",
+      "add": "2018-08-05 15:16:21",
+      "orig_title": "Peindre ou faire l'amour",
+      "year": "2005-05-18",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
+        "Любительский (одноголосый закадровый)"
       ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-07-26 05:43:09",
+      "quality": "sat",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2018-08-06 07:41:41",
       "iframe_src": ""
     },
     {
-      "id": 17894,
-      "title": "Без утешения",
-      "kp_id": "847352",
-      "imdb_id": "tt4010848",
+      "id": 18066,
+      "title": "Нимфа",
+      "kp_id": "58735",
+      "imdb_id": "tt0117185",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-07-25 23:32:48",
-      "orig_title": "Lost Solace",
-      "year": "2016-03-04",
+      "add": "2018-08-05 15:14:08",
+      "orig_title": "Ninfa plebea",
+      "year": "1996-04-12",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-07-26 05:44:00",
-      "iframe_src": ""
-    },
-    {
-      "id": 17893,
-      "title": "Розовый домик",
-      "kp_id": "935164",
-      "imdb_id": "tt3863632",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-07-25 23:30:48",
-      "orig_title": "Little Pink House",
-      "year": "2017-02-03",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-07-26 05:45:13",
-      "iframe_src": ""
-    },
-    {
-      "id": 17890,
-      "title": "Дьявол и десять заповедей",
-      "kp_id": "54365",
-      "imdb_id": "tt0055904",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-07-25 23:20:16",
-      "orig_title": "Le diable et les 10 commandements",
-      "year": "1962-09-14",
-      "translations": [
-        "Полное дублирование"
+        "Любительский (одноголосый закадровый)"
       ],
       "quality": "dvdrip",
-      "translation": "Полное дублирование",
-      "update": "2018-07-26 05:51:33",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2018-08-06 07:40:43",
       "iframe_src": ""
     },
     {
-      "id": 17871,
-      "title": "Вертикаль",
-      "kp_id": "45733",
-      "imdb_id": "tt0182512",
+      "id": 18065,
+      "title": "Шах носильщику",
+      "kp_id": "96150",
+      "imdb_id": "tt0052436",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-07-24 13:42:29",
-      "orig_title": "Vertikal",
-      "year": "1967-06-19",
+      "add": "2018-08-05 15:12:07",
+      "orig_title": "Échec au porteur",
+      "year": "1958-01-15",
+      "translations": [
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2018-08-06 07:40:07",
+      "iframe_src": ""
+    },
+    {
+      "id": 18064,
+      "title": "Человек-акула",
+      "kp_id": "124595",
+      "imdb_id": "tt0459392",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-08-05 15:10:33",
+      "orig_title": "Hammerhead",
+      "year": "2005-06-18",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2018-08-06 07:38:09",
+      "iframe_src": ""
+    },
+    {
+      "id": 18063,
+      "title": "Той любой ценой",
+      "kp_id": "1112595",
+      "imdb_id": "tt8020832",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-08-05 15:08:11",
+      "orig_title": "Toy lyuboy tsenoy",
+      "year": "2018-03-21",
       "translations": [
         "Оригинальная дорожка"
       ],
-      "quality": "hdtv",
+      "quality": "webdl",
       "translation": "Оригинальная дорожка",
-      "update": "2018-07-26 06:39:59",
+      "update": "2018-08-06 07:35:17",
       "iframe_src": ""
     },
     {
-      "id": 17870,
-      "title": "Метель",
-      "kp_id": "502982",
+      "id": 18061,
+      "title": "5 причин не влюбиться в казаха",
+      "kp_id": "1111698",
       "imdb_id": null,
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-07-24 13:40:26",
-      "orig_title": "Метель",
-      "year": "2013-08-13",
+      "add": "2018-08-05 15:00:47",
+      "orig_title": "5 причин не влюбиться в казаха",
+      "year": "2017-12-27",
       "translations": [
         "Оригинальная дорожка"
       ],
-      "quality": "hdtv",
+      "quality": "sat",
       "translation": "Оригинальная дорожка",
-      "update": "2018-07-26 06:38:21",
+      "update": "2018-08-06 07:32:16",
       "iframe_src": ""
     },
     {
-      "id": 17869,
-      "title": "Мама вышла замуж",
-      "kp_id": "46524",
-      "imdb_id": "tt0064628",
+      "id": 1266,
+      "title": "Убей своих друзей",
+      "kp_id": "713797",
+      "imdb_id": "tt2474958",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-07-24 13:38:10",
-      "orig_title": "Mama vyshla zamuzh",
-      "year": "1970-05-25",
+      "add": "2016-04-19 12:22:08",
+      "orig_title": "Kill Your Friends",
+      "year": "2015-08-05",
       "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "hdtv",
-      "translation": "Оригинальная дорожка",
-      "update": "2018-07-26 06:37:17",
-      "iframe_src": ""
-    },
-    {
-      "id": 17868,
-      "title": "Мальчики + девочки =",
-      "kp_id": "742171",
-      "imdb_id": "tt4141472",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-07-24 13:37:12",
-      "orig_title": "Malchiki + Devochki =",
-      "year": "2014-12-07",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "hdtv",
-      "translation": "Оригинальная дорожка",
-      "update": "2018-07-26 06:35:53",
-      "iframe_src": ""
-    },
-    {
-      "id": 17863,
-      "title": "Гран при",
-      "kp_id": "8901",
-      "imdb_id": "tt0060472",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-07-24 13:28:39",
-      "orig_title": "Grand Prix",
-      "year": "1966-12-21",
-      "translations": [
-        "Полное дублирование"
+        "Любительский (двухголосый закадровый)",
+        "Полное дублирование (iTunes)"
       ],
       "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2018-07-26 06:05:35",
-      "iframe_src": ""
-    },
-    {
-      "id": 17861,
-      "title": "Кутерьма",
-      "kp_id": "5849",
-      "imdb_id": "tt0151568",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-07-23 23:26:37",
-      "orig_title": "Topsy-Turvy",
-      "year": "1999-09-03",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2018-07-26 06:02:26",
-      "iframe_src": ""
-    },
-    {
-      "id": 17802,
-      "title": "По эту сторону",
-      "kp_id": "825385",
-      "imdb_id": "tt3445702",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-07-20 22:32:54",
-      "orig_title": "1/1",
-      "year": "2018-07-07",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Любительский (двухголосый закадровый) (HiWayGrope)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-07-26 05:59:22",
-      "iframe_src": ""
-    },
-    {
-      "id": 17005,
-      "title": "Потёмки памяти",
-      "kp_id": "1067766",
-      "imdb_id": "tt6851638",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-06-02 22:27:36",
-      "orig_title": "Les Brumes du Souvenir",
-      "year": "2017-04-21",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Профессиональный (многоголосый закадровый) (GreenРай Studio)"
-      ],
-      "quality": "hdtv",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-07-26 05:45:46",
-      "iframe_src": ""
-    },
-    {
-      "id": 16632,
-      "title": "Стрельба по мишеням",
-      "kp_id": "1019339",
-      "imdb_id": "tt6138228",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-05-05 21:46:44",
-      "orig_title": "Downrange",
-      "year": "2017-09-10",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Любительский (многоголосый закадровый) (GreenРай Studio)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-07-26 05:56:39",
-      "iframe_src": ""
-    },
-    {
-      "id": 11762,
-      "title": "Мотылёк",
-      "kp_id": "899318",
-      "imdb_id": "tt4482572",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-06-01 22:28:49",
-      "orig_title": "Moth",
-      "year": "2016-01-14",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (GreenРай Studio)",
-        "Любительский (многоголосый закадровый) (Колобок)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый) (GreenРай Studio)",
-      "update": "2018-07-26 05:40:48",
+      "translation": "Любительский (двухголосый закадровый)",
+      "update": "2018-08-06 07:49:38",
       "iframe_src": ""
     }
   ]

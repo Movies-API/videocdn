@@ -1,364 +1,366 @@
 {
   "data": [
     {
-      "id": 18492,
-      "title": "Мамочка, я не делала этого",
-      "kp_id": "1017718",
-      "imdb_id": "tt6359600",
+      "id": 18762,
+      "title": "Эстерос",
+      "kp_id": "993132",
+      "imdb_id": "tt5883632",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-08-22 23:46:28",
-      "orig_title": "Mommy, I Didn't Do It",
-      "year": "2017-01-01",
+      "add": "2018-09-03 00:05:50",
+      "orig_title": "Esteros",
+      "year": "2016-05-27",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (GreenРай Studio)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый) (GreenРай Studio)",
+      "update": "2018-09-03 05:11:14",
+      "iframe_src": ""
+    },
+    {
+      "id": 18761,
+      "title": "Законы термодинамики",
+      "kp_id": "1003022",
+      "imdb_id": "tt6053938",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-09-02 23:48:11",
+      "orig_title": "Las leyes de la termodinámica",
+      "year": "2018-03-13",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-08-23 05:17:20",
+      "update": "2018-09-03 05:16:57",
       "iframe_src": ""
     },
     {
-      "id": 18491,
-      "title": "Совершая убийство",
-      "kp_id": "1006155",
-      "imdb_id": "tt6116568",
+      "id": 18758,
+      "title": "Научиться дышать",
+      "kp_id": "847735",
+      "imdb_id": "tt3696358",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-08-22 23:44:51",
-      "orig_title": "Making a Killing",
-      "year": "2018-08-10",
-      "translations": [
-        "Любительский (многоголосый закадровый) (@MUZOBOZ@)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-      "update": "2018-08-23 05:18:21",
-      "iframe_src": ""
-    },
-    {
-      "id": 18490,
-      "title": "Помалкивать",
-      "kp_id": "917539",
-      "imdb_id": "tt4789160",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-08-22 23:38:30",
-      "orig_title": "Keep Quiet",
-      "year": "2016-04-14",
+      "add": "2018-09-02 23:42:17",
+      "orig_title": "Learning to Breathe",
+      "year": "2016-08-23",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
-      "quality": "bd",
+      "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-08-23 05:19:45",
+      "update": "2018-09-03 05:22:30",
       "iframe_src": ""
     },
     {
-      "id": 18487,
-      "title": "Маленькая принцесса",
-      "kp_id": "6805",
-      "imdb_id": "tt0113670",
+      "id": 18756,
+      "title": "Сегодня я пойду домой один",
+      "kp_id": "580304",
+      "imdb_id": "tt1702014",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-08-22 23:23:13",
-      "orig_title": "A Little Princess",
-      "year": "1995-05-10",
+      "add": "2018-09-02 23:36:24",
+      "orig_title": "Hoje Eu Quero Voltar Sozinho",
+      "year": "2014-02-10",
       "translations": [
-        "Полное дублирование"
+        "Профессиональный (многоголосый закадровый) (GreenРай Studio)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый) (GreenРай Studio)",
+      "update": "2018-09-03 05:29:15",
+      "iframe_src": ""
+    },
+    {
+      "id": 18755,
+      "title": "Эль Чиво",
+      "kp_id": null,
+      "imdb_id": "tt4133102",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-09-02 23:33:18",
+      "orig_title": "El Chivo",
+      "year": "2016-04-08",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
-      "translation": "Полное дублирование",
-      "update": "2018-08-23 05:34:12",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2018-09-03 05:31:51",
       "iframe_src": ""
     },
     {
-      "id": 18458,
-      "title": "Красный холм",
-      "kp_id": "484491",
-      "imdb_id": "tt1530983",
+      "id": 18750,
+      "title": "Кэмпаут",
+      "kp_id": "919958",
+      "imdb_id": "tt4827442",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-08-20 21:46:54",
-      "orig_title": "Red Hill",
-      "year": "2010-02-14",
+      "add": "2018-09-02 23:25:41",
+      "orig_title": "tt4827442",
+      "year": "2017-07-04",
       "translations": [
-        "Профессиональный (двухголосый закадровый)"
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2018-09-03 05:36:32",
+      "iframe_src": ""
+    },
+    {
+      "id": 18710,
+      "title": "Улица Стилманвилль",
+      "kp_id": null,
+      "imdb_id": "tt7392060",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-08-31 22:50:54",
+      "orig_title": "Steelmanville Road",
+      "year": "2017-05-04",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2018-09-03 06:32:41",
+      "iframe_src": ""
+    },
+    {
+      "id": 18709,
+      "title": "Задушенные",
+      "kp_id": "963359",
+      "imdb_id": "tt3040224",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-08-31 22:40:20",
+      "orig_title": "Smothered",
+      "year": "2016-03-29",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2018-09-03 06:29:31",
+      "iframe_src": ""
+    },
+    {
+      "id": 18706,
+      "title": "Герой преступного мира",
+      "kp_id": "851801",
+      "imdb_id": "tt3586118",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-08-31 22:30:30",
+      "orig_title": "Hero of the Underworld",
+      "year": "2016-11-14",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2018-09-03 06:22:55",
+      "iframe_src": ""
+    },
+    {
+      "id": 18703,
+      "title": "Электрическая ностальгия",
+      "kp_id": "931654",
+      "imdb_id": "tt4985954",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-08-31 22:24:41",
+      "orig_title": "Electric Nostalgia",
+      "year": "2016-10-13",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Колобок)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Колобок)",
+      "update": "2018-09-03 06:19:23",
+      "iframe_src": ""
+    },
+    {
+      "id": 18702,
+      "title": "Дневник экзорциста",
+      "kp_id": "941746",
+      "imdb_id": "tt4930760",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-08-31 22:23:09",
+      "orig_title": "Diário de um Exorcista - Zero",
+      "year": "2016-05-25",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Колобок)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Колобок)",
+      "update": "2018-09-03 06:18:02",
+      "iframe_src": ""
+    },
+    {
+      "id": 18701,
+      "title": "Танцы с оборотнями",
+      "kp_id": "1005836",
+      "imdb_id": "tt6104768",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-08-31 22:20:47",
+      "orig_title": "Dances with Werewolves",
+      "year": "2016-11-01",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Колобок)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Колобок)",
+      "update": "2018-09-03 06:16:59",
+      "iframe_src": ""
+    },
+    {
+      "id": 18700,
+      "title": "Убийство в Альпийском предгорьи",
+      "kp_id": "1101581",
+      "imdb_id": "tt7623452",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-08-31 22:19:03",
+      "orig_title": "Crime dans les Alpilles",
+      "year": "2017-10-28",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (GreenРай Studio)"
+      ],
+      "quality": "hdtv",
+      "translation": "Профессиональный (многоголосый закадровый) (GreenРай Studio)",
+      "update": "2018-09-03 06:15:57",
+      "iframe_src": ""
+    },
+    {
+      "id": 18699,
+      "title": "Альенде в своем лабиринте",
+      "kp_id": "756367",
+      "imdb_id": "tt2782754",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-08-31 22:17:17",
+      "orig_title": "Allende en su laberinto",
+      "year": "2014-12-11",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (GreenРай Studio)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый) (GreenРай Studio)",
+      "update": "2018-09-03 06:15:12",
+      "iframe_src": ""
+    },
+    {
+      "id": 18698,
+      "title": "А или Б",
+      "kp_id": "1049193",
+      "imdb_id": "tt8366766",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-08-31 22:15:33",
+      "orig_title": "Mu hou wan jia",
+      "year": "2018-04-15",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Колобок)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Колобок)",
+      "update": "2018-09-03 05:39:33",
+      "iframe_src": ""
+    },
+    {
+      "id": 18697,
+      "title": "Педро",
+      "kp_id": "988814",
+      "imdb_id": "tt5840276",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-08-31 09:11:01",
+      "orig_title": "Pedro",
+      "year": "2016-07-16",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (GreenРай Studio)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый) (GreenРай Studio)",
+      "update": "2018-08-31 22:52:35",
+      "iframe_src": ""
+    },
+    {
+      "id": 18696,
+      "title": "Мой путь",
+      "kp_id": "506275",
+      "imdb_id": "tt1606384",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-08-31 09:08:39",
+      "orig_title": "Mai wei",
+      "year": "2011-12-22",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Сербин Юрий)"
       ],
       "quality": "bd",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2018-08-23 05:37:04",
+      "translation": "Авторский (одноголосый закадровый) (Сербин Юрий)",
+      "update": "2018-09-03 06:12:39",
       "iframe_src": ""
     },
     {
-      "id": 18457,
-      "title": "Гонки с дьяволом",
-      "kp_id": "33698",
-      "imdb_id": "tt0073600",
+      "id": 17278,
+      "title": "Болезнь в воскресенье",
+      "kp_id": "1003171",
+      "imdb_id": "tt6053948",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-08-20 21:44:53",
-      "orig_title": "Race with the Devil",
-      "year": "1975-06-27",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (5-й канал СПб)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый) (5-й канал СПб)",
-      "update": "2018-08-23 05:36:00",
-      "iframe_src": ""
-    },
-    {
-      "id": 18455,
-      "title": "Пинки",
-      "kp_id": "15050",
-      "imdb_id": "tt0041746",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-08-20 21:39:34",
-      "orig_title": "Pinky",
-      "year": "1949-09-29",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (5-й канал СПб)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый) (5-й канал СПб)",
-      "update": "2018-08-23 05:38:17",
-      "iframe_src": ""
-    },
-    {
-      "id": 18435,
-      "title": "Ежик в тумане",
-      "kp_id": "42461",
-      "imdb_id": "tt0073099",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-08-20 11:52:45",
-      "orig_title": "Yozhik v tumane",
-      "year": "1975-10-23",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "bd",
-      "translation": "Оригинальная дорожка",
-      "update": "2018-08-23 06:15:19",
-      "iframe_src": ""
-    },
-    {
-      "id": 18434,
-      "title": "Цапля и журавль",
-      "kp_id": "224058",
-      "imdb_id": "tt0071608",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-08-20 11:51:28",
-      "orig_title": "Tsaplya i zhuravl",
-      "year": "1975-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "bd",
-      "translation": "Оригинальная дорожка",
-      "update": "2018-08-23 06:14:01",
-      "iframe_src": ""
-    },
-    {
-      "id": 18433,
-      "title": "Сказка сказок",
-      "kp_id": "43816",
-      "imdb_id": "tt0079986",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-08-20 11:50:24",
-      "orig_title": "Skazka skazok",
-      "year": "1984-04-14",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "bd",
-      "translation": "Оригинальная дорожка",
-      "update": "2018-08-23 06:12:40",
-      "iframe_src": ""
-    },
-    {
-      "id": 18432,
-      "title": "Сеча при Керженце",
-      "kp_id": "46043",
-      "imdb_id": "tt0066813",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-08-20 11:48:55",
-      "orig_title": "Secha pri Kerzhentse",
-      "year": "1971-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "bd",
-      "translation": "Оригинальная дорожка",
-      "update": "2018-08-23 06:11:36",
-      "iframe_src": ""
-    },
-    {
-      "id": 18431,
-      "title": "Лиса и заяц",
-      "kp_id": "260062",
-      "imdb_id": "tt0437300",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-08-20 11:47:33",
-      "orig_title": "Lisa i zayats",
-      "year": "1973-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "bd",
-      "translation": "Оригинальная дорожка",
-      "update": "2018-08-23 06:10:03",
-      "iframe_src": ""
-    },
-    {
-      "id": 18430,
-      "title": "25-е – первый день",
-      "kp_id": "46791",
-      "imdb_id": "tt0062623",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-08-20 11:46:20",
-      "orig_title": "25-e - pervyy den",
-      "year": "1968-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "bd",
-      "translation": "Оригинальная дорожка",
-      "update": "2018-08-23 06:02:52",
-      "iframe_src": ""
-    },
-    {
-      "id": 18429,
-      "title": "Токийские сумерки",
-      "kp_id": "175120",
-      "imdb_id": "tt0051093",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-08-20 11:44:27",
-      "orig_title": "Tôkyô boshoku",
-      "year": "1957-04-30",
-      "translations": [
-        "Любительский (одноголосый закадровый) (Воротилин)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (одноголосый закадровый) (Воротилин)",
-      "update": "2018-08-23 06:01:19",
-      "iframe_src": ""
-    },
-    {
-      "id": 18427,
-      "title": "Земля до начала времен 3: В поисках воды",
-      "kp_id": "81211",
-      "imdb_id": "tt0113596",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-08-20 11:38:40",
-      "orig_title": "The Land Before Time III: The Time of the Great Giving",
-      "year": "1995-12-06",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2018-08-23 05:59:29",
-      "iframe_src": ""
-    },
-    {
-      "id": 18426,
-      "title": "Земля до начала времен 2: Приключения в Великой Долине",
-      "kp_id": "81210",
-      "imdb_id": "tt0110300",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-08-20 11:37:52",
-      "orig_title": "The Land Before Time II: The Great Valley Adventure",
-      "year": "1994-12-23",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2018-08-23 05:58:11",
-      "iframe_src": ""
-    },
-    {
-      "id": 18425,
-      "title": "Кузнечик и муравьи",
-      "kp_id": "19816",
-      "imdb_id": "tt0025200",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-08-20 11:36:33",
-      "orig_title": "The Grasshopper and the Ants",
-      "year": "1934-02-10",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2018-08-23 05:54:43",
-      "iframe_src": ""
-    },
-    {
-      "id": 18424,
-      "title": "Патология",
-      "kp_id": "279565",
-      "imdb_id": "tt0964539",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-08-20 11:35:14",
-      "orig_title": "Pathology",
-      "year": "2008-04-11",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2018-08-23 05:53:04",
-      "iframe_src": ""
-    },
-    {
-      "id": 18423,
-      "title": "Слон Элмер",
-      "kp_id": "19780",
-      "imdb_id": "tt0027569",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-08-20 11:33:50",
-      "orig_title": "Elmer Elephant",
-      "year": "1936-03-28",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2018-08-23 05:52:04",
-      "iframe_src": ""
-    },
-    {
-      "id": 16971,
-      "title": "Королевский финал",
-      "kp_id": "1142683",
-      "imdb_id": "tt8433858",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-05-30 11:00:25",
-      "orig_title": "Royally Ever After",
-      "year": "2018-05-19",
+      "add": "2018-06-21 00:39:14",
+      "orig_title": "La enfermedad del domingo",
+      "year": "2018-02-20",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)",
         "Профессиональный (многоголосый закадровый) (GreenРай Studio)"
       ],
-      "quality": "hdtv",
+      "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-08-23 05:12:51",
+      "update": "2018-09-03 05:12:45",
+      "iframe_src": ""
+    },
+    {
+      "id": 13427,
+      "title": "Ночь в СПА",
+      "kp_id": "951663",
+      "imdb_id": "tt5254640",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-09-11 21:51:26",
+      "orig_title": "Spa Night",
+      "year": "2016-01-24",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Профессиональный (многоголосый закадровый) (GreenРай Studio)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2018-09-03 06:30:41",
+      "iframe_src": ""
+    },
+    {
+      "id": 7592,
+      "title": "Игра на престоле",
+      "kp_id": "905140",
+      "imdb_id": "tt4634422",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-11-23 12:20:29",
+      "orig_title": "La corona partida",
+      "year": "2016-02-19",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Студия Пиратского Дубляжа)",
+        "Профессиональный (многоголосый закадровый) (GreenРай Studio)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (многоголосый закадровый) (Студия Пиратского Дубляжа)",
+      "update": "2018-09-03 05:23:44",
       "iframe_src": ""
     }
   ]

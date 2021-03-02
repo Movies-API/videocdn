@@ -1,366 +1,366 @@
 {
   "data": [
     {
-      "id": 21771,
-      "title": "Она",
-      "kp_id": "1045492",
-      "imdb_id": "tt6889668",
+      "id": 22044,
+      "title": "Лофт",
+      "kp_id": "429025",
+      "imdb_id": "tt0926762",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-01-24 18:19:32",
-      "orig_title": "Ona",
-      "year": "2017-11-30",
+      "add": "2019-02-04 00:05:56",
+      "orig_title": "Loft",
+      "year": "2008-10-22",
       "translations": [
-        "Оригинальная дорожка"
+        "Любительский (двухголосый закадровый) (LakeFilms)"
       ],
-      "quality": "sat",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-01-24 23:33:25",
+      "quality": "bd",
+      "translation": "Любительский (двухголосый закадровый) (LakeFilms)",
+      "update": "2019-02-04 07:38:04",
       "iframe_src": ""
     },
     {
-      "id": 21770,
-      "title": "Логово",
-      "kp_id": "1112635",
-      "imdb_id": null,
+      "id": 22040,
+      "title": "Борцы за свободу: Луч",
+      "kp_id": "1211053",
+      "imdb_id": "tt9293522",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-01-24 18:11:19",
-      "orig_title": "Logovo",
-      "year": "2017-11-30",
+      "add": "2019-02-03 23:54:47",
+      "orig_title": "Freedom Fighters - The Ray",
+      "year": "2018-08-28",
       "translations": [
-        "Оригинальная дорожка"
+        "Любительский (многоголосый закадровый) (Синема УС)"
       ],
-      "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-01-24 23:31:35",
+      "quality": "bd",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-02-04 07:44:58",
       "iframe_src": ""
     },
     {
-      "id": 21751,
-      "title": "Лео и легенда",
-      "kp_id": "281346",
-      "imdb_id": "tt1003009",
+      "id": 22036,
+      "title": "Предательство лучшей подруги",
+      "kp_id": "1173303",
+      "imdb_id": "tt8684564",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-01-24 09:32:10",
-      "orig_title": "La leyenda de la Nahuala",
-      "year": "2007-02-10",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-01-24 14:37:19",
-      "iframe_src": ""
-    },
-    {
-      "id": 21750,
-      "title": "Сливки Хакни",
-      "kp_id": "660559",
-      "imdb_id": "tt2167819",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-01-24 09:29:04",
-      "orig_title": "Hackney's Finest",
-      "year": "2014-06-14",
-      "translations": [
-        "Любительский (двухголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Любительский (двухголосый закадровый)",
-      "update": "2019-01-24 14:36:31",
-      "iframe_src": ""
-    },
-    {
-      "id": 21748,
-      "title": "Завтра и каждый день",
-      "kp_id": "936486",
-      "imdb_id": "tt5057904",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-01-24 09:17:15",
-      "orig_title": "Demain et tous les autres jours",
-      "year": "2017-09-27",
+      "add": "2019-02-03 23:45:05",
+      "orig_title": "Best Friend's Betrayal",
+      "year": "2019-01-13",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-01-24 14:33:24",
+      "update": "2019-02-04 07:41:28",
       "iframe_src": ""
     },
     {
-      "id": 21661,
-      "title": "За чужие грехи",
-      "kp_id": "908405",
-      "imdb_id": null,
+      "id": 22033,
+      "title": "Джора - лучший из лучших",
+      "kp_id": "1084010",
+      "imdb_id": "tt7202976",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-01-20 21:40:08",
-      "orig_title": "За чужие грехи",
-      "year": "2015-05-16",
+      "add": "2019-02-03 23:36:15",
+      "orig_title": "Jora 10 Numbaria",
+      "year": "2017-09-01",
       "translations": [
-        "Оригинальная дорожка"
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-02-04 07:39:01",
+      "iframe_src": ""
+    },
+    {
+      "id": 22030,
+      "title": "Эльф на прокат",
+      "kp_id": "1209514",
+      "imdb_id": "tt9272928",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-02-03 23:31:01",
+      "orig_title": "Rent-an-Elf",
+      "year": "2018-12-08",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (AlphaProject)"
       ],
       "quality": "hdtv",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-01-24 14:39:44",
+      "translation": "Профессиональный (многоголосый закадровый) (AlphaProject)",
+      "update": "2019-02-04 08:40:29",
       "iframe_src": ""
     },
     {
-      "id": 21647,
-      "title": "Мир Рауля",
-      "kp_id": "683236",
-      "imdb_id": "tt2401813",
+      "id": 22029,
+      "title": "Праздник с горчинкой",
+      "kp_id": "1069437",
+      "imdb_id": "tt7476856",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-01-20 13:24:09",
-      "orig_title": "Un mundo para Raúl",
-      "year": "2012-07-15",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Rainbow World)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Rainbow World)",
-      "update": "2019-01-24 07:51:45",
-      "iframe_src": ""
-    },
-    {
-      "id": 21646,
-      "title": "Рубен",
-      "kp_id": "698596",
-      "imdb_id": "tt2230880",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-01-20 13:22:55",
-      "orig_title": "Ruben",
-      "year": "2012-09-01",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Rainbow World)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Rainbow World)",
-      "update": "2019-01-24 07:50:01",
-      "iframe_src": ""
-    },
-    {
-      "id": 21645,
-      "title": "Союз Западных Ценностей",
-      "kp_id": null,
-      "imdb_id": "tt2456060",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-01-20 13:21:30",
-      "orig_title": "Ovo",
-      "year": "2012-10-14",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Rainbow World)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Rainbow World)",
-      "update": "2019-01-24 07:48:41",
-      "iframe_src": ""
-    },
-    {
-      "id": 21644,
-      "title": "Макс Пейн: Валгалла",
-      "kp_id": "687519",
-      "imdb_id": "tt2150820",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-01-20 13:18:41",
-      "orig_title": "Max Payne: Valhalla",
-      "year": "2012-05-03",
-      "translations": [
-        "Любительский (двухголосый закадровый) (Shadow Dub Project)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (двухголосый закадровый) (Shadow Dub Project)",
-      "update": "2019-01-24 07:47:17",
-      "iframe_src": ""
-    },
-    {
-      "id": 21555,
-      "title": "Музыка нас связала",
-      "kp_id": "531075",
-      "imdb_id": "tt1672845",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-01-16 16:05:06",
-      "orig_title": "You Instead",
-      "year": "2011-09-16",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-01-24 07:04:47",
-      "iframe_src": ""
-    },
-    {
-      "id": 21553,
-      "title": "Микки и Мод",
-      "kp_id": "18244",
-      "imdb_id": "tt0087718",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-01-16 16:02:48",
-      "orig_title": "Micki + Maude",
-      "year": "1984-12-21",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (Первый канал | ОРТ)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый) (Первый канал | ОРТ)",
-      "update": "2019-01-24 07:02:09",
-      "iframe_src": ""
-    },
-    {
-      "id": 21552,
-      "title": "Мальчишник в Новом Орлеане",
-      "kp_id": "403593",
-      "imdb_id": "tt1083462",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-01-16 16:01:59",
-      "orig_title": "Mardi Gras: Spring Break",
-      "year": "2011-09-23",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-01-24 07:01:21",
-      "iframe_src": ""
-    },
-    {
-      "id": 21551,
-      "title": "Игра",
-      "kp_id": "572449",
-      "imdb_id": "tt1772872",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-01-16 16:00:32",
-      "orig_title": "Game",
-      "year": "2011-03-31",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (SDI Media)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый) (SDI Media)",
-      "update": "2019-01-24 07:00:30",
-      "iframe_src": ""
-    },
-    {
-      "id": 21550,
-      "title": "Альбатрос",
-      "kp_id": "484347",
-      "imdb_id": "tt1541149",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-01-16 15:58:12",
-      "orig_title": "Albatross",
-      "year": "2011-06-19",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-01-24 06:59:24",
-      "iframe_src": ""
-    },
-    {
-      "id": 21549,
-      "title": "Путешествие отверженных",
-      "kp_id": "1779",
-      "imdb_id": "tt0075406",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-01-16 15:57:03",
-      "orig_title": "Voyage of the Damned",
-      "year": "1976-12-20",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-01-24 06:57:40",
-      "iframe_src": ""
-    },
-    {
-      "id": 21548,
-      "title": "Последнее соблазнение",
-      "kp_id": "17686",
-      "imdb_id": "tt0110308",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-01-16 15:55:51",
-      "orig_title": "The Last Seduction",
-      "year": "1994-05-26",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (Екатеринбург Арт)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый) (Екатеринбург Арт)",
-      "update": "2019-01-23 12:09:41",
-      "iframe_src": ""
-    },
-    {
-      "id": 20537,
-      "title": "Парень в камуфляжной куртке",
-      "kp_id": "1046571",
-      "imdb_id": "tt5130274",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-12-06 20:40:19",
-      "orig_title": "Man in the Camo Jacket",
-      "year": "2017-06-15",
+      "add": "2019-02-03 23:29:30",
+      "orig_title": "Pity Party",
+      "year": "2018-10-19",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-01-24 23:32:36",
+      "update": "2019-02-04 08:41:33",
       "iframe_src": ""
     },
     {
-      "id": 19184,
-      "title": "Человек, который убил Дон Кихота",
-      "kp_id": "650699",
-      "imdb_id": "tt1318517",
+      "id": 22027,
+      "title": "Секреты McDonald's: Биг Маку 50 лет",
+      "kp_id": null,
+      "imdb_id": "tt8589834",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-09-26 07:12:08",
-      "orig_title": "The Man Who Killed Don Quixote",
-      "year": "2018-05-19",
+      "add": "2019-02-03 23:01:47",
+      "orig_title": "Secrets of McDonald's: 50 Years of the Big Mac",
+      "year": "2018-06-20",
       "translations": [
-        "Полное дублирование",
-        "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-        "Полное дублирование (iTunes)"
+        "Любительский (многоголосый закадровый) (Синема УС)"
       ],
-      "quality": "dvdrip",
-      "translation": "Полное дублирование",
-      "update": "2019-01-24 14:35:52",
+      "quality": "hdtv",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-02-04 08:43:23",
       "iframe_src": ""
     },
     {
-      "id": 15908,
-      "title": "Между нами, девочками",
-      "kp_id": "1015802",
-      "imdb_id": "tt6085308",
+      "id": 22019,
+      "title": "Моей родины больше нет",
+      "kp_id": "729313",
+      "imdb_id": "tt2486792",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-03-29 21:40:24",
-      "orig_title": "Qualcosa di nuovo",
-      "year": "2016-10-13",
+      "add": "2019-02-03 22:47:57",
+      "orig_title": "My Country No More",
+      "year": "2018-02-23",
       "translations": [
-        "Любительский (двухголосый закадровый) (HiWayGrope)",
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "hdtv",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-02-04 08:44:51",
+      "iframe_src": ""
+    },
+    {
+      "id": 22018,
+      "title": "Мунафик 2",
+      "kp_id": "1062823",
+      "imdb_id": "tt7059506",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-02-02 15:29:48",
+      "orig_title": "Munafik 2",
+      "year": "2018-08-27",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Колобок)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Колобок)",
+      "update": "2019-02-04 07:55:08",
+      "iframe_src": ""
+    },
+    {
+      "id": 22016,
+      "title": "Гойо: Молодой генерал",
+      "kp_id": "948853",
+      "imdb_id": "tt5094192",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-02-02 15:27:15",
+      "orig_title": "Goyo: The Boy General",
+      "year": "2018-09-05",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-02-04 07:57:21",
+      "iframe_src": ""
+    },
+    {
+      "id": 22012,
+      "title": "Богема: Вживую",
+      "kp_id": null,
+      "imdb_id": "tt6881910",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-02-02 15:16:06",
+      "orig_title": "Rent: Live",
+      "year": "2019-01-27",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-02-04 07:59:31",
+      "iframe_src": ""
+    },
+    {
+      "id": 22006,
+      "title": "Недостойная любви",
+      "kp_id": "1023300",
+      "imdb_id": "tt5926990",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-02-02 14:52:47",
+      "orig_title": "Unlovable",
+      "year": "2018-03-10",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-02-04 08:00:27",
+      "iframe_src": ""
+    },
+    {
+      "id": 22005,
+      "title": "Бархатная бензопила",
+      "kp_id": "1046246",
+      "imdb_id": "tt7043012",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-02-02 14:50:59",
+      "orig_title": "Velvet Buzzsaw",
+      "year": "2019-02-01",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "webdl",
+      "translation": "Полное дублирование",
+      "update": "2019-02-04 08:04:31",
+      "iframe_src": ""
+    },
+    {
+      "id": 22003,
+      "title": "Убежище",
+      "kp_id": null,
+      "imdb_id": "tt6644636",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-02-02 14:36:04",
+      "orig_title": "Yuddham Sharanam",
+      "year": "2017-09-08",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-02-04 08:46:23",
+      "iframe_src": ""
+    },
+    {
+      "id": 21995,
+      "title": "Наша история",
+      "kp_id": null,
+      "imdb_id": "tt7736536",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-02-02 14:01:20",
+      "orig_title": "All of You",
+      "year": "2017-12-25",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (AlphaProject)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый) (AlphaProject)",
+      "update": "2019-02-04 08:33:28",
+      "iframe_src": ""
+    },
+    {
+      "id": 21991,
+      "title": "Рождество по-королевски",
+      "kp_id": "1207269",
+      "imdb_id": "tt9217732",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-02-02 13:54:10",
+      "orig_title": "A Christmas in Royal Fashion",
+      "year": "2018-12-16",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "hdtv",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-02-04 07:56:23",
+      "iframe_src": ""
+    },
+    {
+      "id": 21429,
+      "title": "В одиночку",
+      "kp_id": "1095582",
+      "imdb_id": "tt6699860",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-01-11 21:38:54",
+      "orig_title": "Solo",
+      "year": "2018-03-18",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Любительский (двухголосый закадровый) (HiWayGrope)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-02-04 08:42:29",
+      "iframe_src": ""
+    },
+    {
+      "id": 17144,
+      "title": "Первые",
+      "kp_id": "935794",
+      "imdb_id": "tt8580428",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-06-11 23:36:55",
+      "orig_title": "Первые",
+      "year": "2018-06-07",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "webdl",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-02-04 07:48:22",
+      "iframe_src": ""
+    },
+    {
+      "id": 13731,
+      "title": "Любовь в Городе Ангелов",
+      "kp_id": "1045551",
+      "imdb_id": "tt7623230",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-10-04 22:09:57",
+      "orig_title": "Lyubov v Gorode Angelov",
+      "year": "2017-09-29",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)",
+        "Оригинальная дорожка"
+      ],
+      "quality": "camrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-02-04 07:50:29",
+      "iframe_src": ""
+    },
+    {
+      "id": 11540,
+      "title": "Последнее лицо",
+      "kp_id": "810264",
+      "imdb_id": "tt3286560",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-05-14 22:26:45",
+      "orig_title": "The Last Face",
+      "year": "2016-05-20",
+      "translations": [
+        "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "webdl",
-      "translation": "Любительский (двухголосый закадровый) (HiWayGrope)",
-      "update": "2019-01-24 14:28:10",
+      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
+      "update": "2019-02-04 07:47:20",
       "iframe_src": ""
     }
   ]

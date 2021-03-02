@@ -1,374 +1,377 @@
 {
   "data": [
     {
-      "id": 20385,
-      "title": "Рождественская надежда",
-      "kp_id": "1198304",
-      "imdb_id": "tt9033640",
+      "id": 20532,
+      "title": "Гордость воина",
+      "kp_id": "1057745",
+      "imdb_id": "tt6953526",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-11-29 23:44:37",
-      "orig_title": "Hope at Christmas",
-      "year": "2018-11-20",
+      "add": "2018-12-06 01:04:21",
+      "orig_title": "Warrior Pride",
+      "year": "2018-01-01",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
-      "quality": "hdtv",
+      "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-11-30 08:03:45",
+      "update": "2018-12-06 08:05:44",
       "iframe_src": ""
     },
     {
-      "id": 20384,
-      "title": "Дорогая, я увеличил ребенка",
-      "kp_id": "3224",
-      "imdb_id": "tt0104437",
+      "id": 20531,
+      "title": "Старый дом",
+      "kp_id": "1192038",
+      "imdb_id": "tt9053906",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-11-29 23:42:35",
-      "orig_title": "Honey I Blew Up the Kid",
-      "year": "1992-07-17",
+      "add": "2018-12-06 00:58:34",
+      "orig_title": "Gu zhai",
+      "year": "2018-09-25",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Колобок)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (многоголосый закадровый) (Колобок)",
+      "update": "2018-12-06 08:11:03",
+      "iframe_src": ""
+    },
+    {
+      "id": 20530,
+      "title": "Агентство наёмников",
+      "kp_id": "1128440",
+      "imdb_id": "tt8197418",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-12-06 00:54:12",
+      "orig_title": "The Hitman Agency",
+      "year": "2018-04-04",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2018-12-06 08:12:38",
+      "iframe_src": ""
+    },
+    {
+      "id": 20529,
+      "title": "Парни из Бромли",
+      "kp_id": "661356",
+      "imdb_id": "tt2179231",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-12-06 00:53:06",
+      "orig_title": "The Bromley Boys",
+      "year": "2018-06-01",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2018-12-06 08:13:41",
+      "iframe_src": ""
+    },
+    {
+      "id": 20528,
+      "title": "Свайп: Правила съема в цифровую эпоху",
+      "kp_id": "1179985",
+      "imdb_id": "tt8839634",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-12-06 00:51:30",
+      "orig_title": "Swiped: Hooking Up in the Digital Age",
+      "year": "2018-09-10",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "webdl",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2018-11-30 08:02:30",
+      "update": "2018-12-06 08:14:40",
       "iframe_src": ""
     },
     {
-      "id": 20383,
-      "title": "Мастера игровых шоу",
-      "kp_id": "1169259",
-      "imdb_id": "tt7539078",
+      "id": 20527,
+      "title": "Назови ее имя: Жизнь и смерть Сандры Бланд",
+      "kp_id": "1209889",
+      "imdb_id": "tt8106584",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-11-29 23:39:38",
-      "orig_title": "Game Changers",
-      "year": "2018-06-29",
+      "add": "2018-12-06 00:49:57",
+      "orig_title": "Say Her Name: The Life and Death of Sandra Bland",
+      "year": "2018-04-25",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-11-30 07:58:46",
-      "iframe_src": ""
-    },
-    {
-      "id": 20381,
-      "title": "Европейский расклад",
-      "kp_id": "995481",
-      "imdb_id": "tt5827590",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-11-29 23:35:27",
-      "orig_title": "Ou zhou gong lue",
-      "year": "2018-08-17",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-11-30 07:56:19",
-      "iframe_src": ""
-    },
-    {
-      "id": 20380,
-      "title": "Водитель",
-      "kp_id": "949856",
-      "imdb_id": "tt5240090",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-11-29 23:33:31",
-      "orig_title": "Driver",
-      "year": "2018-11-20",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "hdrip",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-11-30 07:55:03",
-      "iframe_src": ""
-    },
-    {
-      "id": 20379,
-      "title": "Психофония",
-      "kp_id": "785579",
-      "imdb_id": "tt3098998",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-11-29 23:31:32",
-      "orig_title": "Deadly Signal",
-      "year": "2016-10-07",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Колобок)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Колобок)",
-      "update": "2018-11-30 07:52:28",
-      "iframe_src": ""
-    },
-    {
-      "id": 20377,
-      "title": "Подбирая лица",
-      "kp_id": "857236",
-      "imdb_id": "tt3954422",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-11-29 23:28:05",
-      "orig_title": "Crossing Over",
-      "year": "2017-08-06",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-11-30 07:49:37",
-      "iframe_src": ""
-    },
-    {
-      "id": 20376,
-      "title": "Тайна Авроры Тигарден: Проблемный сверток",
-      "kp_id": "1044464",
-      "imdb_id": "tt6760562",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-11-29 23:21:34",
-      "orig_title": "A Bundle of Trouble: An Aurora Teagarden Mystery",
-      "year": "2017-05-14",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "hdtv",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-11-30 07:45:17",
-      "iframe_src": ""
-    },
-    {
-      "id": 20375,
-      "title": "Нежная кожа",
-      "kp_id": "1048941",
-      "imdb_id": "tt7133648",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-11-29 23:18:41",
-      "orig_title": "Ta peau si lisse",
-      "year": "2017-08-04",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-11-30 07:42:41",
-      "iframe_src": ""
-    },
-    {
-      "id": 20000,
-      "title": "Парень из Голливуда, или Необыкновенные приключения Вени Везунчика",
-      "kp_id": "1039060",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-11-06 20:52:57",
-      "orig_title": "Парень из Голливуда, или Необыкновенные приключения Вени Везунчика",
-      "year": "2018-11-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2018-11-30 07:54:15",
-      "iframe_src": ""
-    },
-    {
-      "id": 8645,
-      "title": "Рождественская звезда",
-      "kp_id": "906061",
-      "imdb_id": "tt4591840",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-01-07 08:44:55",
-      "orig_title": "A Christmas Star",
-      "year": "2015-11-13",
-      "translations": [
-        "Любительский (одноголосый закадровый)",
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2018-11-30 07:43:57",
-      "iframe_src": ""
-    },
-    {
-      "id": 2340,
-      "title": "Доза реальности",
-      "kp_id": "661308",
-      "imdb_id": "tt1961279",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-05-19 10:41:12",
-      "orig_title": "Dose of Reality",
-      "year": "2013-02-28",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)",
-        "Original (English)"
+        "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "webdl",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2018-11-29 14:26:57",
+      "update": "2018-12-06 08:15:45",
       "iframe_src": ""
     },
     {
-      "id": 2331,
-      "title": "Контроль",
-      "kp_id": "61289",
-      "imdb_id": "tt0374584",
+      "id": 20525,
+      "title": "Каждый день Рождество",
+      "kp_id": "1200478",
+      "imdb_id": "tt9102152",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-05-19 05:30:53",
-      "orig_title": "Control",
-      "year": "2004-12-07",
+      "add": "2018-12-06 00:45:07",
+      "orig_title": "Every Day is Christmas",
+      "year": "2018-11-24",
       "translations": [
-        "Профессиональный (многоголосый закадровый)",
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2018-12-06 08:20:34",
+      "iframe_src": ""
+    },
+    {
+      "id": 20524,
+      "title": "Плохая компания",
+      "kp_id": "788536",
+      "imdb_id": "tt3111306",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-12-06 00:40:51",
+      "orig_title": "Bad Company",
+      "year": "2018-08-14",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2018-12-06 08:24:38",
+      "iframe_src": ""
+    },
+    {
+      "id": 20476,
+      "title": "Баттл",
+      "kp_id": "1071526",
+      "imdb_id": "tt6854672",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-12-03 23:49:49",
+      "orig_title": "Battle",
+      "year": "2018-09-28",
+      "translations": [
+        "Любительский (двухголосый закадровый) (LakeFilms)",
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (двухголосый закадровый) (LakeFilms)",
+      "update": "2018-12-06 08:21:50",
+      "iframe_src": ""
+    },
+    {
+      "id": 18314,
+      "title": "Терминатор II",
+      "kp_id": "23300",
+      "imdb_id": "tt0098321",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-08-15 06:30:12",
+      "orig_title": "Terminator II",
+      "year": "1990-08-22",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Котов Вячеслав)",
         "Original (English)"
       ],
       "quality": "bd",
+      "translation": "Авторский (одноголосый закадровый) (Котов Вячеслав)",
+      "update": "2018-12-05 15:31:45",
+      "iframe_src": ""
+    },
+    {
+      "id": 17794,
+      "title": "Робин Уильямс: Загляни в мою душу",
+      "kp_id": "1111391",
+      "imdb_id": "tt7689966",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-07-19 00:10:05",
+      "orig_title": "Robin Williams: Come Inside My Mind",
+      "year": "2018-06-14",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)",
+        "Профессиональный (многоголосый закадровый) (Jaskier)"
+      ],
+      "quality": "webdl",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2018-11-29 14:20:10",
+      "update": "2018-12-06 08:07:00",
       "iframe_src": ""
     },
     {
-      "id": 2330,
-      "title": "Электра",
-      "kp_id": "7030",
-      "imdb_id": "tt0357277",
+      "id": 15201,
+      "title": "Золотые выходы",
+      "kp_id": "976295",
+      "imdb_id": "tt5687814",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-05-19 05:29:33",
-      "orig_title": "Elektra",
-      "year": "2005-01-08",
+      "add": "2018-02-17 11:43:35",
+      "orig_title": "Golden Exits",
+      "year": "2017-01-22",
+      "translations": [
+        "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
+        "Профессиональный (многоголосый закадровый) (GreenРай Studio)",
+        "Любительский (двухголосый закадровый) (LakeFilms)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
+      "update": "2018-12-06 08:17:52",
+      "iframe_src": ""
+    },
+    {
+      "id": 1464,
+      "title": "Такие разные близнецы",
+      "kp_id": "462883",
+      "imdb_id": "tt0810913",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-04-21 15:15:16",
+      "orig_title": "Jack and Jill",
+      "year": "2011-11-11",
       "translations": [
         "Полное дублирование",
         "Original (English)"
       ],
       "quality": "bd",
       "translation": "Полное дублирование",
-      "update": "2018-11-29 14:32:38",
+      "update": "2018-12-05 15:27:13",
       "iframe_src": ""
     },
     {
-      "id": 2307,
-      "title": "Аферисты Дик и Джейн",
-      "kp_id": "61438",
-      "imdb_id": "tt0369441",
+      "id": 1433,
+      "title": "Пиджак",
+      "kp_id": "47382",
+      "imdb_id": "tt0366627",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-05-17 19:32:38",
-      "orig_title": "Fun with Dick and Jane",
-      "year": "2005-12-21",
+      "add": "2016-04-21 13:30:19",
+      "orig_title": "The Jacket",
+      "year": "2005-01-23",
       "translations": [
         "Полное дублирование",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2018-12-05 15:28:20",
+      "iframe_src": ""
+    },
+    {
+      "id": 1382,
+      "title": "Сквозь снег",
+      "kp_id": "566283",
+      "imdb_id": "tt1706620",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-04-21 09:11:39",
+      "orig_title": "Snowpiercer",
+      "year": "2013-07-29",
+      "translations": [
+        "Любительский (многоголосый закадровый)",
+        "Авторский (одноголосый закадровый) (Дольский Андрей)",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (многоголосый закадровый)",
+      "update": "2018-12-05 15:26:22",
+      "iframe_src": ""
+    },
+    {
+      "id": 1361,
+      "title": "Превосходство Борна",
+      "kp_id": "41947",
+      "imdb_id": "tt0372183",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-04-20 22:29:17",
+      "orig_title": "The Bourne Supremacy",
+      "year": "2004-07-15",
+      "translations": [
+        "Полное дублирование",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2018-12-06 13:22:55",
+      "iframe_src": ""
+    },
+    {
+      "id": 1349,
+      "title": "Терминатор : Да придёт спаситель",
+      "kp_id": "160932",
+      "imdb_id": "tt0438488",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-04-20 22:08:58",
+      "orig_title": "Terminator Salvation",
+      "year": "2009-05-14",
+      "translations": [
+        "Полное дублирование",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2018-12-05 15:32:46",
+      "iframe_src": ""
+    },
+    {
+      "id": 1325,
+      "title": "Бегущий в лабиринте",
+      "kp_id": "575613",
+      "imdb_id": "tt1790864",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-04-20 14:52:48",
+      "orig_title": "The Maze Runner",
+      "year": "2014-09-11",
+      "translations": [
+        "Полное дублирование",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2018-12-05 15:29:44",
+      "iframe_src": ""
+    },
+    {
+      "id": 1319,
+      "title": "Отбросы",
+      "kp_id": "874056",
+      "imdb_id": "tt4076980",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-04-20 14:44:21",
+      "orig_title": "The Throwaways",
+      "year": "2015-01-30",
+      "translations": [
+        "Профессиональный (многоголосый)",
         "Original (English)"
       ],
       "quality": "webdl",
-      "translation": "Полное дублирование",
-      "update": "2018-11-29 14:36:07",
+      "translation": "Профессиональный (многоголосый)",
+      "update": "2018-12-06 13:24:56",
       "iframe_src": ""
     },
     {
-      "id": 2305,
-      "title": "Земные девушки легко доступны",
-      "kp_id": "6042",
-      "imdb_id": "tt0097257",
+      "id": 416,
+      "title": "Суррогаты",
+      "kp_id": "397671",
+      "imdb_id": "tt0986263",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-05-17 19:27:51",
-      "orig_title": "Earth Girls Are Easy",
-      "year": "1988-09-09",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)",
-        "Профессиональный (многоголосый закадровый)",
-        "Original (English)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2018-11-29 14:30:20",
-      "iframe_src": ""
-    },
-    {
-      "id": 2304,
-      "title": "Тупой и еще тупее 2",
-      "kp_id": "645087",
-      "imdb_id": "tt2096672",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-05-17 19:26:33",
-      "orig_title": "Dumb and Dumber To",
-      "year": "2014-11-07",
+      "add": "2016-04-01 16:19:28",
+      "orig_title": "Surrogates",
+      "year": "2009-09-24",
       "translations": [
         "Полное дублирование",
         "Original (English)"
       ],
       "quality": "bd",
       "translation": "Полное дублирование",
-      "update": "2018-11-29 14:28:16",
-      "iframe_src": ""
-    },
-    {
-      "id": 2296,
-      "title": "Дьявол",
-      "kp_id": "854611",
-      "imdb_id": "tt4076760",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-05-17 10:44:37",
-      "orig_title": "Diablo",
-      "year": "2015-10-02",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Parovoz Production)",
-        "Original (English)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Parovoz Production)",
-      "update": "2018-11-29 14:25:24",
-      "iframe_src": ""
-    },
-    {
-      "id": 2287,
-      "title": "Кориолан",
-      "kp_id": "462250",
-      "imdb_id": "tt1372686",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-05-17 07:43:42",
-      "orig_title": "Coriolanus",
-      "year": "2011-02-14",
-      "translations": [
-        "Полное дублирование",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2018-11-29 14:21:02",
-      "iframe_src": ""
-    },
-    {
-      "id": 2243,
-      "title": "Четыре свадьбы и одни похороны",
-      "kp_id": "6151",
-      "imdb_id": "tt0109831",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-05-17 04:39:43",
-      "orig_title": "Four Weddings and a Funeral",
-      "year": "1994-01-20",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2018-11-29 14:34:34",
+      "update": "2018-12-05 15:25:14",
       "iframe_src": ""
     }
   ]

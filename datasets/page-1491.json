@@ -1,366 +1,364 @@
 {
   "data": [
     {
-      "id": 21160,
-      "title": "Лоудон Уэйнрайт Третий. Выживший близнец",
-      "kp_id": null,
-      "imdb_id": "tt9203030",
+      "id": 21349,
+      "title": "Пагпаг: Девять жизней",
+      "kp_id": "778520",
+      "imdb_id": "tt2996950",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-01-01 23:30:43",
-      "orig_title": "Loudon Wainwright III: Surviving Twin",
-      "year": "2018-11-13",
+      "add": "2019-01-09 00:16:52",
+      "orig_title": "Pagpag: Siyam na buhay",
+      "year": "2013-12-25",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
+        "Любительский (двухголосый закадровый) (GREEN TEA)"
       ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-01-02 13:01:34",
+      "quality": "dvdrip",
+      "translation": "Любительский (двухголосый закадровый) (GREEN TEA)",
+      "update": "2019-01-09 07:16:27",
       "iframe_src": ""
     },
     {
-      "id": 21133,
-      "title": "Охотник на волков",
-      "kp_id": "1083495",
-      "imdb_id": "tt7039326",
+      "id": 21347,
+      "title": "Три ненастных дня",
+      "kp_id": "257379",
+      "imdb_id": "tt0466171",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-01-01 17:45:28",
-      "orig_title": "A Soldiers Creed",
-      "year": "2018-09-24",
+      "add": "2019-01-09 00:13:40",
+      "orig_title": "Tri nenastnykh dnya",
+      "year": "1978-04-26",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
+        "Оригинальная дорожка"
       ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-01-02 12:51:12",
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-01-09 07:32:00",
       "iframe_src": ""
     },
     {
-      "id": 21127,
-      "title": "Руководство по выживанию для комиков",
-      "kp_id": "929990",
-      "imdb_id": "tt4871018",
+      "id": 21346,
+      "title": "Ва-банк",
+      "kp_id": "32371",
+      "imdb_id": "tt0083271",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-01-01 17:27:21",
-      "orig_title": "The Comedian's Guide to Survival",
-      "year": "2016-10-28",
+      "add": "2019-01-09 00:11:13",
+      "orig_title": "Vabank",
+      "year": "1981-03-01",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-01-02 17:37:24",
-      "iframe_src": ""
-    },
-    {
-      "id": 21126,
-      "title": "Жизненные уроки Билла Мюррея",
-      "kp_id": "1181560",
-      "imdb_id": "tt7329810",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-01-01 17:26:04",
-      "orig_title": "The Bill Murray Stories: Life Lessons Learned from a Mythical Man",
-      "year": "2018-03-10",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-01-02 12:46:37",
-      "iframe_src": ""
-    },
-    {
-      "id": 21125,
-      "title": "Подсолнух",
-      "kp_id": "1155949",
-      "imdb_id": "tt8286508",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-01-01 17:23:26",
-      "orig_title": "Sun Flower",
-      "year": "2018-06-18",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Колобок)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Колобок)",
-      "update": "2019-01-02 12:46:04",
-      "iframe_src": ""
-    },
-    {
-      "id": 21119,
-      "title": "Сапожки Санты",
-      "kp_id": "1195003",
-      "imdb_id": "tt9028942",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-01-01 17:06:51",
-      "orig_title": "Santa's Boots",
-      "year": "2018-12-08",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
+        "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "hdtv",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-01-02 12:44:57",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-01-09 07:33:07",
       "iframe_src": ""
     },
     {
-      "id": 21118,
-      "title": "Расселл Брэнд: Re: Рождение",
-      "kp_id": "1219315",
-      "imdb_id": "tt9349942",
+      "id": 21345,
+      "title": "Русский бизнес",
+      "kp_id": "40731",
+      "imdb_id": "tt0108011",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-01-01 17:04:05",
-      "orig_title": "Russell Brand: Re:Birth",
-      "year": "2018-12-04",
+      "add": "2019-01-09 00:08:24",
+      "orig_title": "Russkiy biznes",
+      "year": "1993-01-01",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
+        "Оригинальная дорожка"
       ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-01-02 12:43:44",
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-01-09 07:33:55",
       "iframe_src": ""
     },
     {
-      "id": 21116,
-      "title": "Первое января",
-      "kp_id": "806055",
-      "imdb_id": "tt3263732",
+      "id": 21344,
+      "title": "Русское чудо",
+      "kp_id": "40737",
+      "imdb_id": "tt0111041",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-01-01 16:59:00",
-      "orig_title": "Primero De Enero",
-      "year": "2014-10-16",
+      "add": "2019-01-09 00:06:38",
+      "orig_title": "Russkoe chudo",
+      "year": "1994-01-01",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
+        "Оригинальная дорожка"
       ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-01-02 17:39:53",
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-01-09 07:34:54",
       "iframe_src": ""
     },
     {
-      "id": 21114,
-      "title": "Поколение движения",
-      "kp_id": "1224115",
-      "imdb_id": "tt8106568",
+      "id": 21340,
+      "title": "Футболисты",
+      "kp_id": "1054125",
+      "imdb_id": "tt7132578",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-01-01 16:41:27",
-      "orig_title": "Momentum Generation",
-      "year": "2018-04-21",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-01-02 12:40:55",
-      "iframe_src": ""
-    },
-    {
-      "id": 21113,
-      "title": "Мисс Пэк",
-      "kp_id": "1021546",
-      "imdb_id": "tt6479534",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-01-01 16:39:18",
-      "orig_title": "Misseu Baek",
-      "year": "2018-10-11",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Колобок)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Колобок)",
-      "update": "2019-01-02 12:40:16",
-      "iframe_src": ""
-    },
-    {
-      "id": 21111,
-      "title": "Громкая безумная любовь",
-      "kp_id": null,
-      "imdb_id": "tt7638110",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-01-01 16:34:26",
-      "orig_title": "Loud Krazy Love",
-      "year": "2018-12-14",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-01-02 12:39:07",
-      "iframe_src": ""
-    },
-    {
-      "id": 21110,
-      "title": "Жизнь и смерть на берегу моря",
-      "kp_id": "1044136",
-      "imdb_id": "tt6741160",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-01-01 16:31:59",
-      "orig_title": "Umibe no sei to shi",
-      "year": "2017-06-17",
+      "add": "2019-01-08 23:54:03",
+      "orig_title": "Los futbolísimos",
+      "year": "2018-08-24",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "bd",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-01-02 17:47:50",
+      "update": "2019-01-09 07:42:21",
       "iframe_src": ""
     },
     {
-      "id": 21107,
-      "title": "Джексон Болт",
-      "kp_id": "917933",
-      "imdb_id": "tt4795624",
+      "id": 21339,
+      "title": "Борьба: жизнь и утраченное искусство Шукальского",
+      "kp_id": "1217704",
+      "imdb_id": "tt9316022",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-01-01 16:14:45",
-      "orig_title": "Jackson Bolt",
-      "year": "2016-03-11",
+      "add": "2019-01-08 23:51:43",
+      "orig_title": "Struggle: The Life and Lost Art of Szukalski",
+      "year": "2018-12-21",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-01-02 12:35:49",
+      "update": "2019-01-09 07:50:46",
       "iframe_src": ""
     },
     {
-      "id": 21106,
-      "title": "Домашнее рождество",
-      "kp_id": "1198458",
-      "imdb_id": "tt9058944",
+      "id": 21337,
+      "title": "Русский счет",
+      "kp_id": "40735",
+      "imdb_id": "tt0111042",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-01-01 16:06:46",
-      "orig_title": "Hometown Christmas",
+      "add": "2019-01-08 23:48:12",
+      "orig_title": "Russkiy shchyot",
+      "year": "1994-12-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-01-09 07:53:04",
+      "iframe_src": ""
+    },
+    {
+      "id": 21336,
+      "title": "Разрешите тебя поцеловать",
+      "kp_id": "417851",
+      "imdb_id": "tt3159442",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-01-08 23:46:27",
+      "orig_title": "Razreshite tebya potselovat",
+      "year": "2008-06-26",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-01-09 07:55:21",
+      "iframe_src": ""
+    },
+    {
+      "id": 21335,
+      "title": "Скованные одной цепью",
+      "kp_id": "3084",
+      "imdb_id": "tt0051525",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-01-08 23:43:27",
+      "orig_title": "The Defiant Ones",
+      "year": "1958-08-14",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-01-09 07:58:55",
+      "iframe_src": ""
+    },
+    {
+      "id": 21330,
+      "title": "Звон круглые сутки",
+      "kp_id": "1207999",
+      "imdb_id": "tt9168384",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-01-08 11:20:38",
+      "orig_title": "Jingle Around the Clock",
+      "year": "2018-12-22",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (AlphaProject)"
+      ],
+      "quality": "hdtv",
+      "translation": "Профессиональный (многоголосый закадровый) (AlphaProject)",
+      "update": "2019-01-08 14:32:11",
+      "iframe_src": ""
+    },
+    {
+      "id": 21327,
+      "title": "Братья Мейсон",
+      "kp_id": "951299",
+      "imdb_id": "tt5193658",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-01-08 09:14:50",
+      "orig_title": "The Mason Brothers",
+      "year": "2017-04-14",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-01-08 11:17:05",
+      "iframe_src": ""
+    },
+    {
+      "id": 21326,
+      "title": "Мертвая студия",
+      "kp_id": "1200702",
+      "imdb_id": "tt9121906",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-01-08 09:12:00",
+      "orig_title": "The Dead Room",
+      "year": "2018-12-12",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (Ozz.tv)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый) (Ozz.tv)",
+      "update": "2019-01-08 11:19:59",
+      "iframe_src": ""
+    },
+    {
+      "id": 21325,
+      "title": "Рождество в маленьком городе",
+      "kp_id": "1207815",
+      "imdb_id": "tt9168416",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-01-08 09:07:15",
+      "orig_title": "Small Town Christmas",
       "year": "2018-12-16",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "hdtv",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-01-02 12:34:55",
+      "update": "2019-01-08 11:18:11",
       "iframe_src": ""
     },
     {
-      "id": 21101,
-      "title": "Падающие небеса",
-      "kp_id": "9255",
-      "imdb_id": "tt0118903",
+      "id": 21329,
+      "title": "History Channel. Супербомбы",
+      "kp_id": "1194562",
+      "imdb_id": "tt8525148",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-01-01 15:47:41",
-      "orig_title": "Falling Sky",
-      "year": "1998-08-01",
+      "add": "2019-01-08 09:05:43",
+      "orig_title": "Rise of the Superbombs",
+      "year": "2018-06-06",
       "translations": [
-        "Любительский (двухголосый закадровый) (Sunshine Studio)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Любительский (двухголосый закадровый) (Sunshine Studio)",
-      "update": "2019-01-02 12:33:52",
-      "iframe_src": ""
-    },
-    {
-      "id": 20969,
-      "title": "Человек, место, время и снова человек",
-      "kp_id": "1045287",
-      "imdb_id": "tt6927316",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-12-23 22:40:48",
-      "orig_title": "Ingan, gonggan, sigan geurigo ingan",
-      "year": "2018-02-17",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-01-02 17:42:54",
-      "iframe_src": ""
-    },
-    {
-      "id": 20907,
-      "title": "Горькая тыква",
-      "kp_id": "1074023",
-      "imdb_id": "tt7241800",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-12-22 23:34:40",
-      "orig_title": "Bitter Melon",
-      "year": "2018-05-12",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Любительский (двухголосый закадровый) (HiWayGrope)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-01-02 13:03:50",
-      "iframe_src": ""
-    },
-    {
-      "id": 19440,
-      "title": "Как прогулять школу с пользой",
-      "kp_id": "1032308",
-      "imdb_id": "tt6330246",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-10-07 21:40:57",
-      "orig_title": "L'école buissonnière",
-      "year": "2017-08-25",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
         "Полное дублирование"
       ],
+      "quality": "hdtv",
+      "translation": "Полное дублирование",
+      "update": "2019-01-08 11:22:50",
+      "iframe_src": ""
+    },
+    {
+      "id": 21324,
+      "title": "Подписано, запечатано, доставлено: к алтарю",
+      "kp_id": "1162881",
+      "imdb_id": "tt8497680",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-01-08 09:04:26",
+      "orig_title": "Signed, Sealed, Delivered: To the Altar",
+      "year": "2018-07-15",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "hdtv",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-01-08 12:30:36",
+      "iframe_src": ""
+    },
+    {
+      "id": 21323,
+      "title": "Самая страшная ночь в твоей жизни",
+      "kp_id": "1165071",
+      "imdb_id": "tt8618712",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-01-08 09:02:49",
+      "orig_title": "Scariest Night of Your Life",
+      "year": "2018-12-05",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-01-02 17:25:48",
+      "update": "2019-01-08 12:28:41",
       "iframe_src": ""
     },
     {
-      "id": 14287,
-      "title": "В небо за мечтой",
-      "kp_id": "1049517",
-      "imdb_id": "tt8285844",
+      "id": 21322,
+      "title": "Вир Дас: Потерять все",
+      "kp_id": null,
+      "imdb_id": "tt9315848",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-11-08 06:58:43",
-      "orig_title": "V nebo za mechtoy",
-      "year": "2017-10-26",
+      "add": "2019-01-08 08:58:21",
+      "orig_title": "Vir Das: Losing It",
+      "year": "2018-12-11",
       "translations": [
-        "Оригинальная дорожка"
+        "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-01-02 17:28:01",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-01-08 11:16:15",
       "iframe_src": ""
     },
     {
-      "id": 3299,
-      "title": "Ботинки мертвеца",
-      "kp_id": "82274",
-      "imdb_id": "tt0419677",
+      "id": 21320,
+      "title": "Понсанская гончая",
+      "kp_id": "572701",
+      "imdb_id": "tt1773020",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-06-21 12:02:02",
-      "orig_title": "Dead Man's Shoes",
-      "year": "2004-08-20",
+      "add": "2019-01-08 08:54:19",
+      "orig_title": "Pungsan gae",
+      "year": "2011-06-23",
       "translations": [
-        "Профессиональный (многоголосый закадровый)",
-        "Авторский (одноголосый закадровый) (Чадов)"
+        "Любительский (одноголосый закадровый)"
       ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-01-02 17:31:21",
+      "quality": "dvdrip",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2019-01-08 11:15:18",
+      "iframe_src": ""
+    },
+    {
+      "id": 8373,
+      "title": "Отсев",
+      "kp_id": "951455",
+      "imdb_id": "tt5254868",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-12-27 07:13:50",
+      "orig_title": "The Thinning",
+      "year": "2016-10-12",
+      "translations": [
+        "Любительский (одноголосый закадровый) (Хихикающий доктор)",
+        "Любительский (многоголосый закадровый) (@MUZOBOZ@)"
+      ],
+      "quality": "hdrip",
+      "translation": "Любительский (одноголосый закадровый) (Хихикающий доктор)",
+      "update": "2019-01-08 12:27:24",
       "iframe_src": ""
     }
   ]

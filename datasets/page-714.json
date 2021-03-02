@@ -1,364 +1,364 @@
 {
   "data": [
     {
-      "id": 36204,
-      "title": "Зона смерти: Очищая Эверест",
-      "kp_id": null,
-      "imdb_id": "tt1999130",
+      "id": 36427,
+      "title": "Зомби 2",
+      "kp_id": "1273167",
+      "imdb_id": "tt9766166",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-02-13 14:17:38",
-      "orig_title": "Death Zone: Cleaning Mount Everest",
-      "year": "2018-04-20",
+      "add": "2020-02-17 17:20:05",
+      "orig_title": "Z-O-M-B-I-E-S 2",
+      "year": "2020-02-14",
       "translations": [
-        "Любительский (многоголосый закадровый) (WestFilm)"
+        "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (WestFilm)",
-      "update": "2020-02-13 19:42:17",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-02-17 18:56:01",
       "iframe_src": ""
     },
     {
-      "id": 36203,
-      "title": "Пингвин Амундсен",
-      "kp_id": "80766",
-      "imdb_id": "tt0387834",
+      "id": 36426,
+      "title": "Love All You Have Left",
+      "kp_id": "963043",
+      "imdb_id": "tt5464242",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-02-13 13:58:43",
-      "orig_title": "Amundsen der Pinguin",
-      "year": "2003-12-25",
+      "add": "2020-02-17 17:17:05",
+      "orig_title": "Love All You Have Left",
+      "year": "2018-06-29",
       "translations": [
-        "Профессиональный (многоголосый закадровый)"
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-02-17 18:57:21",
+      "iframe_src": ""
+    },
+    {
+      "id": 36423,
+      "title": "Стандер",
+      "kp_id": "17085",
+      "imdb_id": "tt0326208",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-02-17 15:29:59",
+      "orig_title": "Stander",
+      "year": "2003-09-06",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
       ],
       "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-02-13 19:44:42",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2020-02-17 17:07:21",
       "iframe_src": ""
     },
     {
-      "id": 36202,
-      "title": "Немой свидетель",
-      "kp_id": "8758",
-      "imdb_id": "tt0110604",
+      "id": 36420,
+      "title": "Мама: гостья из тьмы",
+      "kp_id": "1017348",
+      "imdb_id": "tt6051260",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-02-13 13:56:15",
-      "orig_title": "Mute Witness",
-      "year": "1995-09-10",
+      "add": "2020-02-17 14:08:27",
+      "orig_title": "Cruel Peter",
+      "year": "2019-07-03",
       "translations": [
-        "Авторский (одноголосый закадровый) (Визгунов)"
+        "Полное дублирование (Звук с TS)"
       ],
-      "quality": "dvdrip",
-      "translation": "Авторский (одноголосый закадровый) (Визгунов)",
-      "update": "2020-02-13 19:48:58",
+      "quality": "ts",
+      "translation": "Полное дублирование (Звук с TS)",
+      "update": "2020-02-17 17:03:09",
       "iframe_src": ""
     },
     {
-      "id": 36201,
-      "title": "Эскорт для дам",
-      "kp_id": "258852",
-      "imdb_id": "tt0783608",
+      "id": 36407,
+      "title": "Тутанхамон: Проклятие гробницы",
+      "kp_id": "193855",
+      "imdb_id": "tt0464799",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-02-13 13:54:07",
-      "orig_title": "The Walker",
-      "year": "2007-02-13",
+      "add": "2020-02-17 08:38:52",
+      "orig_title": "The Curse of King Tut's Tomb",
+      "year": "2006-04-11",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-02-13 19:50:10",
+      "update": "2020-02-17 17:19:32",
       "iframe_src": ""
     },
     {
-      "id": 36154,
-      "title": "Награда доктора Шутца",
-      "kp_id": "58671",
-      "imdb_id": "tt0119855",
+      "id": 36361,
+      "title": "Зорро, голубой клинок",
+      "kp_id": "23356",
+      "imdb_id": "tt0083366",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-02-12 17:05:49",
-      "orig_title": "Les palmes de M. Schutz",
-      "year": "1997-04-09",
+      "add": "2020-02-16 19:38:03",
+      "orig_title": "Zorro: The Gay Blade",
+      "year": "1981-07-17",
       "translations": [
-        "Профессиональный (многоголосый закадровый) (СВ-Дубль)"
+        "Профессиональный (двухголосый закадровый)"
       ],
-      "quality": "sat",
-      "translation": "Профессиональный (многоголосый закадровый) (СВ-Дубль)",
-      "update": "2020-02-13 18:14:47",
+      "quality": "hdtv",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2020-02-17 16:51:53",
       "iframe_src": ""
     },
     {
-      "id": 36153,
-      "title": "Цой - Кино",
-      "kp_id": "689584",
-      "imdb_id": null,
+      "id": 36360,
+      "title": "Земля: Жизнь без людей",
+      "kp_id": "424378",
+      "imdb_id": "tt1264068",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-02-12 17:03:55",
-      "orig_title": "Цой - Кино",
-      "year": "2012-06-21",
+      "add": "2020-02-16 19:36:43",
+      "orig_title": "Aftermath: Population Zero",
+      "year": "2008-03-09",
       "translations": [
-        "Оригинальная дорожка"
+        "Полное дублирование"
       ],
-      "quality": "sat",
-      "translation": "Оригинальная дорожка",
-      "update": "2020-02-13 18:15:22",
+      "quality": "dvdrip",
+      "translation": "Полное дублирование",
+      "update": "2020-02-17 16:52:41",
       "iframe_src": ""
     },
     {
-      "id": 36152,
-      "title": "Под землёй",
-      "kp_id": "771888",
-      "imdb_id": "tt2991296",
+      "id": 36359,
+      "title": "Репли-Кейт",
+      "kp_id": "5128",
+      "imdb_id": "tt0260320",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-02-12 17:00:20",
-      "orig_title": "Beneath",
-      "year": "2013-10-08",
+      "add": "2020-02-16 19:32:39",
+      "orig_title": "Repli-Kate",
+      "year": "2002-01-29",
       "translations": [
-        "Любительский (одноголосый закадровый) (datynet)"
+        "Профессиональный (многоголосый закадровый) (Екатеринбург Арт)"
       ],
-      "quality": "webdl",
-      "translation": "Любительский (одноголосый закадровый) (datynet)",
-      "update": "2020-02-13 18:15:50",
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый) (Екатеринбург Арт)",
+      "update": "2020-02-17 16:53:14",
       "iframe_src": ""
     },
     {
-      "id": 36150,
-      "title": "Призраки Салема",
-      "kp_id": "601773",
-      "imdb_id": "tt1912981",
+      "id": 36358,
+      "title": "Ожившая невеста",
+      "kp_id": "431872",
+      "imdb_id": "tt1319712",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-02-12 16:56:58",
-      "orig_title": "A Haunting in Salem",
-      "year": "2011-08-23",
+      "add": "2020-02-16 19:30:55",
+      "orig_title": "Exquisite Corpse",
+      "year": "2010-08-20",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-02-17 16:55:16",
+      "iframe_src": ""
+    },
+    {
+      "id": 36357,
+      "title": "Стать Джоном Ленноном",
+      "kp_id": "438384",
+      "imdb_id": "tt1266029",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-02-16 19:28:09",
+      "orig_title": "Nowhere Boy",
+      "year": "2009-10-29",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2020-02-17 16:56:34",
+      "iframe_src": ""
+    },
+    {
+      "id": 36355,
+      "title": "Небольшое одолжение",
+      "kp_id": "794526",
+      "imdb_id": "tt3147290",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-02-16 19:26:28",
+      "orig_title": "Little Favour",
+      "year": "2013-11-01",
       "translations": [
         "Любительский (одноголосый закадровый)"
       ],
-      "quality": "bd",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2020-02-13 18:16:33",
-      "iframe_src": ""
-    },
-    {
-      "id": 36149,
-      "title": "11.6",
-      "kp_id": "731113",
-      "imdb_id": "tt2655788",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-02-12 16:54:36",
-      "orig_title": "11.6",
-      "year": "2013-04-03",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2020-02-13 18:17:37",
-      "iframe_src": ""
-    },
-    {
-      "id": 36148,
-      "title": "Узел дьявола",
-      "kp_id": "660832",
-      "imdb_id": "tt0804463",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-02-12 16:47:00",
-      "orig_title": "Devil's Knot",
-      "year": "2013-09-08",
-      "translations": [
-        "Авторский (одноголосый закадровый) (Визгунов)",
-        "Профессиональный (двухголосый закадровый)"
-      ],
       "quality": "webdl",
-      "translation": "Авторский (одноголосый закадровый) (Визгунов)",
-      "update": "2020-02-13 18:19:13",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2020-02-17 16:57:12",
       "iframe_src": ""
     },
     {
-      "id": 36071,
-      "title": "Аватар: Создание мира Пандоры",
-      "kp_id": "636423",
-      "imdb_id": "tt1599280",
+      "id": 36354,
+      "title": "Крутые стволы",
+      "kp_id": "394277",
+      "imdb_id": "tt1087828",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-02-11 15:03:59",
-      "orig_title": "Avatar: Creating the World of Pandora",
-      "year": "2010-02-07",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (Novamedia)"
-      ],
-      "quality": "hdtv",
-      "translation": "Профессиональный (многоголосый закадровый) (Novamedia)",
-      "update": "2020-02-14 07:25:50",
-      "iframe_src": ""
-    },
-    {
-      "id": 36070,
-      "title": "Дежурный аптекарь",
-      "kp_id": "35096",
-      "imdb_id": "tt0301730",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-02-11 15:03:02",
-      "orig_title": "Le pharmacien de garde",
-      "year": "2003-01-15",
+      "add": "2020-02-16 19:25:08",
+      "orig_title": "Aces 'N' Eights",
+      "year": "2008-03-15",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "dvdrip",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-02-14 07:24:28",
+      "update": "2020-02-17 16:57:40",
       "iframe_src": ""
     },
     {
-      "id": 36067,
-      "title": "Космонавт",
-      "kp_id": "505696",
-      "imdb_id": "tt1629747",
+      "id": 36353,
+      "title": "Медный каньон",
+      "kp_id": "10628",
+      "imdb_id": "tt0042344",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-02-11 14:54:13",
-      "orig_title": "The Cosmonaut",
-      "year": "2013-05-09",
+      "add": "2020-02-16 19:22:58",
+      "orig_title": "Copper Canyon",
+      "year": "1950-02-02",
       "translations": [
-        "Профессиональный (двухголосый закадровый)"
+        "Профессиональный (многоголосый закадровый)"
       ],
-      "quality": "hdtv",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2020-02-14 07:22:40",
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-02-17 16:58:09",
       "iframe_src": ""
     },
     {
-      "id": 36066,
-      "title": "Ранние и короткие годы Сабины Ривас",
-      "kp_id": "629235",
-      "imdb_id": "tt2062575",
+      "id": 36352,
+      "title": "Армия преступников",
+      "kp_id": "418941",
+      "imdb_id": "tt1258120",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-02-11 14:53:06",
-      "orig_title": "La vida precoz y breve de Sabina Rivas",
-      "year": "2012-10-25",
+      "add": "2020-02-16 19:17:59",
+      "orig_title": "L'armée du crime",
+      "year": "2009-09-16",
+      "translations": [
+        "Любительский (двухголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (двухголосый закадровый)",
+      "update": "2020-02-17 16:59:15",
+      "iframe_src": ""
+    },
+    {
+      "id": 36351,
+      "title": "Иная",
+      "kp_id": "606843",
+      "imdb_id": "tt1891747",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-02-16 19:16:35",
+      "orig_title": "Anazâ",
+      "year": "2012-08-04",
+      "translations": [
+        "Любительский (двухголосый закадровый) (DeadSno & den904)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Любительский (двухголосый закадровый) (DeadSno & den904)",
+      "update": "2020-02-17 17:00:08",
+      "iframe_src": ""
+    },
+    {
+      "id": 36350,
+      "title": "Фобия 2",
+      "kp_id": "478931",
+      "imdb_id": "tt1521846",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-02-16 19:14:27",
+      "orig_title": "Ha phraeng",
+      "year": "2009-09-24",
+      "translations": [
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "hdrip",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2020-02-17 17:00:45",
+      "iframe_src": ""
+    },
+    {
+      "id": 36349,
+      "title": "Ведьма",
+      "kp_id": "710191",
+      "imdb_id": "tt2406676",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-02-16 19:12:34",
+      "orig_title": "Ek Thi Daayan",
+      "year": "2013-04-18",
+      "translations": [
+        "Любительский (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Любительский (многоголосый закадровый)",
+      "update": "2020-02-17 17:01:20",
+      "iframe_src": ""
+    },
+    {
+      "id": 36348,
+      "title": "Этюды втроем",
+      "kp_id": "409967",
+      "imdb_id": "tt1188985",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-02-16 19:10:09",
+      "orig_title": "Castillos de cartón",
+      "year": "2009-10-30",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-02-17 17:01:44",
+      "iframe_src": ""
+    },
+    {
+      "id": 36329,
+      "title": "Сердце льва",
+      "kp_id": "676308",
+      "imdb_id": "tt2343617",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-02-16 16:02:25",
+      "orig_title": "Leijonasydän",
+      "year": "2013-09-06",
       "translations": [
         "Профессиональный (двухголосый закадровый) (НТВ)"
       ],
       "quality": "bd",
       "translation": "Профессиональный (двухголосый закадровый) (НТВ)",
-      "update": "2020-02-14 07:21:20",
+      "update": "2020-02-17 17:02:37",
       "iframe_src": ""
     },
     {
-      "id": 36065,
-      "title": "Страж тьмы",
-      "kp_id": "17564",
-      "imdb_id": "tt0278675",
+      "id": 36253,
+      "title": "Всем парням: P.S. Я люблю тебя",
+      "kp_id": "1226369",
+      "imdb_id": "tt9354842",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-02-11 14:49:04",
-      "orig_title": "Revelation",
-      "year": "2001-09-18",
+      "add": "2020-02-14 14:36:02",
+      "orig_title": "To All the Boys: P.S. I Still Love You",
+      "year": "2020-02-12",
       "translations": [
-        "Профессиональный (двухголосый закадровый) (Екатеринбург Арт)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (двухголосый закадровый) (Екатеринбург Арт)",
-      "update": "2020-02-14 07:17:28",
-      "iframe_src": ""
-    },
-    {
-      "id": 36062,
-      "title": "Загар",
-      "kp_id": "1040013",
-      "imdb_id": "tt6146812",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-02-11 14:43:51",
-      "orig_title": "Sunburn",
-      "year": "2020-01-13",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
+        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Профессиональный (многоголосый закадровый) (Jaskier)"
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-02-14 07:16:09",
-      "iframe_src": ""
-    },
-    {
-      "id": 36061,
-      "title": "Мёртвое море",
-      "kp_id": "522748",
-      "imdb_id": "tt1663222",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-02-11 14:40:42",
-      "orig_title": "Dead Sea",
-      "year": "2014-04-14",
-      "translations": [
-        "Любительский (многоголосый закадровый)"
-      ],
-      "quality": "hdrip",
-      "translation": "Любительский (многоголосый закадровый)",
-      "update": "2020-02-14 07:15:14",
-      "iframe_src": ""
-    },
-    {
-      "id": 36060,
-      "title": "Портрет художника",
-      "kp_id": "848455",
-      "imdb_id": "tt3841450",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-02-11 14:37:17",
-      "orig_title": "Le dos rouge",
-      "year": "2014-10-03",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-02-14 07:14:21",
-      "iframe_src": ""
-    },
-    {
-      "id": 36059,
-      "title": "Зеленый фургон",
-      "kp_id": "79577",
-      "imdb_id": "tt0086638",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-02-11 14:31:34",
-      "orig_title": "Zelyonyy furgon",
-      "year": "1983-12-28",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2020-02-14 07:11:24",
-      "iframe_src": ""
-    },
-    {
-      "id": 35772,
-      "title": "Обреченный на одиночество 2",
-      "kp_id": "77488",
-      "imdb_id": "tt0188799",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-02-03 19:30:23",
-      "orig_title": "Kyokuskin kenka karate burai ken",
-      "year": "1977-12-27",
-      "translations": [
-        "Любительский (одноголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2020-02-14 07:09:53",
+      "update": "2020-02-17 16:51:39",
       "iframe_src": ""
     }
   ]

@@ -1,373 +1,364 @@
 {
   "data": [
     {
-      "id": 12443,
-      "title": "Все, что ты хочешь",
-      "kp_id": "340014",
-      "imdb_id": "tt0403237",
+      "id": 12629,
+      "title": "Любовь",
+      "kp_id": "973656",
+      "imdb_id": "tt5479616",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-07-11 05:30:52",
-      "orig_title": "Everything You Want",
-      "year": "2005-04-17",
+      "add": "2017-07-24 18:29:20",
+      "orig_title": "Amar",
+      "year": "2017-03-19",
       "translations": [
-        "Профессиональный (двухголосый закадровый)"
+        "Любительский (многоголосый закадровый) (@MUZOBOZ@)"
       ],
-      "quality": "sat",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2017-07-12 05:12:13",
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
+      "update": "2017-07-25 05:17:57",
       "iframe_src": ""
     },
     {
-      "id": 12442,
-      "title": "Звезда сцены",
-      "kp_id": "24197",
-      "imdb_id": "tt0361467",
+      "id": 12592,
+      "title": "С девяти до пяти",
+      "kp_id": "8152",
+      "imdb_id": "tt0080319",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-07-11 05:30:10",
-      "orig_title": "Confessions of a Teenage Drama Queen",
-      "year": "2004-02-17",
+      "add": "2017-07-21 05:03:33",
+      "orig_title": "Nine to Five",
+      "year": "1980-12-19",
       "translations": [
-        "Полное дублирование"
+        "Профессиональный (многоголосый закадровый)"
       ],
-      "quality": "dvdrip",
-      "translation": "Полное дублирование",
-      "update": "2017-07-12 05:10:12",
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2017-07-24 07:58:42",
       "iframe_src": ""
     },
     {
-      "id": 12441,
-      "title": "Докторша под простыней",
-      "kp_id": "54686",
-      "imdb_id": null,
+      "id": 12580,
+      "title": "Ночь страха 2: Свежая кровь",
+      "kp_id": "721919",
+      "imdb_id": "tt2486630",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-07-11 05:29:19",
-      "orig_title": "La dottoressa sotto il lenzuolo",
-      "year": "1976-05-20",
+      "add": "2017-07-20 06:20:54",
+      "orig_title": "Fright Night 2",
+      "year": "2013-10-01",
       "translations": [
-        "Любительский (одноголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2017-07-12 05:10:58",
-      "iframe_src": ""
-    },
-    {
-      "id": 12440,
-      "title": "Лощина",
-      "kp_id": "855764",
-      "imdb_id": "tt3827684",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-07-11 05:28:00",
-      "orig_title": "The Hollow",
-      "year": "2016-06-15",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
+        "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2017-07-12 05:11:36",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2017-07-21 10:56:30",
       "iframe_src": ""
     },
     {
-      "id": 12419,
-      "title": "Удушающий приём",
-      "kp_id": "638378",
-      "imdb_id": "tt2076826",
+      "id": 12574,
+      "title": "Провинциалка",
+      "kp_id": "479347",
+      "imdb_id": "tt1205558",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-07-10 10:16:48",
-      "orig_title": "Chokeslam",
-      "year": "2016-10-02",
+      "add": "2017-07-19 13:41:54",
+      "orig_title": "Hick",
+      "year": "2011-09-10",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2017-07-12 05:50:29",
-      "iframe_src": ""
-    },
-    {
-      "id": 12418,
-      "title": "Шевалье",
-      "kp_id": "829610",
-      "imdb_id": "tt3526706",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-07-10 10:14:10",
-      "orig_title": "Chevalier",
-      "year": "2015-08-12",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
+        "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2017-07-12 05:52:30",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2017-07-21 11:00:54",
       "iframe_src": ""
     },
     {
-      "id": 12416,
-      "title": "Плохой Фрэнк",
-      "kp_id": "816644",
-      "imdb_id": "tt3362238",
+      "id": 12573,
+      "title": "Гриффины: Там, там, на темной стороне",
+      "kp_id": "487547",
+      "imdb_id": "tt1329665",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-07-10 10:03:05",
-      "orig_title": "Bad Frank",
-      "year": "2017-07-03",
+      "add": "2017-07-19 13:40:28",
+      "orig_title": "Family Guy: Something, something, something, Dark Side",
+      "year": "2009-12-22",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2017-07-12 05:57:22",
-      "iframe_src": ""
-    },
-    {
-      "id": 12413,
-      "title": "В комнате смерти",
-      "kp_id": "983656",
-      "imdb_id": "tt5756190",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-07-10 09:50:34",
-      "orig_title": "Soba smrti",
-      "year": "2016-06-04",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (GreenРай Studio)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый) (GreenРай Studio)",
-      "update": "2017-07-12 06:08:31",
-      "iframe_src": ""
-    },
-    {
-      "id": 12407,
-      "title": "Рога и копыта",
-      "kp_id": "81621",
-      "imdb_id": "tt0414853",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-07-10 06:37:01",
-      "orig_title": "Barnyard",
-      "year": "2006-08-04",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "hdtv",
-      "translation": "Полное дублирование",
-      "update": "2017-07-12 05:09:39",
-      "iframe_src": ""
-    },
-    {
-      "id": 12363,
-      "title": "Твари из бездны",
-      "kp_id": "83727",
-      "imdb_id": "tt0080904",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-07-09 05:54:44",
-      "orig_title": "Humanoids from the Deep",
-      "year": "1980-05-16",
-      "translations": [
-        "Авторский (одноголосый закадровый) (Котов)"
+        "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
-      "translation": "Авторский (одноголосый закадровый) (Котов)",
-      "update": "2017-07-12 06:30:43",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2017-07-21 11:02:36",
       "iframe_src": ""
     },
     {
-      "id": 12343,
-      "title": "Охотники за кровью",
-      "kp_id": "901900",
-      "imdb_id": "tt3646592",
+      "id": 12572,
+      "title": "Zолушка",
+      "kp_id": "647291",
+      "imdb_id": "tt2147597",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-07-06 21:10:46",
-      "orig_title": "One Drop",
-      "year": "2016-08-29",
-      "translations": [
-        "Любительский (одноголосый закадровый) (Хихикающий доктор)",
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (одноголосый закадровый) (Хихикающий доктор)",
-      "update": "2017-07-12 05:55:28",
-      "iframe_src": ""
-    },
-    {
-      "id": 12231,
-      "title": "Экс-Патриот",
-      "kp_id": "977993",
-      "imdb_id": "tt5690472",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-06-29 22:10:31",
-      "orig_title": "Ex-Patriot",
-      "year": "2017-06-27",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Профессиональный (многоголосый закадровый) (Paradox & Omskbird records)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2017-07-12 05:46:22",
-      "iframe_src": ""
-    },
-    {
-      "id": 12088,
-      "title": "12 футов глубины",
-      "kp_id": "947549",
-      "imdb_id": "tt5143226",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-06-22 21:53:58",
-      "orig_title": "The Deep End",
-      "year": "2017-06-19",
-      "translations": [
-        "Любительский (одноголосый закадровый) (BadBajo)",
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Профессиональный (многоголосый закадровый) (GreenРай Studio)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (одноголосый закадровый) (BadBajo)",
-      "update": "2017-07-12 06:22:03",
-      "iframe_src": ""
-    },
-    {
-      "id": 11956,
-      "title": "Майлс",
-      "kp_id": "855848",
-      "imdb_id": "tt4066836",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-06-14 18:13:03",
-      "orig_title": "Miles",
-      "year": "2016-05-21",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Колобок)",
-        "Профессиональный (многоголосый закадровый) (GreenРай Studio)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Колобок)",
-      "update": "2017-07-12 05:43:38",
-      "iframe_src": ""
-    },
-    {
-      "id": 11326,
-      "title": "Обещание",
-      "kp_id": "916069",
-      "imdb_id": "tt4776998",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-05-02 04:32:42",
-      "orig_title": "The Promise",
-      "year": "2016-09-11",
-      "translations": [
-        "Полное дублирование",
-        "Полное дублирование (iTunes)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2017-07-11 13:42:04",
-      "iframe_src": ""
-    },
-    {
-      "id": 10274,
-      "title": "Дрифтер",
-      "kp_id": "918632",
-      "imdb_id": "tt4655630",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-03-09 22:25:14",
-      "orig_title": "Drifter",
-      "year": "2016-10-19",
-      "translations": [
-        "Любительский (одноголосый закадровый) (Хихикающий доктор)",
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (одноголосый закадровый) (Хихикающий доктор)",
-      "update": "2017-07-12 05:48:33",
-      "iframe_src": ""
-    },
-    {
-      "id": 10217,
-      "title": "Азбука смерти 2.5",
-      "kp_id": "977342",
-      "imdb_id": "tt5647758",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-03-05 20:22:54",
-      "orig_title": "ABCs of Death 2.5",
-      "year": "2016-08-02",
-      "translations": [
-        "Любительский (одноголосый закадровый) (Хихикающий доктор)",
-        "Любительский (многоголосый закадровый) (Колобок)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (одноголосый закадровый) (Хихикающий доктор)",
-      "update": "2017-07-12 06:20:24",
-      "iframe_src": ""
-    },
-    {
-      "id": 8536,
-      "title": "Викинг",
-      "kp_id": "707407",
-      "imdb_id": "tt5157456",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-01-03 08:34:46",
-      "orig_title": "Viking",
-      "year": "2017-01-06",
+      "add": "2017-07-19 13:37:50",
+      "orig_title": "Z'olushka",
+      "year": "2012-02-14",
       "translations": [
         "Оригинальная дорожка"
       ],
       "quality": "bd",
       "translation": "Оригинальная дорожка",
-      "update": "2017-07-11 13:37:10",
+      "update": "2017-07-21 11:04:54",
       "iframe_src": ""
     },
     {
-      "id": 8474,
-      "title": "Когда я снова проживу свою жизнь",
-      "kp_id": "839477",
-      "imdb_id": "tt3662066",
+      "id": 12571,
+      "title": "Невероятные приключения кота",
+      "kp_id": "779289",
+      "imdb_id": "tt3032300",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-12-30 12:26:33",
-      "orig_title": "One More Time",
-      "year": "2015-04-18",
+      "add": "2017-07-19 13:35:54",
+      "orig_title": "Oggy et les cafards",
+      "year": "2013-08-01",
       "translations": [
-        "Любительский (двухголосый закадровый)",
+        "Оригинальная дорожка"
+      ],
+      "quality": "bd",
+      "translation": "Оригинальная дорожка",
+      "update": "2017-07-24 07:54:27",
+      "iframe_src": ""
+    },
+    {
+      "id": 12570,
+      "title": "Любовь с акцентом",
+      "kp_id": "615809",
+      "imdb_id": "tt2400284",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-07-19 13:34:08",
+      "orig_title": "Lyubov s aktsentom",
+      "year": "2012-10-11",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "bd",
+      "translation": "Оригинальная дорожка",
+      "update": "2017-07-21 11:06:54",
+      "iframe_src": ""
+    },
+    {
+      "id": 12569,
+      "title": "Бабло",
+      "kp_id": "542574",
+      "imdb_id": "tt2064728",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-07-19 13:32:50",
+      "orig_title": "Bablo",
+      "year": "2011-10-13",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "bd",
+      "translation": "Оригинальная дорожка",
+      "update": "2017-07-21 11:08:50",
+      "iframe_src": ""
+    },
+    {
+      "id": 12567,
+      "title": "Финес и Ферб: Покорение второго измерения",
+      "kp_id": "581600",
+      "imdb_id": "tt1825918",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-07-19 13:30:16",
+      "orig_title": "Phineas and Ferb the Movie: Across the 2nd Dimension",
+      "year": "2011-08-05",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "webdl",
+      "translation": "Полное дублирование",
+      "update": "2017-07-21 11:12:16",
+      "iframe_src": ""
+    },
+    {
+      "id": 12566,
+      "title": "Чудаки 3D",
+      "kp_id": "402626",
+      "imdb_id": "tt1116184",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-07-19 13:29:07",
+      "orig_title": "Jackass 3D",
+      "year": "2010-10-11",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2017-07-21 11:14:34",
+      "iframe_src": ""
+    },
+    {
+      "id": 12565,
+      "title": "Отец-молодец",
+      "kp_id": "680529",
+      "imdb_id": "tt2387559",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-07-19 13:28:04",
+      "orig_title": "Delivery Man",
+      "year": "2013-11-21",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2017-07-21 11:16:06",
+      "iframe_src": ""
+    },
+    {
+      "id": 12564,
+      "title": "Холостячки",
+      "kp_id": "589108",
+      "imdb_id": "tt1920849",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-07-19 13:26:47",
+      "orig_title": "Bachelorette",
+      "year": "2012-01-23",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2017-07-21 11:17:53",
+      "iframe_src": ""
+    },
+    {
+      "id": 12515,
+      "title": "Фабрика футбольных хулиганов",
+      "kp_id": "702723",
+      "imdb_id": "tt2360446",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-07-17 08:44:53",
+      "orig_title": "The Hooligan Factory",
+      "year": "2014-06-13",
+      "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
-      "quality": "webdl",
-      "translation": "Любительский (двухголосый закадровый)",
-      "update": "2017-07-12 05:41:47",
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2017-07-24 07:51:00",
       "iframe_src": ""
     },
     {
-      "id": 7509,
-      "title": "Я знаю,ты там",
-      "kp_id": "942255",
-      "imdb_id": "tt5116248",
+      "id": 12503,
+      "title": "Лечить живых",
+      "kp_id": "939915",
+      "imdb_id": "tt5096536",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-11-20 07:42:30",
-      "orig_title": "I Know You're in There",
-      "year": "2016-10-20",
+      "add": "2017-07-17 08:24:06",
+      "orig_title": "Réparer les vivants",
+      "year": "2016-09-04",
       "translations": [
-        "Любительский (одноголосый закадровый) (Хихикающий доктор)",
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
-      "quality": "webdl",
-      "translation": "Любительский (одноголосый закадровый) (Хихикающий доктор)",
-      "update": "2017-07-12 05:45:02",
+      "quality": "bd",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2017-07-24 05:33:38",
+      "iframe_src": ""
+    },
+    {
+      "id": 12459,
+      "title": "После жизни",
+      "kp_id": "55158",
+      "imdb_id": "tt0165078",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-07-12 11:50:28",
+      "orig_title": "Wandafuru raifu",
+      "year": "1998-09-11",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "hdtv",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2017-07-24 07:50:02",
+      "iframe_src": ""
+    },
+    {
+      "id": 12458,
+      "title": "Десять лодок",
+      "kp_id": "232684",
+      "imdb_id": "tt0466399",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-07-12 11:49:23",
+      "orig_title": "Ten Canoes",
+      "year": "2006-03-19",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2017-07-24 07:49:20",
+      "iframe_src": ""
+    },
+    {
+      "id": 12457,
+      "title": "Юмеджи",
+      "kp_id": "199113",
+      "imdb_id": "tt0103316",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-07-12 11:48:24",
+      "orig_title": "Yumeji",
+      "year": "1991-05-31",
+      "translations": [
+        "Любительский (одноголосый закадровый) (den904)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (одноголосый закадровый) (den904)",
+      "update": "2017-07-24 07:47:34",
+      "iframe_src": ""
+    },
+    {
+      "id": 12456,
+      "title": "Цыганские мотивы",
+      "kp_id": "99679",
+      "imdb_id": "tt0081662",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-07-12 11:47:24",
+      "orig_title": "Tsigoineruwaizen",
+      "year": "1980-04-01",
+      "translations": [
+        "Любительский (одноголосый закадровый) (den904)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (одноголосый закадровый) (den904)",
+      "update": "2017-07-24 07:38:05",
+      "iframe_src": ""
+    },
+    {
+      "id": 6575,
+      "title": "Антропоид",
+      "kp_id": "892635",
+      "imdb_id": "tt4190530",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-22 18:10:54",
+      "orig_title": "Anthropoid",
+      "year": "2016-07-01",
+      "translations": [
+        "Профессиональный (многоголосый)",
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый)",
+      "update": "2017-07-25 05:19:13",
       "iframe_src": ""
     }
   ]

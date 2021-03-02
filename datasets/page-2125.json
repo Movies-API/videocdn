@@ -1,363 +1,363 @@
 {
   "data": [
     {
-      "id": 7198,
-      "title": "Флаббер",
-      "kp_id": "13093",
-      "imdb_id": "tt0119137",
+      "id": 7413,
+      "title": "Большой переполох",
+      "kp_id": "37731",
+      "imdb_id": "tt0070128",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-11-08 15:11:54",
-      "orig_title": "Flubber",
-      "year": "1997-11-16",
+      "add": "2016-11-14 06:43:31",
+      "orig_title": "Le grand bazar",
+      "year": "1973-09-06",
       "translations": [
-        "Полное дублирование"
+        "Профессиональный (двухголосый закадровый)"
       ],
-      "quality": "webdl",
-      "translation": "Полное дублирование",
-      "update": "2016-11-09 11:10:59",
+      "quality": "dvdrip",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2016-11-14 11:11:26",
       "iframe_src": ""
     },
     {
-      "id": 7197,
-      "title": "День отца",
-      "kp_id": "1597",
-      "imdb_id": "tt0119109",
+      "id": 7409,
+      "title": "Золотая чаша",
+      "kp_id": "5289",
+      "imdb_id": "tt0200669",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-11-08 15:10:38",
-      "orig_title": "Fathers' Day",
-      "year": "1997-05-09",
+      "add": "2016-11-14 05:44:26",
+      "orig_title": "The Golden Bowl",
+      "year": "2000-05-14",
       "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "webdl",
-      "translation": "Полное дублирование",
-      "update": "2016-11-09 11:08:18",
-      "iframe_src": ""
-    },
-    {
-      "id": 7196,
-      "title": "Крутые чуваки на Байю",
-      "kp_id": "829552",
-      "imdb_id": "tt3525346",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-11-08 15:09:37",
-      "orig_title": "Bad Asses on the Bayou",
-      "year": "2015-03-06",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "webdl",
-      "translation": "Полное дублирование",
-      "update": "2016-11-09 11:04:13",
-      "iframe_src": ""
-    },
-    {
-      "id": 7195,
-      "title": "Касание",
-      "kp_id": "6900",
-      "imdb_id": "tt0120357",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-11-08 15:08:24",
-      "orig_title": "Touch",
-      "year": "1997-02-14",
-      "translations": [
-        "Авторский (одноголосый закадровый) (Сербин)"
+        "Авторский (одноголосый закадровый) (Сербин Юрий)"
       ],
       "quality": "hdtv",
-      "translation": "Авторский (одноголосый закадровый) (Сербин)",
-      "update": "2016-11-09 11:03:35",
+      "translation": "Авторский (одноголосый закадровый) (Сербин Юрий)",
+      "update": "2016-11-14 08:45:00",
       "iframe_src": ""
     },
     {
-      "id": 7194,
-      "title": "Подкоп в Китай",
-      "kp_id": "21232",
-      "imdb_id": "tt0118980",
+      "id": 7407,
+      "title": "Правила боя",
+      "kp_id": "811",
+      "imdb_id": "tt0160797",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-11-08 15:07:15",
-      "orig_title": "Digging to China",
-      "year": "1998-01-23",
+      "add": "2016-11-14 05:40:48",
+      "orig_title": "Rules of Engagement",
+      "year": "2000-04-07",
       "translations": [
-        "Авторский (одноголосый закадровый) (Кузнецов)"
+        "Полное дублирование"
       ],
       "quality": "bd",
-      "translation": "Авторский (одноголосый закадровый) (Кузнецов)",
-      "update": "2016-11-09 11:02:23",
+      "translation": "Полное дублирование",
+      "update": "2016-11-14 08:42:13",
       "iframe_src": ""
     },
     {
-      "id": 7193,
-      "title": "На закате",
-      "kp_id": "6626",
-      "imdb_id": "tt0118566",
+      "id": 7398,
+      "title": "Еще одна пятница",
+      "kp_id": "3993",
+      "imdb_id": "tt0293815",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-11-08 15:05:44",
-      "orig_title": "Afterglow",
-      "year": "1997-05-11",
-      "translations": [
-        "Авторский (одноголосый закадровый) (Сербин)"
-      ],
-      "quality": "bd",
-      "translation": "Авторский (одноголосый закадровый) (Сербин)",
-      "update": "2016-11-09 07:52:11",
-      "iframe_src": ""
-    },
-    {
-      "id": 7162,
-      "title": "Пробуждение смерти",
-      "kp_id": "61609",
-      "imdb_id": "tt0367478",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-11-08 05:48:50",
-      "orig_title": "Wake of Death",
-      "year": "2004-10-18",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-11-09 07:49:30",
-      "iframe_src": ""
-    },
-    {
-      "id": 7161,
-      "title": "Тайна ордена",
-      "kp_id": "13986",
-      "imdb_id": "tt0193364",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-11-08 05:47:37",
-      "orig_title": "The Order",
-      "year": "2001-12-13",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-11-09 07:49:38",
-      "iframe_src": ""
-    },
-    {
-      "id": 7160,
-      "title": "Октагон",
-      "kp_id": "28593",
-      "imdb_id": "tt0081259",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-11-08 05:46:19",
-      "orig_title": "The Octagon",
-      "year": "1980-08-15",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-11-09 07:46:08",
-      "iframe_src": ""
-    },
-    {
-      "id": 7159,
-      "title": "Прочная защита",
-      "kp_id": "104967",
-      "imdb_id": "tt0462329",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-11-08 05:45:08",
-      "orig_title": "The Hard Corps",
-      "year": "2006-08-15",
+      "add": "2016-11-13 12:29:49",
+      "orig_title": "Friday After Next",
+      "year": "2002-11-22",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "webdl",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-11-09 07:45:34",
+      "update": "2016-11-14 08:38:00",
       "iframe_src": ""
     },
     {
-      "id": 7158,
-      "title": "Путь дракона",
-      "kp_id": "34809",
-      "imdb_id": "tt0068935",
+      "id": 7388,
+      "title": "История одного похищения",
+      "kp_id": "12280",
+      "imdb_id": "tt0156323",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-11-08 05:44:01",
-      "orig_title": "Meng long guo jiang",
-      "year": "1972-06-01",
+      "add": "2016-11-13 12:13:13",
+      "orig_title": "Screwed",
+      "year": "2000-05-12",
       "translations": [
-        "Профессиональный (многоголосый закадровый)"
+        "Профессиональный (двухголосый закадровый)"
       ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-11-09 07:42:55",
+      "quality": "webdl",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2016-11-14 14:35:04",
       "iframe_src": ""
     },
     {
-      "id": 7157,
-      "title": "Одинокий волк МакКуэйд",
-      "kp_id": "22637",
-      "imdb_id": "tt0085862",
+      "id": 7387,
+      "title": "Неудачник",
+      "kp_id": "11119",
+      "imdb_id": "tt0217630",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-11-08 05:42:48",
-      "orig_title": "Lone Wolf McQuade",
-      "year": "1983-04-15",
+      "add": "2016-11-13 12:12:09",
+      "orig_title": "Loser",
+      "year": "2000-07-20",
       "translations": [
-        "Профессиональный (многоголосый закадровый)"
+        "Профессиональный (двухголосый закадровый)"
       ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-11-09 07:41:38",
+      "quality": "webdl",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2016-11-14 14:33:29",
       "iframe_src": ""
     },
     {
-      "id": 7156,
-      "title": "Легионер",
-      "kp_id": "18847",
-      "imdb_id": "tt0126388",
+      "id": 7386,
+      "title": "Это правда, если я вру 2",
+      "kp_id": "35585",
+      "imdb_id": "tt0214289",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-11-08 05:41:41",
-      "orig_title": "Legionnaire",
-      "year": "1998-12-03",
+      "add": "2016-11-13 12:10:46",
+      "orig_title": "La Vérité si je mens! 2",
+      "year": "2001-02-07",
       "translations": [
-        "Профессиональный (многоголосый закадровый)"
+        "Профессиональный (двухголосый закадровый)"
       ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-11-09 07:41:45",
+      "quality": "hdtv",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2016-11-14 14:31:10",
       "iframe_src": ""
     },
     {
-      "id": 7155,
-      "title": "Черные тигры",
-      "kp_id": "15487",
-      "imdb_id": "tt0079227",
+      "id": 7385,
+      "title": "Безумно верная жена",
+      "kp_id": "4444",
+      "imdb_id": "tt0144142",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-11-08 05:40:37",
-      "orig_title": "Good Guys Wear Black",
-      "year": "1979-03-21",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-11-09 07:39:24",
-      "iframe_src": ""
-    },
-    {
-      "id": 7153,
-      "title": "Кодекс молчания",
-      "kp_id": "19036",
-      "imdb_id": "tt0088936",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-11-08 05:34:53",
-      "orig_title": "Code of Silence",
-      "year": "1985-05-03",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-11-09 06:37:54",
-      "iframe_src": ""
-    },
-    {
-      "id": 7151,
-      "title": "Сила одиночки",
-      "kp_id": "34806",
-      "imdb_id": "tt0079168",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-11-08 05:32:07",
-      "orig_title": "A Force of One",
-      "year": "1979-11-15",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-11-09 06:32:22",
-      "iframe_src": ""
-    },
-    {
-      "id": 7150,
-      "title": "Шесть пуль",
-      "kp_id": "596222",
-      "imdb_id": "tt1975249",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-11-08 05:30:47",
-      "orig_title": "6 Bullets",
-      "year": "2012-09-11",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-11-09 06:30:08",
-      "iframe_src": ""
-    },
-    {
-      "id": 7149,
-      "title": "Зной",
-      "kp_id": "648775",
-      "imdb_id": "tt2112277",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-11-08 05:29:37",
-      "orig_title": "Swelter",
-      "year": "2014-04-27",
+      "add": "2016-11-13 12:09:08",
+      "orig_title": "Committed",
+      "year": "2000-01-21",
       "translations": [
         "Профессиональный (двухголосый закадровый)"
       ],
       "quality": "bd",
       "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2016-11-09 06:28:36",
+      "update": "2016-11-14 14:29:35",
       "iframe_src": ""
     },
     {
-      "id": 7147,
-      "title": "В аду",
-      "kp_id": "28129",
-      "imdb_id": "tt0339135",
+      "id": 7382,
+      "title": "Тень вампира",
+      "kp_id": "825",
+      "imdb_id": "tt0189998",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-11-08 05:27:22",
-      "orig_title": "In Hell",
-      "year": "2003-06-14",
+      "add": "2016-11-13 12:05:36",
+      "orig_title": "Shadow of the Vampire",
+      "year": "2000-05-15",
       "translations": [
-        "Профессиональный (двухголосый закадровый)"
+        "Полное дублирование"
       ],
       "quality": "bd",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2016-11-09 06:16:49",
+      "translation": "Полное дублирование",
+      "update": "2016-11-14 08:47:10",
       "iframe_src": ""
     },
     {
-      "id": 7145,
-      "title": "Под откос",
-      "kp_id": "12378",
-      "imdb_id": "tt0298296",
+      "id": 7380,
+      "title": "Следующая пятница",
+      "kp_id": "6106",
+      "imdb_id": "tt0195945",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-11-08 05:24:38",
-      "orig_title": "Derailed",
-      "year": "2002-08-28",
+      "add": "2016-11-13 12:03:00",
+      "orig_title": "Next Friday",
+      "year": "2000-01-11",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2016-11-14 08:35:49",
+      "iframe_src": ""
+    },
+    {
+      "id": 7379,
+      "title": "Мой пёс Скип",
+      "kp_id": "763",
+      "imdb_id": "tt0156812",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-11-13 12:01:49",
+      "orig_title": "My Dog Skip",
+      "year": "2000-01-08",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2016-11-14 08:33:38",
+      "iframe_src": ""
+    },
+    {
+      "id": 7377,
+      "title": "Бар «Гадкий койот»",
+      "kp_id": "4888",
+      "imdb_id": "tt0200550",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-11-13 11:59:10",
+      "orig_title": "Coyote Ugly",
+      "year": "2000-07-31",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2016-11-14 08:29:35",
+      "iframe_src": ""
+    },
+    {
+      "id": 7376,
+      "title": "Поле битвы: Земля",
+      "kp_id": "4764",
+      "imdb_id": "tt0185183",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-11-13 11:57:46",
+      "orig_title": "Battlefield Earth",
+      "year": "2000-05-10",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "webdl",
+      "translation": "Полное дублирование",
+      "update": "2016-11-14 08:14:03",
+      "iframe_src": ""
+    },
+    {
+      "id": 7374,
+      "title": "Там, где деньги",
+      "kp_id": "2607",
+      "imdb_id": "tt0149367",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-11-13 11:54:20",
+      "orig_title": "Where the Money Is",
+      "year": "2000-04-14",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "hdtv",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-11-14 08:09:26",
+      "iframe_src": ""
+    },
+    {
+      "id": 7372,
+      "title": "Пари Матч",
+      "kp_id": "102772",
+      "imdb_id": "tt0222354",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-11-13 11:51:52",
+      "orig_title": "Sex & Mrs. X",
+      "year": "2000-04-10",
       "translations": [
         "Профессиональный (двухголосый закадровый)"
       ],
-      "quality": "bd",
+      "quality": "hdtv",
       "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2016-11-09 06:12:41",
+      "update": "2016-11-14 08:07:32",
+      "iframe_src": ""
+    },
+    {
+      "id": 7371,
+      "title": "33 несчастья",
+      "kp_id": "63811",
+      "imdb_id": "tt0156807",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-11-13 11:50:30",
+      "orig_title": "Mr. Accident",
+      "year": "2000-03-24",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "hdtv",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2016-11-14 08:05:43",
+      "iframe_src": ""
+    },
+    {
+      "id": 7370,
+      "title": "Обманщики",
+      "kp_id": "295363",
+      "imdb_id": "tt0218094",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-11-13 11:48:57",
+      "orig_title": "Cheaters",
+      "year": "2000-05-20",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "hdtv",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2016-11-14 14:23:42",
+      "iframe_src": ""
+    },
+    {
+      "id": 7308,
+      "title": "Англичанин",
+      "kp_id": "4169",
+      "imdb_id": "tt0165854",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-11-10 13:39:40",
+      "orig_title": "The Limey",
+      "year": "1999-05-15",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvhs",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-11-14 08:03:37",
+      "iframe_src": ""
+    },
+    {
+      "id": 7305,
+      "title": "Суперзвезда",
+      "kp_id": "4913",
+      "imdb_id": "tt0167427",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-11-10 13:36:21",
+      "orig_title": "Superstar",
+      "year": "1999-10-05",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-11-14 08:01:52",
+      "iframe_src": ""
+    },
+    {
+      "id": 7304,
+      "title": "Отзвуки эха",
+      "kp_id": "11016",
+      "imdb_id": "tt0164181",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-11-10 13:35:20",
+      "orig_title": "Stir of Echoes",
+      "year": "1999-07-28",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-11-14 07:59:12",
       "iframe_src": ""
     }
   ]

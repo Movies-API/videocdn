@@ -1,369 +1,365 @@
 {
   "data": [
     {
-      "id": 16782,
-      "title": "Жизнь в эпоху самолётов",
-      "kp_id": "893680",
-      "imdb_id": "tt3915966",
+      "id": 16995,
+      "title": "Введение в архитектуру",
+      "kp_id": "675669",
+      "imdb_id": "tt2337981",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-05-15 05:53:15",
-      "orig_title": "Living in the Age of Airplanes",
-      "year": "2015-04-10",
+      "add": "2018-06-02 21:13:55",
+      "orig_title": "Geonchukhakgaeron",
+      "year": "2012-03-22",
       "translations": [
-        "Любительский (одноголосый закадровый) (RusFilm)"
+        "Любительский (двухголосый закадровый) (GREEN TEA)"
       ],
       "quality": "bd",
-      "translation": "Любительский (одноголосый закадровый) (RusFilm)",
-      "update": "2018-05-16 08:52:02",
+      "translation": "Любительский (двухголосый закадровый) (GREEN TEA)",
+      "update": "2018-06-04 03:13:51",
       "iframe_src": ""
     },
     {
-      "id": 16781,
-      "title": "Марвин или прекрасное воспитание",
-      "kp_id": "1002606",
-      "imdb_id": "tt5989394",
+      "id": 16994,
+      "title": "Влюбленная женщина",
+      "kp_id": "577578",
+      "imdb_id": "tt1802810",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-05-15 05:51:17",
-      "orig_title": "Marvin ou la belle éducation",
-      "year": "2017-09-02",
+      "add": "2018-05-31 09:19:31",
+      "orig_title": "Rubbeldiekatz",
+      "year": "2011-11-30",
       "translations": [
-        "Профессиональный (многоголосый закадровый) (GreenРай Studio)"
+        "Профессиональный (одноголосый закадровый)"
       ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый) (GreenРай Studio)",
-      "update": "2018-05-16 08:53:58",
+      "quality": "bd",
+      "translation": "Профессиональный (одноголосый закадровый)",
+      "update": "2018-06-01 06:39:10",
       "iframe_src": ""
     },
     {
-      "id": 16779,
-      "title": "Орни Адамс: просто ору",
-      "kp_id": "1113063",
-      "imdb_id": "tt7728754",
+      "id": 16993,
+      "title": "Музеи Ватикана",
+      "kp_id": "843102",
+      "imdb_id": "tt4270852",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-05-15 05:45:19",
-      "orig_title": "Orny Adams: More than Loud",
-      "year": "2017-12-01",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Колобок)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Колобок)",
-      "update": "2018-05-16 08:54:53",
-      "iframe_src": ""
-    },
-    {
-      "id": 16778,
-      "title": "Переверни страницу",
-      "kp_id": "1118087",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-05-15 05:43:26",
-      "orig_title": "Переверни страницу",
-      "year": "2018-05-11",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2018-05-16 08:58:52",
-      "iframe_src": ""
-    },
-    {
-      "id": 16777,
-      "title": "Звездный Щенок: Мировой Тур",
-      "kp_id": "1062771",
-      "imdb_id": "tt7322864",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-05-15 05:40:44",
-      "orig_title": "Pup Star: World Tour",
-      "year": "2018-05-05",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-05-16 08:58:34",
-      "iframe_src": ""
-    },
-    {
-      "id": 16776,
-      "title": "Сетчатка",
-      "kp_id": "418221",
-      "imdb_id": "tt1225856",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-05-15 05:37:04",
-      "orig_title": "Retina",
-      "year": "2017-01-01",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-05-16 09:01:49",
-      "iframe_src": ""
-    },
-    {
-      "id": 16774,
-      "title": "Снежные связи",
-      "kp_id": "1026233",
-      "imdb_id": "tt6241768",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-05-15 05:30:34",
-      "orig_title": "Snowbound",
-      "year": "2017-01-01",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-05-16 09:19:35",
-      "iframe_src": ""
-    },
-    {
-      "id": 16772,
-      "title": "Конец памяти?",
-      "kp_id": null,
-      "imdb_id": "tt5284298",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-05-15 05:21:40",
-      "orig_title": "Nos ordinateurs ont-ils la mémoire courte?",
-      "year": "2015-12-11",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "hdtv",
-      "translation": "Полное дублирование",
-      "update": "2018-05-16 03:53:48",
-      "iframe_src": ""
-    },
-    {
-      "id": 16771,
-      "title": "Почётный список",
-      "kp_id": "1056192",
-      "imdb_id": "tt7237666",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-05-15 05:18:21",
-      "orig_title": "The Honor List",
-      "year": "2018-05-11",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-05-16 03:50:47",
-      "iframe_src": ""
-    },
-    {
-      "id": 16770,
-      "title": "Безумный Король Симэнь",
-      "kp_id": "1038584",
-      "imdb_id": "tt6557116",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-05-15 05:17:07",
-      "orig_title": "Xichéng tónghuà",
-      "year": "2017-01-06",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-05-16 03:48:43",
-      "iframe_src": ""
-    },
-    {
-      "id": 16766,
-      "title": "Незащищённый свидетель",
-      "kp_id": "1118730",
-      "imdb_id": "tt7945098",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-05-15 04:57:07",
-      "orig_title": "Witness Unprotected",
-      "year": "2018-02-13",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-05-16 03:24:16",
-      "iframe_src": ""
-    },
-    {
-      "id": 16764,
-      "title": "Море даёт, море забирает",
-      "kp_id": "601559",
-      "imdb_id": "tt1895318",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-05-15 04:29:21",
-      "orig_title": "Fjällbackamorden: Havet ger, havet tar",
-      "year": "2013-09-22",
+      "add": "2018-05-31 09:17:50",
+      "orig_title": "The Vatican Museums",
+      "year": "2014-11-04",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2018-05-15 10:49:51",
+      "update": "2018-06-01 06:30:18",
       "iframe_src": ""
     },
     {
-      "id": 16759,
-      "title": "Любовь в чашке кофе",
-      "kp_id": "993634",
-      "imdb_id": "tt5864236",
+      "id": 16992,
+      "title": "Вампирши-лесбиянки",
+      "kp_id": "82096",
+      "imdb_id": "tt0066380",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-05-15 04:15:00",
-      "orig_title": "Brimming with Love",
-      "year": "2018-01-01",
+      "add": "2018-05-31 09:13:50",
+      "orig_title": "Vampyros Lesbos",
+      "year": "1971-07-15",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Алексеев Антон)"
+      ],
+      "quality": "bd",
+      "translation": "Авторский (одноголосый закадровый) (Алексеев Антон)",
+      "update": "2018-06-01 07:56:09",
+      "iframe_src": ""
+    },
+    {
+      "id": 16991,
+      "title": "Непобежденный",
+      "kp_id": "2072",
+      "imdb_id": "tt0039931",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-05-31 09:12:01",
+      "orig_title": "Unconquered",
+      "year": "1947-09-24",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (5-й канал СПб)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый) (5-й канал СПб)",
+      "update": "2018-06-01 07:53:40",
+      "iframe_src": ""
+    },
+    {
+      "id": 16990,
+      "title": "Истории ужасов",
+      "kp_id": "12964",
+      "imdb_id": "tt0056552",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-05-31 09:06:54",
+      "orig_title": "Tales of Terror",
+      "year": "1962-07-04",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2018-06-01 06:33:39",
+      "iframe_src": ""
+    },
+    {
+      "id": 16989,
+      "title": "Стерео",
+      "kp_id": "24907",
+      "imdb_id": "tt0065036",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-05-31 09:05:12",
+      "orig_title": "Stereo",
+      "year": "1969-06-23",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Алексеев Антон)"
+      ],
+      "quality": "bd",
+      "translation": "Авторский (одноголосый закадровый) (Алексеев Антон)",
+      "update": "2018-06-01 06:36:01",
+      "iframe_src": ""
+    },
+    {
+      "id": 16988,
+      "title": "Шесть шведок в Альпах",
+      "kp_id": "98123",
+      "imdb_id": "tt0086267",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-05-31 09:03:11",
+      "orig_title": "Sechs Schwedinnen auf der Alm",
+      "year": "1983-01-01",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Алексеев Антон)"
+      ],
+      "quality": "bd",
+      "translation": "Авторский (одноголосый закадровый) (Алексеев Антон)",
+      "update": "2018-06-01 06:42:24",
+      "iframe_src": ""
+    },
+    {
+      "id": 16987,
+      "title": "Детка в Роллс-Ройсе",
+      "kp_id": "658311",
+      "imdb_id": "tt0073632",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-05-31 09:01:01",
+      "orig_title": "Rolls-Royce Baby",
+      "year": "1975-12-01",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Алексеев Антон)"
+      ],
+      "quality": "bd",
+      "translation": "Авторский (одноголосый закадровый) (Алексеев Антон)",
+      "update": "2018-06-01 06:37:50",
+      "iframe_src": ""
+    },
+    {
+      "id": 16986,
+      "title": "Что лежит у истока",
+      "kp_id": null,
+      "imdb_id": "tt5165878",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-05-31 08:13:15",
+      "orig_title": "What Lies Upstream",
+      "year": "2017-01-20",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-05-15 10:51:40",
+      "update": "2018-06-01 06:45:04",
       "iframe_src": ""
     },
     {
-      "id": 16594,
-      "title": "Идущий следом",
-      "kp_id": "1065788",
-      "imdb_id": "tt6885804",
+      "id": 16982,
+      "title": "Хулиганы красной армии",
+      "kp_id": "1076791",
+      "imdb_id": "tt6055450",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-05-02 21:10:05",
-      "orig_title": "The Follower",
-      "year": "2018-02-15",
+      "add": "2018-05-31 07:59:55",
+      "orig_title": "Red Army Hooligans",
+      "year": "2018-05-28",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Любительский (двухголосый закадровый) (HiWayGrope)"
+        "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-05-17 04:32:06",
+      "update": "2018-06-01 03:50:32",
       "iframe_src": ""
     },
     {
-      "id": 16273,
-      "title": "Принцесса Лебедя: Королевская Мизтерия",
-      "kp_id": "1112732",
-      "imdb_id": "tt7966994",
+      "id": 16979,
+      "title": "Джон Маккейн: по Ком звонит колокол",
+      "kp_id": null,
+      "imdb_id": "tt8289196",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-04-15 17:53:52",
-      "orig_title": "The Swan Princess: A Royal Myztery",
-      "year": "2018-03-27",
+      "add": "2018-05-31 07:54:58",
+      "orig_title": "John McCain: For Whom the Bell Tolls",
+      "year": "2018-05-28",
       "translations": [
-        "Полное дублирование",
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "webdl",
-      "translation": "Полное дублирование",
-      "update": "2018-05-16 03:25:16",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2018-06-01 03:55:11",
       "iframe_src": ""
     },
     {
-      "id": 15716,
-      "title": "Прощённый",
-      "kp_id": "667867",
-      "imdb_id": "tt2249081",
+      "id": 16977,
+      "title": "Лучший из миров",
+      "kp_id": "974537",
+      "imdb_id": "tt5538118",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-03-17 22:31:12",
-      "orig_title": "The Forgiven",
-      "year": "2017-10-13",
+      "add": "2018-05-31 07:50:43",
+      "orig_title": "Die beste aller Welten",
+      "year": "2017-02-11",
       "translations": [
-        "Любительский (двухголосый закадровый) (HiWayGrope)",
-        "Любительский (многоголосый закадровый) (@MUZOBOZ@)"
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2018-06-01 03:59:05",
+      "iframe_src": ""
+    },
+    {
+      "id": 16974,
+      "title": "Билл Най - Ученый парень",
+      "kp_id": "1049440",
+      "imdb_id": "tt4853154",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-05-31 07:35:39",
+      "orig_title": "Bill Nye: Science Guy",
+      "year": "2017-03-12",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
-      "translation": "Любительский (двухголосый закадровый) (HiWayGrope)",
-      "update": "2018-05-16 03:42:35",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2018-06-01 04:05:14",
       "iframe_src": ""
     },
     {
-      "id": 15459,
-      "title": "Ночное кормление",
-      "kp_id": "988125",
-      "imdb_id": "tt5822140",
+      "id": 16965,
+      "title": "Паттон",
+      "kp_id": "433",
+      "imdb_id": "tt0066206",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-03-06 22:22:55",
-      "orig_title": "Yösyöttö",
-      "year": "2017-09-01",
+      "add": "2018-05-30 10:27:04",
+      "orig_title": "Patton",
+      "year": "1970-02-04",
+      "translations": [
+        "Любительский (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (многоголосый закадровый)",
+      "update": "2018-05-31 10:32:44",
+      "iframe_src": ""
+    },
+    {
+      "id": 16964,
+      "title": "Рожденный вором",
+      "kp_id": "5347",
+      "imdb_id": "tt0101020",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-05-30 10:24:53",
+      "orig_title": "Zong heng si hai",
+      "year": "1991-02-02",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2018-05-31 10:34:18",
+      "iframe_src": ""
+    },
+    {
+      "id": 16943,
+      "title": "Голубка",
+      "kp_id": "432579",
+      "imdb_id": "tt1505856",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-05-30 09:26:19",
+      "orig_title": "Golubka",
+      "year": "2009-10-22",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "hdtv",
+      "translation": "Оригинальная дорожка",
+      "update": "2018-06-04 03:12:57",
+      "iframe_src": ""
+    },
+    {
+      "id": 16080,
+      "title": "Редкая бабочка",
+      "kp_id": "993845",
+      "imdb_id": "tt3719948",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-04-05 18:25:48",
+      "orig_title": "The Butterfly Tree",
+      "year": "2017-08-11",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)",
-        "Профессиональный (многоголосый закадровый) (GreenРай Studio)"
+        "Профессиональный (многоголосый закадровый) (iTunes)"
       ],
       "quality": "bd",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-05-16 03:23:02",
+      "update": "2018-05-31 10:27:41",
       "iframe_src": ""
     },
     {
-      "id": 12542,
-      "title": "Стефан Цвейг",
-      "kp_id": "817287",
-      "imdb_id": "tt3397160",
+      "id": 14608,
+      "title": "Красавица",
+      "kp_id": "974101",
+      "imdb_id": "tt5486170",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-07-17 21:36:15",
-      "orig_title": "Stefan Zweig: Farewell to Europe",
-      "year": "2016-06-02",
-      "translations": [
-        "Любительский (одноголосый закадровый)",
-        "Профессиональный (многоголосый закадровый) (GreenРай Studio)"
-      ],
-      "quality": "hdrip",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2018-05-16 04:01:13",
-      "iframe_src": ""
-    },
-    {
-      "id": 12046,
-      "title": "Колеблющийся штат",
-      "kp_id": "957392",
-      "imdb_id": "tt5301544",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-06-19 22:51:27",
-      "orig_title": "Swing State",
-      "year": "2016-11-01",
+      "add": "2017-12-10 20:44:26",
+      "orig_title": "Haeuhhwa",
+      "year": "2016-04-13",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)",
-        "Профессиональный (многоголосый закадровый) (GreenРай Studio)"
+        "Любительский (двухголосый закадровый) (GREEN TEA)"
       ],
-      "quality": "webdl",
+      "quality": "bd",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-05-16 03:58:27",
+      "update": "2018-06-04 03:16:22",
       "iframe_src": ""
     },
     {
-      "id": 366,
-      "title": "Три девятки",
-      "kp_id": "565861",
-      "imdb_id": "tt1712261",
+      "id": 6472,
+      "title": "Крутые мужики",
+      "kp_id": "4073",
+      "imdb_id": "tt0092105",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-03-30 21:07:11",
-      "orig_title": "Triple 9",
-      "year": "2016-02-19",
+      "add": "2016-10-19 16:24:36",
+      "orig_title": "Tough Guys",
+      "year": "1986-09-30",
       "translations": [
         "Полное дублирование"
       ],
       "quality": "bd",
       "translation": "Полное дублирование",
-      "update": "2018-05-17 04:36:54",
+      "update": "2018-06-01 06:31:21",
       "iframe_src": ""
     }
   ]

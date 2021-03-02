@@ -1,372 +1,382 @@
 {
   "data": [
     {
-      "id": 20159,
-      "title": "Шиzа",
-      "kp_id": "79887",
-      "imdb_id": "tt0406216",
+      "id": 20240,
+      "title": "Уже Рождество, Ив",
+      "kp_id": "1141871",
+      "imdb_id": "tt8300786",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-11-15 22:42:14",
-      "orig_title": "Shiza",
-      "year": "2004-05-21",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2018-11-16 07:29:59",
-      "iframe_src": ""
-    },
-    {
-      "id": 20158,
-      "title": "Шультес",
-      "kp_id": "398100",
-      "imdb_id": "tt1226318",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-11-15 22:40:01",
-      "orig_title": "Shultes",
-      "year": "2008-05-22",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2018-11-16 07:31:35",
-      "iframe_src": ""
-    },
-    {
-      "id": 20157,
-      "title": "Рождество с Джой",
-      "kp_id": "1164268",
-      "imdb_id": "tt8587650",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-11-15 22:37:52",
-      "orig_title": "Christmas Joy",
-      "year": "2018-11-03",
+      "add": "2018-11-22 08:01:05",
+      "orig_title": "It's Christmas, Eve",
+      "year": "2018-11-10",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "hdtv",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-11-16 07:32:46",
+      "update": "2018-11-22 10:01:04",
       "iframe_src": ""
     },
     {
-      "id": 20155,
-      "title": "Зомби в 17",
-      "kp_id": "1127214",
-      "imdb_id": "tt7890274",
+      "id": 19695,
+      "title": "С любовью спешить не стоит",
+      "kp_id": "23614",
+      "imdb_id": "tt0096483",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-11-15 22:34:21",
-      "orig_title": "Zombie at 17",
-      "year": "2018-10-27",
+      "add": "2018-10-22 12:53:51",
+      "orig_title": "You Can't Hurry Love",
+      "year": "1988-01-20",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-11-16 07:38:36",
-      "iframe_src": ""
-    },
-    {
-      "id": 20154,
-      "title": "Пока бывшая не разлучит нас",
-      "kp_id": "1165605",
-      "imdb_id": "tt8579840",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-11-15 22:33:04",
-      "orig_title": "Til Ex Do Us Part",
-      "year": "2018-01-01",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "hdtv",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-11-16 07:39:35",
-      "iframe_src": ""
-    },
-    {
-      "id": 20153,
-      "title": "Потерянная ночь",
-      "kp_id": "1045945",
-      "imdb_id": "tt6955298",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-11-15 22:31:31",
-      "orig_title": "Sarajin bam",
-      "year": "2018-03-07",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Колобок)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Колобок)",
-      "update": "2018-11-16 07:40:33",
-      "iframe_src": ""
-    },
-    {
-      "id": 20152,
-      "title": "Расшифрованная кинопленка",
-      "kp_id": "1089028",
-      "imdb_id": "tt7128868",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-11-15 22:30:13",
-      "orig_title": "Spell Reel",
-      "year": "2017-02-22",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-11-16 07:41:44",
-      "iframe_src": ""
-    },
-    {
-      "id": 20151,
-      "title": "Трасса 80",
-      "kp_id": null,
-      "imdb_id": "tt7558548",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-11-15 22:28:50",
-      "orig_title": "Route 80",
-      "year": "2018-05-25",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-11-16 07:43:32",
-      "iframe_src": ""
-    },
-    {
-      "id": 20150,
-      "title": "Месть полицейского-самурая",
-      "kp_id": "1163414",
-      "imdb_id": "tt8578738",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-11-15 22:27:11",
-      "orig_title": "Revenge of the Samurai Cop",
-      "year": "2017-12-28",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-11-16 07:44:50",
-      "iframe_src": ""
-    },
-    {
-      "id": 20148,
-      "title": "Дорога на гиблый байрак",
-      "kp_id": "1021964",
-      "imdb_id": "tt6371924",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-11-15 22:22:11",
-      "orig_title": "Lost Gully Road",
-      "year": "2017-11-25",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-11-16 07:47:59",
-      "iframe_src": ""
-    },
-    {
-      "id": 20147,
-      "title": "Проклятие пугала",
-      "kp_id": "1064675",
-      "imdb_id": "tt7398750",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-11-15 22:20:49",
-      "orig_title": "Curse of the Scarecrow",
-      "year": "2018-10-22",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-11-16 07:48:53",
-      "iframe_src": ""
-    },
-    {
-      "id": 19435,
-      "title": "На районе",
-      "kp_id": "998805",
-      "imdb_id": "tt7000942",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-10-07 21:30:14",
-      "orig_title": "Na rayone",
-      "year": "2018-10-04",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2018-11-16 07:46:06",
-      "iframe_src": ""
-    },
-    {
-      "id": 1321,
-      "title": "Евротур",
-      "kp_id": "5090",
-      "imdb_id": "tt0356150",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-04-20 14:46:12",
-      "orig_title": "EuroTrip",
-      "year": "2004-02-20",
-      "translations": [
-        "Полное дублирование",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2018-11-15 09:00:33",
-      "iframe_src": ""
-    },
-    {
-      "id": 1315,
-      "title": "Карантин",
-      "kp_id": "851834",
-      "imdb_id": "tt3561236",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-04-20 14:38:12",
-      "orig_title": "Containment",
-      "year": "2015-08-01",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Parovoz Production)",
+        "Профессиональный (многоголосый закадровый)",
         "Original (English)"
       ],
       "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Parovoz Production)",
-      "update": "2018-11-15 09:05:33",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2018-11-22 09:18:52",
       "iframe_src": ""
     },
     {
-      "id": 317,
-      "title": "Высшая лига",
-      "kp_id": "16934",
-      "imdb_id": "tt0097815",
+      "id": 19694,
+      "title": "Желтый роллс-ройс",
+      "kp_id": "932",
+      "imdb_id": "tt0059927",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-03-23 10:26:31",
-      "orig_title": "Major League",
-      "year": "1989-04-07",
+      "add": "2018-10-22 12:50:42",
+      "orig_title": "The Yellow Rolls-Royce",
+      "year": "1964-12-31",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (ТНТ)",
+        "Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый) (ТНТ)",
+      "update": "2018-11-22 09:18:11",
+      "iframe_src": ""
+    },
+    {
+      "id": 19693,
+      "title": "Преследование Д. Б. Купера",
+      "kp_id": "7201",
+      "imdb_id": "tt0082958",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-10-22 12:49:30",
+      "orig_title": "The Pursuit of D.B. Cooper",
+      "year": "1981-11-13",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)",
+        "Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2018-11-22 09:17:18",
+      "iframe_src": ""
+    },
+    {
+      "id": 19692,
+      "title": "Арена",
+      "kp_id": "25181",
+      "imdb_id": "tt0069729",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-10-22 12:48:31",
+      "orig_title": "The Arena",
+      "year": "1974-03-13",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)",
+        "Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2018-11-22 09:16:01",
+      "iframe_src": ""
+    },
+    {
+      "id": 19691,
+      "title": "Завещание",
+      "kp_id": "5446",
+      "imdb_id": "tt0086429",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-10-22 12:46:51",
+      "orig_title": "Testament",
+      "year": "1983-11-04",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (Paramount Channel)",
+        "Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый) (Paramount Channel)",
+      "update": "2018-11-22 09:14:45",
+      "iframe_src": ""
+    },
+    {
+      "id": 19690,
+      "title": "Телефон",
+      "kp_id": "13583",
+      "imdb_id": "tt0076804",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-10-22 12:45:56",
+      "orig_title": "Telefon",
+      "year": "1977-12-16",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (5-й канал СПб)",
+        "Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый) (5-й канал СПб)",
+      "update": "2018-11-22 09:13:53",
+      "iframe_src": ""
+    },
+    {
+      "id": 19689,
+      "title": "Гонщик Строкер",
+      "kp_id": "24949",
+      "imdb_id": "tt0086379",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-10-22 12:44:51",
+      "orig_title": "Stroker Ace",
+      "year": "1983-07-01",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (СТС)",
+        "Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый) (СТС)",
+      "update": "2018-11-22 09:13:18",
+      "iframe_src": ""
+    },
+    {
+      "id": 19688,
+      "title": "Война Мерфи",
+      "kp_id": "10151",
+      "imdb_id": "tt0067458",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-10-22 12:44:00",
+      "orig_title": "Murphy's War",
+      "year": "1971-01-13",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)",
+        "Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2018-11-22 09:11:59",
+      "iframe_src": ""
+    },
+    {
+      "id": 19687,
+      "title": "Грязное дело",
+      "kp_id": "16252",
+      "imdb_id": "tt0073133",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-10-22 12:43:03",
+      "orig_title": "Hustle",
+      "year": "1975-12-25",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (Paramount Channel)",
+        "Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый) (Paramount Channel)",
+      "update": "2018-11-22 09:10:30",
+      "iframe_src": ""
+    },
+    {
+      "id": 19686,
+      "title": "Фактотум",
+      "kp_id": "81663",
+      "imdb_id": "tt0417658",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-10-22 12:40:37",
+      "orig_title": "Factotum",
+      "year": "2005-04-12",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (Первый канал | ОРТ)",
+        "Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый) (Первый канал | ОРТ)",
+      "update": "2018-11-22 09:09:40",
+      "iframe_src": ""
+    },
+    {
+      "id": 19685,
+      "title": "Битва драконов",
+      "kp_id": "8396",
+      "imdb_id": "tt0194722",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-10-22 12:39:12",
+      "orig_title": "Bridge of Dragons",
+      "year": "1999-06-30",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)",
+        "Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2018-11-22 08:48:58",
+      "iframe_src": ""
+    },
+    {
+      "id": 19683,
+      "title": "Бандиты во времени",
+      "kp_id": "6679",
+      "imdb_id": "tt0081633",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-10-22 12:35:41",
+      "orig_title": "Time Bandits",
+      "year": "1981-07-16",
       "translations": [
         "Профессиональный (многоголосый закадровый)",
         "Original (English)"
       ],
       "quality": "bd",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2018-11-16 11:49:13",
+      "update": "2018-11-22 08:47:53",
       "iframe_src": ""
     },
     {
-      "id": 294,
-      "title": "Коллекционер 2",
-      "kp_id": "571252",
-      "imdb_id": "tt1748227",
+      "id": 19682,
+      "title": "Театр крови",
+      "kp_id": "19122",
+      "imdb_id": "tt0070791",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-03-18 16:06:30",
-      "orig_title": "The Collection",
-      "year": "2012-09-21",
+      "add": "2018-10-22 12:34:22",
+      "orig_title": "Theater of Blood",
+      "year": "1973-03-16",
       "translations": [
-        "Полное дублирование",
+        "Профессиональный (многоголосый закадровый) (СТС)",
         "Original (English)"
       ],
       "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2018-11-16 11:52:10",
+      "translation": "Профессиональный (многоголосый закадровый) (СТС)",
+      "update": "2018-11-22 08:46:54",
       "iframe_src": ""
     },
     {
-      "id": 280,
-      "title": "Убийца внутри меня",
-      "kp_id": "431294",
-      "imdb_id": "tt0954947",
+      "id": 19681,
+      "title": "Ночные пришельцы",
+      "kp_id": "7146",
+      "imdb_id": "tt0069007",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-03-16 11:17:21",
-      "orig_title": "The Killer Inside Me",
-      "year": "2010-01-24",
-      "translations": [
-        "Полное дублирование",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2018-11-16 11:51:04",
-      "iframe_src": ""
-    },
-    {
-      "id": 262,
-      "title": "Френни",
-      "kp_id": "795242",
-      "imdb_id": "tt3165630",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-03-14 10:34:18",
-      "orig_title": "The Benefactor",
-      "year": "2015-04-17",
+      "add": "2018-10-22 12:33:26",
+      "orig_title": "The Nightcomers",
+      "year": "1971-08-30",
       "translations": [
         "Профессиональный (многоголосый закадровый)",
         "Original (English)"
       ],
       "quality": "bd",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2018-11-16 11:53:25",
+      "update": "2018-11-22 08:45:49",
       "iframe_src": ""
     },
     {
-      "id": 257,
-      "title": "Здравствуй, папа, Новый год",
-      "kp_id": "484428",
-      "imdb_id": "tt1528854",
+      "id": 19680,
+      "title": "Белоснежка: Страшная сказка",
+      "kp_id": "3936",
+      "imdb_id": "tt0119227",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-03-14 00:26:46",
-      "orig_title": "Daddy's Home",
-      "year": "2015-12-09",
+      "add": "2018-10-22 12:30:58",
+      "orig_title": "Snow White: A Tale of Terror",
+      "year": "1997-05-09",
       "translations": [
-        "Звук с CAMRip",
-        "Полное дублирование",
+        "Профессиональный (многоголосый закадровый)",
         "Original (English)"
       ],
       "quality": "bd",
-      "translation": "Звук с CAMRip",
-      "update": "2018-11-16 11:47:48",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2018-11-22 08:44:46",
       "iframe_src": ""
     },
     {
-      "id": 253,
-      "title": "Этот неловкий момент",
-      "kp_id": "577529",
-      "imdb_id": "tt1800246",
+      "id": 19679,
+      "title": "Бог людоедов",
+      "kp_id": "35312",
+      "imdb_id": "tt0077945",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-03-13 16:34:00",
-      "orig_title": "That Awkward Moment",
-      "year": "2014-01-27",
+      "add": "2018-10-22 12:29:32",
+      "orig_title": "La montagna del dio cannibale",
+      "year": "1978-05-25",
       "translations": [
-        "Полное дублирование",
+        "Профессиональный (многоголосый закадровый)",
         "Original (English)"
       ],
       "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2018-11-16 11:54:38",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2018-11-22 08:43:49",
+      "iframe_src": ""
+    },
+    {
+      "id": 19641,
+      "title": "Янки",
+      "kp_id": "9222",
+      "imdb_id": "tt0080157",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-10-19 05:43:56",
+      "orig_title": "Yanks",
+      "year": "1979-09-19",
+      "translations": [
+        "Профессиональный (двухголосый закадровый) (НТВ)",
+        "Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (двухголосый закадровый) (НТВ)",
+      "update": "2018-11-22 08:26:02",
+      "iframe_src": ""
+    },
+    {
+      "id": 19640,
+      "title": "Маска Фу Манчу",
+      "kp_id": "15415",
+      "imdb_id": "tt0023194",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-10-19 05:42:01",
+      "orig_title": "The Mask of Fu Manchu",
+      "year": "1932-11-05",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)",
+        "Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2018-11-22 08:25:24",
+      "iframe_src": ""
+    },
+    {
+      "id": 2237,
+      "title": "Мистер Бин",
+      "kp_id": "8163",
+      "imdb_id": "tt0118689",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-05-17 04:28:23",
+      "orig_title": "Bean",
+      "year": "1997-07-03",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2018-11-22 08:26:55",
       "iframe_src": ""
     }
   ]
