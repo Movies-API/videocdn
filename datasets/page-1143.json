@@ -1,376 +1,363 @@
 {
   "data": [
     {
-      "id": 28533,
-      "title": "Посланник смерти",
-      "kp_id": "13576",
-      "imdb_id": "tt0095626",
+      "id": 28710,
+      "title": "Дьявол снаружи",
+      "kp_id": "996221",
+      "imdb_id": "tt4958972",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-07-03 11:16:46",
-      "orig_title": "Messenger of Death",
-      "year": "1988-09-16",
+      "add": "2019-07-06 22:17:22",
+      "orig_title": "The Devil Outside",
+      "year": "2018-06-22",
       "translations": [
-        "Профессиональный (многоголосый закадровый)"
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-07-07 08:10:21",
+      "iframe_src": ""
+    },
+    {
+      "id": 28709,
+      "title": "Чёрт нас возьми",
+      "kp_id": "968499",
+      "imdb_id": "tt5509412",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-07-06 22:15:33",
+      "orig_title": "Que le diable nous emporte",
+      "year": "2018-01-10",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-07-07 08:24:49",
+      "iframe_src": ""
+    },
+    {
+      "id": 28708,
+      "title": "Дальний космос",
+      "kp_id": "1190443",
+      "imdb_id": "tt8912134",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-07-06 22:11:36",
+      "orig_title": "Deep Space",
+      "year": "2018-10-02",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-07-07 08:16:33",
+      "iframe_src": ""
+    },
+    {
+      "id": 28706,
+      "title": "Шкуры",
+      "kp_id": "1022040",
+      "imdb_id": "tt6141886",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-07-06 22:07:35",
+      "orig_title": "Skin in the Game",
+      "year": "2019-03-27",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-07-07 08:14:21",
+      "iframe_src": ""
+    },
+    {
+      "id": 28699,
+      "title": "Нам терять нечего",
+      "kp_id": "1075209",
+      "imdb_id": "tt7225352",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-07-06 21:57:56",
+      "orig_title": "Nichts zu verlieren",
+      "year": "2018-08-29",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (AlphaProject)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый) (AlphaProject)",
+      "update": "2019-07-07 08:27:07",
+      "iframe_src": ""
+    },
+    {
+      "id": 28695,
+      "title": "Лаки",
+      "kp_id": "1223513",
+      "imdb_id": "tt9466786",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-07-06 21:47:15",
+      "orig_title": "Luckee",
+      "year": "2019-02-07",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-07-07 08:08:39",
+      "iframe_src": ""
+    },
+    {
+      "id": 28680,
+      "title": "Четыре звонка от Амелии",
+      "kp_id": "1117246",
+      "imdb_id": "tt8210754",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-07-06 21:08:40",
+      "orig_title": "4 Phone Calls from Amelia",
+      "year": "2018-09-01",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-07-07 08:26:00",
+      "iframe_src": ""
+    },
+    {
+      "id": 28627,
+      "title": "Ferrari: Гонка за бессмертие",
+      "kp_id": "1081815",
+      "imdb_id": "tt6622186",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-07-05 13:39:29",
+      "orig_title": "Ferrari: Race to Immortality",
+      "year": "2017-10-29",
+      "translations": [
+        "Любительский (одноголосый закадровый) (Сагач Кирилл)"
+      ],
+      "quality": "hdrip",
+      "translation": "Любительский (одноголосый закадровый) (Сагач Кирилл)",
+      "update": "2019-07-06 19:29:06",
+      "iframe_src": ""
+    },
+    {
+      "id": 28625,
+      "title": "Последнее слово",
+      "kp_id": "272763",
+      "imdb_id": "tt0876233",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-07-04 21:38:49",
+      "orig_title": "The Last Word",
+      "year": "2008-01-19",
+      "translations": [
+        "Любительский (одноголосый закадровый)"
       ],
       "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-07-03 19:58:57",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2019-07-05 07:48:38",
       "iframe_src": ""
     },
     {
-      "id": 28525,
-      "title": "Шоссе для игроков",
-      "kp_id": "852114",
-      "imdb_id": "tt4192652",
+      "id": 28616,
+      "title": "А у нас была тишина...",
+      "kp_id": "43392",
+      "imdb_id": "tt0147807",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-07-03 06:18:41",
-      "orig_title": "She's Missing",
-      "year": "2019-03-01",
+      "add": "2019-07-04 20:42:25",
+      "orig_title": "A u nas byla tishina...",
+      "year": "1978-02-17",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
+        "Оригинальная дорожка"
       ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-07-03 11:31:03",
+      "quality": "sat",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-07-05 07:45:31",
       "iframe_src": ""
     },
     {
-      "id": 28524,
-      "title": "История о двух кухнях",
-      "kp_id": "1263390",
-      "imdb_id": "tt10243660",
+      "id": 28615,
+      "title": "Балтийская слава",
+      "kp_id": "46021",
+      "imdb_id": "tt0050165",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-07-03 06:11:11",
-      "orig_title": "A Tale of Two Kitchens",
-      "year": "2019-05-22",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-07-03 11:33:29",
-      "iframe_src": ""
-    },
-    {
-      "id": 28507,
-      "title": "Дачники",
-      "kp_id": "44081",
-      "imdb_id": "tt0352268",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-07-02 20:31:39",
-      "orig_title": "Dachniki",
-      "year": "1967-09-25",
+      "add": "2019-07-04 20:36:12",
+      "orig_title": "Baltiyskaya slava",
+      "year": "1957-02-22",
       "translations": [
         "Оригинальная дорожка"
       ],
       "quality": "dvdrip",
       "translation": "Оригинальная дорожка",
-      "update": "2019-07-03 11:28:12",
+      "update": "2019-07-05 07:43:16",
       "iframe_src": ""
     },
     {
-      "id": 28505,
-      "title": "Летние люди",
-      "kp_id": "41286",
-      "imdb_id": "tt0113639",
+      "id": 28613,
+      "title": "Человек из страны Грин",
+      "kp_id": "467946",
+      "imdb_id": "tt2198826",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-07-02 20:28:39",
-      "orig_title": "Letnie lyudi",
-      "year": "1995-01-01",
+      "add": "2019-07-04 20:32:47",
+      "orig_title": "Chelovek iz strany Grin",
+      "year": "1983-01-01",
       "translations": [
         "Оригинальная дорожка"
       ],
       "quality": "dvdrip",
       "translation": "Оригинальная дорожка",
-      "update": "2019-07-03 11:30:15",
+      "update": "2019-07-05 07:42:28",
       "iframe_src": ""
     },
     {
-      "id": 28504,
-      "title": "Я люблю свою маму",
-      "kp_id": "1104470",
-      "imdb_id": "tt7056906",
+      "id": 28611,
+      "title": "Чужие дети",
+      "kp_id": "43822",
+      "imdb_id": "tt0051478",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-07-02 20:25:39",
-      "orig_title": "I Love My Mum",
-      "year": "2018-10-27",
+      "add": "2019-07-04 20:28:58",
+      "orig_title": "Skhvisi shvilebi",
+      "year": "1958-07-06",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
+        "Оригинальная дорожка"
       ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-07-03 11:24:42",
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-07-05 07:41:36",
       "iframe_src": ""
     },
     {
-      "id": 19855,
-      "title": "Хантер Киллер",
-      "kp_id": "589787",
-      "imdb_id": "tt1846589",
+      "id": 28609,
+      "title": "Десять шагов к Востоку",
+      "kp_id": "574465",
+      "imdb_id": "tt6168188",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-10-30 00:07:09",
-      "orig_title": "Hunter Killer",
-      "year": "2018-10-19",
+      "add": "2019-07-04 20:24:29",
+      "orig_title": "Desyat shagov k vostoku",
+      "year": "1961-08-07",
       "translations": [
-        "Полное дублирование (iTunes)",
-        "Original (English)"
+        "Оригинальная дорожка"
       ],
-      "quality": "bd",
-      "translation": "Полное дублирование (iTunes)",
-      "update": "2019-07-03 11:58:46",
+      "quality": "vhs",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-07-05 07:32:41",
       "iframe_src": ""
     },
     {
-      "id": 14898,
-      "title": "Последний портрет",
-      "kp_id": "909799",
-      "imdb_id": "tt4494718",
+      "id": 28608,
+      "title": "Дети солнца",
+      "kp_id": "44162",
+      "imdb_id": "tt0049137",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-01-15 22:41:10",
-      "orig_title": "Final Portrait",
-      "year": "2017-02-11",
+      "add": "2019-07-04 20:21:00",
+      "orig_title": "Deti solntsa",
+      "year": "1956-08-23",
       "translations": [
-        "Профессиональный (многоголосый закадровый)",
-        "Original (English)"
+        "Оригинальная дорожка"
       ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-07-03 11:54:25",
+      "quality": "sat",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-07-05 07:33:15",
       "iframe_src": ""
     },
     {
-      "id": 11324,
-      "title": "Стражи Галактики. Часть 2",
-      "kp_id": "841263",
-      "imdb_id": "tt3896198",
+      "id": 28589,
+      "title": "Зори Парижа",
+      "kp_id": "45401",
+      "imdb_id": "tt0129289",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-05-02 04:16:23",
-      "orig_title": "Guardians of the Galaxy Vol. 2",
-      "year": "2017-04-19",
+      "add": "2019-07-04 17:47:49",
+      "orig_title": "Zori Parizha",
+      "year": "1937-03-16",
       "translations": [
-        "Полное дублирование",
-        "Original (English)"
+        "Оригинальная дорожка"
       ],
-      "quality": "webdl",
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-07-05 07:49:29",
+      "iframe_src": ""
+    },
+    {
+      "id": 28588,
+      "title": "Измена",
+      "kp_id": "412948",
+      "imdb_id": "tt1212096",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-07-04 17:44:06",
+      "orig_title": "Izmena",
+      "year": "1967-10-23",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "vhs",
       "translation": "Полное дублирование",
-      "update": "2019-07-03 11:57:27",
+      "update": "2019-07-05 07:50:08",
       "iframe_src": ""
     },
     {
-      "id": 9019,
-      "title": "Джейн Эйр",
-      "kp_id": "463437",
-      "imdb_id": "tt1229822",
+      "id": 28587,
+      "title": "Контрольная полоса",
+      "kp_id": "503146",
+      "imdb_id": "tt5508442",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-01-18 11:49:34",
-      "orig_title": "Jane Eyre",
-      "year": "2011-03-09",
+      "add": "2019-07-04 17:38:40",
+      "orig_title": "Kontrolnaya polosa",
+      "year": "1980-06-19",
       "translations": [
-        "Полное дублирование",
-        "Original (English)"
+        "Оригинальная дорожка"
       ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2019-07-03 12:02:02",
+      "quality": "sat",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-07-05 07:51:44",
       "iframe_src": ""
     },
     {
-      "id": 8143,
-      "title": "Любовь на четырех колесах",
-      "kp_id": "933353",
+      "id": 28586,
+      "title": "Смерть ростовщика",
+      "kp_id": "664630",
       "imdb_id": null,
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-12-18 09:03:57",
-      "orig_title": "Любовь на четырех колесах",
-      "year": "2015-10-03",
+      "add": "2019-07-04 17:33:27",
+      "orig_title": "Смерть ростовщика",
+      "year": "1967-03-20",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "webdl",
+      "translation": "Полное дублирование",
+      "update": "2019-07-05 07:53:26",
+      "iframe_src": ""
+    },
+    {
+      "id": 8214,
+      "title": "Ангелы революции",
+      "kp_id": "718233",
+      "imdb_id": "tt4163138",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-12-21 07:36:12",
+      "orig_title": "Angely revolyutsii",
+      "year": "2014-11-18",
       "translations": [
         "Оригинальная дорожка"
       ],
       "quality": "webdl",
       "translation": "Оригинальная дорожка",
-      "update": "2019-07-03 11:28:27",
-      "iframe_src": ""
-    },
-    {
-      "id": 7979,
-      "title": "Форсаж 5",
-      "kp_id": "496943",
-      "imdb_id": "tt1596343",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-12-11 17:23:31",
-      "orig_title": "Fast Five",
-      "year": "2011-04-15",
-      "translations": [
-        "Полное дублирование",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2019-07-03 11:51:00",
-      "iframe_src": ""
-    },
-    {
-      "id": 4474,
-      "title": "Соблазн",
-      "kp_id": "17663",
-      "imdb_id": "tt0218922",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-08-17 06:35:36",
-      "orig_title": "Original Sin",
-      "year": "2001-09-06",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-07-03 12:07:25",
-      "iframe_src": ""
-    },
-    {
-      "id": 3669,
-      "title": "Просто друзья",
-      "kp_id": "88175",
-      "imdb_id": "tt0433400",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-07-05 05:43:57",
-      "orig_title": "Just Friends",
-      "year": "2005-11-23",
-      "translations": [
-        "Полное дублирование",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2019-07-03 12:03:13",
-      "iframe_src": ""
-    },
-    {
-      "id": 3275,
-      "title": "Бонни и Клайд",
-      "kp_id": "516",
-      "imdb_id": "tt0061418",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-06-20 08:37:05",
-      "orig_title": "Bonnie and Clyde",
-      "year": "1967-07-18",
-      "translations": [
-        "Полное дублирование",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2019-07-03 11:41:18",
-      "iframe_src": ""
-    },
-    {
-      "id": 746,
-      "title": "Форсаж 4",
-      "kp_id": "395978",
-      "imdb_id": "tt1013752",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-04-07 16:29:56",
-      "orig_title": "Fast & Furious",
-      "year": "2009-03-12",
-      "translations": [
-        "Полное дублирование",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2019-07-03 11:49:48",
-      "iframe_src": ""
-    },
-    {
-      "id": 745,
-      "title": "Форсаж 6",
-      "kp_id": "594736",
-      "imdb_id": "tt1905041",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-04-07 16:27:58",
-      "orig_title": "Furious 6",
-      "year": "2013-05-07",
-      "translations": [
-        "Полное дублирование",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2019-07-03 11:52:21",
-      "iframe_src": ""
-    },
-    {
-      "id": 708,
-      "title": "Американский пирог: Книга Любви",
-      "kp_id": "453598",
-      "imdb_id": "tt1407050",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-04-06 20:43:29",
-      "orig_title": "American Pie Presents: The Book of Love",
-      "year": "2009-12-01",
-      "translations": [
-        "Полное дублирование",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2019-07-03 11:37:15",
-      "iframe_src": ""
-    },
-    {
-      "id": 56,
-      "title": "Форсаж 7",
-      "kp_id": "754481",
-      "imdb_id": "tt2820852",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-02-08 10:30:02",
-      "orig_title": "Furious Seven",
-      "year": "2015-03-16",
-      "translations": [
-        "Полное дублирование",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2019-07-03 11:48:34",
-      "iframe_src": ""
-    },
-    {
-      "id": 20,
-      "title": "Шеф Адам Джонс",
-      "kp_id": "716595",
-      "imdb_id": "tt2503944",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-02-06 10:06:11",
-      "orig_title": "Burnt",
-      "year": "2015-10-18",
-      "translations": [
-        "Полное дублирование",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2019-07-03 11:42:50",
+      "update": "2019-07-05 07:45:41",
       "iframe_src": ""
     }
   ]

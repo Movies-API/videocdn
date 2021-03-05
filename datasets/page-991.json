@@ -1,363 +1,374 @@
 {
   "data": [
     {
-      "id": 31237,
-      "title": "В тени Луны",
-      "kp_id": "1127701",
-      "imdb_id": "tt8110640",
+      "id": 31327,
+      "title": "Последний звёздный боец",
+      "kp_id": "56735",
+      "imdb_id": "tt0087597",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-09-27 20:09:15",
-      "orig_title": "In the Shadow of the Moon",
-      "year": "2019-09-27",
+      "add": "2019-09-30 18:58:42",
+      "orig_title": "The Last Starfighter",
+      "year": "1984-07-13",
       "translations": [
-        "Полное дублирование"
+        "Авторский (одноголосый закадровый) (Гаврилов Андрей)"
       ],
-      "quality": "webdl",
+      "quality": "bd",
+      "translation": "Авторский (одноголосый закадровый) (Гаврилов Андрей)",
+      "update": "2019-10-01 10:32:35",
+      "iframe_src": ""
+    },
+    {
+      "id": 31325,
+      "title": "Русалочка",
+      "kp_id": "818855",
+      "imdb_id": "tt3424814",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-09-30 18:53:21",
+      "orig_title": "Die kleine Meerjungfrau",
+      "year": "2013-11-14",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (Игмар)"
+      ],
+      "quality": "hdtv",
+      "translation": "Профессиональный (многоголосый закадровый) (Игмар)",
+      "update": "2019-10-01 08:03:29",
+      "iframe_src": ""
+    },
+    {
+      "id": 31323,
+      "title": "Турецкие наслаждения",
+      "kp_id": "31884",
+      "imdb_id": "tt0070842",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-09-30 18:47:57",
+      "orig_title": "Turks fruit",
+      "year": "1973-02-22",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-10-01 08:01:48",
+      "iframe_src": ""
+    },
+    {
+      "id": 31322,
+      "title": "Вызов",
+      "kp_id": "3785",
+      "imdb_id": "tt0117603",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-09-30 18:38:40",
+      "orig_title": "Set It Off",
+      "year": "1996-11-06",
+      "translations": [
+        "Профессиональный (двухголосый закадровый) (Инис)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (двухголосый закадровый) (Инис)",
+      "update": "2019-10-01 07:59:31",
+      "iframe_src": ""
+    },
+    {
+      "id": 31321,
+      "title": "Если ты обещал…",
+      "kp_id": "350201",
+      "imdb_id": "tt0386112",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-09-30 18:27:27",
+      "orig_title": "Wenn einer was versprochen hat",
+      "year": "1976-12-26",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Муравский Юрий)"
+      ],
+      "quality": "vhs",
+      "translation": "Авторский (одноголосый закадровый) (Муравский Юрий)",
+      "update": "2019-10-01 07:58:25",
+      "iframe_src": ""
+    },
+    {
+      "id": 31320,
+      "title": "Ярость пришельца",
+      "kp_id": "164153",
+      "imdb_id": "tt0413669",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-09-30 18:14:34",
+      "orig_title": "Alien Factor 2: The Alien Rampage",
+      "year": "2001-08-01",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-10-01 07:56:05",
+      "iframe_src": ""
+    },
+    {
+      "id": 31318,
+      "title": "Последние искатели приключений",
+      "kp_id": "34774",
+      "imdb_id": "tt0102275",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-09-30 16:57:21",
+      "orig_title": "The Last Riders",
+      "year": "1992-02-01",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Дольский Андрей)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Авторский (одноголосый закадровый) (Дольский Андрей)",
+      "update": "2019-10-01 07:50:25",
+      "iframe_src": ""
+    },
+    {
+      "id": 31317,
+      "title": "Рука напрокат",
+      "kp_id": "29939",
+      "imdb_id": "tt0067204",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-09-30 16:45:30",
+      "orig_title": "The Hired Hand",
+      "year": "1971-07-16",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-10-01 07:48:18",
+      "iframe_src": ""
+    },
+    {
+      "id": 31295,
+      "title": "Барбара",
+      "kp_id": "662015",
+      "imdb_id": "tt2178941",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-09-29 17:09:23",
+      "orig_title": "Barbara",
+      "year": "2012-02-11",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-10-01 07:46:27",
+      "iframe_src": ""
+    },
+    {
+      "id": 31291,
+      "title": "Шарада",
+      "kp_id": "480",
+      "imdb_id": "tt0056923",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-09-29 16:58:07",
+      "orig_title": "Charade",
+      "year": "1963-12-05",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (Фильм Престиж)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый) (Фильм Престиж)",
+      "update": "2019-10-01 07:41:55",
+      "iframe_src": ""
+    },
+    {
+      "id": 31278,
+      "title": "Новое платье короля",
+      "kp_id": "535439",
+      "imdb_id": "tt1683412",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-09-29 15:48:40",
+      "orig_title": "Des Kaisers neue Kleider",
+      "year": "2010-11-16",
+      "translations": [
+        "Профессиональный (двухголосый закадровый) (Игмар)"
+      ],
+      "quality": "hdtv",
+      "translation": "Профессиональный (двухголосый закадровый) (Игмар)",
+      "update": "2019-10-01 07:47:13",
+      "iframe_src": ""
+    },
+    {
+      "id": 12836,
+      "title": "Убийцы вампирш-лесбиянок",
+      "kp_id": "314724",
+      "imdb_id": "tt1020885",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-08-07 15:38:40",
+      "orig_title": "Lesbian Vampire Killers",
+      "year": "2009-03-16",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)",
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-10-01 08:01:06",
+      "iframe_src": ""
+    },
+    {
+      "id": 7666,
+      "title": "Код 46",
+      "kp_id": "7352",
+      "imdb_id": "tt0345061",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-11-27 12:50:43",
+      "orig_title": "Code 46",
+      "year": "2003-09-02",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)",
+        "Original (English)"
+      ],
+      "quality": "hdtv",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2019-10-01 07:04:49",
+      "iframe_src": ""
+    },
+    {
+      "id": 6997,
+      "title": "Зона высадки",
+      "kp_id": "15644",
+      "imdb_id": "tt0109676",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-11-03 05:45:44",
+      "orig_title": "Drop Zone",
+      "year": "1994-12-09",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)",
+        "Профессиональный (двухголосый закадровый) (Премьер Видео Фильм)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-10-01 07:43:21",
+      "iframe_src": ""
+    },
+    {
+      "id": 6226,
+      "title": "Ночь живых мертвецов",
+      "kp_id": "9923",
+      "imdb_id": "tt0100258",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-12 15:25:56",
+      "orig_title": "Night of the Living Dead",
+      "year": "1990-10-19",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Живов Юрий)",
+        "Профессиональный (многоголосый закадровый) (СВ-Дубль)",
+        "Авторский (одноголосый закадровый) (Дохалов Вартан)"
+      ],
+      "quality": "bd",
+      "translation": "Авторский (одноголосый закадровый) (Живов Юрий)",
+      "update": "2019-10-01 07:51:55",
+      "iframe_src": ""
+    },
+    {
+      "id": 5861,
+      "title": "Большой переполох в маленьком Китае",
+      "kp_id": "16116",
+      "imdb_id": "tt0090728",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-05 04:30:34",
+      "orig_title": "Big Trouble in Little China",
+      "year": "1986-07-02",
+      "translations": [
+        "Полное дублирование",
+        "Профессиональный (многоголосый закадровый)",
+        "Original (English)"
+      ],
+      "quality": "bd",
       "translation": "Полное дублирование",
-      "update": "2019-09-28 07:05:37",
+      "update": "2019-10-01 07:54:47",
       "iframe_src": ""
     },
     {
-      "id": 31215,
-      "title": "Мышь в хлебе",
-      "kp_id": "1204547",
-      "imdb_id": "tt9071108",
+      "id": 3577,
+      "title": "Роковое влечение",
+      "kp_id": "8128",
+      "imdb_id": "tt0093010",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-09-27 09:54:37",
-      "orig_title": "The Mouse in The Bread",
-      "year": "2018-10-04",
+      "add": "2016-07-01 08:19:54",
+      "orig_title": "Fatal Attraction",
+      "year": "1987-09-11",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-09-27 23:38:47",
-      "iframe_src": ""
-    },
-    {
-      "id": 31212,
-      "title": "Что бы ни случилось потом",
-      "kp_id": "1065834",
-      "imdb_id": "tt7254768",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-09-27 09:47:15",
-      "orig_title": "Whatever Happens Next",
-      "year": "2019-02-21",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-09-27 23:38:49",
-      "iframe_src": ""
-    },
-    {
-      "id": 31210,
-      "title": "Игра",
-      "kp_id": "1185420",
-      "imdb_id": "tt8490100",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-09-27 09:30:18",
-      "orig_title": "Play",
-      "year": "2019-09-11",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "hdtv",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-09-27 23:38:47",
-      "iframe_src": ""
-    },
-    {
-      "id": 31209,
-      "title": "Пиротехники",
-      "kp_id": "778905",
-      "imdb_id": "tt3014130",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-09-26 21:10:55",
-      "orig_title": "Fireworkers",
-      "year": "2017-04-16",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-09-27 11:53:09",
-      "iframe_src": ""
-    },
-    {
-      "id": 31208,
-      "title": "Держись до последнего!",
-      "kp_id": "1045839",
-      "imdb_id": "tt7014382",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-09-26 21:09:07",
-      "orig_title": "Last Hold!",
-      "year": "2018-05-12",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
+        "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-09-27 11:53:45",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-10-01 07:57:36",
       "iframe_src": ""
     },
     {
-      "id": 31207,
-      "title": "Карен не снятся сны",
-      "kp_id": "1189630",
-      "imdb_id": "tt8147680",
+      "id": 3239,
+      "title": "Разборки в стиле Кунг-фу",
+      "kp_id": "61370",
+      "imdb_id": "tt0373074",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-09-26 21:06:34",
-      "orig_title": "Karen Doesn't Dream",
-      "year": "2019-09-06",
+      "add": "2016-06-17 07:32:36",
+      "orig_title": "Kung fu",
+      "year": "2004-09-14",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-09-27 11:54:22",
-      "iframe_src": ""
-    },
-    {
-      "id": 31206,
-      "title": "Воздушные шарики",
-      "kp_id": "1037449",
-      "imdb_id": "tt6151932",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-09-26 21:04:37",
-      "orig_title": "Blue Balloons",
-      "year": "2017-10-23",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-09-27 11:54:47",
-      "iframe_src": ""
-    },
-    {
-      "id": 31205,
-      "title": "Видение",
-      "kp_id": "1091979",
-      "imdb_id": "tt7566518",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-09-26 20:48:31",
-      "orig_title": "Vision",
-      "year": "2018-06-08",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (AlphaProject)"
+        "Полное дублирование",
+        "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый) (AlphaProject)",
-      "update": "2019-09-27 11:55:35",
+      "translation": "Полное дублирование",
+      "update": "2019-10-01 07:49:45",
       "iframe_src": ""
     },
     {
-      "id": 31204,
-      "title": "Три двери из Рая",
-      "kp_id": "1084935",
-      "imdb_id": "tt6805972",
+      "id": 3176,
+      "title": "Чужие среди нас",
+      "kp_id": "12340",
+      "imdb_id": "tt0096256",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-09-26 20:38:48",
-      "orig_title": "Three Doors from Paradise",
-      "year": "2018-01-01",
+      "add": "2016-06-16 07:05:48",
+      "orig_title": "They Live",
+      "year": "1988-11-04",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-09-27 11:56:01",
-      "iframe_src": ""
-    },
-    {
-      "id": 31203,
-      "title": "Золотая свадьба",
-      "kp_id": null,
-      "imdb_id": "tt10933202",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-09-26 20:36:50",
-      "orig_title": "Noces d'Or",
-      "year": "2019-09-06",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (AlphaProject)"
-      ],
-      "quality": "hdtv",
-      "translation": "Профессиональный (многоголосый закадровый) (AlphaProject)",
-      "update": "2019-09-27 11:56:34",
-      "iframe_src": ""
-    },
-    {
-      "id": 31202,
-      "title": "Темно, почти ночь",
-      "kp_id": "1263025",
-      "imdb_id": "tt7790894",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-09-26 20:31:22",
-      "orig_title": "Ciemno, prawie noc",
-      "year": "2019-03-18",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
+        "Профессиональный (многоголосый закадровый)",
+        "Авторский (одноголосый закадровый) (Котов Вячеслав)"
       ],
       "quality": "bd",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-09-27 11:59:08",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-10-01 07:44:50",
       "iframe_src": ""
     },
     {
-      "id": 31201,
-      "title": "В погоне за драконами: Дикая банда",
-      "kp_id": "1261654",
-      "imdb_id": "tt10279010",
+      "id": 2775,
+      "title": "Пролетая над гнездом кукушки",
+      "kp_id": "336",
+      "imdb_id": "tt0073486",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-09-26 20:29:09",
-      "orig_title": "Chui lung II",
-      "year": "2019-06-06",
+      "add": "2016-05-31 14:49:37",
+      "orig_title": "One Flew Over the Cuckoo's Nest",
+      "year": "1975-11-19",
       "translations": [
-        "Любительский (многоголосый закадровый) (Колобок)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Колобок)",
-      "update": "2019-09-27 11:59:55",
-      "iframe_src": ""
-    },
-    {
-      "id": 31196,
-      "title": "Удивительное приключение",
-      "kp_id": null,
-      "imdb_id": "tt10740804",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-09-26 08:09:14",
-      "orig_title": "Adventure Journey",
-      "year": "2019-08-08",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Колобок)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Колобок)",
-      "update": "2019-09-26 21:26:52",
-      "iframe_src": ""
-    },
-    {
-      "id": 31190,
-      "title": "Семь дней до Вегаса",
-      "kp_id": "1057706",
-      "imdb_id": "tt6840554",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-09-25 19:40:33",
-      "orig_title": "7 Days to Vegas",
-      "year": "2019-01-11",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-09-26 18:52:05",
-      "iframe_src": ""
-    },
-    {
-      "id": 31185,
-      "title": "Король мальчиков",
-      "kp_id": "1134285",
-      "imdb_id": "tt8329618",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-09-25 19:03:24",
-      "orig_title": "King of Boys",
-      "year": "2018-10-26",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-09-27 15:56:53",
-      "iframe_src": ""
-    },
-    {
-      "id": 31183,
-      "title": "Ахилес Таралло",
-      "kp_id": null,
-      "imdb_id": "tt9331322",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-09-25 18:56:30",
-      "orig_title": "Achille Tarallo",
-      "year": "2018-10-25",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
+        "Полное дублирование",
+        "Original (English)",
+        "Авторский (одноголосый закадровый) (Сербин Юрий)"
       ],
       "quality": "bd",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-09-27 12:44:10",
-      "iframe_src": ""
-    },
-    {
-      "id": 29301,
-      "title": "Любовь по Фрейду",
-      "kp_id": "1207689",
-      "imdb_id": "tt9173264",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-07-22 22:18:43",
-      "orig_title": "Sibyl",
-      "year": "2019-05-24",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (iTunes)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый) (iTunes)",
-      "update": "2019-09-27 08:43:49",
-      "iframe_src": ""
-    },
-    {
-      "id": 28271,
-      "title": "Война в Кармузе",
-      "kp_id": "1118432",
-      "imdb_id": "tt8351882",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-06-25 23:21:38",
-      "orig_title": "Karmouz War",
-      "year": "2018-07-19",
-      "translations": [
-        "Любительский (многоголосый закадровый) (@MUZOBOZ@)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-      "update": "2019-09-27 12:00:35",
-      "iframe_src": ""
-    },
-    {
-      "id": 27638,
-      "title": "UglyDolls. Куклы с характером",
-      "kp_id": "830249",
-      "imdb_id": "tt1946502",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-06-11 03:56:40",
-      "orig_title": "UglyDolls",
-      "year": "2019-04-27",
-      "translations": [
-        "Полное дублирование (iTunes)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование (iTunes)",
-      "update": "2019-09-27 08:52:54",
+      "translation": "Полное дублирование",
+      "update": "2019-10-01 07:06:08",
       "iframe_src": ""
     }
   ]

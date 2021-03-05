@@ -1,381 +1,366 @@
 {
   "data": [
     {
-      "id": 20305,
-      "title": "Рождество звездного щенка",
-      "kp_id": "1187090",
-      "imdb_id": "tt8861786",
+      "id": 20400,
+      "title": "Воссоединение в Рождество",
+      "kp_id": "1198721",
+      "imdb_id": "tt9033646",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-11-25 22:49:33",
-      "orig_title": "Puppy Star Christmas",
-      "year": "2018-11-20",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-11-27 05:46:07",
-      "iframe_src": ""
-    },
-    {
-      "id": 20292,
-      "title": "Королева-психопатка",
-      "kp_id": "1145014",
-      "imdb_id": "tt8320402",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-11-25 20:59:30",
-      "orig_title": "Mean Queen",
-      "year": "2018-11-04",
+      "add": "2018-11-30 00:28:29",
+      "orig_title": "Reunited at Christmas",
+      "year": "2018-12-16",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "hdtv",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-11-27 05:44:31",
+      "update": "2018-11-30 09:00:25",
       "iframe_src": ""
     },
     {
-      "id": 20271,
-      "title": "Музыка в темноте",
-      "kp_id": "74158",
-      "imdb_id": "tt0040622",
+      "id": 20399,
+      "title": "Про Витю, про Машу и морскую пехоту",
+      "kp_id": "43288",
+      "imdb_id": "tt0191375",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-11-25 14:19:35",
-      "orig_title": "Musik i mörker",
-      "year": "1948-01-17",
+      "add": "2018-11-30 00:26:04",
+      "orig_title": "Pro Vityu, pro Mashu i morskuyu pekhotu",
+      "year": "1974-08-26",
       "translations": [
-        "Профессиональный (одноголосый закадровый)"
+        "Полное дублирование"
+      ],
+      "quality": "dvdrip",
+      "translation": "Полное дублирование",
+      "update": "2018-11-30 08:59:43",
+      "iframe_src": ""
+    },
+    {
+      "id": 20397,
+      "title": "Двор Улун",
+      "kp_id": "1118215",
+      "imdb_id": "tt8549902",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-11-30 00:18:27",
+      "orig_title": "Xin wu long yuan zhi xiao nao jiang hu",
+      "year": "2018-07-13",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Колобок)"
       ],
       "quality": "webdl",
-      "translation": "Профессиональный (одноголосый закадровый)",
-      "update": "2018-11-26 12:34:52",
+      "translation": "Любительский (многоголосый закадровый) (Колобок)",
+      "update": "2018-11-30 08:57:40",
       "iframe_src": ""
     },
     {
-      "id": 20270,
-      "title": "Рябиновый вальс",
-      "kp_id": "480554",
-      "imdb_id": "tt1557860",
+      "id": 20395,
+      "title": "Ночь зеро",
+      "kp_id": "1064265",
+      "imdb_id": "tt7169100",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-11-25 14:17:25",
-      "orig_title": "Ryabinovyy vals",
-      "year": "2010-10-22",
+      "add": "2018-11-30 00:13:28",
+      "orig_title": "Night Zero",
+      "year": "2018-05-22",
       "translations": [
-        "Оригинальная дорожка"
+        "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2018-11-26 12:34:00",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2018-11-30 08:54:25",
       "iframe_src": ""
     },
     {
-      "id": 20269,
-      "title": "Отличный гамбургер",
-      "kp_id": "23255",
-      "imdb_id": "tt0119215",
+      "id": 20393,
+      "title": "Мефисто",
+      "kp_id": "28251",
+      "imdb_id": "tt0082736",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-11-25 14:16:13",
-      "orig_title": "Good Burger",
-      "year": "1997-07-25",
-      "translations": [
-        "Любительский (одноголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2018-11-26 12:32:51",
-      "iframe_src": ""
-    },
-    {
-      "id": 20265,
-      "title": "Зорро",
-      "kp_id": "101095",
-      "imdb_id": "tt0072448",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-11-25 14:11:34",
-      "orig_title": "Zorro",
-      "year": "1975-03-06",
+      "add": "2018-11-30 00:09:45",
+      "orig_title": "Mephisto",
+      "year": "1981-02-11",
       "translations": [
         "Полное дублирование"
       ],
       "quality": "bd",
       "translation": "Полное дублирование",
-      "update": "2018-11-26 12:29:12",
+      "update": "2018-11-30 08:52:23",
       "iframe_src": ""
     },
     {
-      "id": 18804,
-      "title": "Девять трапез до анархии",
-      "kp_id": "1126037",
-      "imdb_id": "tt7840854",
+      "id": 20392,
+      "title": "Семейные каникулы с Мэнсонами",
+      "kp_id": "807613",
+      "imdb_id": "tt3275216",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-09-05 23:26:58",
-      "orig_title": "Nine Meals from Chaos",
-      "year": "2018-01-01",
+      "add": "2018-11-30 00:07:53",
+      "orig_title": "Manson Family Vacation",
+      "year": "2015-03-16",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Колобок)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Колобок)",
+      "update": "2018-11-30 08:50:37",
+      "iframe_src": ""
+    },
+    {
+      "id": 20391,
+      "title": "Рождественские украшения",
+      "kp_id": "1172037",
+      "imdb_id": "tt8672786",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-11-30 00:02:34",
+      "orig_title": "A Christmas Arrangement",
+      "year": "2018-11-21",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2018-11-30 08:46:49",
+      "iframe_src": ""
+    },
+    {
+      "id": 20390,
+      "title": "Бремя лжи",
+      "kp_id": "1056379",
+      "imdb_id": "tt7455752",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-11-29 23:58:14",
+      "orig_title": "Le poids des mensonges",
+      "year": "2017-10-20",
+      "translations": [
+        "Любительский (двухголосый закадровый) (LakeFilms)"
+      ],
+      "quality": "hdtv",
+      "translation": "Любительский (двухголосый закадровый) (LakeFilms)",
+      "update": "2018-11-30 08:44:17",
+      "iframe_src": ""
+    },
+    {
+      "id": 20388,
+      "title": "Долг честолюбия",
+      "kp_id": "904931",
+      "imdb_id": "tt4578000",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-11-29 23:54:41",
+      "orig_title": "Ambition's Debt",
+      "year": "2017-01-17",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2018-11-30 08:42:27",
+      "iframe_src": ""
+    },
+    {
+      "id": 20387,
+      "title": "Кушать подано!",
+      "kp_id": "257825",
+      "imdb_id": "tt2177609",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-11-29 23:52:39",
+      "orig_title": "Kushat podano!",
+      "year": "2006-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2018-11-30 08:40:53",
+      "iframe_src": ""
+    },
+    {
+      "id": 20385,
+      "title": "Рождественская надежда",
+      "kp_id": "1198304",
+      "imdb_id": "tt9033640",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-11-29 23:44:37",
+      "orig_title": "Hope at Christmas",
+      "year": "2018-11-20",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "hdtv",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2018-11-30 08:03:45",
+      "iframe_src": ""
+    },
+    {
+      "id": 20384,
+      "title": "Дорогая, я увеличил ребенка",
+      "kp_id": "3224",
+      "imdb_id": "tt0104437",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-11-29 23:42:35",
+      "orig_title": "Honey I Blew Up the Kid",
+      "year": "1992-07-17",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2018-11-30 08:02:30",
+      "iframe_src": ""
+    },
+    {
+      "id": 20383,
+      "title": "Мастера игровых шоу",
+      "kp_id": "1169259",
+      "imdb_id": "tt7539078",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-11-29 23:39:38",
+      "orig_title": "Game Changers",
+      "year": "2018-06-29",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2018-11-30 07:58:46",
+      "iframe_src": ""
+    },
+    {
+      "id": 20381,
+      "title": "Европейский расклад",
+      "kp_id": "995481",
+      "imdb_id": "tt5827590",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-11-29 23:35:27",
+      "orig_title": "Ou zhou gong lue",
+      "year": "2018-08-17",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2018-11-30 07:56:19",
+      "iframe_src": ""
+    },
+    {
+      "id": 20380,
+      "title": "Водитель",
+      "kp_id": "949856",
+      "imdb_id": "tt5240090",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-11-29 23:33:31",
+      "orig_title": "Driver",
+      "year": "2018-11-20",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "hdrip",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2018-11-30 07:55:03",
+      "iframe_src": ""
+    },
+    {
+      "id": 20379,
+      "title": "Психофония",
+      "kp_id": "785579",
+      "imdb_id": "tt3098998",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-11-29 23:31:32",
+      "orig_title": "Deadly Signal",
+      "year": "2016-10-07",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Колобок)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Колобок)",
+      "update": "2018-11-30 07:52:28",
+      "iframe_src": ""
+    },
+    {
+      "id": 20000,
+      "title": "Парень из Голливуда, или Необыкновенные приключения Вени Везунчика",
+      "kp_id": "1039060",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-11-06 20:52:57",
+      "orig_title": "Парень из Голливуда, или Необыкновенные приключения Вени Везунчика",
+      "year": "2018-11-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "webdl",
+      "translation": "Оригинальная дорожка",
+      "update": "2018-11-30 07:54:15",
+      "iframe_src": ""
+    },
+    {
+      "id": 19035,
+      "title": "Опекунство",
+      "kp_id": "1000613",
+      "imdb_id": "tt6002232",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-09-16 23:32:59",
+      "orig_title": "Jusqu'à la garde",
+      "year": "2017-09-08",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)",
         "Любительский (двухголосый закадровый) (LakeFilms)"
       ],
-      "quality": "webdl",
+      "quality": "bd",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-11-27 05:39:36",
+      "update": "2018-11-30 08:39:53",
       "iframe_src": ""
     },
     {
-      "id": 18798,
-      "title": "Ангелы носят белое",
-      "kp_id": "1047500",
-      "imdb_id": "tt7205208",
+      "id": 17034,
+      "title": "О, Люси!",
+      "kp_id": "1008466",
+      "imdb_id": "tt6343058",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-09-05 23:09:02",
-      "orig_title": "Jin nian hua",
-      "year": "2017-09-07",
+      "add": "2018-06-04 22:39:21",
+      "orig_title": "Oh Lucy!",
+      "year": "2017-05-22",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)",
+        "Любительский (двухголосый закадровый) (HiWayGrope)",
         "Любительский (двухголосый закадровый) (LakeFilms)"
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-11-27 05:30:30",
+      "update": "2018-11-30 08:56:34",
       "iframe_src": ""
     },
     {
-      "id": 14321,
-      "title": "Эксперимент «Офис» 2",
-      "kp_id": "972464",
-      "imdb_id": "tt4348012",
+      "id": 13106,
+      "title": "Призраки Исмаэля",
+      "kp_id": "977335",
+      "imdb_id": "tt5687040",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-11-11 18:36:56",
-      "orig_title": "Mayhem",
-      "year": "2017-03-13",
+      "add": "2017-08-23 04:18:04",
+      "orig_title": "Les fantômes d'Ismaël",
+      "year": "2017-05-17",
       "translations": [
-        "Любительский (двухголосый закадровый) (RecentFilms)",
-        "Профессиональный (многоголосый закадровый) (Paradox & Omskbird records)",
-        "Профессиональный (многоголосый закадровый) (GreenРай Studio)",
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Профессиональный (многоголосый закадровый) (iTunes)",
-        "Профессиональный (многоголосый закадровый) (Jaskier)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (двухголосый закадровый) (RecentFilms)",
-      "update": "2018-11-27 05:34:40",
-      "iframe_src": ""
-    },
-    {
-      "id": 2131,
-      "title": "Однажды преступив закон",
-      "kp_id": "2873",
-      "imdb_id": "tt0101625",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-05-12 18:04:51",
-      "orig_title": "Once Upon a Crime...",
-      "year": "1992-03-06",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)",
-        "Original (English)"
+        "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2018-11-26 16:27:54",
-      "iframe_src": ""
-    },
-    {
-      "id": 2096,
-      "title": "Реальная любовь",
-      "kp_id": "6144",
-      "imdb_id": "tt0314331",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-05-12 15:25:30",
-      "orig_title": "Love Actually",
-      "year": "2003-09-07",
-      "translations": [
-        "Полное дублирование",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2018-11-26 16:22:35",
-      "iframe_src": ""
-    },
-    {
-      "id": 2091,
-      "title": "Громче, чем бомбы",
-      "kp_id": "667651",
-      "imdb_id": "tt2217859",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-05-12 09:29:55",
-      "orig_title": "Louder Than Bombs",
-      "year": "2015-05-18",
-      "translations": [
-        "Полное дублирование",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2018-11-26 16:21:37",
-      "iframe_src": ""
-    },
-    {
-      "id": 2068,
-      "title": "Французский поцелуй",
-      "kp_id": "9249",
-      "imdb_id": "tt0113117",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-05-11 14:13:38",
-      "orig_title": "French Kiss",
-      "year": "1995-05-05",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2018-11-26 16:16:23",
-      "iframe_src": ""
-    },
-    {
-      "id": 2067,
-      "title": "Дни и ночи",
-      "kp_id": "677704",
-      "imdb_id": "tt2359381",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-05-11 14:12:12",
-      "orig_title": "Days and Nights",
-      "year": "2014-01-04",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2018-11-26 12:23:56",
-      "iframe_src": ""
-    },
-    {
-      "id": 1105,
-      "title": "Анатомия любви",
-      "kp_id": "695449",
-      "imdb_id": "tt2318092",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-04-14 08:48:45",
-      "orig_title": "Endless Love",
-      "year": "2014-02-12",
-      "translations": [
-        "Полное дублирование",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2018-11-26 16:13:32",
-      "iframe_src": ""
-    },
-    {
-      "id": 1104,
-      "title": "Небезопасно для работы",
-      "kp_id": "666763",
-      "imdb_id": "tt2226495",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-04-14 08:46:58",
-      "orig_title": "Not Safe for Work",
-      "year": "2012-05-09",
-      "translations": [
-        "Полное дублирование",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2018-11-26 16:25:48",
-      "iframe_src": ""
-    },
-    {
-      "id": 1098,
-      "title": "Охотники на гангстеров",
-      "kp_id": "468564",
-      "imdb_id": "tt1321870",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-04-14 08:34:30",
-      "orig_title": "Gangster Squad",
-      "year": "2013-01-07",
-      "translations": [
-        "Полное дублирование",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2018-11-26 16:17:35",
-      "iframe_src": ""
-    },
-    {
-      "id": 1090,
-      "title": "Криминальная фишка от Генри",
-      "kp_id": "463782",
-      "imdb_id": "tt1220888",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-04-14 08:18:17",
-      "orig_title": "Henry's Crime",
-      "year": "2010-09-14",
-      "translations": [
-        "Полное дублирование",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2018-11-26 16:20:51",
-      "iframe_src": ""
-    },
-    {
-      "id": 1085,
-      "title": "«Весёлые» каникулы",
-      "kp_id": "492171",
-      "imdb_id": "tt1567609",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-04-14 08:09:04",
-      "orig_title": "Get the Gringo",
-      "year": "2012-03-15",
-      "translations": [
-        "Полное дублирование",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2018-11-26 16:19:55",
-      "iframe_src": ""
-    },
-    {
-      "id": 1079,
-      "title": "На грани",
-      "kp_id": "493222",
-      "imdb_id": "tt1568338",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-04-14 07:56:34",
-      "orig_title": "Man on a Ledge",
-      "year": "2012-01-26",
-      "translations": [
-        "Полное дублирование",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2018-11-26 16:23:37",
+      "update": "2018-11-30 08:45:41",
       "iframe_src": ""
     }
   ]

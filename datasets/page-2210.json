@@ -1,364 +1,363 @@
 {
   "data": [
     {
-      "id": 5116,
-      "title": "Разборка в Бронксе",
-      "kp_id": "24693",
-      "imdb_id": "tt0113326",
+      "id": 5255,
+      "title": "С 5 до 7. Время любовников",
+      "kp_id": "714846",
+      "imdb_id": "tt2486678",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-09-08 06:52:04",
-      "orig_title": "Hung fan kui",
-      "year": "1995-01-21",
+      "add": "2016-09-14 05:39:44",
+      "orig_title": "5 to 7",
+      "year": "2014-04-19",
       "translations": [
-        "Профессиональный (многоголосый закадровый)"
+        "Полное дублирование"
       ],
       "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-09-08 18:01:33",
+      "translation": "Полное дублирование",
+      "update": "2016-09-14 11:21:20",
       "iframe_src": ""
     },
     {
-      "id": 5114,
-      "title": "Дом призраков",
-      "kp_id": "7321",
-      "imdb_id": "tt0113269",
+      "id": 5252,
+      "title": "Летняя любовь",
+      "kp_id": "998096",
+      "imdb_id": "tt5950094",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-09-08 06:49:16",
-      "orig_title": "Haunted",
-      "year": "1995-10-27",
+      "add": "2016-09-14 05:34:17",
+      "orig_title": "Summer Love",
+      "year": "2016-08-20",
       "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-09-08 18:06:53",
-      "iframe_src": ""
-    },
-    {
-      "id": 5110,
-      "title": "Одинокие сердца",
-      "kp_id": "102138",
-      "imdb_id": "tt0441774",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-09-08 06:45:40",
-      "orig_title": "Lonely Hearts",
-      "year": "2006-04-30",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-09-09 12:09:29",
-      "iframe_src": ""
-    },
-    {
-      "id": 5109,
-      "title": "Времена бабочек",
-      "kp_id": "94190",
-      "imdb_id": "tt0263467",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-09-08 06:44:20",
-      "orig_title": "In the Time of the Butterflies",
-      "year": "2001-10-21",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)"
+        "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "hdtv",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2016-09-09 12:11:03",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2016-09-14 09:55:56",
       "iframe_src": ""
     },
     {
-      "id": 5108,
-      "title": "Толстяк на ринге",
-      "kp_id": "518063",
-      "imdb_id": "tt1648179",
+      "id": 5251,
+      "title": "Новый уровень",
+      "kp_id": "902126",
+      "imdb_id": "tt4447108",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-09-08 06:43:08",
-      "orig_title": "Here Comes the Boom",
-      "year": "2012-10-10",
+      "add": "2016-09-14 05:32:01",
+      "orig_title": "Level Up",
+      "year": "2016-08-26",
       "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2016-09-09 12:32:32",
-      "iframe_src": ""
-    },
-    {
-      "id": 5106,
-      "title": "Чeстная игра",
-      "kp_id": "7422",
-      "imdb_id": "tt0113010",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-09-08 06:39:53",
-      "orig_title": "Fair Game",
-      "year": "1995-11-03",
-      "translations": [
-        "Полное дублирование"
+        "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
-      "translation": "Полное дублирование",
-      "update": "2016-09-09 12:16:08",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2016-09-14 09:47:19",
       "iframe_src": ""
     },
     {
-      "id": 5104,
-      "title": "История одного вампира",
-      "kp_id": "102393",
-      "imdb_id": "tt0450405",
+      "id": 5250,
+      "title": "Смертельное искушение",
+      "kp_id": "848950",
+      "imdb_id": "tt4113114",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-09-08 06:35:47",
-      "orig_title": "Cirque du Freak: The Vampire's Assistant",
-      "year": "2009-10-22",
+      "add": "2016-09-14 05:30:39",
+      "orig_title": "Lethal Seduction",
+      "year": "2015-07-11",
       "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2016-09-09 12:30:28",
-      "iframe_src": ""
-    },
-    {
-      "id": 5103,
-      "title": "Бойлерная",
-      "kp_id": "617",
-      "imdb_id": "tt0181984",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-09-08 06:34:39",
-      "orig_title": "Boiler Room",
-      "year": "2000-01-30",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-09-09 12:35:23",
-      "iframe_src": ""
-    },
-    {
-      "id": 5102,
-      "title": "Спроси у пыли",
-      "kp_id": "63234",
-      "imdb_id": "tt0384814",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-09-08 06:32:51",
-      "orig_title": "Ask the Dust",
-      "year": "2006-02-02",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-09-09 12:35:06",
-      "iframe_src": ""
-    },
-    {
-      "id": 5100,
-      "title": "Таллула",
-      "kp_id": "542953",
-      "imdb_id": "tt1639084",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-09-07 18:06:41",
-      "orig_title": "Tallulah",
-      "year": "2016-01-23",
-      "translations": [
-        "Любительский (двухголосый закадровый) (RecentFilms)"
+        "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
-      "translation": "Любительский (двухголосый закадровый) (RecentFilms)",
-      "update": "2016-09-08 07:42:38",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2016-09-14 08:25:26",
       "iframe_src": ""
     },
     {
-      "id": 5069,
-      "title": "Амапола",
-      "kp_id": "719622",
-      "imdb_id": "tt2484530",
+      "id": 5249,
+      "title": "Допрос",
+      "kp_id": "902007",
+      "imdb_id": "tt4497338",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-09-06 09:16:18",
-      "orig_title": "Amapola",
-      "year": "2014-06-05",
+      "add": "2016-09-14 05:29:00",
+      "orig_title": "Interrogation",
+      "year": "2016-08-20",
       "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-09-10 13:45:24",
-      "iframe_src": ""
-    },
-    {
-      "id": 5068,
-      "title": "Сезон побед",
-      "kp_id": "426280",
-      "imdb_id": "tt1293842",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-09-06 09:06:15",
-      "orig_title": "The Winning Season",
-      "year": "2009-01-19",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)"
-      ],
-      "quality": "hdtv",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2016-09-08 06:46:37",
-      "iframe_src": ""
-    },
-    {
-      "id": 5066,
-      "title": "Агент «Стрекоза»",
-      "kp_id": "7308",
-      "imdb_id": "tt0254199",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-09-06 09:04:04",
-      "orig_title": "CQ",
-      "year": "2001-05-12",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2016-09-08 06:43:53",
-      "iframe_src": ""
-    },
-    {
-      "id": 5065,
-      "title": "Стюарт Литтл 2",
-      "kp_id": "5326",
-      "imdb_id": "tt0243585",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-09-06 09:02:24",
-      "orig_title": "Stuart Little 2",
-      "year": "2002-07-14",
-      "translations": [
-        "Полное дублирование"
+        "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2016-09-08 06:43:24",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2016-09-14 09:59:17",
       "iframe_src": ""
     },
     {
-      "id": 5064,
-      "title": "Ямакаси: Свобода в движении",
-      "kp_id": "14346",
-      "imdb_id": "tt0267129",
+      "id": 5165,
+      "title": "Моя жизнь в Айдлвайлде",
+      "kp_id": "81724",
+      "imdb_id": "tt0417225",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-09-06 09:01:24",
-      "orig_title": "Yamakasi - Les samouraïs des temps modernes",
-      "year": "2001-04-04",
+      "add": "2016-09-08 15:13:08",
+      "orig_title": "Idlewild",
+      "year": "2006-08-21",
       "translations": [
-        "Полное дублирование"
+        "Профессиональный (многоголосый закадровый) (Первый канал | ОРТ)"
       ],
       "quality": "webdl",
-      "translation": "Полное дублирование",
-      "update": "2016-09-08 06:45:49",
+      "translation": "Профессиональный (многоголосый закадровый) (Первый канал | ОРТ)",
+      "update": "2016-09-14 17:17:43",
       "iframe_src": ""
     },
     {
-      "id": 5063,
-      "title": "Будь круче",
-      "kp_id": "61345",
-      "imdb_id": "tt0377471",
+      "id": 5164,
+      "title": "Свенгали",
+      "kp_id": "669957",
+      "imdb_id": "tt2262175",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-09-06 09:00:38",
-      "orig_title": "Be Cool",
-      "year": "2005-03-04",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2016-09-08 06:45:56",
-      "iframe_src": ""
-    },
-    {
-      "id": 5062,
-      "title": "Под покровом ночи",
-      "kp_id": "918866",
-      "imdb_id": "tt4820296",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-09-06 08:59:40",
-      "orig_title": "Nocturna",
-      "year": "2015-10-06",
+      "add": "2016-09-08 15:12:20",
+      "orig_title": "Svengali",
+      "year": "2013-06-21",
       "translations": [
         "Любительский (одноголосый закадровый)"
       ],
       "quality": "bd",
       "translation": "Любительский (одноголосый закадровый)",
-      "update": "2016-09-08 06:44:35",
+      "update": "2016-09-14 17:13:07",
       "iframe_src": ""
     },
     {
-      "id": 5059,
-      "title": "Как Майк",
-      "kp_id": "4577",
-      "imdb_id": "tt0308506",
+      "id": 5161,
+      "title": "Boйна по принуждению",
+      "kp_id": "220569",
+      "imdb_id": "tt0489281",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-09-06 08:55:11",
-      "orig_title": "Like Mike",
-      "year": "2002-07-03",
+      "add": "2016-09-08 15:07:09",
+      "orig_title": "Stop-Loss",
+      "year": "2008-03-13",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-09-14 16:38:26",
+      "iframe_src": ""
+    },
+    {
+      "id": 5159,
+      "title": "Я обслуживал английского короля",
+      "kp_id": "265664",
+      "imdb_id": "tt028436",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-09-08 15:03:26",
+      "orig_title": "Obsluhoval jsem anglického krále",
+      "year": "2006-12-19",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-09-14 16:23:16",
+      "iframe_src": ""
+    },
+    {
+      "id": 5158,
+      "title": "Хитмэн",
+      "kp_id": "104901",
+      "imdb_id": "tt0465494",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-09-08 15:02:43",
+      "orig_title": "Hitman",
+      "year": "2007-11-21",
       "translations": [
         "Полное дублирование"
       ],
-      "quality": "webdl",
+      "quality": "bd",
       "translation": "Полное дублирование",
-      "update": "2016-09-08 06:46:20",
+      "update": "2016-09-14 16:19:14",
       "iframe_src": ""
     },
     {
-      "id": 5028,
-      "title": "Глаза ангела",
-      "kp_id": "9515",
-      "imdb_id": "tt0101844",
+      "id": 5157,
+      "title": "Харакири 3D",
+      "kp_id": "568324",
+      "imdb_id": "tt1728196",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-09-05 10:49:50",
-      "orig_title": "Eyes of an Angel",
-      "year": "1991-06-29",
+      "add": "2016-09-08 15:02:03",
+      "orig_title": "Ichimei",
+      "year": "2011-05-19",
       "translations": [
-        "Профессиональный (двухголосый закадровый)"
+        "Профессиональный (многоголосый закадровый)"
       ],
-      "quality": "hdtv",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2016-09-09 13:01:08",
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-09-14 16:18:13",
       "iframe_src": ""
     },
     {
-      "id": 4290,
-      "title": "Герника",
-      "kp_id": "724851",
-      "imdb_id": "tt2556114",
+      "id": 5156,
+      "title": "Белый материал",
+      "kp_id": "397734",
+      "imdb_id": "tt1135952",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-08-04 04:51:46",
-      "orig_title": "Gernika",
-      "year": "2016-04-26",
+      "add": "2016-09-08 15:01:06",
+      "orig_title": "White Material",
+      "year": "2009-09-06",
       "translations": [
-        "Любительский (многоголосый закадровый) (Студия Пиратского Дубляжа)",
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-09-14 16:41:45",
+      "iframe_src": ""
+    },
+    {
+      "id": 5155,
+      "title": "Выборы",
+      "kp_id": "597642",
+      "imdb_id": "tt1931466",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-09-08 15:00:19",
+      "orig_title": "Knife Fight",
+      "year": "2012-04-25",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-09-14 16:15:15",
+      "iframe_src": ""
+    },
+    {
+      "id": 5154,
+      "title": "Там обитают драконы",
+      "kp_id": "430797",
+      "imdb_id": "tt1316616",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-09-08 14:58:50",
+      "orig_title": "There Be Dragons",
+      "year": "2011-03-25",
+      "translations": [
+        "Любительский (двухголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (двухголосый закадровый)",
+      "update": "2016-09-14 16:09:19",
+      "iframe_src": ""
+    },
+    {
+      "id": 5153,
+      "title": "Отвлекающий маневр",
+      "kp_id": "472794",
+      "imdb_id": "tt1460646",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-09-08 14:58:01",
+      "orig_title": "Red Herring",
+      "year": "2015-10-30",
+      "translations": [
+        "Любительский (двухголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (двухголосый закадровый)",
+      "update": "2016-09-14 16:04:32",
+      "iframe_src": ""
+    },
+    {
+      "id": 5152,
+      "title": "Сияние радуги",
+      "kp_id": "316764",
+      "imdb_id": "tt1014774",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-09-08 14:57:24",
+      "orig_title": "A Shine of Rainbows",
+      "year": "2009-09-13",
+      "translations": [
+        "Любительский (двухголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (двухголосый закадровый)",
+      "update": "2016-09-14 16:28:09",
+      "iframe_src": ""
+    },
+    {
+      "id": 5151,
+      "title": "Орбита Апокалипсиса",
+      "kp_id": "850939",
+      "imdb_id": "tt3630556",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-09-08 14:56:42",
+      "orig_title": "Earthfall",
+      "year": "2015-06-22",
+      "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Студия Пиратского Дубляжа)",
-      "update": "2016-09-08 07:35:02",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-09-14 16:01:16",
+      "iframe_src": ""
+    },
+    {
+      "id": 5150,
+      "title": "В пути",
+      "kp_id": "424038",
+      "imdb_id": "tt1176740",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-09-08 14:55:56",
+      "orig_title": "Away We Go",
+      "year": "2009-06-05",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-09-14 16:14:35",
+      "iframe_src": ""
+    },
+    {
+      "id": 5149,
+      "title": "Дикая природа Джеймса",
+      "kp_id": "701749",
+      "imdb_id": "tt2357770",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-09-08 14:55:11",
+      "orig_title": "All the Wilderness",
+      "year": "2014-03-09",
+      "translations": [
+        "Любительский (двухголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (двухголосый закадровый)",
+      "update": "2016-09-14 16:09:16",
+      "iframe_src": ""
+    },
+    {
+      "id": 5127,
+      "title": "Добрый день, Рамон",
+      "kp_id": "760642",
+      "imdb_id": "tt2876428",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-09-08 14:33:22",
+      "orig_title": "Guten Tag, Ramón",
+      "year": "2013-10-21",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-09-14 16:04:08",
       "iframe_src": ""
     }
   ]

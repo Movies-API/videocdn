@@ -1,363 +1,363 @@
 {
   "data": [
     {
-      "id": 4060,
-      "title": "Город ангелов",
-      "kp_id": "4171",
-      "imdb_id": "tt0120632",
+      "id": 4210,
+      "title": "Тайна в его глазах",
+      "kp_id": "428003",
+      "imdb_id": "tt1305806",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-07-20 12:01:00",
-      "orig_title": "City of Angels",
-      "year": "1998-04-10",
+      "add": "2016-07-28 06:04:33",
+      "orig_title": "El secreto de sus ojos",
+      "year": "2009-08-13",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-07-28 10:11:02",
+      "iframe_src": ""
+    },
+    {
+      "id": 4209,
+      "title": "Старски и Хатч",
+      "kp_id": "5101",
+      "imdb_id": "tt0335438",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-07-28 06:02:33",
+      "orig_title": "Starsky & Hutch",
+      "year": "2004-02-26",
       "translations": [
         "Полное дублирование"
       ],
       "quality": "bd",
       "translation": "Полное дублирование",
-      "update": "2016-07-20 20:16:41",
+      "update": "2016-07-28 10:06:11",
       "iframe_src": ""
     },
     {
-      "id": 4055,
-      "title": "Давайте потанцуем",
-      "kp_id": "12810",
-      "imdb_id": "tt0029546",
+      "id": 4208,
+      "title": "Считанные секунды",
+      "kp_id": "9374",
+      "imdb_id": "tt0105459",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-07-20 11:50:46",
-      "orig_title": "Shall We Dance",
-      "year": "1937-05-07",
+      "add": "2016-07-28 06:00:42",
+      "orig_title": "Split Second",
+      "year": "1992-04-23",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
-      "quality": "webdl",
+      "quality": "bd",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-07-20 20:09:29",
+      "update": "2016-07-28 10:09:15",
       "iframe_src": ""
     },
     {
-      "id": 4054,
-      "title": "Лучшие друзья и ребенок / L!fe Happens",
-      "kp_id": "568314",
-      "imdb_id": "tt1726589",
+      "id": 4207,
+      "title": "Шофер мисс Дэйзи",
+      "kp_id": "6066",
+      "imdb_id": "tt0097239",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-07-20 11:31:34",
-      "orig_title": "L!fe Happens",
+      "add": "2016-07-28 05:59:03",
+      "orig_title": "Driving Miss Daisy",
+      "year": "1989-12-13",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-07-28 10:12:56",
+      "iframe_src": ""
+    },
+    {
+      "id": 4206,
+      "title": "Проклятие 2",
+      "kp_id": "85077",
+      "imdb_id": "tt0433386",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-07-28 05:45:05",
+      "orig_title": "The Grudge 2",
+      "year": "2006-10-12",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2016-07-28 10:15:17",
+      "iframe_src": ""
+    },
+    {
+      "id": 4205,
+      "title": "Князь тьмы",
+      "kp_id": "14515",
+      "imdb_id": "tt0093777",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-07-28 05:43:36",
+      "orig_title": "Prince of Darkness",
+      "year": "1987-10-23",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-07-28 10:17:55",
+      "iframe_src": ""
+    },
+    {
+      "id": 4203,
+      "title": "Последний подарок",
+      "kp_id": "195241",
+      "imdb_id": "tt0482629",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-07-28 05:39:41",
+      "orig_title": "The Ultimate Gift",
+      "year": "2006-10-20",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-07-28 10:21:59",
+      "iframe_src": ""
+    },
+    {
+      "id": 4202,
+      "title": "Студентка по вызову",
+      "kp_id": "497048",
+      "imdb_id": "tt1570970",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-07-28 05:37:41",
+      "orig_title": "Mes chères études",
+      "year": "2010-01-18",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "hdtv",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-07-28 10:24:37",
+      "iframe_src": ""
+    },
+    {
+      "id": 4201,
+      "title": "Мартовские иды",
+      "kp_id": "462482",
+      "imdb_id": "tt1124035",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-07-28 05:36:17",
+      "orig_title": "The Ides of March",
+      "year": "2011-08-31",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2016-07-28 10:26:21",
+      "iframe_src": ""
+    },
+    {
+      "id": 4199,
+      "title": "Искусство любить",
+      "kp_id": "557611",
+      "imdb_id": "tt1700467",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-07-28 05:31:40",
+      "orig_title": "L'art d'aimer",
+      "year": "2011-08-07",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-07-28 10:28:44",
+      "iframe_src": ""
+    },
+    {
+      "id": 4198,
+      "title": "Крепость: щитом и мечом",
+      "kp_id": "566549",
+      "imdb_id": "tt5172306",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-07-28 05:29:43",
+      "orig_title": "Krepost",
+      "year": "2015-10-29",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "bd",
+      "translation": "Оригинальная дорожка",
+      "update": "2016-07-28 10:35:43",
+      "iframe_src": ""
+    },
+    {
+      "id": 4191,
+      "title": "Воины света",
+      "kp_id": "195718",
+      "imdb_id": "tt0433362",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-07-26 12:37:20",
+      "orig_title": "Daybreakers",
+      "year": "2009-09-11",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2016-07-27 12:20:48",
+      "iframe_src": ""
+    },
+    {
+      "id": 4190,
+      "title": "Ты, живущий",
+      "kp_id": "391509",
+      "imdb_id": "tt0445336",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-07-26 12:35:39",
+      "orig_title": "Du levande",
+      "year": "2007-05-24",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-07-27 12:23:37",
+      "iframe_src": ""
+    },
+    {
+      "id": 4189,
+      "title": "Дневники няни",
+      "kp_id": "220293",
+      "imdb_id": "tt0489237",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-07-26 12:34:07",
+      "orig_title": "The Nanny Diaries",
+      "year": "2007-08-24",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2016-07-27 12:26:41",
+      "iframe_src": ""
+    },
+    {
+      "id": 4188,
+      "title": "Страница 8",
+      "kp_id": "577195",
+      "imdb_id": "tt1797469",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-07-26 12:32:41",
+      "orig_title": "Page Eight",
       "year": "2011-06-18",
       "translations": [
-        "Профессиональный (многоголосый закадровый)"
+        "Любительский (одноголосый закадровый)"
       ],
       "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-07-20 20:07:56",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2016-07-27 12:28:12",
       "iframe_src": ""
     },
     {
-      "id": 4052,
-      "title": "Капитан Крюк",
-      "kp_id": "4057",
-      "imdb_id": "tt0102057",
+      "id": 4187,
+      "title": "Резня",
+      "kp_id": "557837",
+      "imdb_id": "tt1692486",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-07-20 10:43:25",
-      "orig_title": "Hook",
-      "year": "1991-12-08",
+      "add": "2016-07-26 12:31:15",
+      "orig_title": "Carnage",
+      "year": "2011-09-01",
       "translations": [
         "Полное дублирование"
       ],
       "quality": "bd",
       "translation": "Полное дублирование",
-      "update": "2016-07-20 20:28:37",
+      "update": "2016-07-27 12:30:20",
       "iframe_src": ""
     },
     {
-      "id": 4051,
-      "title": "Каратэ-пацан",
-      "kp_id": "412162",
-      "imdb_id": "tt1155076",
+      "id": 4185,
+      "title": "Перелом",
+      "kp_id": "220617",
+      "imdb_id": "tt0488120",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-07-20 10:37:10",
-      "orig_title": "The Karate Kid",
-      "year": "2010-06-10",
+      "add": "2016-07-26 12:27:50",
+      "orig_title": "Fracture",
+      "year": "2007-04-11",
       "translations": [
         "Полное дублирование"
       ],
       "quality": "bd",
       "translation": "Полное дублирование",
-      "update": "2016-07-20 20:26:08",
+      "update": "2016-07-27 13:21:16",
       "iframe_src": ""
     },
     {
-      "id": 4038,
-      "title": "Джуманджи",
-      "kp_id": "8161",
-      "imdb_id": "tt0113497",
+      "id": 4184,
+      "title": "Одержимость",
+      "kp_id": "102288",
+      "imdb_id": "tt0448564",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-07-20 10:04:59",
-      "orig_title": "Jumanji",
-      "year": "1995-12-15",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2016-07-20 20:55:58",
-      "iframe_src": ""
-    },
-    {
-      "id": 4031,
-      "title": "Три короля",
-      "kp_id": "4987",
-      "imdb_id": "tt0120188",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-07-19 08:34:27",
-      "orig_title": "Three Kings",
-      "year": "1999-09-27",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2016-07-19 16:15:59",
-      "iframe_src": ""
-    },
-    {
-      "id": 4028,
-      "title": "Тусовщики",
-      "kp_id": "4449",
-      "imdb_id": "tt0117802",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-07-19 08:30:52",
-      "orig_title": "Swingers",
-      "year": "1996-08-31",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-07-19 16:11:40",
-      "iframe_src": ""
-    },
-    {
-      "id": 4027,
-      "title": "Танцы без правил",
-      "kp_id": "20842",
-      "imdb_id": "tt0105488",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-07-19 08:29:59",
-      "orig_title": "Strictly Ballroom",
-      "year": "1992-05-10",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2016-07-19 16:10:25",
-      "iframe_src": ""
-    },
-    {
-      "id": 4026,
-      "title": "Более странно, чем в раю",
-      "kp_id": "17705",
-      "imdb_id": "tt0088184",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-07-19 08:29:10",
-      "orig_title": "Stranger Than Paradise",
-      "year": "1984-07-25",
-      "translations": [
-        "Любительский (двухголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (двухголосый закадровый)",
-      "update": "2016-07-19 15:57:47",
-      "iframe_src": ""
-    },
-    {
-      "id": 4025,
-      "title": "Огни святого Эльма",
-      "kp_id": "4854",
-      "imdb_id": "tt0090060",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-07-19 08:27:09",
-      "orig_title": "St. Elmo's Fire",
-      "year": "1985-06-28",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2016-07-19 15:56:37",
-      "iframe_src": ""
-    },
-    {
-      "id": 4024,
-      "title": "Трущобы Беверли Хиллз",
-      "kp_id": "4246",
-      "imdb_id": "tt0120831",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-07-19 08:26:15",
-      "orig_title": "Slums of Beverly Hills",
-      "year": "1998-05-21",
+      "add": "2016-07-26 12:26:23",
+      "orig_title": "Irresistible",
+      "year": "2006-04-18",
       "translations": [
         "Профессиональный (двухголосый закадровый)"
       ],
       "quality": "bd",
       "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2016-07-19 15:47:37",
+      "update": "2016-07-27 13:23:47",
       "iframe_src": ""
     },
     {
-      "id": 4022,
-      "title": "Непрощенный",
-      "kp_id": "702937",
-      "imdb_id": "tt2347134",
+      "id": 4174,
+      "title": "Бронсон",
+      "kp_id": "438272",
+      "imdb_id": "tt1172570",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-07-19 08:20:56",
-      "orig_title": "Yurusarezaru mono",
-      "year": "2013-09-06",
+      "add": "2016-07-26 12:05:01",
+      "orig_title": "Bronson",
+      "year": "2009-01-19",
       "translations": [
-        "Любительский (одноголосый закадровый)"
+        "Профессиональный (двухголосый закадровый)"
       ],
       "quality": "bd",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2016-07-19 16:21:35",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2016-07-27 13:26:51",
       "iframe_src": ""
     },
     {
-      "id": 4020,
-      "title": "Исчезновение Элеанор Ригби",
-      "kp_id": "841431",
-      "imdb_id": "tt3729920",
+      "id": 4143,
+      "title": "Гарфилд 2: История двух кошечек",
+      "kp_id": "104937",
+      "imdb_id": "tt0455499",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-07-19 08:17:56",
-      "orig_title": "The Disappearance of Eleanor Rigby: Them",
-      "year": "2014-05-17",
+      "add": "2016-07-25 10:32:57",
+      "orig_title": "Garfield: A Tail of Two Kitties",
+      "year": "2006-06-15",
       "translations": [
         "Полное дублирование"
       ],
       "quality": "bd",
       "translation": "Полное дублирование",
-      "update": "2016-07-19 13:31:18",
-      "iframe_src": ""
-    },
-    {
-      "id": 4018,
-      "title": "Мудрая кровь",
-      "kp_id": "4410",
-      "imdb_id": "tt0080140",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-07-19 08:15:08",
-      "orig_title": "Wise Blood",
-      "year": "1979-10-24",
-      "translations": [
-        "Любительский (одноголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2016-07-19 16:20:03",
-      "iframe_src": ""
-    },
-    {
-      "id": 4017,
-      "title": "Военные игры",
-      "kp_id": "14840",
-      "imdb_id": "tt0086567",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-07-19 08:14:17",
-      "orig_title": "WarGames",
-      "year": "1983-05-19",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-07-19 16:17:31",
-      "iframe_src": ""
-    },
-    {
-      "id": 4013,
-      "title": "Случайная любовь",
-      "kp_id": "17289",
-      "imdb_id": "tt0100065",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-07-19 08:02:47",
-      "orig_title": "Love at Large",
-      "year": "1990-01-27",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)"
-      ],
-      "quality": "hdtv",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2016-07-20 14:19:39",
-      "iframe_src": ""
-    },
-    {
-      "id": 3961,
-      "title": "Элис",
-      "kp_id": "11869",
-      "imdb_id": "tt0099012",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-07-15 11:12:43",
-      "orig_title": "Alice",
-      "year": "1990-12-25",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)"
-      ],
-      "quality": "hdtv",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2016-07-19 13:33:03",
-      "iframe_src": ""
-    },
-    {
-      "id": 3852,
-      "title": "Доктор",
-      "kp_id": "1698",
-      "imdb_id": "tt0101746",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-07-11 15:33:52",
-      "orig_title": "The Doctor",
-      "year": "1991-08-16",
-      "translations": [
-        "Любительский (одноголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2016-07-20 08:17:40",
-      "iframe_src": ""
-    },
-    {
-      "id": 3427,
-      "title": "Подводная лодка",
-      "kp_id": "362",
-      "imdb_id": "tt0082096",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-06-28 12:17:21",
-      "orig_title": "Das Boot",
-      "year": "1981-09-17",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-07-20 14:21:21",
+      "update": "2016-07-27 13:29:40",
       "iframe_src": ""
     }
   ]

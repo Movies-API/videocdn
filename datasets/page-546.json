@@ -1,374 +1,370 @@
 {
   "data": [
     {
-      "id": 39603,
-      "title": "Всемирно известный любовник",
-      "kp_id": "1305875",
-      "imdb_id": "tt10991188",
+      "id": 39724,
+      "title": "Не мозгом единым",
+      "kp_id": "1209559",
+      "imdb_id": "tt9260446",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-04-20 18:40:48",
-      "orig_title": "World Famous Lover",
-      "year": "2020-02-13",
+      "add": "2020-04-22 20:09:38",
+      "orig_title": "Ma cosa ci dice il cervello",
+      "year": "2019-04-18",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-04-21 04:14:25",
+      "update": "2020-04-23 05:45:23",
       "iframe_src": ""
     },
     {
-      "id": 39594,
-      "title": "Последний путь",
-      "kp_id": "1117301",
-      "imdb_id": "tt8150134",
+      "id": 39723,
+      "title": "Дни Малгуди",
+      "kp_id": "1346147",
+      "imdb_id": "tt11497346",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-04-20 09:59:13",
-      "orig_title": "Jaga Vegali Antyatra",
-      "year": "2018-03-23",
+      "add": "2020-04-22 20:04:41",
+      "orig_title": "Malgudi Days",
+      "year": "2020-02-07",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-04-21 03:24:59",
+      "update": "2020-04-23 05:34:58",
       "iframe_src": ""
     },
     {
-      "id": 39593,
-      "title": "Гиппопотам",
-      "kp_id": "1079019",
-      "imdb_id": "tt7120602",
+      "id": 39722,
+      "title": "Мужской лагерь",
+      "kp_id": "1050774",
+      "imdb_id": "tt6843538",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-04-20 09:58:25",
-      "orig_title": "Hippopotamus",
-      "year": "2018-01-02",
+      "add": "2020-04-22 20:02:43",
+      "orig_title": "Man Camp",
+      "year": "2019-10-24",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-04-21 03:24:25",
+      "update": "2020-04-23 05:37:01",
       "iframe_src": ""
     },
     {
-      "id": 39592,
-      "title": "Сойди за своего",
-      "kp_id": "1027429",
-      "imdb_id": "tt6343068",
+      "id": 39717,
+      "title": "Смертельный спуск",
+      "kp_id": "584686",
+      "imdb_id": "tt1869362",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-04-20 09:57:46",
-      "orig_title": "Die Migrantigen",
-      "year": "2017-01-01",
+      "add": "2020-04-22 12:05:01",
+      "orig_title": "Deadly Descent",
+      "year": "2013-01-26",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-04-21 03:25:56",
-      "iframe_src": ""
-    },
-    {
-      "id": 39576,
-      "title": "Родные",
-      "kp_id": "1007068",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-04-19 18:02:58",
-      "orig_title": "Родные",
-      "year": "2017-10-12",
-      "translations": [
-        "Оригинальная дорожка"
+        "Профессиональный (многоголосый закадровый) (СТС)"
       ],
       "quality": "hdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2020-04-20 17:05:13",
+      "translation": "Профессиональный (многоголосый закадровый) (СТС)",
+      "update": "2020-04-22 21:28:10",
       "iframe_src": ""
     },
     {
-      "id": 39573,
-      "title": "Пробуждение Габриэллы",
-      "kp_id": "58423",
-      "imdb_id": "tt0208697",
+      "id": 39699,
+      "title": "Цвета любви",
+      "kp_id": "1116167",
+      "imdb_id": "tt7786258",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-04-19 17:56:18",
-      "orig_title": "The Awakening of Gabriella",
-      "year": "1999-10-05",
+      "add": "2020-04-22 06:08:48",
+      "orig_title": "Wine to love",
+      "year": "2018-01-01",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-04-22 10:40:40",
+      "iframe_src": ""
+    },
+    {
+      "id": 39698,
+      "title": "Похищение Караваджо",
+      "kp_id": "1104839",
+      "imdb_id": "tt7238112",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-04-22 06:08:09",
+      "orig_title": "Una storia senza nome",
+      "year": "2018-09-07",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-04-22 11:57:33",
+      "iframe_src": ""
+    },
+    {
+      "id": 39692,
+      "title": "Дорога Гигантов",
+      "kp_id": null,
+      "imdb_id": "tt8661510",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-04-22 06:00:30",
+      "orig_title": "Road of Giants",
+      "year": "2018-07-05",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-04-22 17:28:27",
+      "iframe_src": ""
+    },
+    {
+      "id": 39685,
+      "title": "Погода для объятий",
+      "kp_id": "1303285",
+      "imdb_id": "tt10896172",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-04-22 05:52:26",
+      "orig_title": "Cuddle Weather",
+      "year": "2019-09-13",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-04-22 10:41:28",
+      "iframe_src": ""
+    },
+    {
+      "id": 39672,
+      "title": "Похитители прошлого",
+      "kp_id": "94396",
+      "imdb_id": "tt0204686",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-04-21 21:08:12",
+      "orig_title": "The Time Shifters",
+      "year": "1999-10-17",
+      "translations": [
+        "Профессиональный (двухголосый закадровый) (Екатеринбург Арт)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (двухголосый закадровый) (Екатеринбург Арт)",
+      "update": "2020-04-22 21:25:44",
+      "iframe_src": ""
+    },
+    {
+      "id": 39671,
+      "title": "Собаки моих бывших",
+      "kp_id": "854216",
+      "imdb_id": "tt3647110",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-04-21 21:05:25",
+      "orig_title": "My Boyfriends' Dogs",
+      "year": "2014-10-18",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-04-22 21:25:14",
+      "iframe_src": ""
+    },
+    {
+      "id": 39668,
+      "title": "Несносные медведи",
+      "kp_id": "84018",
+      "imdb_id": "tt0408524",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-04-21 21:01:14",
+      "orig_title": "Bad News Bears",
+      "year": "2005-07-22",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "dvdrip",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-04-20 17:04:43",
+      "update": "2020-04-22 21:22:54",
       "iframe_src": ""
     },
     {
-      "id": 39454,
-      "title": "Тату",
-      "kp_id": "77262",
-      "imdb_id": "tt0286204",
+      "id": 39642,
+      "title": "Глубинная бомба",
+      "kp_id": "405910",
+      "imdb_id": "tt1192384",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-04-17 21:35:01",
-      "orig_title": "Tattoo",
-      "year": "2002-04-04",
+      "add": "2020-04-21 07:28:56",
+      "orig_title": "Depth Charge",
+      "year": "2009-04-03",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-04-23 11:03:00",
+      "iframe_src": ""
+    },
+    {
+      "id": 39535,
+      "title": "Кот",
+      "kp_id": "39860",
+      "imdb_id": "tt0076069",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-04-19 09:11:52",
+      "orig_title": "Il gatto",
+      "year": "1977-12-11",
       "translations": [
         "Профессиональный (двухголосый закадровый)"
       ],
-      "quality": "bd",
+      "quality": "webdl",
       "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2020-04-20 20:07:56",
+      "update": "2020-04-23 11:00:47",
       "iframe_src": ""
     },
     {
-      "id": 39453,
-      "title": "Белая лента",
-      "kp_id": "400873",
-      "imdb_id": "tt1149362",
+      "id": 39532,
+      "title": "Эмиль и детективы",
+      "kp_id": "59616",
+      "imdb_id": "tt0256739",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-04-17 21:32:55",
-      "orig_title": "Das weiße Band - Eine deutsche Kindergeschichte",
-      "year": "2009-05-21",
+      "add": "2020-04-19 09:07:26",
+      "orig_title": "Emil und die Detektive",
+      "year": "2001-02-22",
       "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-04-20 20:08:48",
-      "iframe_src": ""
-    },
-    {
-      "id": 39452,
-      "title": "Дневники зомби",
-      "kp_id": "272767",
-      "imdb_id": "tt0876294",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-04-17 21:30:22",
-      "orig_title": "The Zombie Diaries",
-      "year": "2006-10-29",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-04-20 20:09:48",
-      "iframe_src": ""
-    },
-    {
-      "id": 39448,
-      "title": "Стив Джобс. Потерянное интервью",
-      "kp_id": "680925",
-      "imdb_id": "tt2104994",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-04-17 21:19:54",
-      "orig_title": "Steve Jobs: The Lost Interview",
-      "year": "2012-05-11",
-      "translations": [
-        "Профессиональный (одноголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (одноголосый закадровый)",
-      "update": "2020-04-20 20:13:19",
-      "iframe_src": ""
-    },
-    {
-      "id": 39447,
-      "title": "Эпидемия",
-      "kp_id": "22558",
-      "imdb_id": "tt0092972",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-04-17 21:17:39",
-      "orig_title": "Epidemic",
-      "year": "1987-09-11",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-04-20 20:14:04",
-      "iframe_src": ""
-    },
-    {
-      "id": 39444,
-      "title": "Переменная облачность",
-      "kp_id": "462582",
-      "imdb_id": "tt1425244",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-04-17 21:08:39",
-      "orig_title": "Partly Cloudy",
-      "year": "2009-05-16",
-      "translations": [
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Original (English)",
-      "update": "2020-04-20 20:18:07",
-      "iframe_src": ""
-    },
-    {
-      "id": 39368,
-      "title": "Она никогда не умирала",
-      "kp_id": "1163517",
-      "imdb_id": "tt8569578",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-04-16 13:29:57",
-      "orig_title": "She Never Died",
-      "year": "2020-04-14",
-      "translations": [
-        "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-        "Любительский (двухголосый закадровый) (LakeFilms)"
+        "Профессиональный (двухголосый закадровый) (Лайко)"
       ],
       "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-      "update": "2020-04-20 20:15:51",
+      "translation": "Профессиональный (двухголосый закадровый) (Лайко)",
+      "update": "2020-04-23 10:57:52",
       "iframe_src": ""
     },
     {
-      "id": 39308,
-      "title": "Сердце к сердцу",
-      "kp_id": "1356226",
-      "imdb_id": "tt11952660",
+      "id": 39527,
+      "title": "Ночь накануне экзаменов",
+      "kp_id": "262722",
+      "imdb_id": "tt0772187",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-04-14 13:33:03",
-      "orig_title": "Heart to Heart",
-      "year": "2020-04-05",
+      "add": "2020-04-19 09:00:30",
+      "orig_title": "Notte prima degli esami",
+      "year": "2006-02-17",
       "translations": [
-        "Original (English)",
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "hdtv",
-      "translation": "Original (English)",
-      "update": "2020-04-20 21:18:22",
-      "iframe_src": ""
-    },
-    {
-      "id": 34897,
-      "title": "Красные туфельки и семь гномов",
-      "kp_id": "1045594",
-      "imdb_id": "tt4429160",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-01-09 12:12:00",
-      "orig_title": "Red Shoes and the Seven Dwarfs",
-      "year": "2019-07-25",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2020-04-20 20:17:18",
-      "iframe_src": ""
-    },
-    {
-      "id": 32633,
-      "title": "Следи за дорогой",
-      "kp_id": "1217771",
-      "imdb_id": "tt8970448",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-11-03 08:35:10",
-      "orig_title": "Adopt a Highway",
-      "year": "2019-03-10",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)",
-        "Любительский (многоголосый закадровый) (AlphaProject)",
-        "Любительский (многоголосый закадровый) (Voice Project Studio)",
-        "Original (English)",
-        "Профессиональный (многоголосый закадровый) (iTunes)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-04-20 20:14:48",
-      "iframe_src": ""
-    },
-    {
-      "id": 31497,
-      "title": "Всегда верен",
-      "kp_id": "1046170",
-      "imdb_id": "tt7042838",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-05 18:43:21",
-      "orig_title": "Semper Fi",
-      "year": "2019-10-04",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (AlphaProject)",
-        "Полное дублирование",
-        "Полное дублирование (iTunes)"
+        "Любительский (двухголосый закадровый)"
       ],
       "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый) (AlphaProject)",
-      "update": "2020-04-20 20:17:29",
+      "translation": "Любительский (двухголосый закадровый)",
+      "update": "2020-04-23 10:52:33",
       "iframe_src": ""
     },
     {
-      "id": 31113,
-      "title": "Свадебный год",
-      "kp_id": "1146280",
-      "imdb_id": "tt8367184",
+      "id": 39526,
+      "title": "Время перьевых ручек",
+      "kp_id": "197597",
+      "imdb_id": "tt0391488",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-09-22 19:31:55",
-      "orig_title": "The Wedding Year",
-      "year": "2019-09-20",
+      "add": "2020-04-19 08:59:13",
+      "orig_title": "Le temps des porte-plumes",
+      "year": "2006-03-08",
+      "translations": [
+        "Любительский (двухголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (двухголосый закадровый)",
+      "update": "2020-04-23 10:51:38",
+      "iframe_src": ""
+    },
+    {
+      "id": 39521,
+      "title": "Симфония моего детства",
+      "kp_id": "23513",
+      "imdb_id": "tt0110520",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-04-19 08:54:16",
+      "orig_title": "Min fynske barndom",
+      "year": "1994-02-04",
+      "translations": [
+        "Любительский (одноголосый закадровый) (den904)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (одноголосый закадровый) (den904)",
+      "update": "2020-04-23 10:46:05",
+      "iframe_src": ""
+    },
+    {
+      "id": 19143,
+      "title": "Студия 54",
+      "kp_id": "1183563",
+      "imdb_id": "tt5773986",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-09-23 22:22:49",
+      "orig_title": "Studio 54",
+      "year": "2018-01-21",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)",
-        "Original (English)",
-        "Полное дублирование (iTunes)"
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-04-22 17:34:00",
+      "iframe_src": ""
+    },
+    {
+      "id": 17226,
+      "title": "Подстава",
+      "kp_id": "976520",
+      "imdb_id": "tt5304992",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-06-17 22:39:09",
+      "orig_title": "Set It Up",
+      "year": "2018-06-15",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Любительский (двухголосый закадровый) (HiWayGrope)",
+        "Профессиональный (многоголосый закадровый) (GreenРай Studio)",
+        "Профессиональный (многоголосый закадровый) (Jaskier)",
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-04-20 20:10:23",
+      "update": "2020-04-22 14:19:50",
       "iframe_src": ""
     },
     {
-      "id": 3764,
-      "title": "Девушка с жемчужной серёжкой",
-      "kp_id": "8076",
-      "imdb_id": "tt0335119",
+      "id": 2163,
+      "title": "Гангстер",
+      "kp_id": "252156",
+      "imdb_id": "tt0765429",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-07-07 13:16:28",
-      "orig_title": "Girl with a Pearl Earring",
-      "year": "2003-08-31",
+      "add": "2016-05-12 19:59:10",
+      "orig_title": "American Gangster",
+      "year": "2007-10-19",
       "translations": [
-        "Авторский (одноголосый закадровый) (Сербин Юрий)",
-        "Профессиональный (многоголосый закадровый)"
+        "Полное дублирование",
+        "Авторский (одноголосый закадровый) (Гаевский Евгений)",
+        "Авторский (одноголосый закадровый) (Гоблин | Пучков Дмитрий)"
       ],
       "quality": "bd",
-      "translation": "Авторский (одноголосый закадровый) (Сербин Юрий)",
-      "update": "2020-04-20 20:12:45",
-      "iframe_src": ""
-    },
-    {
-      "id": 2149,
-      "title": "Босиком по мостовой",
-      "kp_id": "81584",
-      "imdb_id": "tt0405743",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-05-12 18:40:02",
-      "orig_title": "Barfuss",
-      "year": "2005-03-31",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "hdtv",
       "translation": "Полное дублирование",
-      "update": "2020-04-20 20:11:19",
+      "update": "2020-04-23 05:02:58",
       "iframe_src": ""
     }
   ]

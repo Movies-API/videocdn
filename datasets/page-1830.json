@@ -1,371 +1,368 @@
 {
   "data": [
     {
-      "id": 14569,
-      "title": "Мисс Рождество",
-      "kp_id": "1097473",
-      "imdb_id": "tt7588798",
+      "id": 14709,
+      "title": "6-5=2",
+      "kp_id": null,
+      "imdb_id": "tt5162476",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-12-05 23:04:06",
-      "orig_title": "Miss Christmas",
-      "year": "2017-11-05",
+      "add": "2017-12-19 23:17:43",
+      "orig_title": "6-5=2",
+      "year": "2014-11-14",
+      "translations": [
+        "Любительский (двухголосый закадровый) (DeadSno & den904)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (двухголосый закадровый) (DeadSno & den904)",
+      "update": "2017-12-20 08:58:19",
+      "iframe_src": ""
+    },
+    {
+      "id": 14708,
+      "title": "Бику",
+      "kp_id": "922712",
+      "imdb_id": "tt4829150",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-12-19 23:13:19",
+      "orig_title": "Gekijô-ban: Bikû",
+      "year": "2015-11-14",
+      "translations": [
+        "Любительский (двухголосый закадровый) (DeadSno & den904)"
+      ],
+      "quality": "hdtv",
+      "translation": "Любительский (двухголосый закадровый) (DeadSno & den904)",
+      "update": "2017-12-20 09:03:06",
+      "iframe_src": ""
+    },
+    {
+      "id": 14697,
+      "title": "Мачете",
+      "kp_id": null,
+      "imdb_id": "tt5789310",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-12-19 00:04:48",
+      "orig_title": "The Cutlass",
+      "year": "2017-08-02",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2017-12-19 09:52:57",
+      "iframe_src": ""
+    },
+    {
+      "id": 14695,
+      "title": "Последний стрелок",
+      "kp_id": "1072480",
+      "imdb_id": "tt7493824",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-12-18 23:53:10",
+      "orig_title": "The Last Gunslinger",
+      "year": "2017-11-14",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2017-12-19 09:51:12",
+      "iframe_src": ""
+    },
+    {
+      "id": 14694,
+      "title": "Переезд",
+      "kp_id": "1085218",
+      "imdb_id": "tt7061088",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-12-18 23:50:13",
+      "orig_title": "Downsized",
+      "year": "2017-06-18",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "hdtv",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2017-12-06 07:00:12",
+      "update": "2017-12-19 09:49:58",
       "iframe_src": ""
     },
     {
-      "id": 14567,
-      "title": "Большой холод",
-      "kp_id": "961148",
-      "imdb_id": "tt5356292",
+      "id": 14693,
+      "title": "Фурия",
+      "kp_id": "900812",
+      "imdb_id": "tt4601292",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-12-05 22:57:51",
-      "orig_title": "Grand froid",
-      "year": "2017-06-28",
+      "add": "2017-12-18 23:46:03",
+      "orig_title": "De helleveeg",
+      "year": "2016-03-10",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2017-12-06 07:12:27",
-      "iframe_src": ""
-    },
-    {
-      "id": 14566,
-      "title": "Гинтама",
-      "kp_id": "987077",
-      "imdb_id": "tt5805470",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-12-05 22:55:52",
-      "orig_title": "Gintama",
-      "year": "2017-07-14",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
+        "Любительский (двухголосый закадровый)"
       ],
       "quality": "bd",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2017-12-06 07:14:59",
+      "translation": "Любительский (двухголосый закадровый)",
+      "update": "2017-12-19 09:49:08",
       "iframe_src": ""
     },
     {
-      "id": 14565,
-      "title": "Самое Пекло",
-      "kp_id": "863204",
-      "imdb_id": "tt4048186",
+      "id": 14676,
+      "title": "Рождественское Чудо",
+      "kp_id": "1078543",
+      "imdb_id": "tt7557728",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-12-05 22:53:20",
-      "orig_title": "Crystal Inferno",
-      "year": "2017-10-15",
+      "add": "2017-12-17 22:32:16",
+      "orig_title": "Christmas at Holly Lodge",
+      "year": "2017-12-03",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
-      "quality": "webdl",
+      "quality": "hdtv",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2017-12-06 07:17:37",
+      "update": "2017-12-18 06:53:01",
       "iframe_src": ""
     },
     {
-      "id": 14564,
-      "title": "Бхуми",
-      "kp_id": "1023052",
-      "imdb_id": "tt6265988",
+      "id": 14673,
+      "title": "Последние пять лет",
+      "kp_id": "714119",
+      "imdb_id": "tt2474024",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-12-05 22:51:25",
-      "orig_title": "Bhoomi",
-      "year": "2017-09-22",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2017-12-06 07:18:41",
-      "iframe_src": ""
-    },
-    {
-      "id": 14550,
-      "title": "Ди-Джей",
-      "kp_id": "1045952",
-      "imdb_id": "tt6734984",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-12-04 21:31:13",
-      "orig_title": "Duvvada Jagannadham",
-      "year": "2017-06-23",
-      "translations": [
-        "Любительский (многоголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый)",
-      "update": "2017-12-05 07:44:30",
-      "iframe_src": ""
-    },
-    {
-      "id": 14549,
-      "title": "Выживший в День Д",
-      "kp_id": "760832",
-      "imdb_id": "tt2876438",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-12-04 21:27:20",
-      "orig_title": "The War I Knew",
-      "year": "2014-04-05",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2017-12-05 07:47:24",
-      "iframe_src": ""
-    },
-    {
-      "id": 14544,
-      "title": "Мон мон мон монстры!",
-      "kp_id": "1043875",
-      "imdb_id": "tt6648404",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-12-04 19:24:33",
-      "orig_title": "Guai guai guai guaiwu!",
-      "year": "2017-04-23",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Колобок)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Колобок)",
-      "update": "2017-12-05 08:31:51",
-      "iframe_src": ""
-    },
-    {
-      "id": 14539,
-      "title": "Контроша",
-      "kp_id": "1062746",
-      "imdb_id": "tt7023354",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-12-04 19:14:30",
-      "orig_title": "La colle",
-      "year": "2017-06-17",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2017-12-05 08:38:08",
-      "iframe_src": ""
-    },
-    {
-      "id": 14535,
-      "title": "Кондитер",
-      "kp_id": "853373",
-      "imdb_id": "tt4034930",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-12-04 19:00:40",
-      "orig_title": "Baker's Man",
-      "year": "2017-06-20",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2017-12-05 08:48:07",
-      "iframe_src": ""
-    },
-    {
-      "id": 14533,
-      "title": "Венера и Вегас",
-      "kp_id": "81696",
-      "imdb_id": "tt0423474",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-12-04 15:11:10",
-      "orig_title": "Venus & Vegas",
-      "year": "2010-11-01",
+      "add": "2017-12-15 10:21:30",
+      "orig_title": "The Last Five Years",
+      "year": "2014-09-07",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
-      "quality": "hdrip",
+      "quality": "webdl",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2017-12-06 07:39:26",
+      "update": "2017-12-19 10:18:46",
       "iframe_src": ""
     },
     {
-      "id": 14531,
-      "title": "Стрелок",
-      "kp_id": "34654",
-      "imdb_id": "tt0114432",
+      "id": 14672,
+      "title": "Терминаторы",
+      "kp_id": "437836",
+      "imdb_id": "tt1350512",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-12-04 15:08:01",
-      "orig_title": "The Shooter",
-      "year": "1995-12-15",
+      "add": "2017-12-15 10:20:13",
+      "orig_title": "The Terminators",
+      "year": "2009-04-28",
       "translations": [
-        "Профессиональный (двухголосый закадровый) (РенТВ)"
+        "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "dvdrip",
-      "translation": "Профессиональный (двухголосый закадровый) (РенТВ)",
-      "update": "2017-12-06 07:43:28",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2017-12-19 10:16:55",
       "iframe_src": ""
     },
     {
-      "id": 13949,
-      "title": "Джунгли",
-      "kp_id": "893843",
-      "imdb_id": "tt3758172",
+      "id": 14671,
+      "title": "Леди терминатор",
+      "kp_id": "55333",
+      "imdb_id": "tt0108313",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-10-22 19:32:10",
-      "orig_title": "Jungle",
-      "year": "2017-08-03",
+      "add": "2017-12-15 10:19:00",
+      "orig_title": "Terminator Woman",
+      "year": "1993-06-30",
       "translations": [
-        "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-        "Полное дублирование"
+        "Профессиональный (двухголосый закадровый)"
       ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-      "update": "2017-12-05 08:41:49",
+      "quality": "dvdrip",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2017-12-19 10:06:54",
       "iframe_src": ""
     },
     {
-      "id": 13873,
-      "title": "Истории семьи Майровиц",
-      "kp_id": "968307",
-      "imdb_id": "tt5536736",
+      "id": 14670,
+      "title": "Воробей",
+      "kp_id": "521698",
+      "imdb_id": "tt1782562",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-10-17 10:26:32",
-      "orig_title": "The Meyerowitz Stories (New and Selected)",
-      "year": "2017-05-21",
-      "translations": [
-        "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-        "Профессиональный (многоголосый закадровый) (GreenРай Studio)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-      "update": "2017-12-06 06:46:34",
-      "iframe_src": ""
-    },
-    {
-      "id": 13792,
-      "title": "Жизнь впереди",
-      "kp_id": "1006733",
-      "imdb_id": "tt7475284",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-10-09 22:42:50",
-      "orig_title": "Life Ahead",
-      "year": "2017-10-05",
+      "add": "2017-12-15 10:18:08",
+      "orig_title": "Vorobey",
+      "year": "2010-01-01",
       "translations": [
         "Оригинальная дорожка"
       ],
-      "quality": "webdl",
+      "quality": "dvdrip",
       "translation": "Оригинальная дорожка",
-      "update": "2017-12-05 07:39:46",
+      "update": "2017-12-19 10:05:40",
       "iframe_src": ""
     },
     {
-      "id": 13789,
-      "title": "Заклятье. Наши дни",
-      "kp_id": "856359",
-      "imdb_id": "tt4181782",
+      "id": 14669,
+      "title": "Тот, кто рядом",
+      "kp_id": "477332",
+      "imdb_id": null,
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-10-09 22:19:48",
-      "orig_title": "The Crucifixion",
-      "year": "2017-07-01",
+      "add": "2017-12-15 10:16:54",
+      "orig_title": "Тот, кто рядом",
+      "year": "2009-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2017-12-19 10:04:15",
+      "iframe_src": ""
+    },
+    {
+      "id": 14668,
+      "title": "Щенок",
+      "kp_id": "478759",
+      "imdb_id": "tt2992300",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-12-15 10:15:01",
+      "orig_title": "Shchenok",
+      "year": "2009-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2017-12-19 10:02:47",
+      "iframe_src": ""
+    },
+    {
+      "id": 14667,
+      "title": "Из глубины сердца",
+      "kp_id": "696773",
+      "imdb_id": "tt2327170",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-12-15 10:13:01",
+      "orig_title": "Gundello Godari",
+      "year": "2013-03-08",
+      "translations": [
+        "Любительский (одноголосый закадровый)  (zamez | Замез Вячеслав)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Любительский (одноголосый закадровый)  (zamez | Замез Вячеслав)",
+      "update": "2017-12-19 10:01:43",
+      "iframe_src": ""
+    },
+    {
+      "id": 14666,
+      "title": "Они пришли вместе",
+      "kp_id": "680109",
+      "imdb_id": "tt2398249",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-12-15 10:12:00",
+      "orig_title": "They Came Together",
+      "year": "2014-01-24",
+      "translations": [
+        "Любительский (одноголосый закадровый) (PashaUp | Морозов Павел)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (одноголосый закадровый) (PashaUp | Морозов Павел)",
+      "update": "2017-12-19 10:00:42",
+      "iframe_src": ""
+    },
+    {
+      "id": 14665,
+      "title": "Ниндзя-терминатор",
+      "kp_id": "154472",
+      "imdb_id": "tt0199849",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-12-15 10:10:26",
+      "orig_title": "Ninja Terminator",
+      "year": "1985-01-01",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Кузнецов Сергей)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Авторский (одноголосый закадровый) (Кузнецов Сергей)",
+      "update": "2017-12-19 09:57:02",
+      "iframe_src": ""
+    },
+    {
+      "id": 14643,
+      "title": "Сын утра",
+      "kp_id": "400667",
+      "imdb_id": "tt1144815",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-12-13 11:29:33",
+      "orig_title": "Son of Morning",
+      "year": "2011-02-28",
+      "translations": [
+        "Любительский (одноголосый закадровый) (den904)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Любительский (одноголосый закадровый) (den904)",
+      "update": "2017-12-19 09:54:34",
+      "iframe_src": ""
+    },
+    {
+      "id": 13999,
+      "title": "Очень противная свадьба",
+      "kp_id": "972936",
+      "imdb_id": "tt5634960",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-10-24 21:36:21",
+      "orig_title": "A Very Sordid Wedding",
+      "year": "2017-03-10",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Профессиональный (многоголосый закадровый) (GreenРай Studio)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2017-12-18 07:06:57",
+      "iframe_src": ""
+    },
+    {
+      "id": 13431,
+      "title": "Оно",
+      "kp_id": "453397",
+      "imdb_id": "tt1396484",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-09-11 22:03:29",
+      "orig_title": "It",
+      "year": "2017-08-29",
       "translations": [
         "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-        "Любительский (двухголосый закадровый) (RecentFilms)",
-        "Полное дублирование"
+        "Полное дублирование",
+        "Профессиональный (многоголосый закадровый) (Paradox & Omskbird records)"
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-      "update": "2017-12-05 07:34:18",
+      "update": "2017-12-20 09:20:14",
       "iframe_src": ""
     },
     {
-      "id": 12940,
-      "title": "Ангелы Карли",
-      "kp_id": "954223",
-      "imdb_id": "tt5224012",
+      "id": 12856,
+      "title": "Убить за 68",
+      "kp_id": "944755",
+      "imdb_id": "tt5189894",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-08-13 23:19:26",
-      "orig_title": "Kiss and Cry",
-      "year": "2017-02-02",
+      "add": "2017-08-08 21:34:19",
+      "orig_title": "68 Kill",
+      "year": "2017-03-11",
       "translations": [
+        "Профессиональный (многоголосый закадровый) (GreenРай Studio)",
         "Любительский (многоголосый закадровый) (Синема УС)",
-        "Профессиональный (многоголосый закадровый)"
+        "Авторский (одноголосый закадровый) (Яроцкий Михаил | Kyberpunk)"
       ],
       "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2017-12-05 07:53:18",
-      "iframe_src": ""
-    },
-    {
-      "id": 12823,
-      "title": "Безумные соседи",
-      "kp_id": "989330",
-      "imdb_id": "tt5804948",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-08-07 14:22:01",
-      "orig_title": "À bras ouverts",
-      "year": "2017-04-05",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Полное дублирование"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2017-12-06 07:13:41",
-      "iframe_src": ""
-    },
-    {
-      "id": 10766,
-      "title": "Дымящиеся стволы",
-      "kp_id": "887285",
-      "imdb_id": "tt4422164",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-04-05 21:43:42",
-      "orig_title": "Smoking Guns",
-      "year": "2016-04-08",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Профессиональный (многоголосый закадровый) (Paradox & Omskbird records)",
-        "Профессиональный (многоголосый закадровый) (GreenРай Studio)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2017-12-06 06:58:34",
-      "iframe_src": ""
-    },
-    {
-      "id": 10645,
-      "title": "Калифорнийский дорожный патруль",
-      "kp_id": "262987",
-      "imdb_id": "tt0493405",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-03-30 21:51:54",
-      "orig_title": "CHIPS",
-      "year": "2017-03-23",
-      "translations": [
-        "Полное дублирование (iTunes)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование (iTunes)",
-      "update": "2017-12-05 08:43:43",
+      "translation": "Профессиональный (многоголосый закадровый) (GreenРай Studio)",
+      "update": "2017-12-18 07:01:26",
       "iframe_src": ""
     }
   ]

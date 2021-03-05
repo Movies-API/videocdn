@@ -1,373 +1,368 @@
 {
   "data": [
     {
-      "id": 33036,
-      "title": "Дорожные войны",
-      "kp_id": "900470",
-      "imdb_id": "tt4530832",
+      "id": 33153,
+      "title": "Убежище",
+      "kp_id": "997000",
+      "imdb_id": "tt5754850",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-11-12 20:47:05",
-      "orig_title": "Road Wars",
-      "year": "2015-05-05",
+      "add": "2019-11-16 10:39:39",
+      "orig_title": "Cubby",
+      "year": "2019-04-25",
       "translations": [
-        "Любительский (одноголосый закадровый) (Хихикающий доктор)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (одноголосый закадровый) (Хихикающий доктор)",
-      "update": "2019-11-13 12:20:22",
-      "iframe_src": ""
-    },
-    {
-      "id": 33034,
-      "title": "Другая Земля",
-      "kp_id": "489752",
-      "imdb_id": "tt1549572",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-11-12 20:44:58",
-      "orig_title": "Another Earth",
-      "year": "2011-01-24",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-11-13 12:21:29",
-      "iframe_src": ""
-    },
-    {
-      "id": 33032,
-      "title": "Роберт Брюс",
-      "kp_id": "1113938",
-      "imdb_id": "tt8000908",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-11-12 20:41:36",
-      "orig_title": "Robert the Bruce",
-      "year": "2019-06-23",
-      "translations": [
-        "Любительский (многоголосый закадровый) (@MUZOBOZ@)"
+        "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-      "update": "2019-11-13 12:22:13",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-11-16 12:27:03",
       "iframe_src": ""
     },
     {
-      "id": 33030,
-      "title": "Сломленные",
-      "kp_id": "469396",
-      "imdb_id": "tt1441940",
+      "id": 33146,
+      "title": "Кредо убийцы: Угли",
+      "kp_id": "648558",
+      "imdb_id": "tt2112900",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-11-12 20:37:01",
-      "orig_title": "Broken",
-      "year": "2012-05-17",
+      "add": "2019-11-16 06:42:38",
+      "orig_title": "Assassin's Creed: Embers",
+      "year": "2011-11-15",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2019-11-16 07:13:45",
+      "iframe_src": ""
+    },
+    {
+      "id": 33145,
+      "title": "Кредо убийцы",
+      "kp_id": "496782",
+      "imdb_id": "tt1587390",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-11-15 21:04:48",
+      "orig_title": "Assassin's Creed: Lineage",
+      "year": "2009-10-26",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-11-13 12:23:06",
+      "update": "2019-11-16 06:53:11",
       "iframe_src": ""
     },
     {
-      "id": 33028,
-      "title": "Аллегро",
-      "kp_id": "87038",
-      "imdb_id": "tt0424789",
+      "id": 33142,
+      "title": "Рождественская охота за сокровищами",
+      "kp_id": "1291886",
+      "imdb_id": "tt10768278",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-11-12 20:34:47",
-      "orig_title": "Allegro",
-      "year": "2005-08-25",
+      "add": "2019-11-15 20:18:22",
+      "orig_title": "Christmas Scavenger Hunt",
+      "year": "2019-11-03",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "hdtv",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-11-16 06:55:19",
+      "iframe_src": ""
+    },
+    {
+      "id": 33141,
+      "title": "Эминенс Хил",
+      "kp_id": "1200819",
+      "imdb_id": "tt9135272",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-11-15 20:15:53",
+      "orig_title": "Eminence Hill",
+      "year": "2019-11-05",
+      "translations": [
+        "Любительский (многоголосый закадровый) (AlphaProject)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (AlphaProject)",
+      "update": "2019-11-16 06:55:49",
+      "iframe_src": ""
+    },
+    {
+      "id": 33139,
+      "title": "Он умер с фалафелем в руке",
+      "kp_id": "16683",
+      "imdb_id": "tt0172543",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-11-15 20:10:42",
+      "orig_title": "He Died with a Felafel in His Hand",
+      "year": "2001-08-30",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Матвеев Алексей | Doctor Joker)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Авторский (одноголосый закадровый) (Матвеев Алексей | Doctor Joker)",
+      "update": "2019-11-16 06:56:56",
+      "iframe_src": ""
+    },
+    {
+      "id": 33138,
+      "title": "Альцест на велосипеде",
+      "kp_id": "687797",
+      "imdb_id": "tt2207050",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-11-15 20:08:30",
+      "orig_title": "Alceste à bicyclette",
+      "year": "2013-01-16",
+      "translations": [
+        "Любительский (двухголосый закадровый) (Mallorn Studio)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (двухголосый закадровый) (Mallorn Studio)",
+      "update": "2019-11-16 06:57:18",
+      "iframe_src": ""
+    },
+    {
+      "id": 33134,
+      "title": "Рождество",
+      "kp_id": "276389",
+      "imdb_id": "tt0937375",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-11-15 11:37:04",
+      "orig_title": "This Christmas",
+      "year": "2007-10-25",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-11-16 06:50:39",
+      "iframe_src": ""
+    },
+    {
+      "id": 33133,
+      "title": "Кинотеатр Пени Ужасной",
+      "kp_id": "695311",
+      "imdb_id": "tt2317484",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-11-15 11:34:34",
+      "orig_title": "The Penny Dreadful Picture Show",
+      "year": "2013-10-08",
+      "translations": [
+        "Любительский (двухголосый закадровый) (DeadSno & den904)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Любительский (двухголосый закадровый) (DeadSno & den904)",
+      "update": "2019-11-16 06:46:38",
+      "iframe_src": ""
+    },
+    {
+      "id": 33114,
+      "title": "Операция «Феникс»",
+      "kp_id": "84056",
+      "imdb_id": "tt0407708",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-11-14 22:07:37",
+      "orig_title": "Dai lo oi mei lai",
+      "year": "2004-04-08",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "dvdrip",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-11-13 12:26:58",
+      "update": "2019-11-15 11:35:33",
       "iframe_src": ""
     },
     {
-      "id": 33025,
-      "title": "Герой на районе",
-      "kp_id": "1222314",
-      "imdb_id": "tt3209560",
+      "id": 33113,
+      "title": "Тайный агент",
+      "kp_id": "23594",
+      "imdb_id": "tt0113153",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-11-12 20:31:14",
-      "orig_title": "Small Town Hero",
-      "year": "2019-05-06",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-11-13 12:23:40",
-      "iframe_src": ""
-    },
-    {
-      "id": 33021,
-      "title": "Зои и астронавт",
-      "kp_id": "854686",
-      "imdb_id": "tt3484312",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-11-12 20:27:56",
-      "orig_title": "Zoe and the Astronaut",
-      "year": "2018-05-04",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-11-13 12:26:58",
-      "iframe_src": ""
-    },
-    {
-      "id": 33019,
-      "title": "Городские страхи",
-      "kp_id": "1284485",
-      "imdb_id": "tt10608842",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-11-12 20:26:12",
-      "orig_title": "Urban Fears",
-      "year": "2019-11-01",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-11-13 12:27:04",
-      "iframe_src": ""
-    },
-    {
-      "id": 33005,
-      "title": "Гнилой человек",
-      "kp_id": "723916",
-      "imdb_id": "tt2574666",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-11-12 12:45:25",
-      "orig_title": "Septic Man",
-      "year": "2013-09-19",
-      "translations": [
-        "Любительский (одноголосый закадровый) (Хихикающий доктор)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (одноголосый закадровый) (Хихикающий доктор)",
-      "update": "2019-11-13 12:10:58",
-      "iframe_src": ""
-    },
-    {
-      "id": 33004,
-      "title": "Любовь и кухня",
-      "kp_id": "477742",
-      "imdb_id": "tt1519663",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-11-12 12:42:34",
-      "orig_title": "Love's Kitchen",
-      "year": "2011-04-26",
+      "add": "2019-11-14 22:02:55",
+      "orig_title": "Kap ba ba dik sung",
+      "year": "1995-02-08",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-11-13 12:13:16",
+      "update": "2019-11-15 11:34:39",
       "iframe_src": ""
     },
     {
-      "id": 33003,
-      "title": "Кукарача 3D",
-      "kp_id": "468295",
-      "imdb_id": "tt1843957",
+      "id": 33112,
+      "title": "Пучина",
+      "kp_id": "572462",
+      "imdb_id": "tt1764275",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-11-12 12:39:53",
-      "orig_title": "Kukaracha 3D",
-      "year": "2011-03-24",
+      "add": "2019-11-14 21:59:45",
+      "orig_title": "Djúpið",
+      "year": "2012-09-07",
       "translations": [
-        "Оригинальная дорожка"
+        "Любительский (двухголосый закадровый) (DeadSno & den904)"
       ],
       "quality": "bd",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-11-13 12:13:53",
+      "translation": "Любительский (двухголосый закадровый) (DeadSno & den904)",
+      "update": "2019-11-15 11:29:40",
       "iframe_src": ""
     },
     {
-      "id": 33002,
-      "title": "Познакомьтесь с Фиблами",
-      "kp_id": "5914",
-      "imdb_id": "tt0097858",
+      "id": 33110,
+      "title": "Дьявольский остров",
+      "kp_id": "18010",
+      "imdb_id": "tt0329162",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-11-12 12:36:48",
-      "orig_title": "Meet the Feebles",
-      "year": "1989-12-08",
+      "add": "2019-11-14 19:48:07",
+      "orig_title": "Devil's Pond",
+      "year": "2003-05-16",
       "translations": [
-        "Любительский (одноголосый закадровый)"
+        "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "dvdrip",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2019-11-13 12:12:55",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-11-15 11:43:51",
       "iframe_src": ""
     },
     {
-      "id": 33001,
-      "title": "Обеление",
-      "kp_id": "673966",
-      "imdb_id": "tt2297063",
+      "id": 33108,
+      "title": "Побег из джунглей",
+      "kp_id": "1209891",
+      "imdb_id": "tt10250750",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-11-12 12:34:51",
-      "orig_title": "Whitewash",
-      "year": "2013-04-19",
-      "translations": [
-        "Любительский (одноголосый закадровый) (den904)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (одноголосый закадровый) (den904)",
-      "update": "2019-11-13 12:13:13",
-      "iframe_src": ""
-    },
-    {
-      "id": 33000,
-      "title": "Глаз разума",
-      "kp_id": "902198",
-      "imdb_id": "tt4567486",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-11-12 12:31:59",
-      "orig_title": "The Mind's Eye",
-      "year": "2015-09-15",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Студия Пиратского Дубляжа)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Студия Пиратского Дубляжа)",
-      "update": "2019-11-13 12:11:24",
-      "iframe_src": ""
-    },
-    {
-      "id": 32081,
-      "title": "Болевой порог",
-      "kp_id": "913060",
-      "imdb_id": "tt8858494",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-20 09:25:50",
-      "orig_title": "Bolevoy porog",
-      "year": "2019-10-10",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-11-13 12:29:01",
-      "iframe_src": ""
-    },
-    {
-      "id": 17522,
-      "title": "Осторожно: Грамп!",
-      "kp_id": "1038941",
-      "imdb_id": "tt6494344",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-07-02 22:42:42",
-      "orig_title": "Here Comes the Grump",
-      "year": "2018-03-01",
+      "add": "2019-11-14 19:23:46",
+      "orig_title": "Xiong chu mo: Yuan shi shi dai",
+      "year": "2019-02-05",
       "translations": [
         "Полное дублирование"
       ],
       "quality": "webdl",
       "translation": "Полное дублирование",
-      "update": "2019-11-13 12:25:57",
+      "update": "2019-11-15 11:46:33",
       "iframe_src": ""
     },
     {
-      "id": 1371,
-      "title": "Рокки 3",
-      "kp_id": "7272",
-      "imdb_id": "tt0084602",
+      "id": 33107,
+      "title": "В бегах",
+      "kp_id": "680607",
+      "imdb_id": "tt2388637",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-04-21 08:50:00",
-      "orig_title": "Rocky III",
-      "year": "1982-05-28",
+      "add": "2019-11-14 18:57:37",
+      "orig_title": "Ain't Them Bodies Saints",
+      "year": "2013-01-20",
       "translations": [
-        "Профессиональный (многоголосый закадровый)",
-        "Original (English)",
-        "Профессиональный (многоголосый закадровый) (DDV)",
-        "Авторский (одноголосый закадровый) (Гаврилов Андрей)"
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-11-15 11:49:46",
+      "iframe_src": ""
+    },
+    {
+      "id": 33065,
+      "title": "Детонатор",
+      "kp_id": "22023",
+      "imdb_id": "tt0345461",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-11-13 11:36:59",
+      "orig_title": "The Detonator",
+      "year": "2006-04-25",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "hdtv",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-11-15 20:28:37",
+      "iframe_src": ""
+    },
+    {
+      "id": 31700,
+      "title": "Леонардо да Винчи. Неизведанные миры",
+      "kp_id": "1269599",
+      "imdb_id": "tt10270592",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-10 20:08:53",
+      "orig_title": "Io, Leonardo",
+      "year": "2019-10-02",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "webdl",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-11-13 12:26:58",
+      "update": "2019-11-16 12:25:50",
       "iframe_src": ""
     },
     {
-      "id": 1370,
-      "title": "Рокки 2",
-      "kp_id": "7275",
-      "imdb_id": "tt0079817",
+      "id": 29646,
+      "title": "Капкан",
+      "kp_id": "1150048",
+      "imdb_id": "tt8364368",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-04-21 08:48:29",
-      "orig_title": "Rocky II",
-      "year": "1979-06-15",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)",
-        "Original (English)",
-        "Профессиональный (многоголосый закадровый) (DDV)",
-        "Авторский (одноголосый закадровый) (Гаврилов Андрей)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-11-13 12:24:05",
-      "iframe_src": ""
-    },
-    {
-      "id": 1369,
-      "title": "Рокки",
-      "kp_id": "6462",
-      "imdb_id": "tt0075148",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-04-21 08:46:14",
-      "orig_title": "Rocky",
-      "year": "1976-11-21",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)",
-        "Original (English)",
-        "Авторский (одноголосый закадровый) (Гаврилов Андрей)",
-        "Профессиональный (многоголосый закадровый) (DDV)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-11-13 12:19:57",
-      "iframe_src": ""
-    },
-    {
-      "id": 1125,
-      "title": "Никогда не сдавайся",
-      "kp_id": "311268",
-      "imdb_id": "tt1023111",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-04-14 18:46:26",
-      "orig_title": "Never Back Down",
-      "year": "2008-03-04",
+      "add": "2019-08-01 23:11:36",
+      "orig_title": "Crawl",
+      "year": "2019-07-10",
       "translations": [
         "Полное дублирование",
-        "Original (English)"
+        "Original (English)",
+        "Любительский (одноголосый закадровый)",
+        "Любительский (одноголосый закадровый) (Хихикающий доктор)"
       ],
       "quality": "bd",
       "translation": "Полное дублирование",
-      "update": "2019-11-13 12:32:27",
+      "update": "2019-11-15 11:45:12",
+      "iframe_src": ""
+    },
+    {
+      "id": 29509,
+      "title": "Синяя птица в моём сердце",
+      "kp_id": "1053222",
+      "imdb_id": "tt6921496",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-07-30 05:28:37",
+      "orig_title": "A Bluebird in My Heart",
+      "year": "2018-03-10",
+      "translations": [
+        "Любительский (одноголосый закадровый) (datynet)",
+        "Любительский (многоголосый закадровый) (@MUZOBOZ@)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (одноголосый закадровый) (datynet)",
+      "update": "2019-11-16 12:31:56",
+      "iframe_src": ""
+    },
+    {
+      "id": 2895,
+      "title": "Дом в конце времен",
+      "kp_id": "732734",
+      "imdb_id": "tt2640474",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-06-04 09:48:44",
+      "orig_title": "La casa del fin de los tiempos",
+      "year": "2013-06-17",
+      "translations": [
+        "Полное дублирование",
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2019-11-15 11:28:42",
       "iframe_src": ""
     }
   ]

@@ -1,367 +1,378 @@
 {
   "data": [
     {
-      "id": 21016,
-      "title": "Королевство драконов",
-      "kp_id": null,
-      "imdb_id": "tt6603378",
+      "id": 21057,
+      "title": "Современная классика",
+      "kp_id": "954879",
+      "imdb_id": "tt5254566",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-12-25 02:05:09",
-      "orig_title": "Dragon Kingdom",
-      "year": "2019-03-24",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (AlphaProject)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый) (AlphaProject)",
-      "update": "2018-12-25 07:23:10",
-      "iframe_src": ""
-    },
-    {
-      "id": 21015,
-      "title": "Рождественский договор",
-      "kp_id": "1200224",
-      "imdb_id": "tt9059048",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-12-25 01:56:23",
-      "orig_title": "The Christmas Pact",
-      "year": "2018-12-02",
+      "add": "2018-12-27 11:24:15",
+      "orig_title": "Modern Classic",
+      "year": "2017-03-24",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-12-25 07:24:34",
+      "update": "2018-12-27 13:47:12",
       "iframe_src": ""
     },
     {
-      "id": 21014,
-      "title": "Вернем бухту",
-      "kp_id": "1207363",
-      "imdb_id": "tt9225108",
+      "id": 21056,
+      "title": "Год свиньи",
+      "kp_id": "1219139",
+      "imdb_id": null,
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-12-25 01:50:58",
-      "orig_title": "Take Back the Harbor",
-      "year": "2018-12-18",
+      "add": "2018-12-27 11:20:41",
+      "orig_title": "Год свиньи",
+      "year": "2018-12-27",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "webdl",
+      "translation": "Оригинальная дорожка",
+      "update": "2018-12-27 13:49:04",
+      "iframe_src": ""
+    },
+    {
+      "id": 21054,
+      "title": "Чироки Крик",
+      "kp_id": "1031275",
+      "imdb_id": "tt6231784",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-12-27 11:18:14",
+      "orig_title": "Cherokee Creek",
+      "year": "2018-07-26",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-12-25 07:25:56",
+      "update": "2018-12-27 13:51:36",
       "iframe_src": ""
     },
     {
-      "id": 21012,
-      "title": "Апокалипсис зомби",
-      "kp_id": "611798",
-      "imdb_id": "tt2034176",
+      "id": 21051,
+      "title": "Поруганная честь Катарины Блюм",
+      "kp_id": "56648",
+      "imdb_id": "tt0073858",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-12-25 01:45:55",
-      "orig_title": "Redcon-1",
-      "year": "2017-07-15",
+      "add": "2018-12-26 23:08:05",
+      "orig_title": "Die verlorene Ehre der Katharina Blum",
+      "year": "1975-09-17",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-12-25 07:37:09",
-      "iframe_src": ""
-    },
-    {
-      "id": 21011,
-      "title": "Последний хищник Юрского периода",
-      "kp_id": "79833",
-      "imdb_id": "tt0365653",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-12-25 01:44:31",
-      "orig_title": "Dinocroc",
-      "year": "2004-04-20",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2018-12-25 07:38:11",
-      "iframe_src": ""
-    },
-    {
-      "id": 20998,
-      "title": "Хранители душ",
-      "kp_id": "880925",
-      "imdb_id": "tt3769038",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-12-25 00:22:36",
-      "orig_title": "Body Keepers",
-      "year": "2018-12-20",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-12-25 07:51:18",
-      "iframe_src": ""
-    },
-    {
-      "id": 20997,
-      "title": "Эми",
-      "kp_id": "775847",
-      "imdb_id": "tt3007924",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-12-25 00:20:33",
-      "orig_title": "Amy",
-      "year": "2013-10-01",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
+        "Профессиональный (многоголосый закадровый) (5-й канал СПб)"
       ],
       "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2018-12-25 07:49:06",
+      "translation": "Профессиональный (многоголосый закадровый) (5-й канал СПб)",
+      "update": "2018-12-27 13:52:48",
       "iframe_src": ""
     },
     {
-      "id": 20989,
-      "title": "Похититель костей",
-      "kp_id": "36547",
-      "imdb_id": "tt0343449",
+      "id": 21050,
+      "title": "Покойся с миром",
+      "kp_id": "57062",
+      "imdb_id": "tt0063500",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-12-23 23:39:13",
-      "orig_title": "The Bone Snatcher",
-      "year": "2003-12-23",
-      "translations": [
-        "Любительский (многоголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Любительский (многоголосый закадровый)",
-      "update": "2018-12-24 08:27:15",
-      "iframe_src": ""
-    },
-    {
-      "id": 20987,
-      "title": "Увидим",
-      "kp_id": "1114500",
-      "imdb_id": "tt7948540",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-12-23 23:29:30",
-      "orig_title": "Ya Veremos",
-      "year": "2018-08-02",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-12-24 08:25:11",
-      "iframe_src": ""
-    },
-    {
-      "id": 20985,
-      "title": "Суеверие",
-      "kp_id": "24967",
-      "imdb_id": "tt0292707",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-12-23 23:20:17",
-      "orig_title": "Superstition",
-      "year": "2001-10-13",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2018-12-24 08:17:01",
-      "iframe_src": ""
-    },
-    {
-      "id": 20984,
-      "title": "Суеверие",
-      "kp_id": "62234",
-      "imdb_id": "tt0084739",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-12-23 23:17:53",
-      "orig_title": "Superstition",
-      "year": "1982-08-26",
+      "add": "2018-12-26 23:06:19",
+      "orig_title": "Requiescant",
+      "year": "1967-03-10",
       "translations": [
         "Любительский (одноголосый закадровый)"
       ],
-      "quality": "dvdrip",
+      "quality": "bd",
       "translation": "Любительский (одноголосый закадровый)",
-      "update": "2018-12-24 08:16:21",
+      "update": "2018-12-27 13:53:48",
       "iframe_src": ""
     },
     {
-      "id": 20982,
-      "title": "Мой брат Симпель",
-      "kp_id": "965731",
-      "imdb_id": "tt5521594",
+      "id": 18073,
+      "title": "Тихая ночь, смертельная ночь 2",
+      "kp_id": "34256",
+      "imdb_id": "tt0093974",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-12-23 23:14:55",
-      "orig_title": "Simpel",
-      "year": "2017-06-19",
+      "add": "2018-08-05 15:36:44",
+      "orig_title": "Silent Night, Deadly Night Part 2",
+      "year": "1987-04-10",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
+        "Авторский (одноголосый закадровый) (Визгунов Сергей)",
+        "Авторский (одноголосый закадровый) (Дольский Андрей)"
       ],
-      "quality": "hdrip",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-12-24 08:14:23",
+      "quality": "dvdrip",
+      "translation": "Авторский (одноголосый закадровый) (Визгунов Сергей)",
+      "update": "2018-12-27 13:55:24",
       "iframe_src": ""
     },
     {
-      "id": 20980,
-      "title": "Пути истинной любви",
-      "kp_id": "742374",
-      "imdb_id": "tt2732286",
+      "id": 655,
+      "title": "Повелитель стихий",
+      "kp_id": "417855",
+      "imdb_id": "tt0938283",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-12-23 23:10:12",
-      "orig_title": "True Love Ways",
-      "year": "2014-10-22",
+      "add": "2016-04-05 19:33:54",
+      "orig_title": "The Last Airbender",
+      "year": "2010-06-30",
       "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "dvb",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2018-12-24 08:13:33",
-      "iframe_src": ""
-    },
-    {
-      "id": 20977,
-      "title": "Vice: Укротители кризиса",
-      "kp_id": null,
-      "imdb_id": "tt9419838",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-12-23 23:05:01",
-      "orig_title": "Panic: The Untold Story of the 2008 Financial Crisis",
-      "year": "2018-12-11",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2018-12-24 08:10:19",
-      "iframe_src": ""
-    },
-    {
-      "id": 20976,
-      "title": "Внутри тишины",
-      "kp_id": "455297",
-      "imdb_id": "tt1405413",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-12-23 23:02:07",
-      "orig_title": "Of Silence",
-      "year": "2014-01-14",
-      "translations": [
-        "Любительский (многоголосый закадровый)"
+        "Полное дублирование",
+        "Original (English)"
       ],
       "quality": "bd",
-      "translation": "Любительский (многоголосый закадровый)",
-      "update": "2018-12-24 08:08:21",
+      "translation": "Полное дублирование",
+      "update": "2018-12-27 14:33:09",
       "iframe_src": ""
     },
     {
-      "id": 20974,
-      "title": "Мистер 365",
-      "kp_id": "1212136",
-      "imdb_id": "tt9212666",
+      "id": 443,
+      "title": "Добро пожаловать в Zомбилэнд",
+      "kp_id": "427122",
+      "imdb_id": "tt1156398",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-12-23 22:54:36",
-      "orig_title": "Mr. 365",
-      "year": "2018-12-15",
+      "add": "2016-04-01 18:25:16",
+      "orig_title": "Zombieland",
+      "year": "2009-09-25",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-12-24 08:06:49",
-      "iframe_src": ""
-    },
-    {
-      "id": 20858,
-      "title": "Ночная смена",
-      "kp_id": "1059040",
-      "imdb_id": "tt6688304",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-12-19 23:24:08",
-      "orig_title": "Nightshift",
-      "year": "2018-09-07",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Любительский (двухголосый закадровый) (HiWayGrope)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-12-24 08:07:35",
-      "iframe_src": ""
-    },
-    {
-      "id": 20846,
-      "title": "Вебкаст",
-      "kp_id": "974673",
-      "imdb_id": "tt5617310",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-12-19 01:09:59",
-      "orig_title": "Webcast",
-      "year": "2018-12-15",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Любительский (двухголосый закадровый) (HiWayGrope)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-12-24 08:24:22",
-      "iframe_src": ""
-    },
-    {
-      "id": 20781,
-      "title": "Черный призрак",
-      "kp_id": "1093059",
-      "imdb_id": "tt7131856",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-12-16 21:17:08",
-      "orig_title": "Black Ghost",
-      "year": "2018-05-28",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Любительский (двухголосый закадровый) (HiWayGrope)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-12-25 07:50:02",
-      "iframe_src": ""
-    },
-    {
-      "id": 9771,
-      "title": "Американский полтергейст",
-      "kp_id": "788947",
-      "imdb_id": "tt3108604",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-02-16 13:50:32",
-      "orig_title": "American Poltergeist",
-      "year": "2015-05-29",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Профессиональный (многоголосый закадровый)"
+        "Полное дублирование",
+        "Original (English)"
       ],
       "quality": "bd",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-12-25 07:48:08",
+      "translation": "Полное дублирование",
+      "update": "2018-12-27 14:36:55",
+      "iframe_src": ""
+    },
+    {
+      "id": 442,
+      "title": "Живая сталь",
+      "kp_id": "88198",
+      "imdb_id": "tt0433035",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-04-01 18:22:18",
+      "orig_title": "Real Steel",
+      "year": "2011-09-06",
+      "translations": [
+        "Полное дублирование",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2018-12-27 14:04:38",
+      "iframe_src": ""
+    },
+    {
+      "id": 441,
+      "title": "Престиж",
+      "kp_id": "195334",
+      "imdb_id": "tt0482571",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-04-01 18:18:38",
+      "orig_title": "The Prestige",
+      "year": "2006-10-17",
+      "translations": [
+        "Полное дублирование",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2018-12-27 14:33:57",
+      "iframe_src": ""
+    },
+    {
+      "id": 439,
+      "title": "Жена путешественника во времени",
+      "kp_id": "102128",
+      "imdb_id": "tt0452694",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-04-01 18:13:51",
+      "orig_title": "The Time Traveler's Wife",
+      "year": "2009-08-14",
+      "translations": [
+        "Полное дублирование",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2018-12-27 14:35:34",
+      "iframe_src": ""
+    },
+    {
+      "id": 438,
+      "title": "Старый Новый год",
+      "kp_id": "497755",
+      "imdb_id": "tt1598822",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-04-01 18:11:08",
+      "orig_title": "New Year's Eve",
+      "year": "2011-12-05",
+      "translations": [
+        "Полное дублирование",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2018-12-27 14:00:24",
+      "iframe_src": ""
+    },
+    {
+      "id": 436,
+      "title": "Падение Олимпа",
+      "kp_id": "673427",
+      "imdb_id": "tt2302755",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-04-01 18:06:18",
+      "orig_title": "Olympus Has Fallen",
+      "year": "2013-03-18",
+      "translations": [
+        "Полное дублирование",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2018-12-27 14:01:21",
+      "iframe_src": ""
+    },
+    {
+      "id": 434,
+      "title": "Кровью и потом: Анаболики",
+      "kp_id": "596227",
+      "imdb_id": "tt1980209",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-04-01 17:58:39",
+      "orig_title": "Pain & Gain",
+      "year": "2013-04-11",
+      "translations": [
+        "Полное дублирование",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2018-12-27 14:02:23",
+      "iframe_src": ""
+    },
+    {
+      "id": 433,
+      "title": "Гордость и предубеждение",
+      "kp_id": "81733",
+      "imdb_id": "tt0414387",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-04-01 17:55:12",
+      "orig_title": "Pride & Prejudice",
+      "year": "2005-07-25",
+      "translations": [
+        "Полное дублирование",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2018-12-27 14:03:22",
+      "iframe_src": ""
+    },
+    {
+      "id": 431,
+      "title": "Спасти мистера Бэнкса",
+      "kp_id": "656294",
+      "imdb_id": "tt2140373",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-04-01 17:39:39",
+      "orig_title": "Saving Mr. Banks",
+      "year": "2013-10-20",
+      "translations": [
+        "Полное дублирование",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2018-12-27 14:06:02",
+      "iframe_src": ""
+    },
+    {
+      "id": 425,
+      "title": "Человек, который изменил всё",
+      "kp_id": "432791",
+      "imdb_id": "tt1210166",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-04-01 17:20:26",
+      "orig_title": "Moneyball",
+      "year": "2011-09-09",
+      "translations": [
+        "Полное дублирование",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2018-12-27 13:59:44",
+      "iframe_src": ""
+    },
+    {
+      "id": 398,
+      "title": "Люди в черном",
+      "kp_id": "1091",
+      "imdb_id": "tt0119654",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-04-01 14:45:30",
+      "orig_title": "Men in Black",
+      "year": "1997-06-02",
+      "translations": [
+        "Полное дублирование",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2018-12-27 13:57:38",
+      "iframe_src": ""
+    },
+    {
+      "id": 397,
+      "title": "Люди в черном 2",
+      "kp_id": "6379",
+      "imdb_id": "tt0120912",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-04-01 14:41:35",
+      "orig_title": "Men in Black II",
+      "year": "2002-07-03",
+      "translations": [
+        "Полное дублирование",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2018-12-27 13:58:40",
+      "iframe_src": ""
+    },
+    {
+      "id": 386,
+      "title": "Остров",
+      "kp_id": "81291",
+      "imdb_id": "tt0399201",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-04-01 12:25:19",
+      "orig_title": "The Island",
+      "year": "2005-07-11",
+      "translations": [
+        "Полное дублирование",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2018-12-27 14:07:22",
       "iframe_src": ""
     }
   ]

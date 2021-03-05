@@ -1,363 +1,363 @@
 {
   "data": [
     {
-      "id": 4471,
-      "title": "Озеро на Клинтон-роуд",
-      "kp_id": "738141",
-      "imdb_id": "tt2662764",
+      "id": 4610,
+      "title": "Болото",
+      "kp_id": "86741",
+      "imdb_id": "tt0428251",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-08-17 05:46:30",
-      "orig_title": "The Lake on Clinton Road",
-      "year": "2015-07-17",
+      "add": "2016-08-21 16:14:38",
+      "orig_title": "Venom",
+      "year": "2005-09-16",
       "translations": [
-        "Любительский (многоголосый закадровый)"
+        "Профессиональный (многоголосый закадровый)"
       ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый)",
-      "update": "2016-08-17 06:20:02",
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-08-22 19:32:21",
       "iframe_src": ""
     },
     {
-      "id": 4469,
-      "title": "Балет в пламени войны",
-      "kp_id": "910016",
-      "imdb_id": "tt4786830",
+      "id": 4609,
+      "title": "Эпидемия",
+      "kp_id": "711072",
+      "imdb_id": "tt1935914",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-08-16 14:29:54",
-      "orig_title": "Zhan huo zhong de ba lei",
-      "year": "2015-06-21",
+      "add": "2016-08-21 16:13:39",
+      "orig_title": "Los últimos días",
+      "year": "2013-03-20",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-08-22 19:33:32",
+      "iframe_src": ""
+    },
+    {
+      "id": 4608,
+      "title": "Война цветов 2",
+      "kp_id": "818082",
+      "imdb_id": "tt3402110",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-08-21 16:12:38",
+      "orig_title": "Tajja: sineui son",
+      "year": "2014-09-03",
       "translations": [
         "Любительский (многоголосый закадровый)"
       ],
       "quality": "bd",
       "translation": "Любительский (многоголосый закадровый)",
-      "update": "2016-08-17 08:10:30",
+      "update": "2016-08-22 19:27:03",
       "iframe_src": ""
     },
     {
-      "id": 4455,
-      "title": "Давай будем плохими",
-      "kp_id": "875878",
-      "imdb_id": "tt3655682",
+      "id": 4607,
+      "title": "Два дня",
+      "kp_id": "494741",
+      "imdb_id": "tt1945081",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-08-16 12:44:49",
-      "orig_title": "Let's Be Evil",
-      "year": "2016-08-05",
+      "add": "2016-08-21 15:48:00",
+      "orig_title": "Dva dnya",
+      "year": "2011-11-17",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "bd",
+      "translation": "Оригинальная дорожка",
+      "update": "2016-08-22 19:27:48",
+      "iframe_src": ""
+    },
+    {
+      "id": 4604,
+      "title": "Надзиратель",
+      "kp_id": "10272",
+      "imdb_id": "tt0283534",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-08-21 15:39:38",
+      "orig_title": "The Parole Officer",
+      "year": "2001-08-10",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2016-08-22 19:25:36",
+      "iframe_src": ""
+    },
+    {
+      "id": 4603,
+      "title": "Достань меня, если сможешь",
+      "kp_id": "716461",
+      "imdb_id": "tt0959306",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-08-21 15:37:47",
+      "orig_title": "Reach Me",
+      "year": "2014-11-19",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Дольский Андрей)"
+      ],
+      "quality": "bd",
+      "translation": "Авторский (одноголосый закадровый) (Дольский Андрей)",
+      "update": "2016-08-22 19:23:21",
+      "iframe_src": ""
+    },
+    {
+      "id": 4601,
+      "title": "Уязвимость нулевых дней",
+      "kp_id": "961101",
+      "imdb_id": "tt5446858",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-08-21 15:35:04",
+      "orig_title": "Zero Days",
+      "year": "2016-02-11",
       "translations": [
         "Любительский (двухголосый закадровый) (RecentFilms)"
       ],
-      "quality": "hdrip",
+      "quality": "webdl",
       "translation": "Любительский (двухголосый закадровый) (RecentFilms)",
-      "update": "2016-08-16 13:26:12",
+      "update": "2016-08-22 19:18:30",
       "iframe_src": ""
     },
     {
-      "id": 4450,
-      "title": "З/Л/О 2",
-      "kp_id": "712576",
-      "imdb_id": "tt2450186",
+      "id": 4600,
+      "title": "Чeтыре пера",
+      "kp_id": "673",
+      "imdb_id": "tt0240510",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-08-16 10:18:53",
-      "orig_title": "V/H/S/2",
-      "year": "2013-01-19",
+      "add": "2016-08-21 15:33:48",
+      "orig_title": "The Four Feathers",
+      "year": "2002-09-08",
       "translations": [
         "Полное дублирование"
       ],
       "quality": "bd",
       "translation": "Полное дублирование",
-      "update": "2016-08-17 16:28:26",
+      "update": "2016-08-22 19:00:50",
       "iframe_src": ""
     },
     {
-      "id": 4447,
-      "title": "Вдова с острова Сен-Пьер",
-      "kp_id": "871",
-      "imdb_id": "tt0191636",
+      "id": 4598,
+      "title": "Убийства в Оксфорде",
+      "kp_id": "261761",
+      "imdb_id": "tt0488604",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-08-16 09:53:59",
-      "orig_title": "La veuve de Saint-Pierre",
-      "year": "2000-04-19",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2016-08-17 12:38:20",
-      "iframe_src": ""
-    },
-    {
-      "id": 4445,
-      "title": "Девушка в парке",
-      "kp_id": "261684",
-      "imdb_id": "tt0847167",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-08-16 09:41:13",
-      "orig_title": "The Girl in the Park",
-      "year": "2008-12-05",
-      "translations": [
-        "Любительский (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (многоголосый закадровый)",
-      "update": "2016-08-17 12:32:27",
-      "iframe_src": ""
-    },
-    {
-      "id": 4441,
-      "title": "Ворон 3: Спасение",
-      "kp_id": "17440",
-      "imdb_id": "tt0132910",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-08-16 08:17:36",
-      "orig_title": "The Crow: Salvation",
-      "year": "2000-06-14",
+      "add": "2016-08-21 15:30:44",
+      "orig_title": "The Oxford Murders",
+      "year": "2008-01-17",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-08-17 12:23:37",
+      "update": "2016-08-22 18:59:11",
       "iframe_src": ""
     },
     {
-      "id": 4440,
-      "title": "Игра на краю пропасти",
-      "kp_id": "984329",
-      "imdb_id": "tt5187548",
+      "id": 4597,
+      "title": "В Америке",
+      "kp_id": "8068",
+      "imdb_id": "tt0298845",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-08-16 06:09:53",
-      "orig_title": "The Precipice Game",
-      "year": "2016-07-01",
+      "add": "2016-08-21 15:29:42",
+      "orig_title": "In America",
+      "year": "2002-09-12",
       "translations": [
-        "Любительский (двухголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (двухголосый закадровый)",
-      "update": "2016-08-16 08:12:36",
-      "iframe_src": ""
-    },
-    {
-      "id": 4438,
-      "title": "Спасти мистера Ву",
-      "kp_id": "931084",
-      "imdb_id": "tt4819560",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-08-16 06:02:41",
-      "orig_title": "Jie jiu Wu xian sheng",
-      "year": "2015-09-30",
-      "translations": [
-        "Любительский (двухголосый закадровый)"
+        "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
-      "translation": "Любительский (двухголосый закадровый)",
-      "update": "2016-08-16 08:55:13",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-08-22 18:57:35",
       "iframe_src": ""
     },
     {
-      "id": 4434,
-      "title": "Кролик-убийца",
-      "kp_id": "816036",
-      "imdb_id": "tt3375286",
+      "id": 4596,
+      "title": "Цвет времени",
+      "kp_id": "655414",
+      "imdb_id": "tt2133333",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-08-16 05:41:13",
-      "orig_title": "Bunny the Killer Thing",
-      "year": "2015-05-29",
+      "add": "2016-08-21 15:26:25",
+      "orig_title": "The Color of Time",
+      "year": "2012-11-16",
       "translations": [
-        "Любительский (одноголосый закадровый)"
+        "Профессиональный (многоголосый закадровый)"
       ],
-      "quality": "hdrip",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2016-08-16 08:07:59",
+      "quality": "hdtv",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-08-22 18:53:06",
       "iframe_src": ""
     },
     {
-      "id": 4432,
-      "title": "Заклинательница акул",
-      "kp_id": "535660",
-      "imdb_id": "tt1507563",
+      "id": 4595,
+      "title": "Уроки вождения",
+      "kp_id": "780502",
+      "imdb_id": "tt3062976",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-08-15 08:33:55",
-      "orig_title": "Dark Tide",
-      "year": "2012-03-08",
+      "add": "2016-08-21 15:24:46",
+      "orig_title": "Learning to Drive",
+      "year": "2014-09-09",
       "translations": [
         "Полное дублирование"
       ],
       "quality": "bd",
       "translation": "Полное дублирование",
-      "update": "2016-08-15 12:43:20",
+      "update": "2016-08-22 18:52:57",
       "iframe_src": ""
     },
     {
-      "id": 4430,
-      "title": "Жена богача",
-      "kp_id": "3530",
-      "imdb_id": "tt0117473",
+      "id": 4594,
+      "title": "Семейка Фэнг",
+      "kp_id": "645036",
+      "imdb_id": "tt2097331",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-08-15 08:30:59",
-      "orig_title": "The Rich Man's Wife",
-      "year": "1996-09-13",
+      "add": "2016-08-21 15:23:20",
+      "orig_title": "The Family Fang",
+      "year": "2015-09-14",
       "translations": [
-        "Профессиональный (многоголосый закадровый)"
+        "Любительский (многоголосый закадровый) (Parovoz Production)"
       ],
       "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-08-15 12:26:29",
+      "translation": "Любительский (многоголосый закадровый) (Parovoz Production)",
+      "update": "2016-08-22 18:51:27",
       "iframe_src": ""
     },
     {
-      "id": 4429,
-      "title": "Флинтстоуны",
-      "kp_id": "3534",
-      "imdb_id": "tt0109813",
+      "id": 4593,
+      "title": "99 домов",
+      "kp_id": "762919",
+      "imdb_id": "tt2891174",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-08-15 08:29:23",
-      "orig_title": "The Flintstones",
-      "year": "1994-05-23",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-08-15 12:24:34",
-      "iframe_src": ""
-    },
-    {
-      "id": 4428,
-      "title": "В погоне за солнцем",
-      "kp_id": "3531",
-      "imdb_id": "tt0117427",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-08-15 08:27:41",
-      "orig_title": "Race the Sun",
-      "year": "1996-03-22",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2016-08-15 12:22:18",
-      "iframe_src": ""
-    },
-    {
-      "id": 4427,
-      "title": "Лихорадка джунглей",
-      "kp_id": "3539",
-      "imdb_id": "tt0102175",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-08-15 08:26:25",
-      "orig_title": "Jungle Fever",
-      "year": "1991-06-05",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "hdtv",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-08-15 12:20:16",
-      "iframe_src": ""
-    },
-    {
-      "id": 4425,
-      "title": "Приказано уничтожить",
-      "kp_id": "3532",
-      "imdb_id": "tt0116253",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-08-15 08:23:21",
-      "orig_title": "Executive Decision",
-      "year": "1996-03-15",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2016-08-15 12:05:18",
-      "iframe_src": ""
-    },
-    {
-      "id": 4424,
-      "title": "СиБи 4: Четвертый подряд",
-      "kp_id": "3542",
-      "imdb_id": "tt0106500",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-08-15 08:20:27",
-      "orig_title": "CB4",
-      "year": "1993-03-12",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "hdtv",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-08-15 12:03:23",
-      "iframe_src": ""
-    },
-    {
-      "id": 4423,
-      "title": "Булворт",
-      "kp_id": "3528",
-      "imdb_id": "tt0118798",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-08-15 08:19:09",
-      "orig_title": "Bulworth",
-      "year": "1998-05-22",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "hdtv",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-08-15 12:02:00",
-      "iframe_src": ""
-    },
-    {
-      "id": 4121,
-      "title": "Клык",
-      "kp_id": "466512",
-      "imdb_id": "tt1379182",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-07-22 08:52:44",
-      "orig_title": "Kynodontas",
-      "year": "2009-05-18",
+      "add": "2016-08-21 15:19:11",
+      "orig_title": "99 Homes",
+      "year": "2014-08-29",
       "translations": [
         "Любительский (одноголосый закадровый)"
       ],
       "quality": "bd",
       "translation": "Любительский (одноголосый закадровый)",
-      "update": "2016-08-16 08:02:34",
+      "update": "2016-08-22 18:48:33",
       "iframe_src": ""
     },
     {
-      "id": 4107,
-      "title": "14 клинков",
-      "kp_id": "467995",
-      "imdb_id": "tt1442571",
+      "id": 4592,
+      "title": "Дети полуночи",
+      "kp_id": "565940",
+      "imdb_id": "tt1714866",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-07-22 07:20:11",
-      "orig_title": "14 Blades",
-      "year": "2010-02-04",
+      "add": "2016-08-21 15:13:07",
+      "orig_title": "Midnight's Children",
+      "year": "2012-08-31",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-08-22 18:43:58",
+      "iframe_src": ""
+    },
+    {
+      "id": 4591,
+      "title": "Любовь втроем",
+      "kp_id": "478144",
+      "imdb_id": "tt1517177",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-08-21 15:11:53",
+      "orig_title": "3",
+      "year": "2010-09-10",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-08-22 18:45:18",
+      "iframe_src": ""
+    },
+    {
+      "id": 4590,
+      "title": "Транзит",
+      "kp_id": "464424",
+      "imdb_id": "tt1059836",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-08-21 15:10:28",
+      "orig_title": "Transit",
+      "year": "2012-01-03",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-08-22 18:42:58",
+      "iframe_src": ""
+    },
+    {
+      "id": 4589,
+      "title": "Затерянные в Тихом океане",
+      "kp_id": "887121",
+      "imdb_id": "tt4363250",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-08-21 15:08:49",
+      "orig_title": "Lost in the Pacific",
+      "year": "2016-01-29",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Parovoz Production)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Parovoz Production)",
+      "update": "2016-08-22 18:36:36",
+      "iframe_src": ""
+    },
+    {
+      "id": 4588,
+      "title": "Убийственная игра",
+      "kp_id": "779688",
+      "imdb_id": "tt3024324",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-08-21 15:07:21",
+      "orig_title": "Kill Game",
+      "year": "2015-12-05",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Студия Пиратского Дубляжа)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (многоголосый закадровый) (Студия Пиратского Дубляжа)",
+      "update": "2016-08-22 18:33:50",
+      "iframe_src": ""
+    },
+    {
+      "id": 4587,
+      "title": "Мятная конфета",
+      "kp_id": "65101",
+      "imdb_id": "tt0247613",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-08-21 15:04:48",
+      "orig_title": "Bakha satang",
+      "year": "2000-01-01",
       "translations": [
         "Любительский (одноголосый закадровый)"
       ],
       "quality": "bd",
       "translation": "Любительский (одноголосый закадровый)",
-      "update": "2016-08-16 08:04:34",
+      "update": "2016-08-22 18:34:20",
       "iframe_src": ""
     }
   ]

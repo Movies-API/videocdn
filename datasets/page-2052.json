@@ -1,363 +1,365 @@
 {
   "data": [
     {
-      "id": 9268,
-      "title": "Версия Браунинга",
-      "kp_id": "58842",
-      "imdb_id": "tt0043362",
+      "id": 9377,
+      "title": "Зеленая рыба",
+      "kp_id": "46960",
+      "imdb_id": "tt0126838",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-01-27 09:06:18",
-      "orig_title": "The Browning Version",
-      "year": "1951-03-13",
+      "add": "2017-02-02 08:56:35",
+      "orig_title": "Chorok mulkogi",
+      "year": "1997-02-07",
       "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2017-01-30 05:12:25",
-      "iframe_src": ""
-    },
-    {
-      "id": 9267,
-      "title": "Круг боли",
-      "kp_id": "484868",
-      "imdb_id": "tt1541664",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-01-27 09:02:33",
-      "orig_title": "Circle of Pain",
-      "year": "2010-08-15",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (НТВ)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый) (НТВ)",
-      "update": "2017-01-30 05:11:39",
-      "iframe_src": ""
-    },
-    {
-      "id": 9266,
-      "title": "Белка и Стрелка: Звездные собаки",
-      "kp_id": "395691",
-      "imdb_id": "tt1272051",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-01-27 09:01:45",
-      "orig_title": "Belka i Strelka. Zvezdnye sobaki",
-      "year": "2010-05-07",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "bd",
-      "translation": "Оригинальная дорожка",
-      "update": "2017-01-30 05:14:05",
-      "iframe_src": ""
-    },
-    {
-      "id": 9256,
-      "title": "U-429: Подводная тюрьма",
-      "kp_id": "2975",
-      "imdb_id": "tt0316824",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-01-27 06:44:25",
-      "orig_title": "In Enemy Hands",
-      "year": "2004-02-25",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2017-01-30 05:14:45",
-      "iframe_src": ""
-    },
-    {
-      "id": 9255,
-      "title": "Как Брюс Ли изменил мир",
-      "kp_id": "470717",
-      "imdb_id": "tt1437833",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-01-27 06:42:06",
-      "orig_title": "How Bruce Lee changed the world",
-      "year": "2009-05-17",
-      "translations": [
-        "Профессиональный (одноголосый закадровый)"
-      ],
-      "quality": "hdtv",
-      "translation": "Профессиональный (одноголосый закадровый)",
-      "update": "2017-01-30 05:17:49",
-      "iframe_src": ""
-    },
-    {
-      "id": 9254,
-      "title": "Манолете",
-      "kp_id": "251797",
-      "imdb_id": "tt0491046",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-01-27 06:40:20",
-      "orig_title": "Manolete",
-      "year": "2008-09-06",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2017-01-30 05:55:07",
-      "iframe_src": ""
-    },
-    {
-      "id": 9253,
-      "title": "Смени лицо",
-      "kp_id": "272472",
-      "imdb_id": "tt0889665",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-01-27 06:38:06",
-      "orig_title": "Steak",
-      "year": "2007-06-20",
-      "translations": [
-        "Полное дублирование"
+        "Любительский (одноголосый закадровый) (Бирюков Михаил)"
       ],
       "quality": "dvdrip",
-      "translation": "Полное дублирование",
-      "update": "2017-01-27 13:54:59",
+      "translation": "Любительский (одноголосый закадровый) (Бирюков Михаил)",
+      "update": "2017-02-03 07:52:03",
       "iframe_src": ""
     },
     {
-      "id": 9248,
-      "title": "Залезь на Луну",
-      "kp_id": "521633",
+      "id": 9376,
+      "title": "Скотозаговор",
+      "kp_id": "885610",
+      "imdb_id": "tt3302820",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-02-02 07:08:50",
+      "orig_title": "Cowspiracy: The Sustainability Secret",
+      "year": "2014-06-26",
+      "translations": [
+        "Любительский (двухголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (двухголосый закадровый)",
+      "update": "2017-02-03 06:14:14",
+      "iframe_src": ""
+    },
+    {
+      "id": 9375,
+      "title": "Перевал Дятлова",
+      "kp_id": "851868",
       "imdb_id": null,
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-01-27 06:11:35",
-      "orig_title": "Залезь на Луну",
-      "year": "2010-05-28",
+      "add": "2017-02-02 07:04:15",
+      "orig_title": "Перевал Дятлова",
+      "year": "2017-01-29",
       "translations": [
         "Оригинальная дорожка"
       ],
-      "quality": "dvdrip",
+      "quality": "hdtv",
       "translation": "Оригинальная дорожка",
-      "update": "2017-01-30 06:14:46",
+      "update": "2017-02-03 06:11:05",
       "iframe_src": ""
     },
     {
-      "id": 9247,
-      "title": "Близнецы",
-      "kp_id": "22078",
-      "imdb_id": "tt0351887",
+      "id": 9374,
+      "title": "Заезжий молодец",
+      "kp_id": "843169",
+      "imdb_id": null,
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-01-27 06:10:56",
-      "orig_title": "Chin gei bin",
-      "year": "2003-06-24",
+      "add": "2017-02-02 06:57:04",
+      "orig_title": "Заезжий молодец",
+      "year": "2014-10-18",
       "translations": [
-        "Полное дублирование"
+        "Оригинальная дорожка"
       ],
-      "quality": "dvdrip",
-      "translation": "Полное дублирование",
-      "update": "2017-01-27 12:28:24",
+      "quality": "webdl",
+      "translation": "Оригинальная дорожка",
+      "update": "2017-02-03 06:16:19",
       "iframe_src": ""
     },
     {
-      "id": 9246,
-      "title": "Дорожный убийца",
-      "kp_id": "454149",
-      "imdb_id": "tt1410020",
+      "id": 9366,
+      "title": "Наше будущее",
+      "kp_id": "846702",
+      "imdb_id": "tt3902310",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-01-27 06:10:21",
-      "orig_title": "Freeway Killer",
-      "year": "2010-02-16",
+      "add": "2017-02-01 13:13:57",
+      "orig_title": "Nos futurs",
+      "year": "2015-06-29",
       "translations": [
-        "Профессиональный (двухголосый закадровый)"
+        "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "bd",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2017-01-27 12:58:10",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2017-02-03 07:43:27",
       "iframe_src": ""
     },
     {
-      "id": 9245,
-      "title": "Команда",
-      "kp_id": "580389",
-      "imdb_id": "tt1454567",
+      "id": 9363,
+      "title": "Рок Апокалипсис",
+      "kp_id": "905045",
+      "imdb_id": "tt3830598",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-01-27 06:08:59",
-      "orig_title": "Team: The Force",
-      "year": "2009-06-05",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2017-01-27 12:48:29",
-      "iframe_src": ""
-    },
-    {
-      "id": 9240,
-      "title": "Бофор",
-      "kp_id": "253163",
-      "imdb_id": "tt0758732",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-01-27 06:04:11",
-      "orig_title": "Beaufort",
-      "year": "2007-02-14",
+      "add": "2017-02-01 12:58:51",
+      "orig_title": "Wacken 3D",
+      "year": "2014-07-24",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2017-01-27 12:48:51",
+      "update": "2017-02-03 07:47:27",
       "iframe_src": ""
     },
     {
-      "id": 9235,
-      "title": "Взрыв на рассвете: Неслужебное задание-2",
-      "kp_id": "394044",
-      "imdb_id": "tt1459048",
+      "id": 9360,
+      "title": "Охота жить",
+      "kp_id": "819332",
+      "imdb_id": "tt3460110",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-01-27 05:58:54",
-      "orig_title": "Nesluzhebnoe zadanie 2: Vzryv na rassvete",
-      "year": "2005-05-06",
+      "add": "2017-02-01 12:54:46",
+      "orig_title": "Okhota zhit",
+      "year": "2014-11-03",
       "translations": [
         "Оригинальная дорожка"
       ],
-      "quality": "dvdrip",
+      "quality": "webdl",
       "translation": "Оригинальная дорожка",
-      "update": "2017-01-27 12:12:54",
+      "update": "2017-02-03 10:46:10",
       "iframe_src": ""
     },
     {
-      "id": 9234,
-      "title": "Киносвидание",
-      "kp_id": "171871",
-      "imdb_id": "tt0466342",
+      "id": 9359,
+      "title": "Я помню тебя",
+      "kp_id": "737824",
+      "imdb_id": "tt2654522",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-01-27 05:57:10",
-      "orig_title": "Date Movie",
-      "year": "2006-02-17",
+      "add": "2017-02-01 12:53:12",
+      "orig_title": "I Remember You",
+      "year": "2015-11-13",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2017-02-03 07:44:45",
+      "iframe_src": ""
+    },
+    {
+      "id": 9357,
+      "title": "Война невест",
+      "kp_id": "842775",
+      "imdb_id": "tt3833460",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-02-01 12:48:56",
+      "orig_title": "Xin niang da zuo zhan",
+      "year": "2015-08-20",
+      "translations": [
+        "Любительский (многоголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый)",
+      "update": "2017-02-03 07:41:55",
+      "iframe_src": ""
+    },
+    {
+      "id": 9356,
+      "title": "Сингулярность",
+      "kp_id": "821193",
+      "imdb_id": "tt3442982",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-02-01 12:47:15",
+      "orig_title": "Singularity",
+      "year": "2015-11-09",
+      "translations": [
+        "Любительский (двухголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (двухголосый закадровый)",
+      "update": "2017-02-03 07:40:12",
+      "iframe_src": ""
+    },
+    {
+      "id": 9355,
+      "title": "Первенец",
+      "kp_id": "932245",
+      "imdb_id": "tt4916982",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-02-01 12:45:22",
+      "orig_title": "The First Born",
+      "year": "2015-08-03",
+      "translations": [
+        "Любительский (двухголосый закадровый) (Shadow Dub Project)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (двухголосый закадровый) (Shadow Dub Project)",
+      "update": "2017-02-03 07:39:03",
+      "iframe_src": ""
+    },
+    {
+      "id": 9353,
+      "title": "88",
+      "kp_id": "819817",
+      "imdb_id": "tt3465074",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-02-01 12:41:02",
+      "orig_title": "88",
+      "year": "2015-01-06",
+      "translations": [
+        "Любительский (двухголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (двухголосый закадровый)",
+      "update": "2017-02-03 07:37:03",
+      "iframe_src": ""
+    },
+    {
+      "id": 9352,
+      "title": "Красная Шапочка",
+      "kp_id": "851583",
+      "imdb_id": "tt3591944",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-02-01 12:40:02",
+      "orig_title": "Little Red Riding Hood",
+      "year": "2015-02-01",
+      "translations": [
+        "Любительский (двухголосый закадровый) (Колобок)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (двухголосый закадровый) (Колобок)",
+      "update": "2017-02-03 07:34:47",
+      "iframe_src": ""
+    },
+    {
+      "id": 9351,
+      "title": "Исчезновение",
+      "kp_id": "780228",
+      "imdb_id": "tt3058674",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-02-01 12:37:52",
+      "orig_title": "VANish",
+      "year": "2015-02-24",
+      "translations": [
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2017-02-03 07:33:19",
+      "iframe_src": ""
+    },
+    {
+      "id": 9350,
+      "title": "Русский характер",
+      "kp_id": "861600",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-02-01 07:40:22",
+      "orig_title": "Русский характер",
+      "year": "2014-12-28",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "hdtv",
+      "translation": "Оригинальная дорожка",
+      "update": "2017-02-03 06:19:55",
+      "iframe_src": ""
+    },
+    {
+      "id": 9344,
+      "title": "Списанный в резерв",
+      "kp_id": "858559",
+      "imdb_id": "tt4177822",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-02-01 06:12:56",
+      "orig_title": "Decommissioned",
+      "year": "2016-08-29",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Студия Пиратского Дубляжа)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Студия Пиратского Дубляжа)",
+      "update": "2017-02-02 10:28:50",
+      "iframe_src": ""
+    },
+    {
+      "id": 9343,
+      "title": "Выбор короля",
+      "kp_id": "897259",
+      "imdb_id": "tt4353996",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-02-01 06:10:30",
+      "orig_title": "Kongens Nei",
+      "year": "2016-09-16",
+      "translations": [
+        "Любительский (многоголосый закадровый) (GreenРай Studio)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (многоголосый закадровый) (GreenРай Studio)",
+      "update": "2017-02-02 10:23:38",
+      "iframe_src": ""
+    },
+    {
+      "id": 9261,
+      "title": "Летучие мыши",
+      "kp_id": "6506",
+      "imdb_id": "tt0200469",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-01-27 07:43:08",
+      "orig_title": "Bats",
+      "year": "1999-10-22",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "hdtv",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2017-01-30 05:15:45",
+      "update": "2017-02-03 06:59:19",
       "iframe_src": ""
     },
     {
-      "id": 9211,
-      "title": "Расщепление Адама",
-      "kp_id": "847909",
-      "imdb_id": "tt3712822",
+      "id": 8757,
+      "title": "Сниквик",
+      "kp_id": "922346",
+      "imdb_id": "tt4849176",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-01-26 12:09:18",
-      "orig_title": "Splitting Adam",
-      "year": "2015-02-16",
+      "add": "2017-01-09 11:27:42",
+      "orig_title": "Sneekweek",
+      "year": "2016-01-21",
       "translations": [
-        "Полное дублирование"
+        "Любительский (одноголосый закадровый) (Хихикающий доктор)",
+        "Любительский (многоголосый закадровый) (Синема УС)"
       ],
-      "quality": "hdtv",
-      "translation": "Полное дублирование",
-      "update": "2017-01-27 13:08:50",
+      "quality": "dvdrip",
+      "translation": "Любительский (одноголосый закадровый) (Хихикающий доктор)",
+      "update": "2017-02-02 10:30:56",
       "iframe_src": ""
     },
     {
-      "id": 9195,
-      "title": "Замуж любой ценой",
-      "kp_id": "846507",
-      "imdb_id": "tt3908634",
+      "id": 5020,
+      "title": "Детство лидера",
+      "kp_id": "750241",
+      "imdb_id": "tt2815902",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-01-25 15:51:49",
-      "orig_title": "With This Ring",
-      "year": "2015-01-24",
+      "add": "2016-09-04 13:05:42",
+      "orig_title": "The Childhood of a Leader",
+      "year": "2015-09-05",
       "translations": [
+        "Любительский (многоголосый закадровый) (Студия Пиратского Дубляжа)",
         "Профессиональный (многоголосый закадровый) (iTunes)"
       ],
       "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый) (iTunes)",
-      "update": "2017-01-27 13:04:47",
-      "iframe_src": ""
-    },
-    {
-      "id": 9194,
-      "title": "Флинстоуны: Борцы каменного века",
-      "kp_id": "770781",
-      "imdb_id": "tt2948202",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-01-25 15:50:43",
-      "orig_title": "The Flintstones & WWE: Stone Age Smackdown",
-      "year": "2015-03-10",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2017-01-27 13:03:21",
-      "iframe_src": ""
-    },
-    {
-      "id": 9193,
-      "title": "LEGO супергерои DC: Лига справедливости против Лиги Бизарро",
-      "kp_id": "878380",
-      "imdb_id": "tt4189260",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-01-25 15:49:28",
-      "orig_title": "Lego DC Comics Super Heroes: Justice League vs. Bizarro League",
-      "year": "2015-01-28",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2017-01-27 13:01:54",
-      "iframe_src": ""
-    },
-    {
-      "id": 9192,
-      "title": "В блюзе только Бесси",
-      "kp_id": "847174",
-      "imdb_id": "tt3704352",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-01-25 15:48:06",
-      "orig_title": "Bessie",
-      "year": "2015-05-16",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (Amedia)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый) (Amedia)",
-      "update": "2017-01-27 12:59:58",
-      "iframe_src": ""
-    },
-    {
-      "id": 8301,
-      "title": "Ёлки 5",
-      "kp_id": "893500",
-      "imdb_id": "tt5840988",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-12-23 10:03:06",
-      "orig_title": "Yolki 5",
-      "year": "2016-12-23",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2017-01-27 13:06:49",
+      "translation": "Любительский (многоголосый закадровый) (Студия Пиратского Дубляжа)",
+      "update": "2017-02-03 06:06:19",
       "iframe_src": ""
     }
   ]

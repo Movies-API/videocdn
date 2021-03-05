@@ -1,363 +1,363 @@
 {
   "data": [
     {
-      "id": 3458,
-      "title": "Дневники нимфоманки",
-      "kp_id": "428816",
-      "imdb_id": "tt1111890",
+      "id": 3582,
+      "title": "История чужой любви",
+      "kp_id": "311732",
+      "imdb_id": "tt1024942",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-06-28 15:45:00",
-      "orig_title": "Diario de una ninfómana",
-      "year": "2008-10-17",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-06-29 05:29:23",
-      "iframe_src": ""
-    },
-    {
-      "id": 3457,
-      "title": "Q: Загадка женщины",
-      "kp_id": "595937",
-      "imdb_id": "tt1879030",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-06-28 15:41:22",
-      "orig_title": "Q",
-      "year": "2011-09-14",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-06-29 05:36:52",
-      "iframe_src": ""
-    },
-    {
-      "id": 3456,
-      "title": "Частные уроки",
-      "kp_id": "812397",
-      "imdb_id": "tt3985604",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-06-28 15:37:05",
-      "orig_title": "Hwaryeonhan oechul",
-      "year": "2013-12-05",
-      "translations": [
-        "Любительский (многоголосый закадровый)"
-      ],
-      "quality": "hdtv",
-      "translation": "Любительский (многоголосый закадровый)",
-      "update": "2016-06-29 05:41:06",
-      "iframe_src": ""
-    },
-    {
-      "id": 3455,
-      "title": "9 песен",
-      "kp_id": "86198",
-      "imdb_id": "tt0411705",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-06-28 15:31:02",
-      "orig_title": "9 Songs",
-      "year": "2004-05-16",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-06-29 05:54:59",
-      "iframe_src": ""
-    },
-    {
-      "id": 3454,
-      "title": "Под подозрением",
-      "kp_id": "7600",
-      "imdb_id": "tt0105691",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-06-28 15:28:31",
-      "orig_title": "Under Suspicion",
-      "year": "1991-09-27",
+      "add": "2016-07-01 08:29:01",
+      "orig_title": "Kærlighed på film",
+      "year": "2007-08-24",
       "translations": [
         "Профессиональный (двухголосый закадровый)"
       ],
       "quality": "bd",
       "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2016-06-29 05:57:41",
+      "update": "2016-07-01 12:34:38",
       "iframe_src": ""
     },
     {
-      "id": 3453,
-      "title": "Другой мужчина",
-      "kp_id": "279602",
-      "imdb_id": "tt0974613",
+      "id": 3580,
+      "title": "Самоубийцы: История любви",
+      "kp_id": "179084",
+      "imdb_id": "tt0477139",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-06-28 15:27:04",
-      "orig_title": "The Other Man",
-      "year": "2008-09-07",
+      "add": "2016-07-01 08:25:45",
+      "orig_title": "Wristcutters: A Love Story",
+      "year": "2006-01-24",
       "translations": [
-        "Профессиональный (многоголосый закадровый)"
+        "Профессиональный (двухголосый закадровый)"
       ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-06-29 05:59:52",
+      "quality": "webdl",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2016-07-01 12:33:21",
       "iframe_src": ""
     },
     {
-      "id": 3452,
-      "title": "Реальная белка",
-      "kp_id": "579689",
-      "imdb_id": "tt1821658",
+      "id": 3565,
+      "title": "Чeтвёртый вид",
+      "kp_id": "410267",
+      "imdb_id": "tt1220198",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-06-28 15:25:21",
-      "orig_title": "The Nut Job",
-      "year": "2014-01-11",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2016-06-29 06:01:29",
-      "iframe_src": ""
-    },
-    {
-      "id": 3451,
-      "title": "Призрак дома на холме",
-      "kp_id": "7094",
-      "imdb_id": "tt0171363",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-06-28 15:23:54",
-      "orig_title": "The Haunting",
-      "year": "1999-07-20",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "dvhs",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-06-29 06:04:25",
-      "iframe_src": ""
-    },
-    {
-      "id": 3432,
-      "title": "Отходная молитва",
-      "kp_id": "7604",
-      "imdb_id": "tt0093771",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-06-28 14:55:08",
-      "orig_title": "A Prayer for the Dying",
-      "year": "1987-05-13",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-06-29 06:11:35",
-      "iframe_src": ""
-    },
-    {
-      "id": 3431,
-      "title": "Великая иллюзия",
-      "kp_id": "473",
-      "imdb_id": "tt0028950",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-06-28 12:20:58",
-      "orig_title": "La grande illusion",
-      "year": "1937-06-04",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-06-28 15:36:35",
-      "iframe_src": ""
-    },
-    {
-      "id": 3430,
-      "title": "Дурная слава",
-      "kp_id": "419",
-      "imdb_id": "tt0038787",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-06-28 12:20:04",
-      "orig_title": "Notorious",
-      "year": "1946-08-15",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-06-28 15:50:34",
-      "iframe_src": ""
-    },
-    {
-      "id": 3429,
-      "title": "Плата за страх",
-      "kp_id": "7727",
-      "imdb_id": "tt0046268",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-06-28 12:19:16",
-      "orig_title": "Le salaire de la peur",
-      "year": "1953-04-22",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-06-29 06:35:14",
-      "iframe_src": ""
-    },
-    {
-      "id": 3428,
-      "title": "Агирре, Гнев Божий",
-      "kp_id": "8206",
-      "imdb_id": "tt0068182",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-06-28 12:18:21",
-      "orig_title": "Aguirre, der Zorn Gottes",
-      "year": "1972-12-29",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-06-28 15:39:42",
-      "iframe_src": ""
-    },
-    {
-      "id": 3421,
-      "title": "Ровно в полдень",
-      "kp_id": "401",
-      "imdb_id": "tt0044706",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-06-28 12:03:35",
-      "orig_title": "High Noon",
-      "year": "1952-07-07",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-06-29 07:08:14",
-      "iframe_src": ""
-    },
-    {
-      "id": 3420,
-      "title": "Сокровища Сьерра Мадре",
-      "kp_id": "393",
-      "imdb_id": "tt0040897",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-06-28 12:02:33",
-      "orig_title": "The Treasure of the Sierra Madre",
-      "year": "1948-01-24",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-06-29 07:05:46",
-      "iframe_src": ""
-    },
-    {
-      "id": 3417,
-      "title": "Токийская повесть",
-      "kp_id": "79836",
-      "imdb_id": "tt0046438",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-06-28 11:46:53",
-      "orig_title": "Tôkyô monogatari",
-      "year": "1953-11-03",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-06-28 15:41:14",
-      "iframe_src": ""
-    },
-    {
-      "id": 3386,
-      "title": "Доктор Стрейнджлав, или Как я научился не волноваться и полюбил атомную бомбу",
-      "kp_id": "334",
-      "imdb_id": "tt0057012",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-06-27 19:20:30",
-      "orig_title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
-      "year": "1964-01-29",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-06-28 15:50:54",
-      "iframe_src": ""
-    },
-    {
-      "id": 3338,
-      "title": "Телеведущий: Легенда о Роне Бургунди",
-      "kp_id": "23956",
-      "imdb_id": "tt0357413",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-06-23 14:04:46",
-      "orig_title": "Anchorman: The Legend of Ron Burgundy",
-      "year": "2004-06-24",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "hddvd",
-      "translation": "Полное дублирование",
-      "update": "2016-06-29 06:50:41",
-      "iframe_src": ""
-    },
-    {
-      "id": 3269,
-      "title": "Прибавьте Громкость",
-      "kp_id": "5190",
-      "imdb_id": "tt0100436",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-06-20 08:31:53",
-      "orig_title": "Pump Up The Volume",
-      "year": "1990-08-22",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "hdtv",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2016-06-29 06:39:07",
-      "iframe_src": ""
-    },
-    {
-      "id": 103,
-      "title": "Миллионер из трущоб",
-      "kp_id": "413362",
-      "imdb_id": "tt1010048",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-02-12 21:21:36",
-      "orig_title": "Slumdog Millionaire",
-      "year": "2008-08-30",
+      "add": "2016-07-01 04:21:33",
+      "orig_title": "The Fourth Kind",
+      "year": "2009-10-24",
       "translations": [
         "Полное дублирование"
       ],
       "quality": "bd",
       "translation": "Полное дублирование",
-      "update": "2016-06-29 06:42:07",
+      "update": "2016-07-01 08:10:52",
+      "iframe_src": ""
+    },
+    {
+      "id": 3563,
+      "title": "Большой всплеск",
+      "kp_id": "623717",
+      "imdb_id": "tt2056771",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-07-01 04:18:41",
+      "orig_title": "A Bigger Splash",
+      "year": "2015-09-06",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2016-07-01 08:06:18",
+      "iframe_src": ""
+    },
+    {
+      "id": 3562,
+      "title": "Убойные каникулы",
+      "kp_id": "485261",
+      "imdb_id": "tt1465522",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-06-30 19:40:29",
+      "orig_title": "Tucker and Dale vs Evil",
+      "year": "2010-01-22",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2016-07-01 08:13:09",
+      "iframe_src": ""
+    },
+    {
+      "id": 3561,
+      "title": "Явление",
+      "kp_id": "279600",
+      "imdb_id": "tt0949731",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-06-30 19:38:31",
+      "orig_title": "The Happening",
+      "year": "2008-06-10",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2016-07-01 08:17:09",
+      "iframe_src": ""
+    },
+    {
+      "id": 3560,
+      "title": "Стыд",
+      "kp_id": "569153",
+      "imdb_id": "tt1723811",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-06-30 19:36:35",
+      "orig_title": "Shame",
+      "year": "2011-09-04",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2016-07-01 08:19:50",
+      "iframe_src": ""
+    },
+    {
+      "id": 3559,
+      "title": "Прекрасная пленница",
+      "kp_id": "37256",
+      "imdb_id": "tt0085226",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-06-30 19:34:14",
+      "orig_title": "La belle captive",
+      "year": "1983-02-16",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-07-01 08:22:00",
+      "iframe_src": ""
+    },
+    {
+      "id": 3558,
+      "title": "Последний легион",
+      "kp_id": "179292",
+      "imdb_id": "tt0462396",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-06-30 19:31:03",
+      "orig_title": "The Last Legion",
+      "year": "2007-08-02",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2016-07-01 08:25:38",
+      "iframe_src": ""
+    },
+    {
+      "id": 3557,
+      "title": "Погребенный заживо",
+      "kp_id": "470656",
+      "imdb_id": "tt1462758",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-06-30 19:28:32",
+      "orig_title": "Buried",
+      "year": "2010-01-23",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2016-07-01 08:27:51",
+      "iframe_src": ""
+    },
+    {
+      "id": 3556,
+      "title": "Носители",
+      "kp_id": "276446",
+      "imdb_id": "tt0806203",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-06-30 19:26:36",
+      "orig_title": "Carriers",
+      "year": "2009-08-18",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2016-07-01 09:44:30",
+      "iframe_src": ""
+    },
+    {
+      "id": 3555,
+      "title": "Космический дозор. Эпизод 1",
+      "kp_id": "32894",
+      "imdb_id": "tt0349047",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-06-30 19:24:50",
+      "orig_title": "(T)Raumschiff Surprise - Periode 1",
+      "year": "2004-07-22",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2016-07-01 09:48:12",
+      "iframe_src": ""
+    },
+    {
+      "id": 3554,
+      "title": "Чернильное сердце",
+      "kp_id": "261097",
+      "imdb_id": "tt0494238",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-06-30 19:22:47",
+      "orig_title": "Inkheart",
+      "year": "2008-12-11",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2016-07-01 09:50:22",
+      "iframe_src": ""
+    },
+    {
+      "id": 3553,
+      "title": "Я достану тебя, ублюдок",
+      "kp_id": "13086",
+      "imdb_id": "tt0095348",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-06-30 19:20:55",
+      "orig_title": "I'm Gonna Git You Sucka",
+      "year": "1988-12-16",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-07-01 09:52:52",
+      "iframe_src": ""
+    },
+    {
+      "id": 3552,
+      "title": "Глухой пролёт",
+      "kp_id": "94150",
+      "imdb_id": "tt0388139",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-06-30 19:19:14",
+      "orig_title": "It's All Gone Pete Tong",
+      "year": "2004-09-12",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-07-01 09:55:18",
+      "iframe_src": ""
+    },
+    {
+      "id": 3551,
+      "title": "Гангстеры",
+      "kp_id": "4178",
+      "imdb_id": "tt0102460",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-06-30 19:17:19",
+      "orig_title": "Mobsters",
+      "year": "1991-07-26",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2016-07-01 09:58:16",
+      "iframe_src": ""
+    },
+    {
+      "id": 3550,
+      "title": "Эпидемия",
+      "kp_id": "4517",
+      "imdb_id": "tt0114069",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-06-30 19:15:35",
+      "orig_title": "Outbreak",
+      "year": "1995-03-06",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2016-07-01 10:06:23",
+      "iframe_src": ""
+    },
+    {
+      "id": 3548,
+      "title": "Мертвая тишина",
+      "kp_id": "143139",
+      "imdb_id": "tt0455760",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-06-30 19:11:49",
+      "orig_title": "Dead Silence",
+      "year": "2007-03-16",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-07-01 10:01:55",
+      "iframe_src": ""
+    },
+    {
+      "id": 3547,
+      "title": "Батарейки не прилагаются",
+      "kp_id": "7109",
+      "imdb_id": "tt0092494",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-06-30 19:09:40",
+      "orig_title": "*batteries not included",
+      "year": "1987-12-18",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2016-07-01 10:00:13",
+      "iframe_src": ""
+    },
+    {
+      "id": 3541,
+      "title": "Любовь моя",
+      "kp_id": "201512",
+      "imdb_id": "tt0480919",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-06-30 18:55:10",
+      "orig_title": "Monamour",
+      "year": "2006-03-08",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2016-07-01 11:18:08",
       "iframe_src": ""
     }
   ]

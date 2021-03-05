@@ -1,367 +1,365 @@
 {
   "data": [
     {
-      "id": 34444,
-      "title": "Вавилон 5: Третье пространство",
-      "kp_id": "93924",
-      "imdb_id": "tt0121804",
+      "id": 34561,
+      "title": "Участь Мартина",
+      "kp_id": "1298964",
+      "imdb_id": "tt10851684",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-12-25 09:42:34",
-      "orig_title": "Babylon 5: Thirdspace",
-      "year": "1998-07-18",
+      "add": "2019-12-28 23:17:39",
+      "orig_title": "Martin's Close",
+      "year": "2019-12-11",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-12-29 06:49:45",
+      "iframe_src": ""
+    },
+    {
+      "id": 34549,
+      "title": "Появление",
+      "kp_id": "1031159",
+      "imdb_id": "tt6032704",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-12-28 12:28:33",
+      "orig_title": "Apparition",
+      "year": "2019-12-27",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-12-28 14:25:47",
+      "iframe_src": ""
+    },
+    {
+      "id": 34548,
+      "title": "Боб и Мэрис",
+      "kp_id": "1120999",
+      "imdb_id": "tt8069436",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-12-28 12:22:49",
+      "orig_title": "Bob & Marys",
+      "year": "2018-04-05",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-12-28 14:25:10",
+      "iframe_src": ""
+    },
+    {
+      "id": 34547,
+      "title": "Ночь у Мод",
+      "kp_id": "23889",
+      "imdb_id": "tt0064612",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-12-28 09:27:41",
+      "orig_title": "Ma nuit chez Maud",
+      "year": "1969-05-15",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "dvdrip",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-12-25 12:20:31",
+      "update": "2019-12-28 16:43:30",
       "iframe_src": ""
     },
     {
-      "id": 34443,
-      "title": "Тролль в Центральном парке",
-      "kp_id": "1836",
-      "imdb_id": "tt0108395",
+      "id": 34546,
+      "title": "Золото",
+      "kp_id": "790502",
+      "imdb_id": "tt3134422",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-12-25 09:38:47",
-      "orig_title": "A Troll in Central Park",
-      "year": "1994-07-13",
+      "add": "2019-12-28 09:21:48",
+      "orig_title": "Gold",
+      "year": "2014-10-10",
       "translations": [
-        "Полное дублирование"
+        "Original (English)"
       ],
       "quality": "dvdrip",
-      "translation": "Полное дублирование",
-      "update": "2019-12-25 13:00:39",
+      "translation": "Original (English)",
+      "update": "2019-12-28 16:44:29",
       "iframe_src": ""
     },
     {
-      "id": 34436,
-      "title": "Рождественское чудо для Меган",
-      "kp_id": "1093993",
-      "imdb_id": "tt6594244",
+      "id": 34544,
+      "title": "Уличный боец",
+      "kp_id": "684620",
+      "imdb_id": "tt2186426",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-12-25 05:23:16",
-      "orig_title": "Megan's Christmas Miracle",
-      "year": "2018-10-10",
+      "add": "2019-12-28 09:18:07",
+      "orig_title": "Arena of the Street Fighter",
+      "year": "2013-06-06",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
+        "Профессиональный (многоголосый закадровый)"
       ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-12-25 08:09:00",
+      "quality": "hdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-12-28 16:47:40",
       "iframe_src": ""
     },
     {
-      "id": 34435,
-      "title": "Рождество в Монтане",
-      "kp_id": "1320606",
-      "imdb_id": "tt11151688",
+      "id": 34543,
+      "title": "Клип",
+      "kp_id": "642622",
+      "imdb_id": "tt1900908",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-12-25 05:21:21",
-      "orig_title": "Christmas in Montana",
-      "year": "2019-12-14",
+      "add": "2019-12-28 09:16:20",
+      "orig_title": "Klip",
+      "year": "2012-01-27",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "hdtv",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-12-25 06:28:34",
-      "iframe_src": ""
-    },
-    {
-      "id": 34426,
-      "title": "Уиджи: начало",
-      "kp_id": "954870",
-      "imdb_id": "tt5232468",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-12-24 19:53:51",
-      "orig_title": "Ouijageist",
-      "year": "2018-05-07",
-      "translations": [
-        "Любительский (многоголосый закадровый) (AlphaProject)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (AlphaProject)",
-      "update": "2019-12-25 04:28:59",
-      "iframe_src": ""
-    },
-    {
-      "id": 34425,
-      "title": "Простая свадьба",
-      "kp_id": "1079717",
-      "imdb_id": "tt6328242",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-12-24 19:52:41",
-      "orig_title": "A Simple Wedding",
-      "year": "2018-09-21",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-12-25 04:27:44",
-      "iframe_src": ""
-    },
-    {
-      "id": 34424,
-      "title": "Мы знали друг друга",
-      "kp_id": "1075970",
-      "imdb_id": "tt7390126",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-12-24 19:50:15",
-      "orig_title": "We Used To Know Each Other",
-      "year": "2019-03-05",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-12-25 04:26:50",
-      "iframe_src": ""
-    },
-    {
-      "id": 34423,
-      "title": "Девушка мечты",
-      "kp_id": "1212652",
-      "imdb_id": "tt9248940",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-12-24 19:48:54",
-      "orig_title": "Dream Girl",
-      "year": "2019-09-13",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-12-25 06:29:02",
-      "iframe_src": ""
-    },
-    {
-      "id": 34422,
-      "title": "Идущий по линии 2: Теневой агент",
-      "kp_id": "1248486",
-      "imdb_id": "tt10295602",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-12-24 19:45:42",
-      "orig_title": "Shi tu xing zhe 2: Die ying xing dong",
-      "year": "2019-08-04",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
+        "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-12-24 21:26:05",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-12-28 16:59:51",
       "iframe_src": ""
     },
     {
-      "id": 34419,
-      "title": "Подводное чудовище 2",
-      "kp_id": "1263769",
-      "imdb_id": "tt10324120",
+      "id": 34542,
+      "title": "Адский дождь",
+      "kp_id": "373094",
+      "imdb_id": "tt1029097",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-12-24 13:52:52",
-      "orig_title": "Shen hai ju yao 2",
-      "year": "2018-09-19",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Колобок)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Колобок)",
-      "update": "2019-12-24 18:59:18",
-      "iframe_src": ""
-    },
-    {
-      "id": 34418,
-      "title": "Рождественский Купидон",
-      "kp_id": "557689",
-      "imdb_id": "tt1699746",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-12-24 13:50:48",
-      "orig_title": "Christmas Cupid",
-      "year": "2010-12-12",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "dvdrip",
-      "translation": "Полное дублирование",
-      "update": "2019-12-24 19:00:59",
-      "iframe_src": ""
-    },
-    {
-      "id": 34417,
-      "title": "Команда",
-      "kp_id": "3759",
-      "imdb_id": "tt0198386",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-12-24 13:48:55",
-      "orig_title": "The Crew",
-      "year": "2000-08-21",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2019-12-24 19:01:39",
-      "iframe_src": ""
-    },
-    {
-      "id": 34416,
-      "title": "Запретная планета",
-      "kp_id": "8367",
-      "imdb_id": "tt0049223",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-12-24 13:44:27",
-      "orig_title": "Forbidden Planet",
-      "year": "1956-03-23",
-      "translations": [
-        "Профессиональный (двухголосый закадровый) (Film Prestige)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (двухголосый закадровый) (Film Prestige)",
-      "update": "2019-12-24 19:03:09",
-      "iframe_src": ""
-    },
-    {
-      "id": 34415,
-      "title": "Ожидание",
-      "kp_id": "841578",
-      "imdb_id": "tt3715122",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-12-24 13:41:13",
-      "orig_title": "L'attesa",
-      "year": "2015-09-05",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Parovoz Production)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Любительский (многоголосый закадровый) (Parovoz Production)",
-      "update": "2019-12-24 19:04:23",
-      "iframe_src": ""
-    },
-    {
-      "id": 34414,
-      "title": "Телохранители и убийцы",
-      "kp_id": "454190",
-      "imdb_id": "tt1403130",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-12-24 09:14:39",
-      "orig_title": "Shi yue wei cheng",
-      "year": "2009-12-18",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2019-12-24 19:23:44",
-      "iframe_src": ""
-    },
-    {
-      "id": 32896,
-      "title": "Звериная ярость",
-      "kp_id": "1095690",
-      "imdb_id": "tt7394816",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-11-11 07:57:34",
-      "orig_title": "Primal",
-      "year": "2019-11-05",
-      "translations": [
-        "Любительский (многоголосый закадровый) (AlphaProject)",
-        "Полное дублирование (iTunes)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (AlphaProject)",
-      "update": "2019-12-25 09:41:11",
-      "iframe_src": ""
-    },
-    {
-      "id": 30683,
-      "title": "Карантин 2: Терминал",
-      "kp_id": "554179",
-      "imdb_id": "tt1699231",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-09-08 11:50:29",
-      "orig_title": "Quarantine 2: Terminal",
-      "year": "2011-01-27",
+      "add": "2019-12-28 09:14:32",
+      "orig_title": "Anna's Storm",
+      "year": "2007-06-02",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "dvdrip",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-12-24 19:02:28",
+      "update": "2019-12-28 17:00:58",
       "iframe_src": ""
     },
     {
-      "id": 30022,
-      "title": "Поменяться местами",
-      "kp_id": "1117379",
-      "imdb_id": "tt8265928",
+      "id": 34541,
+      "title": "Абсолютный ноль",
+      "kp_id": "258628",
+      "imdb_id": "tt0451998",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-08-15 10:55:16",
-      "orig_title": "Mon inconnue",
-      "year": "2019-01-18",
+      "add": "2019-12-28 09:13:00",
+      "orig_title": "Absolute Zero",
+      "year": "2006-03-01",
       "translations": [
-        "Полное дублирование (iTunes)"
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-12-28 17:01:38",
+      "iframe_src": ""
+    },
+    {
+      "id": 34540,
+      "title": "Земля под ударом",
+      "kp_id": "300114",
+      "imdb_id": "tt0491764",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-12-28 09:09:50",
+      "orig_title": "Earthstorm",
+      "year": "2006-06-01",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-12-28 17:02:22",
+      "iframe_src": ""
+    },
+    {
+      "id": 34539,
+      "title": "Голод",
+      "kp_id": "309097",
+      "imdb_id": "tt0986233",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-12-28 07:04:37",
+      "orig_title": "Hunger",
+      "year": "2008-05-15",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Сербин Юрий)"
+      ],
+      "quality": "bd",
+      "translation": "Авторский (одноголосый закадровый) (Сербин Юрий)",
+      "update": "2019-12-29 19:23:07",
+      "iframe_src": ""
+    },
+    {
+      "id": 34538,
+      "title": "Ускользающая любовь",
+      "kp_id": "18491",
+      "imdb_id": "tt0078771",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-12-28 07:02:26",
+      "orig_title": "L'amour en fuite",
+      "year": "1979-01-24",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (Кармен Видео)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый) (Кармен Видео)",
+      "update": "2019-12-29 19:24:23",
+      "iframe_src": ""
+    },
+    {
+      "id": 34537,
+      "title": "Сын Каина",
+      "kp_id": "643185",
+      "imdb_id": "tt2090497",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-12-28 07:00:23",
+      "orig_title": "Fill de Caín",
+      "year": "2013-04-22",
+      "translations": [
+        "Любительский (одноголосый закадровый) (Хихикающий доктор)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (одноголосый закадровый) (Хихикающий доктор)",
+      "update": "2019-12-29 19:24:43",
+      "iframe_src": ""
+    },
+    {
+      "id": 34536,
+      "title": "Хиросима, моя любовь",
+      "kp_id": "80754",
+      "imdb_id": "tt0052893",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-12-28 06:58:23",
+      "orig_title": "Hiroshima mon amour",
+      "year": "1959-05-08",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2019-12-29 19:25:20",
+      "iframe_src": ""
+    },
+    {
+      "id": 34534,
+      "title": "Шельма",
+      "kp_id": "767121",
+      "imdb_id": "tt3553928",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-12-27 21:55:27",
+      "orig_title": "Shelma",
+      "year": "1996-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "tv",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-12-29 19:26:09",
+      "iframe_src": ""
+    },
+    {
+      "id": 34473,
+      "title": "Мальчик-мясник",
+      "kp_id": "3455",
+      "imdb_id": "tt0118804",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-12-26 09:01:04",
+      "orig_title": "The Butcher Boy",
+      "year": "1997-07-13",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Санаев Павел)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Авторский (одноголосый закадровый) (Санаев Павел)",
+      "update": "2019-12-28 06:17:37",
+      "iframe_src": ""
+    },
+    {
+      "id": 34471,
+      "title": "Проклятие 2",
+      "kp_id": "60829",
+      "imdb_id": "tt0330501",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-12-26 08:52:25",
+      "orig_title": "Ju-on 2",
+      "year": "2000-03-25",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-12-28 06:15:16",
+      "iframe_src": ""
+    },
+    {
+      "id": 34470,
+      "title": "Фотолаборатория",
+      "kp_id": "813565",
+      "imdb_id": "tt1876283",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-12-26 08:47:28",
+      "orig_title": "Darkroom",
+      "year": "2014-01-28",
+      "translations": [
+        "Любительский (двухголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (двухголосый закадровый)",
+      "update": "2019-12-28 06:16:43",
+      "iframe_src": ""
+    },
+    {
+      "id": 34335,
+      "title": "До Нового года осталось…",
+      "kp_id": "1187890",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-12-21 12:24:59",
+      "orig_title": "До Нового года осталось…",
+      "year": "2019-12-19",
+      "translations": [
+        "Оригинальная дорожка"
       ],
       "quality": "webdl",
-      "translation": "Полное дублирование (iTunes)",
-      "update": "2019-12-25 09:40:38",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-12-28 14:56:49",
       "iframe_src": ""
     },
     {
-      "id": 26703,
-      "title": "Гори, гори ясно",
-      "kp_id": "1199596",
-      "imdb_id": "tt7752126",
+      "id": 1359,
+      "title": "Крепкий орешек 4.0",
+      "kp_id": "9544",
+      "imdb_id": "tt0337978",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-05-19 08:43:17",
-      "orig_title": "Brightburn",
-      "year": "2019-05-09",
+      "add": "2016-04-20 22:27:05",
+      "orig_title": "Live Free or Die Hard",
+      "year": "2007-06-12",
       "translations": [
         "Полное дублирование",
-        "Профессиональный (многоголосый закадровый) (СВ-Студия)",
         "Original (English)",
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
-      ],
-      "quality": "webdl",
-      "translation": "Полное дублирование",
-      "update": "2019-12-25 12:24:13",
-      "iframe_src": ""
-    },
-    {
-      "id": 13776,
-      "title": "6 стволов",
-      "kp_id": "488091",
-      "imdb_id": "tt1558576",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-10-08 09:57:26",
-      "orig_title": "6 Guns",
-      "year": "2010-03-30",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
+        "Профессиональный (многоголосый закадровый) (Первый канал | ОРТ)"
       ],
       "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-12-24 18:58:05",
+      "translation": "Полное дублирование",
+      "update": "2019-12-28 16:42:42",
       "iframe_src": ""
     }
   ]

@@ -1,364 +1,366 @@
 {
   "data": [
     {
-      "id": 32221,
-      "title": "Помогите! Мой частный детектив - идиот!",
-      "kp_id": "917982",
-      "imdb_id": "tt4789670",
+      "id": 32200,
+      "title": "Москва на Гудзоне",
+      "kp_id": "20099",
+      "imdb_id": "tt0087747",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-10-21 21:26:28",
-      "orig_title": "Help! My Gumshoe's an Idiot!",
-      "year": "2016-02-01",
+      "add": "2019-10-21 19:06:14",
+      "orig_title": "Moscow on the Hudson",
+      "year": "1984-04-06",
       "translations": [
-        "Профессиональный (многоголосый закадровый) (AlphaProject)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый) (AlphaProject)",
-      "update": "2019-10-23 05:09:01",
-      "iframe_src": ""
-    },
-    {
-      "id": 32220,
-      "title": "Поздний арест",
-      "kp_id": "1161564",
-      "imdb_id": "tt6034164",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-21 21:04:43",
-      "orig_title": "Arrest Letter",
-      "year": "2017-06-25",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-10-23 05:08:06",
-      "iframe_src": ""
-    },
-    {
-      "id": 32215,
-      "title": "Верь",
-      "kp_id": null,
-      "imdb_id": "tt7399140",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-21 20:05:33",
-      "orig_title": "Believe",
-      "year": "2019-02-12",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (AlphaProject)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый) (AlphaProject)",
-      "update": "2019-10-22 20:06:55",
-      "iframe_src": ""
-    },
-    {
-      "id": 32205,
-      "title": "Раз-два-три — вперёд!",
-      "kp_id": "969827",
-      "imdb_id": "tt5571230",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-21 19:34:40",
-      "orig_title": "En-to-tre-nu!",
-      "year": "2016-05-04",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (Культура)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый) (Культура)",
-      "update": "2019-10-23 05:10:06",
-      "iframe_src": ""
-    },
-    {
-      "id": 32199,
-      "title": "Линейная история",
-      "kp_id": "1004173",
-      "imdb_id": "tt5981110",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-21 18:50:12",
-      "orig_title": "Once Upon a Line",
-      "year": "2016-11-10",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-10-23 05:11:23",
-      "iframe_src": ""
-    },
-    {
-      "id": 32192,
-      "title": "Жёлтый — хит сезона",
-      "kp_id": "1226597",
-      "imdb_id": "tt9227936",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-21 17:50:20",
-      "orig_title": "Yellow is the New Black",
-      "year": "2018-11-22",
-      "translations": [
-        "Авторский (одноголосый закадровый) (Воронцов Владимир | Доцент)"
+        "Профессиональный (многоголосый закадровый) (Первый канал | ОРТ)"
       ],
       "quality": "bd",
-      "translation": "Авторский (одноголосый закадровый) (Воронцов Владимир | Доцент)",
-      "update": "2019-10-23 05:06:45",
+      "translation": "Профессиональный (многоголосый закадровый) (Первый канал | ОРТ)",
+      "update": "2019-10-24 11:12:47",
       "iframe_src": ""
     },
     {
-      "id": 32155,
-      "title": "Никаких детей, малыш!",
-      "kp_id": "984709",
-      "imdb_id": "tt5639176",
+      "id": 32198,
+      "title": "Прощание с дураками",
+      "kp_id": "507509",
+      "imdb_id": "tt1634055",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-10-20 15:51:20",
-      "orig_title": "Ich will (k)ein Kind von Dir",
-      "year": "2016-11-03",
+      "add": "2019-10-21 18:31:31",
+      "orig_title": "A Farewell to Fools",
+      "year": "2013-03-15",
       "translations": [
-        "Профессиональный (многоголосый закадровый) (FOX)"
-      ],
-      "quality": "hdtv",
-      "translation": "Профессиональный (многоголосый закадровый) (FOX)",
-      "update": "2019-10-23 05:12:02",
-      "iframe_src": ""
-    },
-    {
-      "id": 32105,
-      "title": "Рожденные в Китае",
-      "kp_id": "894038",
-      "imdb_id": "tt4629266",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-20 12:56:03",
-      "orig_title": "Born in China",
-      "year": "2016-08-05",
-      "translations": [
-        "Любительский (одноголосый закадровый)"
+        "Любительский (одноголосый закадровый) (PashaUp | Морозов Павел)"
       ],
       "quality": "bd",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2019-10-23 05:13:35",
+      "translation": "Любительский (одноголосый закадровый) (PashaUp | Морозов Павел)",
+      "update": "2019-10-24 11:10:04",
       "iframe_src": ""
     },
     {
-      "id": 32032,
-      "title": "Влюбленные психопаты",
-      "kp_id": "62417",
-      "imdb_id": "tt0093800",
+      "id": 32197,
+      "title": "Психоаналитик президента",
+      "kp_id": "14605",
+      "imdb_id": "tt0062153",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-10-18 18:53:56",
-      "orig_title": "Psychos in Love",
-      "year": "1987-05-01",
+      "add": "2019-10-21 18:21:21",
+      "orig_title": "The President's Analyst",
+      "year": "1967-12-21",
       "translations": [
-        "Любительский (одноголосый закадровый)"
+        "Профессиональный (одноголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (одноголосый закадровый)",
+      "update": "2019-10-24 11:09:10",
+      "iframe_src": ""
+    },
+    {
+      "id": 32196,
+      "title": "Розовая лошадь",
+      "kp_id": "26323",
+      "imdb_id": "tt0039768",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-21 18:15:07",
+      "orig_title": "Ride the Pink Horse",
+      "year": "1947-10-08",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (СТС)"
       ],
       "quality": "bd",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2019-10-23 05:44:26",
+      "translation": "Профессиональный (многоголосый закадровый) (СТС)",
+      "update": "2019-10-24 11:07:27",
       "iframe_src": ""
     },
     {
-      "id": 32029,
-      "title": "Влюбленная парочка",
-      "kp_id": "899231",
-      "imdb_id": "tt4446258",
+      "id": 32194,
+      "title": "Сердце воина",
+      "kp_id": "437515",
+      "imdb_id": "tt1341340",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-10-18 18:50:57",
-      "orig_title": "Romeo Juliet",
-      "year": "2015-06-11",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (SDI Media)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый) (SDI Media)",
-      "update": "2019-10-23 05:43:20",
-      "iframe_src": ""
-    },
-    {
-      "id": 32026,
-      "title": "Пекло",
-      "kp_id": "53213",
-      "imdb_id": "tt0300523",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-18 18:42:47",
-      "orig_title": "Sueurs",
-      "year": "2002-07-24",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "dvdrip",
-      "translation": "Полное дублирование",
-      "update": "2019-10-23 05:27:56",
-      "iframe_src": ""
-    },
-    {
-      "id": 32025,
-      "title": "Тайные агенты",
-      "kp_id": "3706",
-      "imdb_id": "tt0356336",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-18 18:41:40",
-      "orig_title": "Agents secrets",
-      "year": "2004-03-31",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "dvdrip",
-      "translation": "Полное дублирование",
-      "update": "2019-10-23 05:26:27",
-      "iframe_src": ""
-    },
-    {
-      "id": 32023,
-      "title": "Обреченный рейс",
-      "kp_id": "253812",
-      "imdb_id": "tt0780583",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-18 18:39:42",
-      "orig_title": "Plane Dead",
-      "year": "2007-03-21",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2019-10-23 05:25:28",
-      "iframe_src": ""
-    },
-    {
-      "id": 32022,
-      "title": "Дьявол – это женщина",
-      "kp_id": "14030",
-      "imdb_id": "tt0026276",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-18 18:38:06",
-      "orig_title": "The Devil Is a Woman",
-      "year": "1935-04-19",
+      "add": "2019-10-21 18:05:01",
+      "orig_title": "A Warrior's Heart",
+      "year": "2011-05-13",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-10-23 05:23:55",
+      "update": "2019-10-24 08:38:57",
       "iframe_src": ""
     },
     {
-      "id": 32019,
-      "title": "Обезьяна зимой",
-      "kp_id": "54363",
-      "imdb_id": "tt0056636",
+      "id": 32193,
+      "title": "Последний дракон",
+      "kp_id": "3009",
+      "imdb_id": "tt0089461",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-10-18 18:35:14",
-      "orig_title": "Un singe en hiver",
-      "year": "1962-05-11",
+      "add": "2019-10-21 18:01:40",
+      "orig_title": "The Last Dragon",
+      "year": "1985-03-22",
       "translations": [
-        "Профессиональный (многоголосый закадровый) (5-й канал СПб)"
+        "Профессиональный (многоголосый закадровый) (Первый канал | ОРТ)"
       ],
       "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый) (5-й канал СПб)",
-      "update": "2019-10-23 05:22:32",
+      "translation": "Профессиональный (многоголосый закадровый) (Первый канал | ОРТ)",
+      "update": "2019-10-24 08:37:19",
       "iframe_src": ""
     },
     {
-      "id": 32015,
-      "title": "Восхождение на Фудзияму",
-      "kp_id": "45848",
-      "imdb_id": "tt0175309",
+      "id": 32191,
+      "title": "Метиска",
+      "kp_id": "9452",
+      "imdb_id": "tt0107642",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-10-18 18:31:25",
-      "orig_title": "Voskhozhdenie na Fudziyamu",
-      "year": "1989-01-12",
+      "add": "2019-10-21 17:05:49",
+      "orig_title": "Métisse",
+      "year": "1993-08-18",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (Кинопоказ)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый) (Кинопоказ)",
+      "update": "2019-10-24 08:36:07",
+      "iframe_src": ""
+    },
+    {
+      "id": 32190,
+      "title": "Суперагент Саймон",
+      "kp_id": "25189",
+      "imdb_id": "tt0168172",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-21 16:51:05",
+      "orig_title": "Simon Sez",
+      "year": "1999-09-24",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (Первый канал | ОРТ)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый) (Первый канал | ОРТ)",
+      "update": "2019-10-24 08:35:32",
+      "iframe_src": ""
+    },
+    {
+      "id": 32185,
+      "title": "Господин Великий Новгород",
+      "kp_id": "44588",
+      "imdb_id": "tt0174705",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-20 20:40:38",
+      "orig_title": "Gospodin Velikiy Novgorod",
+      "year": "1985-04-29",
       "translations": [
         "Оригинальная дорожка"
       ],
       "quality": "sat",
       "translation": "Оригинальная дорожка",
-      "update": "2019-10-23 05:21:40",
+      "update": "2019-10-24 08:22:23",
       "iframe_src": ""
     },
     {
-      "id": 32014,
-      "title": "Влюбленная Бао Бэй",
-      "kp_id": "82701",
-      "imdb_id": "tt0415116",
+      "id": 32184,
+      "title": "Кинг Конг против Годзиллы",
+      "kp_id": "103736",
+      "imdb_id": "tt0056142",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-10-18 18:28:22",
-      "orig_title": "Lian ai zhong de Bao Bei",
-      "year": "2004-02-10",
+      "add": "2019-10-20 20:34:59",
+      "orig_title": "Kingu Kongu tai Gojira",
+      "year": "1962-08-11",
       "translations": [
-        "Любительский (одноголосый закадровый) (Береговых | Jet)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Любительский (одноголосый закадровый) (Береговых | Jet)",
-      "update": "2019-10-23 05:20:37",
-      "iframe_src": ""
-    },
-    {
-      "id": 32013,
-      "title": "Влюбленные женщины",
-      "kp_id": "17531",
-      "imdb_id": "tt0066579",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-18 18:25:42",
-      "orig_title": "Women in Love",
-      "year": "1969-11-13",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (DVD Магия)"
+        "Авторский (одноголосый закадровый) (Мудров Андрей)"
       ],
       "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый) (DVD Магия)",
-      "update": "2019-10-23 05:19:53",
+      "translation": "Авторский (одноголосый закадровый) (Мудров Андрей)",
+      "update": "2019-10-24 08:21:23",
       "iframe_src": ""
     },
     {
-      "id": 32012,
-      "title": "В раю с блондинкой",
-      "kp_id": "35997",
-      "imdb_id": "tt0112525",
+      "id": 32183,
+      "title": "Легенда о красном драконе",
+      "kp_id": "51487",
+      "imdb_id": "tt0322082",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-10-18 18:23:18",
-      "orig_title": "Blonde Heaven",
-      "year": "1995-10-06",
+      "add": "2019-10-20 20:27:57",
+      "orig_title": "Rencontre avec le dragon",
+      "year": "2003-08-06",
       "translations": [
-        "Авторский (одноголосый закадровый) (Володарский Леонид)"
+        "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "dvdrip",
-      "translation": "Авторский (одноголосый закадровый) (Володарский Леонид)",
-      "update": "2019-10-23 05:17:46",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-10-24 08:18:41",
       "iframe_src": ""
     },
     {
-      "id": 11330,
-      "title": "SEX DOLL",
-      "kp_id": "928703",
-      "imdb_id": "tt4937564",
+      "id": 32182,
+      "title": "Евгений Гришковец: Титаник",
+      "kp_id": "439973",
+      "imdb_id": null,
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-05-02 04:58:26",
-      "orig_title": "Sex Doll",
-      "year": "2016-12-07",
+      "add": "2019-10-20 19:51:29",
+      "orig_title": "Евгений Гришковец: Титаник",
+      "year": "2007-01-01",
       "translations": [
-        "Профессиональный (многоголосый закадровый) (iTunes)",
-        "Профессиональный (многоголосый закадровый) (iTunes)"
+        "Оригинальная дорожка"
       ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый) (iTunes)",
-      "update": "2019-10-23 05:29:45",
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-10-24 08:16:17",
+      "iframe_src": ""
+    },
+    {
+      "id": 32180,
+      "title": "Зло, творимое людьми",
+      "kp_id": "13580",
+      "imdb_id": "tt0087222",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-20 19:38:03",
+      "orig_title": "The Evil That Men Do",
+      "year": "1984-03-15",
+      "translations": [
+        "Профессиональный (двухголосый закадровый) (НТВ)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (двухголосый закадровый) (НТВ)",
+      "update": "2019-10-24 08:12:41",
+      "iframe_src": ""
+    },
+    {
+      "id": 32179,
+      "title": "Божественная комедия",
+      "kp_id": "50681",
+      "imdb_id": "tt0101739",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-20 19:36:52",
+      "orig_title": "A Divina Comédia",
+      "year": "1991-09-13",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Алексеев Антон)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Авторский (одноголосый закадровый) (Алексеев Антон)",
+      "update": "2019-10-24 08:11:57",
+      "iframe_src": ""
+    },
+    {
+      "id": 32178,
+      "title": "Черный мяч",
+      "kp_id": "277558",
+      "imdb_id": "tt1519271",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-20 19:35:09",
+      "orig_title": "Chernyy myach",
+      "year": "2003-09-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-10-24 08:10:57",
+      "iframe_src": ""
+    },
+    {
+      "id": 32177,
+      "title": "Месть – искусство",
+      "kp_id": "532881",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-20 19:34:01",
+      "orig_title": "Месть – искусство",
+      "year": "2007-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvb",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-10-24 08:10:24",
+      "iframe_src": ""
+    },
+    {
+      "id": 32176,
+      "title": "Петя и Красная Шапочка",
+      "kp_id": "42973",
+      "imdb_id": "tt0219248",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-20 19:33:35",
+      "orig_title": "Petya i krasnaya shapochka",
+      "year": "1958-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "bd",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-10-24 08:09:17",
+      "iframe_src": ""
+    },
+    {
+      "id": 23288,
+      "title": "Умная дочь крестьянина",
+      "kp_id": "470249",
+      "imdb_id": "tt1483361",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-03-20 09:51:20",
+      "orig_title": "Die kluge Bauerntochter",
+      "year": "2009-11-19",
+      "translations": [
+        "Полное дублирование",
+        "Профессиональный (многоголосый закадровый) (Игмар)"
+      ],
+      "quality": "hdtv",
+      "translation": "Полное дублирование",
+      "update": "2019-10-24 08:33:16",
+      "iframe_src": ""
+    },
+    {
+      "id": 23172,
+      "title": "Ночной поезд до Лиссабона",
+      "kp_id": "523402",
+      "imdb_id": "tt1654523",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-03-17 22:56:33",
+      "orig_title": "Night Train to Lisbon",
+      "year": "2013-02-13",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)",
+        "Любительский (двухголосый закадровый) (Hamster Studio)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2019-10-24 11:10:57",
+      "iframe_src": ""
+    },
+    {
+      "id": 7664,
+      "title": "Байкеры",
+      "kp_id": "3731",
+      "imdb_id": "tt0326769",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-11-27 12:48:17",
+      "orig_title": "Biker Boyz",
+      "year": "2003-01-31",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)",
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvhs",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2019-10-24 08:30:43",
       "iframe_src": ""
     }
   ]

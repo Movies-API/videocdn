@@ -1,364 +1,370 @@
 {
   "data": [
     {
-      "id": 21517,
-      "title": "Гувернантка",
-      "kp_id": "464971",
-      "imdb_id": null,
+      "id": 21683,
+      "title": "Страховой агент",
+      "kp_id": "94977",
+      "imdb_id": "tt0265810",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-01-15 09:48:38",
-      "orig_title": "Гувернантка",
-      "year": "2009-07-11",
+      "add": "2019-01-21 06:11:30",
+      "orig_title": "Strakhovoy agent",
+      "year": "1987-02-09",
       "translations": [
         "Оригинальная дорожка"
       ],
       "quality": "dvdrip",
       "translation": "Оригинальная дорожка",
-      "update": "2019-01-15 21:11:43",
+      "update": "2019-01-21 08:17:31",
       "iframe_src": ""
     },
     {
-      "id": 21514,
-      "title": "Короли льда",
-      "kp_id": "667491",
-      "imdb_id": "tt2224307",
+      "id": 21682,
+      "title": "Завет",
+      "kp_id": "195620",
+      "imdb_id": "tt0479519",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-01-15 09:37:38",
-      "orig_title": "Les Pee-Wee 3D: L'hiver qui a changé ma vie",
-      "year": "2012-12-21",
+      "add": "2019-01-20 23:09:07",
+      "orig_title": "Zavet",
+      "year": "2007-05-26",
       "translations": [
-        "Профессиональный (многоголосый закадровый) (НТВ)"
-      ],
-      "quality": "hdrip",
-      "translation": "Профессиональный (многоголосый закадровый) (НТВ)",
-      "update": "2019-01-15 21:17:13",
-      "iframe_src": ""
-    },
-    {
-      "id": 21513,
-      "title": "Женская интуиция",
-      "kp_id": "278149",
-      "imdb_id": "tt2618188",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-01-15 09:33:33",
-      "orig_title": "Женская интуиция",
-      "year": "2004-01-01",
-      "translations": [
-        "Оригинальная дорожка"
+        "Полное дублирование"
       ],
       "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-01-15 21:19:31",
+      "translation": "Полное дублирование",
+      "update": "2019-01-21 11:09:01",
       "iframe_src": ""
     },
     {
-      "id": 21501,
-      "title": "Остров",
-      "kp_id": "257337",
-      "imdb_id": "tt0851577",
+      "id": 21680,
+      "title": "Контакт",
+      "kp_id": "1095268",
+      "imdb_id": "tt6613952",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-01-15 05:52:23",
-      "orig_title": "Ostrov",
-      "year": "2006-09-09",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "bd",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-01-15 10:30:26",
-      "iframe_src": ""
-    },
-    {
-      "id": 21500,
-      "title": "Рождество, которое войдет в историю",
-      "kp_id": "1163768",
-      "imdb_id": "tt8395220",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-01-15 05:41:44",
-      "orig_title": "Christmas by the Book",
-      "year": "2018-12-11",
+      "add": "2019-01-20 22:38:28",
+      "orig_title": "Encounter",
+      "year": "2018-12-09",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
-      "quality": "hdtv",
+      "quality": "dvdrip",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-01-15 10:25:42",
+      "update": "2019-01-21 11:10:16",
       "iframe_src": ""
     },
     {
-      "id": 21497,
-      "title": "Для Иззи",
-      "kp_id": "975030",
-      "imdb_id": "tt5215650",
+      "id": 21677,
+      "title": "Четыре ночи с Анной",
+      "kp_id": "412553",
+      "imdb_id": "tt1225290",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-01-15 05:34:58",
-      "orig_title": "For Izzy",
-      "year": "2018-04-12",
+      "add": "2019-01-20 22:31:00",
+      "orig_title": "Cztery noce z Anna",
+      "year": "2008-05-15",
       "translations": [
-        "Любительский (многоголосый закадровый) (Колобок)"
+        "Любительский (двухголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Любительский (двухголосый закадровый)",
+      "update": "2019-01-21 11:13:21",
+      "iframe_src": ""
+    },
+    {
+      "id": 21674,
+      "title": "Скамейка запасных 2",
+      "kp_id": "1178433",
+      "imdb_id": "tt8750122",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-01-20 22:25:56",
+      "orig_title": "Benchwarmers 2",
+      "year": "2019-02-05",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-01-21 11:14:01",
+      "iframe_src": ""
+    },
+    {
+      "id": 21671,
+      "title": "Лулу – обнаженная женщина",
+      "kp_id": "726799",
+      "imdb_id": "tt2593230",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-01-20 22:19:57",
+      "orig_title": "Lulu femme nue",
+      "year": "2013-07-31",
+      "translations": [
+        "Любительский (одноголосый закадровый) (Воротилин Олег)"
+      ],
+      "quality": "hdtv",
+      "translation": "Любительский (одноголосый закадровый) (Воротилин Олег)",
+      "update": "2019-01-21 11:14:53",
+      "iframe_src": ""
+    },
+    {
+      "id": 21669,
+      "title": "Дружелюбный зверь",
+      "kp_id": "939004",
+      "imdb_id": "tt5126274",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-01-20 22:16:13",
+      "orig_title": "O Animal Cordial",
+      "year": "2017-07-25",
+      "translations": [
+        "Любительский (двухголосый закадровый) (datynet & Galina Vasyukova)"
+      ],
+      "quality": "hdrip",
+      "translation": "Любительский (двухголосый закадровый) (datynet & Galina Vasyukova)",
+      "update": "2019-01-21 11:15:43",
+      "iframe_src": ""
+    },
+    {
+      "id": 21634,
+      "title": "Явление",
+      "kp_id": "1066624",
+      "imdb_id": "tt6559390",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-01-19 23:22:38",
+      "orig_title": "L'apparition",
+      "year": "2018-02-14",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
+      "update": "2019-01-21 08:14:52",
+      "iframe_src": ""
+    },
+    {
+      "id": 21633,
+      "title": "Что бы ни случилось",
+      "kp_id": null,
+      "imdb_id": "tt8666494",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-01-19 23:20:27",
+      "orig_title": "Egal was kommt",
+      "year": "2018-08-02",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-01-21 08:17:26",
+      "iframe_src": ""
+    },
+    {
+      "id": 21631,
+      "title": "Дерись, как девчонка",
+      "kp_id": null,
+      "imdb_id": "tt8546252",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-01-19 14:14:45",
+      "orig_title": "Fight Like A Girl",
+      "year": "2018-06-11",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-01-21 11:29:27",
+      "iframe_src": ""
+    },
+    {
+      "id": 21627,
+      "title": "ДжиДжи Эллин: Одна семья",
+      "kp_id": null,
+      "imdb_id": "tt7887090",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-01-19 14:00:58",
+      "orig_title": "All In the Family",
+      "year": "2018-08-09",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-01-21 11:33:10",
+      "iframe_src": ""
+    },
+    {
+      "id": 21625,
+      "title": "Клик, Клак, Му: Рождество на ферме",
+      "kp_id": "1103284",
+      "imdb_id": "tt7642718",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-01-19 13:54:58",
+      "orig_title": "Click, Clack, Moo: Christmas at the Farm",
+      "year": "2017-11-28",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-01-21 11:11:20",
+      "iframe_src": ""
+    },
+    {
+      "id": 21620,
+      "title": "Люди и звери",
+      "kp_id": "722654",
+      "imdb_id": "tt2527190",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-01-19 13:16:00",
+      "orig_title": "Domestic",
+      "year": "2012-11-21",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2019-01-21 11:34:34",
+      "iframe_src": ""
+    },
+    {
+      "id": 21616,
+      "title": "Морские монстры 2",
+      "kp_id": "1103339",
+      "imdb_id": "tt7575642",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-01-19 13:10:05",
+      "orig_title": "Sea Monsters 2",
+      "year": "2018-01-01",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-01-21 11:12:08",
+      "iframe_src": ""
+    },
+    {
+      "id": 21533,
+      "title": "Мститель",
+      "kp_id": "1111786",
+      "imdb_id": "tt9426186",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-01-15 22:58:04",
+      "orig_title": "Ribenjyeo",
+      "year": "2018-12-06",
+      "translations": [
+        "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
+        "Любительский (двухголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
+      "update": "2019-01-21 11:20:35",
+      "iframe_src": ""
+    },
+    {
+      "id": 21492,
+      "title": "Эволюция зла",
+      "kp_id": "1070316",
+      "imdb_id": "tt7385832",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-01-15 05:25:28",
+      "orig_title": "Removed",
+      "year": "2018-09-14",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Любительский (двухголосый закадровый) (HiWayGrope)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-01-21 08:16:26",
+      "iframe_src": ""
+    },
+    {
+      "id": 20928,
+      "title": "Тень былых побед",
+      "kp_id": "924527",
+      "imdb_id": "tt4874350",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-12-23 00:24:42",
+      "orig_title": "Shadow Fighter",
+      "year": "2018-12-21",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Любительский (двухголосый закадровый) (HiWayGrope)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-01-21 08:08:34",
+      "iframe_src": ""
+    },
+    {
+      "id": 20485,
+      "title": "Братья Систерс",
+      "kp_id": "968375",
+      "imdb_id": "tt4971344",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-12-04 00:32:09",
+      "orig_title": "The Sisters Brothers",
+      "year": "2018-09-02",
+      "translations": [
+        "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
+        "Любительский (двухголосый закадровый) (HiWayGrope)",
+        "Полное дублирование"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
+      "update": "2019-01-21 08:10:19",
+      "iframe_src": ""
+    },
+    {
+      "id": 19944,
+      "title": "Праздничный календарь",
+      "kp_id": "1117501",
+      "imdb_id": "tt8262802",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-11-03 23:16:17",
+      "orig_title": "The Holiday Calendar",
+      "year": "2018-11-02",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-01-21 08:13:06",
+      "iframe_src": ""
+    },
+    {
+      "id": 16864,
+      "title": "Слуги сатаны",
+      "kp_id": "1046559",
+      "imdb_id": "tt7076834",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-05-22 06:50:41",
+      "orig_title": "Pengabdi Setan",
+      "year": "2017-09-20",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Колобок)",
+        "Любительский (одноголосый закадровый) (Хихикающий доктор)"
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Колобок)",
-      "update": "2019-01-15 10:26:12",
-      "iframe_src": ""
-    },
-    {
-      "id": 21495,
-      "title": "Двуликий",
-      "kp_id": "1108652",
-      "imdb_id": "tt7335186",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-01-15 05:30:52",
-      "orig_title": "Savyasachi",
-      "year": "2018-11-01",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-01-15 10:28:08",
-      "iframe_src": ""
-    },
-    {
-      "id": 21493,
-      "title": "Ночь воцарилась",
-      "kp_id": "655715",
-      "imdb_id": "tt2141941",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-01-15 05:26:57",
-      "orig_title": "Night Has Settled",
-      "year": "2014-02-01",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-01-15 10:29:18",
-      "iframe_src": ""
-    },
-    {
-      "id": 21491,
-      "title": "Морские монстры",
-      "kp_id": "1091292",
-      "imdb_id": "tt7073350",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-01-15 05:23:35",
-      "orig_title": "Sea Monsters",
-      "year": "2017-01-01",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-01-15 10:15:21",
-      "iframe_src": ""
-    },
-    {
-      "id": 21428,
-      "title": "Бешеная",
-      "kp_id": "19295",
-      "imdb_id": "tt0076590",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-01-11 21:31:56",
-      "orig_title": "Rabid",
-      "year": "1977-04-08",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2019-01-14 13:16:30",
-      "iframe_src": ""
-    },
-    {
-      "id": 21420,
-      "title": "Мужская сила",
-      "kp_id": "11802",
-      "imdb_id": "tt0035034",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-01-11 21:13:48",
-      "orig_title": "Manpower",
-      "year": "1941-08-09",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2019-01-14 13:18:51",
-      "iframe_src": ""
-    },
-    {
-      "id": 21418,
-      "title": "Мир цирка",
-      "kp_id": "1348",
-      "imdb_id": "tt0057952",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-01-11 21:09:48",
-      "orig_title": "Circus World",
-      "year": "1964-06-25",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-01-14 13:19:41",
-      "iframe_src": ""
-    },
-    {
-      "id": 21417,
-      "title": "Кровососущие уроды",
-      "kp_id": "85568",
-      "imdb_id": "tt0077247",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-01-11 21:08:03",
-      "orig_title": "The Incredible Torture Show",
-      "year": "1976-11-03",
-      "translations": [
-        "Любительский (двухголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (двухголосый закадровый)",
-      "update": "2019-01-14 13:21:05",
-      "iframe_src": ""
-    },
-    {
-      "id": 21416,
-      "title": "Одиннадцать дней, одиннадцать ночей, часть 2",
-      "kp_id": "98184",
-      "imdb_id": "tt0297447",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-01-11 21:05:43",
-      "orig_title": "Eleven Days, Eleven Nights 2",
-      "year": "1991-10-18",
-      "translations": [
-        "Авторский (одноголосый закадровый) (Дохалов Вартан)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Авторский (одноголосый закадровый) (Дохалов Вартан)",
-      "update": "2019-01-14 13:21:53",
-      "iframe_src": ""
-    },
-    {
-      "id": 21413,
-      "title": "Смертельный лабиринт",
-      "kp_id": "77792",
-      "imdb_id": "tt0395585",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-01-11 09:42:16",
-      "orig_title": "House of 9",
-      "year": "2005-06-19",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-01-15 06:19:19",
-      "iframe_src": ""
-    },
-    {
-      "id": 21272,
-      "title": "Дочь якудзы",
-      "kp_id": "309406",
-      "imdb_id": "tt1547089",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-01-06 10:46:47",
-      "orig_title": "Doch yakudzy",
-      "year": "2010-09-02",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-01-15 07:13:46",
-      "iframe_src": ""
-    },
-    {
-      "id": 21270,
-      "title": "Махеш Каледжа",
-      "kp_id": "495851",
-      "imdb_id": "tt1582519",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-01-06 10:43:38",
-      "orig_title": "Khaleja",
-      "year": "2010-10-07",
-      "translations": [
-        "Любительский (двухголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (двухголосый закадровый)",
-      "update": "2019-01-15 07:11:28",
-      "iframe_src": ""
-    },
-    {
-      "id": 21269,
-      "title": "Танцуй ради шанса",
-      "kp_id": "451983",
-      "imdb_id": "tt1392744",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-01-06 10:36:43",
-      "orig_title": "Chance Pe Dance",
-      "year": "2010-01-15",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "webdl",
-      "translation": "Полное дублирование",
-      "update": "2019-01-15 07:10:42",
-      "iframe_src": ""
-    },
-    {
-      "id": 21194,
-      "title": "Любовь украшает жизнь",
-      "kp_id": "448975",
-      "imdb_id": "tt1382339",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-01-03 13:32:48",
-      "orig_title": "Santhosh Subramaniyam",
-      "year": "2008-04-11",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (Red Media)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый) (Red Media)",
-      "update": "2019-01-15 07:07:00",
-      "iframe_src": ""
-    },
-    {
-      "id": 3010,
-      "title": "Я ненавижу день Святого Валентина",
-      "kp_id": "412724",
-      "imdb_id": "tt0762105",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-06-08 20:18:05",
-      "orig_title": "I Hate Valentine's Day",
-      "year": "2009-04-11",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)",
-        "Полное дублирование"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2019-01-14 13:17:59",
+      "update": "2019-01-21 11:18:43",
       "iframe_src": ""
     }
   ]

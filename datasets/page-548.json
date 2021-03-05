@@ -1,382 +1,370 @@
 {
   "data": [
     {
-      "id": 39580,
-      "title": "Память",
-      "kp_id": "972676",
-      "imdb_id": "tt5570680",
+      "id": 39645,
+      "title": "Предчувствие",
+      "kp_id": "89212",
+      "imdb_id": "tt0419280",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-04-19 20:12:47",
-      "orig_title": "Tsuioku",
-      "year": "2017-05-06",
+      "add": "2020-04-21 07:32:35",
+      "orig_title": "Yogen",
+      "year": "2004-10-02",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
+        "Профессиональный (двухголосый закадровый) (РенТВ)"
       ],
-      "quality": "bd",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-04-20 07:05:38",
+      "quality": "dvdrip",
+      "translation": "Профессиональный (двухголосый закадровый) (РенТВ)",
+      "update": "2020-04-21 18:27:00",
       "iframe_src": ""
     },
     {
-      "id": 39579,
-      "title": "Руби Херринг: Предсказание убийства",
-      "kp_id": "1346924",
-      "imdb_id": "tt11686304",
+      "id": 39638,
+      "title": "Пунктик",
+      "kp_id": "6674",
+      "imdb_id": "tt0090852",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-04-19 20:07:51",
-      "orig_title": "Ruby Herring Mysteries: Prediction Murder",
-      "year": "2020-04-05",
+      "add": "2020-04-21 06:08:57",
+      "orig_title": "Clockwise",
+      "year": "1986-03-14",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
+        "Профессиональный (двухголосый закадровый) (Екатеринбург Арт)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (двухголосый закадровый) (Екатеринбург Арт)",
+      "update": "2020-04-22 04:38:50",
+      "iframe_src": ""
+    },
+    {
+      "id": 39602,
+      "title": "Моя супермама",
+      "kp_id": "555809",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-04-20 17:26:29",
+      "orig_title": "Nina Undercover - Agentin mit Kids",
+      "year": "2011-06-01",
+      "translations": [
+        "Полное дублирование (СТС)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Полное дублирование (СТС)",
+      "update": "2020-04-21 17:39:21",
+      "iframe_src": ""
+    },
+    {
+      "id": 39600,
+      "title": "Мужская работа",
+      "kp_id": "325277",
+      "imdb_id": "tt0890882",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-04-20 17:20:28",
+      "orig_title": "Miehen työ",
+      "year": "2007-01-25",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-04-21 17:39:43",
+      "iframe_src": ""
+    },
+    {
+      "id": 39599,
+      "title": "Я пережил нашествие зомби",
+      "kp_id": "725367",
+      "imdb_id": "tt2536124",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-04-20 17:19:04",
+      "orig_title": "I Survived a Zombie Holocaust",
+      "year": "2014-08-23",
+      "translations": [
+        "Любительский (одноголосый закадровый) (Васька Куролесов)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Любительский (одноголосый закадровый) (Васька Куролесов)",
+      "update": "2020-04-21 17:40:05",
+      "iframe_src": ""
+    },
+    {
+      "id": 39598,
+      "title": "В погоне за кометой: «Розетта»",
+      "kp_id": "910021",
+      "imdb_id": "tt4200326",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-04-20 17:17:46",
+      "orig_title": "Landing on a Comet: Rosetta Mission",
+      "year": "2014-11-12",
+      "translations": [
+        "Профессиональный (одноголосый закадровый) (Discovery)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (одноголосый закадровый) (Discovery)",
+      "update": "2020-04-21 17:40:47",
+      "iframe_src": ""
+    },
+    {
+      "id": 39597,
+      "title": "Ад живых мертвецов",
+      "kp_id": "95436",
+      "imdb_id": "tt0082559",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-04-20 17:14:55",
+      "orig_title": "Virus",
+      "year": "1980-11-17",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-04-21 17:45:26",
+      "iframe_src": ""
+    },
+    {
+      "id": 39575,
+      "title": "Рай",
+      "kp_id": "694",
+      "imdb_id": "tt0246677",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-04-19 18:01:15",
+      "orig_title": "Heaven",
+      "year": "2002-02-06",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (AMS)"
+      ],
+      "quality": "hdrip",
+      "translation": "Профессиональный (многоголосый закадровый) (AMS)",
+      "update": "2020-04-21 17:53:34",
+      "iframe_src": ""
+    },
+    {
+      "id": 39574,
+      "title": "Тихие голоса прошлого",
+      "kp_id": "301076",
+      "imdb_id": "tt0844025",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-04-19 17:58:31",
+      "orig_title": "Still Small Voices",
+      "year": "2007-01-06",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2020-04-21 17:54:21",
+      "iframe_src": ""
+    },
+    {
+      "id": 39572,
+      "title": "Святой Джон из Лас-Вегаса",
+      "kp_id": "421542",
+      "imdb_id": "tt1276105",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-04-19 17:47:11",
+      "orig_title": "Saint John of Las Vegas",
+      "year": "2009-06-10",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "dvdrip",
+      "translation": "Полное дублирование",
+      "update": "2020-04-21 17:55:51",
+      "iframe_src": ""
+    },
+    {
+      "id": 39569,
+      "title": "Барабанная дробь 2: Новый бит",
+      "kp_id": "829422",
+      "imdb_id": "tt3520698",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-04-19 17:41:54",
+      "orig_title": "Drumline: A New Beat",
+      "year": "2014-10-27",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (SDI Media)"
       ],
       "quality": "hdtv",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-04-20 07:06:37",
+      "translation": "Профессиональный (многоголосый закадровый) (SDI Media)",
+      "update": "2020-04-21 17:57:16",
       "iframe_src": ""
     },
     {
-      "id": 39578,
-      "title": "Первые дамы в христианском чарте",
-      "kp_id": "1263901",
-      "imdb_id": "tt10098482",
+      "id": 39445,
+      "title": "Вынужденные обстоятельства",
+      "kp_id": "78561",
+      "imdb_id": "tt0071800",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-04-19 20:02:53",
-      "orig_title": "The Clark Sisters: The First Ladies of Gospel",
-      "year": "2020-04-11",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "hdtv",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-04-20 07:08:26",
-      "iframe_src": ""
-    },
-    {
-      "id": 39577,
-      "title": "Горный минор",
-      "kp_id": "1294072",
-      "imdb_id": "tt10071352",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-04-19 19:59:40",
-      "orig_title": "The Mountain Minor",
-      "year": "2019-10-17",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-04-20 07:09:44",
-      "iframe_src": ""
-    },
-    {
-      "id": 39518,
-      "title": "Земля и кровь",
-      "kp_id": "1280838",
-      "imdb_id": "tt10092752",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-04-19 03:47:41",
-      "orig_title": "La terre et le sang",
-      "year": "2020-04-17",
-      "translations": [
-        "Любительский (одноголосый закадровый) (datynet)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (одноголосый закадровый) (datynet)",
-      "update": "2020-04-19 07:35:55",
-      "iframe_src": ""
-    },
-    {
-      "id": 39517,
-      "title": "По доброй воле",
-      "kp_id": "1201490",
-      "imdb_id": "tt8240250",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-04-19 03:46:16",
-      "orig_title": "De frivillige",
-      "year": "2019-01-27",
-      "translations": [
-        "Любительский (многоголосый закадровый) (AlphaProject)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (многоголосый закадровый) (AlphaProject)",
-      "update": "2020-04-19 07:37:26",
-      "iframe_src": ""
-    },
-    {
-      "id": 39470,
-      "title": "Малыш Франкенштейн",
-      "kp_id": "946823",
-      "imdb_id": "tt4949388",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-04-18 03:49:21",
-      "orig_title": "Baby Frankenstein",
-      "year": "2018-10-26",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-04-20 04:20:32",
-      "iframe_src": ""
-    },
-    {
-      "id": 39428,
-      "title": "Дорога без возврата",
-      "kp_id": "427244",
-      "imdb_id": "tt1298716",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-04-17 13:16:59",
-      "orig_title": "Road of No Return",
-      "year": "2009-03-26",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-04-20 07:12:42",
-      "iframe_src": ""
-    },
-    {
-      "id": 39424,
-      "title": "ДАУ. Наташа",
-      "kp_id": "1346605",
-      "imdb_id": "tt11697832",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-04-17 05:31:44",
-      "orig_title": "DAU. Natasha",
-      "year": "2020-02-26",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2020-04-19 19:51:43",
-      "iframe_src": ""
-    },
-    {
-      "id": 39384,
-      "title": "Прелюдия",
-      "kp_id": "253148",
-      "imdb_id": "tt0783849",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-04-16 14:26:28",
-      "orig_title": "Un lever de rideau",
-      "year": "2006-05-25",
+      "add": "2020-04-17 21:09:22",
+      "orig_title": "Majboor",
+      "year": "1974-12-06",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "dvdrip",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-04-20 06:55:56",
+      "update": "2020-04-21 12:33:53",
       "iframe_src": ""
     },
     {
-      "id": 39383,
-      "title": "Лучший друг",
-      "kp_id": "4601",
-      "imdb_id": "tt0156841",
+      "id": 39443,
+      "title": "Самозванцы поневоле",
+      "kp_id": "108429",
+      "imdb_id": "tt0175530",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-04-16 14:24:19",
-      "orig_title": "The Next Best Thing",
-      "year": "2000-03-03",
+      "add": "2020-04-17 21:04:18",
+      "orig_title": "Chor Machaye Shor",
+      "year": "1974-03-18",
       "translations": [
-        "Профессиональный (многоголосый закадровый) (РТР | Россия)"
+        "Профессиональный (многоголосый закадровый) (Формат AB)"
       ],
       "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый) (РТР | Россия)",
-      "update": "2020-04-20 06:54:31",
+      "translation": "Профессиональный (многоголосый закадровый) (Формат AB)",
+      "update": "2020-04-21 12:33:14",
       "iframe_src": ""
     },
     {
-      "id": 39382,
-      "title": "Лэсси",
-      "kp_id": "11485",
-      "imdb_id": "tt0110305",
+      "id": 39440,
+      "title": "Призрак",
+      "kp_id": "105074",
+      "imdb_id": "tt0399530",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-04-16 14:22:51",
-      "orig_title": "Lassie",
-      "year": "1994-07-22",
+      "add": "2020-04-17 14:21:02",
+      "orig_title": "Pyaar Ka Saaya",
+      "year": "1991-11-29",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "dvdrip",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-04-20 06:53:38",
+      "update": "2020-04-21 12:31:57",
       "iframe_src": ""
     },
     {
-      "id": 39372,
-      "title": "Плохое расследование",
-      "kp_id": "1040114",
-      "imdb_id": "tt6610280",
+      "id": 39439,
+      "title": "Абу, сын Адама",
+      "kp_id": "605709",
+      "imdb_id": "tt1945039",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-04-16 13:41:44",
-      "orig_title": "Bad Investigate",
-      "year": "2018-01-18",
+      "add": "2020-04-17 14:17:14",
+      "orig_title": "Adaminte Makan Abu",
+      "year": "2011-06-24",
       "translations": [
-        "Любительский (многоголосый закадровый) (@MUZOBOZ@)"
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-04-21 12:31:31",
+      "iframe_src": ""
+    },
+    {
+      "id": 39438,
+      "title": "Ангел",
+      "kp_id": "580774",
+      "imdb_id": "tt1825655",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-04-17 14:14:07",
+      "orig_title": "Angel",
+      "year": "2011-02-04",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (Red Media)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый) (Red Media)",
+      "update": "2020-04-21 12:31:26",
+      "iframe_src": ""
+    },
+    {
+      "id": 39209,
+      "title": "Легенды «Смертельной битвы»: Месть Скорпиона",
+      "kp_id": "1228043",
+      "imdb_id": "tt9580138",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-04-13 05:35:35",
+      "orig_title": "Mortal Kombat Legends: Scorpions Revenge",
+      "year": "2020-04-12",
+      "translations": [
+        "Любительский (двухголосый закадровый) (LakeFilms)",
+        "Original (English)",
+        "Профессиональный (многоголосый закадровый) (NewComers)",
+        "Любительский (многоголосый закадровый) (Flarrow Films)"
       ],
       "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-      "update": "2020-04-19 08:28:59",
+      "translation": "Любительский (двухголосый закадровый) (LakeFilms)",
+      "update": "2020-04-21 17:52:45",
       "iframe_src": ""
     },
     {
-      "id": 39366,
-      "title": "Сказание о динозаврах",
-      "kp_id": "680998",
-      "imdb_id": "tt2387443",
+      "id": 37354,
+      "title": "Человек-невидимка",
+      "kp_id": "420454",
+      "imdb_id": "tt1051906",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-04-16 12:59:19",
-      "orig_title": "Dinotasia",
-      "year": "2012-05-04",
+      "add": "2020-03-04 07:35:04",
+      "orig_title": "The Invisible Man",
+      "year": "2020-02-24",
       "translations": [
-        "Любительский (одноголосый закадровый) (den904)",
-        "Профессиональный (одноголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (одноголосый закадровый) (den904)",
-      "update": "2020-04-20 06:45:18",
-      "iframe_src": ""
-    },
-    {
-      "id": 39310,
-      "title": "Жизнь лампы",
-      "kp_id": "1322610",
-      "imdb_id": "tt10167262",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-04-14 13:43:47",
-      "orig_title": "Lamp Life",
-      "year": "2020-01-31",
-      "translations": [
+        "Полное дублирование (iTunes)",
+        "Любительский (многоголосый закадровый)",
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
         "Original (English)"
       ],
       "quality": "webdl",
-      "translation": "Original (English)",
-      "update": "2020-04-20 07:27:38",
+      "translation": "Полное дублирование (iTunes)",
+      "update": "2020-04-22 06:14:26",
       "iframe_src": ""
     },
     {
-      "id": 39256,
-      "title": "Солнечная династия",
-      "kp_id": "78482",
-      "imdb_id": "tt0214178",
+      "id": 13083,
+      "title": "2210: Конец света",
+      "kp_id": "592437",
+      "imdb_id": "tt1715324",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-04-13 18:27:54",
-      "orig_title": "Sooryavansham",
-      "year": "1999-05-21",
+      "add": "2017-08-21 05:12:18",
+      "orig_title": "Collapse: Based on the Book by Jared Diamond",
+      "year": "2010-09-18",
       "translations": [
-        "Любительский (двухголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Любительский (двухголосый закадровый)",
-      "update": "2020-04-20 06:03:16",
-      "iframe_src": ""
-    },
-    {
-      "id": 7139,
-      "title": "Репликант",
-      "kp_id": "1049",
-      "imdb_id": "tt0238552",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-11-08 05:16:16",
-      "orig_title": "Replicant",
-      "year": "2001-05-11",
-      "translations": [
-        "Полное дублирование",
-        "Авторский (одноголосый закадровый) (Дольский Андрей)",
-        "Авторский (одноголосый закадровый) (Гаврилов Андрей)",
-        "Авторский (одноголосый закадровый) (Визгунов Сергей)",
-        "Original (English)",
-        "Профессиональный (многоголосый закадровый) (РТР | Россия)",
-        "Профессиональный (многоголосый закадровый)",
-        "Профессиональный (многоголосый закадровый) (ТВЦ)"
+        "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2020-04-20 07:23:22",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-04-21 17:51:32",
       "iframe_src": ""
     },
     {
-      "id": 6788,
-      "title": "Пассажир 57",
-      "kp_id": "20990",
-      "imdb_id": "tt0105104",
+      "id": 8282,
+      "title": "Баджирао и Мастани",
+      "kp_id": "841978",
+      "imdb_id": "tt3735246",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-10-30 07:35:16",
-      "orig_title": "Passenger 57",
-      "year": "1992-11-06",
+      "add": "2016-12-22 14:43:00",
+      "orig_title": "Bajirao Mastani",
+      "year": "2015-12-18",
       "translations": [
-        "Полное дублирование",
-        "Авторский (одноголосый закадровый) (Гаврилов Андрей)",
-        "Авторский (одноголосый закадровый) (Горчаков Василий)",
-        "Полное дублирование (Варус-Видео)",
-        "Полное дублирование (Мост-Видео)",
-        "Original (English)",
-        "Профессиональный (двухголосый закадровый) (НТВ)",
-        "Профессиональный (многоголосый закадровый) (ТВ3)"
+        "Любительский (многоголосый закадровый)",
+        "Любительский (многоголосый закадровый) (Honey&Hoseena)"
       ],
       "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2020-04-20 07:12:56",
-      "iframe_src": ""
-    },
-    {
-      "id": 182,
-      "title": "Шерлок Холмс",
-      "kp_id": "420923",
-      "imdb_id": "tt0988045",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-03-06 11:38:04",
-      "orig_title": "Sherlock Holmes",
-      "year": "2009-12-24",
-      "translations": [
-        "Полное дублирование",
-        "Original (English)",
-        "Авторский (одноголосый закадровый) (Пучков Дмитрй| Гоблин)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2020-04-19 15:12:12",
-      "iframe_src": ""
-    },
-    {
-      "id": 181,
-      "title": "Шерлок Холмс: Игра теней",
-      "kp_id": "474953",
-      "imdb_id": "tt1515091",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-03-06 11:32:17",
-      "orig_title": "Sherlock Holmes: A Game of Shadows",
-      "year": "2011-12-10",
-      "translations": [
-        "Полное дублирование",
-        "Original (English)",
-        "Авторский (одноголосый закадровый) (Пучков Дмитрй| Гоблин)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2020-04-19 15:30:08",
+      "translation": "Любительский (многоголосый закадровый)",
+      "update": "2020-04-21 12:30:37",
       "iframe_src": ""
     }
   ]

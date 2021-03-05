@@ -1,369 +1,367 @@
 {
   "data": [
     {
-      "id": 20868,
-      "title": "Годзилла против Биолланте",
-      "kp_id": "60770",
-      "imdb_id": "tt0097444",
+      "id": 20983,
+      "title": "Странные захватчики",
+      "kp_id": "22005",
+      "imdb_id": "tt0086374",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-12-20 02:41:59",
-      "orig_title": "Gojira vs. Biorante",
-      "year": "1989-12-16",
+      "add": "2018-12-23 23:16:17",
+      "orig_title": "Strange Invaders",
+      "year": "1983-09-16",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2018-12-20 08:38:45",
-      "iframe_src": ""
-    },
-    {
-      "id": 20849,
-      "title": "Рождество в поместье Ханисакл",
-      "kp_id": "1200375",
-      "imdb_id": "tt9083646",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-12-19 01:46:32",
-      "orig_title": "Christmas on Honeysuckle Lane",
-      "year": "2018-11-18",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "hdtv",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-12-19 06:59:58",
-      "iframe_src": ""
-    },
-    {
-      "id": 20847,
-      "title": "Танго либре",
-      "kp_id": "703082",
-      "imdb_id": "tt2370034",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-12-19 01:12:43",
-      "orig_title": "Tango libre",
-      "year": "2012-08-29",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (iTunes)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый) (iTunes)",
-      "update": "2018-12-19 07:02:16",
-      "iframe_src": ""
-    },
-    {
-      "id": 20845,
-      "title": "Музыка для секса",
-      "kp_id": null,
-      "imdb_id": "tt6085174",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-12-19 01:01:07",
-      "orig_title": "Songs to Have Sex To",
-      "year": "2015-09-16",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-12-19 07:37:21",
-      "iframe_src": ""
-    },
-    {
-      "id": 20844,
-      "title": "Сабрина",
-      "kp_id": "1132202",
-      "imdb_id": "tt7981492",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-12-19 00:55:48",
-      "orig_title": "Sabrina",
-      "year": "2018-07-12",
-      "translations": [
-        "Любительский (многоголосый закадровый) (@MUZOBOZ@)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-      "update": "2018-12-19 07:13:59",
-      "iframe_src": ""
-    },
-    {
-      "id": 20843,
-      "title": "Теперь темно",
-      "kp_id": "1038909",
-      "imdb_id": "tt5969642",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-12-19 00:53:06",
-      "orig_title": "Now It's Dark",
-      "year": "2018-03-02",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-12-19 07:14:53",
-      "iframe_src": ""
-    },
-    {
-      "id": 20842,
-      "title": "Пусть не будет конца. Портрет братьев Эйвитт",
-      "kp_id": "1047056",
-      "imdb_id": "tt6487050",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-12-19 00:50:07",
-      "orig_title": "May It Last: A Portrait of the Avett Brothers",
-      "year": "2017-03-15",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-12-19 07:43:01",
-      "iframe_src": ""
-    },
-    {
-      "id": 20841,
-      "title": "Обмен принцессами",
-      "kp_id": "1014291",
-      "imdb_id": "tt6350304",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-12-19 00:45:55",
-      "orig_title": "L'échange des princesses",
-      "year": "2017-12-27",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-12-19 07:45:24",
-      "iframe_src": ""
-    },
-    {
-      "id": 20840,
-      "title": "Сквозь пыль к славе 2",
-      "kp_id": null,
-      "imdb_id": "tt8526506",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-12-19 00:32:03",
-      "orig_title": "Dust 2 Glory",
-      "year": "2017-12-06",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-12-19 07:49:01",
-      "iframe_src": ""
-    },
-    {
-      "id": 20838,
-      "title": "Мировой Арбитр",
-      "kp_id": null,
-      "imdb_id": "tt4419506",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-12-19 00:26:31",
-      "orig_title": "American Umpire",
-      "year": "2016-09-01",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-12-19 07:50:20",
-      "iframe_src": ""
-    },
-    {
-      "id": 20837,
-      "title": "Когда утихнет толпа",
-      "kp_id": "1104286",
-      "imdb_id": "tt7068942",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-12-19 00:23:39",
-      "orig_title": "After The Screaming Stops",
-      "year": "2018-09-22",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-12-19 07:51:12",
-      "iframe_src": ""
-    },
-    {
-      "id": 20836,
-      "title": "Дом растущих сыновей",
-      "kp_id": "1162240",
-      "imdb_id": "tt8638638",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-12-18 23:09:05",
-      "orig_title": "Xiong di ban",
-      "year": "2018-07-02",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-12-19 00:26:15",
-      "iframe_src": ""
-    },
-    {
-      "id": 20803,
-      "title": "Троя: Воскрешение Энея",
-      "kp_id": "813265",
-      "imdb_id": "tt3373410",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-12-16 22:41:57",
-      "orig_title": "Troy: The Resurrection of Aeneas",
-      "year": "2018-05-11",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Любительский (двухголосый закадровый) (HiWayGrope)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-12-19 07:32:39",
-      "iframe_src": ""
-    },
-    {
-      "id": 20652,
-      "title": "Ты знаешь мою тайну",
-      "kp_id": "122828",
-      "imdb_id": "tt0326576",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-12-11 13:59:27",
-      "orig_title": "Humraaz",
-      "year": "2002-07-05",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2018-12-19 08:01:34",
-      "iframe_src": ""
-    },
-    {
-      "id": 20635,
-      "title": "Дом убийств",
-      "kp_id": null,
-      "imdb_id": "tt8597286",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-12-11 00:07:48",
-      "orig_title": "Reincarnation",
-      "year": "2018-12-04",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Любительский (двухголосый закадровый) (HiWayGrope)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-12-19 07:36:11",
-      "iframe_src": ""
-    },
-    {
-      "id": 20633,
-      "title": "Покрошить красоток",
-      "kp_id": "829514",
-      "imdb_id": "tt3526622",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-12-11 00:04:22",
-      "orig_title": "Slay Belles",
-      "year": "2018-12-04",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Любительский (двухголосый закадровый) (HiWayGrope)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-12-19 07:38:24",
-      "iframe_src": ""
-    },
-    {
-      "id": 20621,
-      "title": "Эльфы",
-      "kp_id": "1164889",
-      "imdb_id": "tt8593930",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-12-10 23:43:41",
-      "orig_title": "Elves",
-      "year": "2018-11-05",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Любительский (двухголосый закадровый) (HiWayGrope)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-12-19 07:48:14",
-      "iframe_src": ""
-    },
-    {
-      "id": 20205,
-      "title": "Послание от шлюхи",
-      "kp_id": "894501",
-      "imdb_id": "tt4461960",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-11-19 21:08:30",
-      "orig_title": "Message from a Mistress",
-      "year": "2017-05-01",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Любительский (двухголосый закадровый) (HiWayGrope)"
       ],
       "quality": "dvdrip",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-12-19 07:42:08",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2018-12-24 05:47:05",
       "iframe_src": ""
     },
     {
-      "id": 19299,
-      "title": "Парижская опера",
-      "kp_id": "1046011",
-      "imdb_id": "tt6599064",
+      "id": 20981,
+      "title": "Тени",
+      "kp_id": "263172",
+      "imdb_id": "tt0834102",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-09-30 20:21:36",
-      "orig_title": "'Opéra",
-      "year": "2017-03-07",
+      "add": "2018-12-23 23:13:16",
+      "orig_title": "Senki",
+      "year": "2007-09-09",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
         "Профессиональный (многоголосый закадровый)"
       ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-12-19 07:43:39",
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2018-12-24 05:48:23",
       "iframe_src": ""
     },
     {
-      "id": 2452,
-      "title": "Половое воспитание",
-      "kp_id": "775209",
-      "imdb_id": "tt2751310",
+      "id": 20972,
+      "title": "Голова. Два уха",
+      "kp_id": "1045066",
+      "imdb_id": null,
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-05-20 19:30:04",
-      "orig_title": "Sex Ed",
-      "year": "2014-11-07",
+      "add": "2018-12-23 22:46:17",
+      "orig_title": "Голова. Два уха",
+      "year": "2018-12-21",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "hdtv",
+      "translation": "Оригинальная дорожка",
+      "update": "2018-12-24 05:35:45",
+      "iframe_src": ""
+    },
+    {
+      "id": 20971,
+      "title": "Поля живых мертвецов",
+      "kp_id": "805390",
+      "imdb_id": "tt3186838",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-12-23 22:44:54",
+      "orig_title": "Fields of the Dead",
+      "year": "2014-02-04",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2018-12-24 07:29:25",
+      "iframe_src": ""
+    },
+    {
+      "id": 20970,
+      "title": "Деревенский роман",
+      "kp_id": "22920",
+      "imdb_id": "tt0111627",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-12-23 22:42:25",
+      "orig_title": "A Village Affair",
+      "year": "1995-04-17",
+      "translations": [
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2018-12-24 05:37:00",
+      "iframe_src": ""
+    },
+    {
+      "id": 20968,
+      "title": "Открытый перелом",
+      "kp_id": "652612",
+      "imdb_id": "tt2125472",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-12-23 22:38:20",
+      "orig_title": "Compound Fracture",
+      "year": "2014-05-13",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2018-12-24 07:21:39",
+      "iframe_src": ""
+    },
+    {
+      "id": 20967,
+      "title": "Мясорубка",
+      "kp_id": "419606",
+      "imdb_id": "tt0839762",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-12-23 22:36:04",
+      "orig_title": "City of Rott",
+      "year": "2006-08-08",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2018-12-24 05:37:40",
+      "iframe_src": ""
+    },
+    {
+      "id": 20966,
+      "title": "13Б: У страха новый адрес",
+      "kp_id": "448747",
+      "imdb_id": "tt1385824",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-12-23 22:32:43",
+      "orig_title": "13B: Fear Has a New Address",
+      "year": "2009-03-06",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2018-12-24 05:39:33",
+      "iframe_src": ""
+    },
+    {
+      "id": 20925,
+      "title": "Улица Чунъин, 1",
+      "kp_id": "1118163",
+      "imdb_id": "tt7473032",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-12-23 00:19:45",
+      "orig_title": "Улица Чунъин, 1",
+      "year": "2018-03-16",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2018-12-24 05:42:55",
+      "iframe_src": ""
+    },
+    {
+      "id": 20892,
+      "title": "Широко шагая 2: Расплата",
+      "kp_id": "260121",
+      "imdb_id": "tt0804550",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-12-21 09:58:00",
+      "orig_title": "Walking Tall: The Payback",
+      "year": "2007-02-13",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2018-12-23 20:18:33",
+      "iframe_src": ""
+    },
+    {
+      "id": 20891,
+      "title": "Багс Банни: Сумасшедшее рождество",
+      "kp_id": "330509",
+      "imdb_id": "tt0154263",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-12-21 09:48:33",
+      "orig_title": "Bugs Bunny's Looney Christmas Tales",
+      "year": "1979-11-27",
       "translations": [
         "Полное дублирование"
       ],
-      "quality": "bd",
+      "quality": "dvdrip",
       "translation": "Полное дублирование",
-      "update": "2018-12-19 07:15:59",
+      "update": "2018-12-23 20:19:05",
+      "iframe_src": ""
+    },
+    {
+      "id": 20890,
+      "title": "Белая стрела",
+      "kp_id": "396939",
+      "imdb_id": "tt1122576",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-12-21 09:39:37",
+      "orig_title": "Belaya strela",
+      "year": "2007-12-16",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2018-12-23 20:24:47",
+      "iframe_src": ""
+    },
+    {
+      "id": 20870,
+      "title": "Патриот",
+      "kp_id": "18116",
+      "imdb_id": "tt0120786",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-12-20 10:18:12",
+      "orig_title": "The Patriot",
+      "year": "1998-07-10",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2018-12-23 21:14:37",
+      "iframe_src": ""
+    },
+    {
+      "id": 20815,
+      "title": "Замученный",
+      "kp_id": "309343",
+      "imdb_id": "tt1017464",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-12-18 09:20:20",
+      "orig_title": "The Tortured",
+      "year": "2010-08-28",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2018-12-23 20:15:59",
+      "iframe_src": ""
+    },
+    {
+      "id": 20727,
+      "title": "Моя девушка – киборг",
+      "kp_id": "322098",
+      "imdb_id": "tt0929860",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-12-13 20:42:11",
+      "orig_title": "Boku no kanojo wa saibôgu",
+      "year": "2008-03-20",
+      "translations": [
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2018-12-23 20:25:35",
+      "iframe_src": ""
+    },
+    {
+      "id": 17565,
+      "title": "Воздушные убийцы",
+      "kp_id": "1116770",
+      "imdb_id": "tt8210516",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-07-04 21:04:41",
+      "orig_title": "Hover",
+      "year": "2018-06-29",
+      "translations": [
+        "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
+        "Любительский (двухголосый закадровый) (HiWayGrope)",
+        "Полное дублирование"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
+      "update": "2018-12-24 07:58:07",
+      "iframe_src": ""
+    },
+    {
+      "id": 17494,
+      "title": "Досрочное освобождение",
+      "kp_id": "1000771",
+      "imdb_id": "tt6017172",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-07-02 00:35:57",
+      "orig_title": "Early Release",
+      "year": "2017-05-05",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "hdtv",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2018-12-24 07:25:35",
+      "iframe_src": ""
+    },
+    {
+      "id": 11425,
+      "title": "Вечера на хуторе близ Диканьки",
+      "kp_id": "45694",
+      "imdb_id": "tt0057637",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-05-08 13:10:11",
+      "orig_title": "Vechera na khutore bliz Dikanki",
+      "year": "1963-12-15",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "webdl",
+      "translation": "Оригинальная дорожка",
+      "update": "2018-12-24 06:47:56",
+      "iframe_src": ""
+    },
+    {
+      "id": 11164,
+      "title": "Жара",
+      "kp_id": "271732",
+      "imdb_id": "tt0913446",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-04-21 14:21:49",
+      "orig_title": "Zhara",
+      "year": "2007-01-19",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "webdl",
+      "translation": "Оригинальная дорожка",
+      "update": "2018-12-24 06:49:34",
+      "iframe_src": ""
+    },
+    {
+      "id": 6545,
+      "title": "Высота «Гамбургер»",
+      "kp_id": "18190",
+      "imdb_id": "tt0093137",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-21 05:07:49",
+      "orig_title": "Hamburger Hill",
+      "year": "1987-08-28",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)",
+        "Авторский (одноголосый закадровый) (Живов Юрий)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2018-12-24 07:30:56",
       "iframe_src": ""
     }
   ]

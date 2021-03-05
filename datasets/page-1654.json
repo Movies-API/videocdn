@@ -1,363 +1,365 @@
 {
   "data": [
     {
-      "id": 18169,
-      "title": "В плену у скорости",
-      "kp_id": "8926",
-      "imdb_id": "tt0120435",
+      "id": 18294,
+      "title": "Притчи об искусственном интеллекте",
+      "kp_id": null,
+      "imdb_id": "tt8773700",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-08-08 23:23:15",
-      "orig_title": "Velocity Trap",
-      "year": "1999-02-22",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (РенТВ)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый) (РенТВ)",
-      "update": "2018-08-09 05:46:45",
-      "iframe_src": ""
-    },
-    {
-      "id": 18162,
-      "title": "Давай, сынок",
-      "kp_id": "1100654",
-      "imdb_id": "tt7628458",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-08-08 23:00:08",
-      "orig_title": "Hadi Be Oglum",
-      "year": "2018-02-15",
-      "translations": [
-        "Любительский (многоголосый закадровый) (GreenРай Studio)"
-      ],
-      "quality": "hdtv",
-      "translation": "Любительский (многоголосый закадровый) (GreenРай Studio)",
-      "update": "2018-08-09 06:09:38",
-      "iframe_src": ""
-    },
-    {
-      "id": 18160,
-      "title": "Для убийцы.com",
-      "kp_id": "29771",
-      "imdb_id": "tt0278259",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-08-08 22:42:51",
-      "orig_title": ".com for Murder",
-      "year": "2002-02-21",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2018-08-09 06:06:44",
-      "iframe_src": ""
-    },
-    {
-      "id": 18158,
-      "title": "Акт веры",
-      "kp_id": "853343",
-      "imdb_id": "tt3867836",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-08-08 22:37:08",
-      "orig_title": "Act of Faith",
-      "year": "2014-04-14",
+      "add": "2018-08-14 00:33:58",
+      "orig_title": "A. I. Tales",
+      "year": "2018-07-13",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-08-09 06:15:22",
+      "update": "2018-08-14 07:10:35",
       "iframe_src": ""
     },
     {
-      "id": 18152,
-      "title": "Миссия «Алмаз»",
-      "kp_id": "61196",
-      "imdb_id": "tt0275611",
+      "id": 18293,
+      "title": "Потерянное дерево",
+      "kp_id": "702700",
+      "imdb_id": "tt2368606",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-08-07 23:34:28",
-      "orig_title": "Witness to a Kill",
-      "year": "2001-01-01",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2018-08-08 05:37:28",
-      "iframe_src": ""
-    },
-    {
-      "id": 18151,
-      "title": "Пожарный",
-      "kp_id": "1046427",
-      "imdb_id": "tt6645154",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-08-07 23:31:50",
-      "orig_title": "Les hommes du feu",
-      "year": "2017-06-23",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-08-08 05:38:59",
-      "iframe_src": ""
-    },
-    {
-      "id": 18150,
-      "title": "Озеро Мунго",
-      "kp_id": "388784",
-      "imdb_id": "tt0816556",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-08-07 23:30:00",
-      "orig_title": "Lake Mungo",
-      "year": "2008-06-18",
-      "translations": [
-        "Любительский (одноголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2018-08-08 06:26:11",
-      "iframe_src": ""
-    },
-    {
-      "id": 18147,
-      "title": "Невозможность защиты",
-      "kp_id": "1018802",
-      "imdb_id": "tt6207118",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-08-07 23:23:31",
-      "orig_title": "Funohan",
-      "year": "2017-12-01",
+      "add": "2018-08-13 22:34:11",
+      "orig_title": "The Lost Tree",
+      "year": "2016-03-18",
       "translations": [
         "Любительский (многоголосый закадровый) (Колобок)"
       ],
-      "quality": "hdtv",
+      "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Колобок)",
-      "update": "2018-08-08 06:21:12",
+      "update": "2018-08-14 07:11:53",
       "iframe_src": ""
     },
     {
-      "id": 18146,
-      "title": "Исцеление",
-      "kp_id": "952753",
-      "imdb_id": "tt5239942",
+      "id": 18292,
+      "title": "Перелетные свиньи",
+      "kp_id": "569081",
+      "imdb_id": "tt1735200",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-08-07 23:21:16",
-      "orig_title": "Heal",
-      "year": "2017-10-20",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-08-08 06:19:32",
-      "iframe_src": ""
-    },
-    {
-      "id": 18145,
-      "title": "Стеклянный дом 2: Смертельная опека",
-      "kp_id": "258977",
-      "imdb_id": "tt0498348",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-08-07 23:18:26",
-      "orig_title": "Glass House: The Good Mother",
-      "year": "2006-10-03",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2018-08-08 06:18:37",
-      "iframe_src": ""
-    },
-    {
-      "id": 18144,
-      "title": "Сосед-призрак",
-      "kp_id": "1021064",
-      "imdb_id": "tt6225534",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-08-07 23:16:47",
-      "orig_title": "Ghostmates",
-      "year": "2016-12-14",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-08-08 06:17:50",
-      "iframe_src": ""
-    },
-    {
-      "id": 18142,
-      "title": "Серое золото",
-      "kp_id": "482205",
-      "imdb_id": "tt1525826",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-08-07 23:13:10",
-      "orig_title": "Det grå guld",
-      "year": "2013-03-28",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (GreenРай Studio)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый) (GreenРай Studio)",
-      "update": "2018-08-08 06:14:23",
-      "iframe_src": ""
-    },
-    {
-      "id": 18141,
-      "title": "Что скрывает Лох-Несс",
-      "kp_id": "36728",
-      "imdb_id": "tt0256155",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-08-07 23:07:49",
-      "orig_title": "Beneath Loch Ness",
-      "year": "2001-07-06",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2018-08-08 06:10:52",
-      "iframe_src": ""
-    },
-    {
-      "id": 18140,
-      "title": "Борис без Беатрис",
-      "kp_id": "919567",
-      "imdb_id": "tt4780842",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-08-07 23:02:14",
-      "orig_title": "Boris sans Béatrice",
-      "year": "2016-02-12",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (GreenРай Studio)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый) (GreenРай Studio)",
-      "update": "2018-08-08 05:40:36",
-      "iframe_src": ""
-    },
-    {
-      "id": 18139,
-      "title": "Блюбарелла: Супервумен",
-      "kp_id": "570149",
-      "imdb_id": "tt1756427",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-08-07 23:00:13",
-      "orig_title": "Blubberella",
-      "year": "2011-07-29",
+      "add": "2018-08-13 22:31:18",
+      "orig_title": "When Pigs Have Wings",
+      "year": "2011-09-21",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2018-08-08 06:06:30",
+      "update": "2018-08-14 07:13:15",
       "iframe_src": ""
     },
     {
-      "id": 18138,
-      "title": "Biggie: Жизнь Notorious B.I.G.",
-      "kp_id": null,
-      "imdb_id": "tt7297472",
+      "id": 18291,
+      "title": "Легендарные убийцы",
+      "kp_id": "824633",
+      "imdb_id": "tt3449040",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-08-07 22:57:44",
-      "orig_title": "Biggie: The Life of Notorious B.I.G.",
-      "year": "2017-09-04",
+      "add": "2018-08-13 22:26:06",
+      "orig_title": "Killer Legends",
+      "year": "2014-03-16",
+      "translations": [
+        "Любительский (двухголосый закадровый) (DeadSno & den904)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (двухголосый закадровый) (DeadSno & den904)",
+      "update": "2018-08-14 07:14:16",
+      "iframe_src": ""
+    },
+    {
+      "id": 18290,
+      "title": "Вкус рисового цветка",
+      "kp_id": "1051789",
+      "imdb_id": "tt7022720",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-08-13 22:20:29",
+      "orig_title": "Mi hua zhi wei",
+      "year": "2017-09-02",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-08-08 06:05:53",
+      "update": "2018-08-14 07:15:28",
       "iframe_src": ""
     },
     {
-      "id": 18137,
-      "title": "Баллистика: Экс против Сивер",
-      "kp_id": "1048",
-      "imdb_id": "tt0308208",
+      "id": 18289,
+      "title": "Джек хочет получить братика",
+      "kp_id": "851027",
+      "imdb_id": "tt3666734",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-08-07 22:55:49",
-      "orig_title": "Ballistic: Ecks vs. Sever",
-      "year": "2002-09-18",
+      "add": "2018-08-13 22:11:14",
+      "orig_title": "Jack bestelt een broertje",
+      "year": "2015-02-04",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (GreenРай Studio)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый) (GreenРай Studio)",
+      "update": "2018-08-14 07:18:55",
+      "iframe_src": ""
+    },
+    {
+      "id": 18288,
+      "title": "Дом Мэнсона",
+      "kp_id": "789152",
+      "imdb_id": "tt3100678",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-08-13 22:08:09",
+      "orig_title": "House of Manson",
+      "year": "2014-10-18",
+      "translations": [
+        "Любительский (двухголосый закадровый) (Колобок)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (двухголосый закадровый) (Колобок)",
+      "update": "2018-08-14 07:24:07",
+      "iframe_src": ""
+    },
+    {
+      "id": 18285,
+      "title": "Бегущий во времени",
+      "kp_id": "2680",
+      "imdb_id": "tt0108342",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-08-13 14:02:04",
+      "orig_title": "Time Runner",
+      "year": "1993-03-17",
+      "translations": [
+        "Профессиональный (двухголосый закадровый) (НТВ)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (двухголосый закадровый) (НТВ)",
+      "update": "2018-08-14 06:38:57",
+      "iframe_src": ""
+    },
+    {
+      "id": 18284,
+      "title": "Блондинки в законе",
+      "kp_id": "397489",
+      "imdb_id": "tt1015999",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-08-13 13:59:55",
+      "orig_title": "Legally Blondes",
+      "year": "2009-04-14",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2018-08-14 06:40:49",
+      "iframe_src": ""
+    },
+    {
+      "id": 18283,
+      "title": "Блэки летит на Луну",
+      "kp_id": "731985",
+      "imdb_id": "tt1199779",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-08-13 13:57:27",
+      "orig_title": "Black to the Moon 3D",
+      "year": "2013-02-15",
       "translations": [
         "Полное дублирование"
       ],
-      "quality": "webdl",
-      "translation": "Полное дублирование",
-      "update": "2018-08-08 06:04:10",
-      "iframe_src": ""
-    },
-    {
-      "id": 18136,
-      "title": "Анджела",
-      "kp_id": "12861",
-      "imdb_id": "tt0075681",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-08-07 22:43:52",
-      "orig_title": "Angela",
-      "year": "1977-11-10",
-      "translations": [
-        "Авторский (одноголосый закадровый) (Сербин Юрий)"
-      ],
       "quality": "dvdrip",
-      "translation": "Авторский (одноголосый закадровый) (Сербин Юрий)",
-      "update": "2018-08-08 06:01:48",
+      "translation": "Полное дублирование",
+      "update": "2018-08-14 06:37:07",
       "iframe_src": ""
     },
     {
-      "id": 18135,
-      "title": "Альберт",
-      "kp_id": "1000113",
-      "imdb_id": "tt5894846",
+      "id": 18281,
+      "title": "Ввысь",
+      "kp_id": "902246",
+      "imdb_id": "tt4490824",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-08-07 22:41:28",
-      "orig_title": "Al Berto",
-      "year": "2017-10-05",
+      "add": "2018-08-13 13:47:41",
+      "orig_title": "Lift Me Up",
+      "year": "2015-10-04",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
-      "quality": "dvdrip",
+      "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-08-08 06:00:53",
+      "update": "2018-08-14 06:47:25",
       "iframe_src": ""
     },
     {
-      "id": 18072,
-      "title": "Ловушка для родителей",
-      "kp_id": "18671",
-      "imdb_id": "tt0055277",
+      "id": 18280,
+      "title": "Хэвизавры",
+      "kp_id": "862230",
+      "imdb_id": "tt3806888",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-08-05 15:31:05",
-      "orig_title": "The Parent Trap",
-      "year": "1961-05-13",
+      "add": "2018-08-13 13:46:29",
+      "orig_title": "Hevisaurus-elokuva",
+      "year": "2015-11-27",
       "translations": [
-        "Профессиональный (многоголосый закадровый) (НТВ)"
+        "Профессиональный (многоголосый закадровый) (GreenРай Studio)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый) (GreenРай Studio)",
+      "update": "2018-08-14 06:41:37",
+      "iframe_src": ""
+    },
+    {
+      "id": 18222,
+      "title": "Приглашение со вкусом смерти",
+      "kp_id": "18199",
+      "imdb_id": "tt0271210",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-08-11 00:44:26",
+      "orig_title": "R.S.V.P.",
+      "year": "2002-01-15",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2018-08-13 13:07:17",
+      "iframe_src": ""
+    },
+    {
+      "id": 18221,
+      "title": "Пожиратели плоти",
+      "kp_id": "95434",
+      "imdb_id": "tt0080057",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-08-11 00:42:34",
+      "orig_title": "Zombi 2",
+      "year": "1979-08-25",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Гаврилов Андрей)"
+      ],
+      "quality": "bd",
+      "translation": "Авторский (одноголосый закадровый) (Гаврилов Андрей)",
+      "update": "2018-08-13 13:09:12",
+      "iframe_src": ""
+    },
+    {
+      "id": 18220,
+      "title": "Одержимая",
+      "kp_id": "27255",
+      "imdb_id": "tt0039725",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-08-11 00:40:21",
+      "orig_title": "Possessed",
+      "year": "1947-05-29",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2018-08-13 13:10:09",
+      "iframe_src": ""
+    },
+    {
+      "id": 18217,
+      "title": "Кровные узы",
+      "kp_id": "6259",
+      "imdb_id": "tt0076313",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-08-11 00:35:08",
+      "orig_title": "Les liens de sang",
+      "year": "1978-02-01",
+      "translations": [
+        "Любительский (одноголосый закадровый) (RAIM)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Любительский (одноголосый закадровый) (RAIM)",
+      "update": "2018-08-13 13:11:15",
+      "iframe_src": ""
+    },
+    {
+      "id": 18216,
+      "title": "Секрет",
+      "kp_id": "55725",
+      "imdb_id": "tt0227458",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-08-11 00:33:28",
+      "orig_title": "Le secret",
+      "year": "2000-11-01",
+      "translations": [
+        "Любительский (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Любительский (многоголосый закадровый)",
+      "update": "2018-08-13 13:12:48",
+      "iframe_src": ""
+    },
+    {
+      "id": 18215,
+      "title": "Секрет",
+      "kp_id": "150355",
+      "imdb_id": "tt0072131",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-08-11 00:31:30",
+      "orig_title": "Le secret",
+      "year": "1974-10-09",
+      "translations": [
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2018-08-13 13:12:55",
+      "iframe_src": ""
+    },
+    {
+      "id": 16978,
+      "title": "Неугомонные",
+      "kp_id": "1013918",
+      "imdb_id": "tt6001452",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-05-31 07:52:56",
+      "orig_title": "I cormorani",
+      "year": "2016-12-01",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Профессиональный (многоголосый закадровый) (GreenРай Studio)"
       ],
       "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый) (НТВ)",
-      "update": "2018-08-08 05:59:02",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2018-08-14 07:23:03",
+      "iframe_src": ""
+    },
+    {
+      "id": 16928,
+      "title": "Блокнот Сары",
+      "kp_id": "1038805",
+      "imdb_id": "tt6599742",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-05-27 21:26:57",
+      "orig_title": "El cuaderno de Sara",
+      "year": "2018-01-31",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Профессиональный (многоголосый закадровый) (GreenРай Studio)"
+      ],
+      "quality": "hdrip",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2018-08-14 06:34:21",
       "iframe_src": ""
     }
   ]

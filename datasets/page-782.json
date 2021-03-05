@@ -1,367 +1,364 @@
 {
   "data": [
     {
-      "id": 35130,
-      "title": "Два сердца – одна корона",
-      "kp_id": "81425",
-      "imdb_id": "tt0348244",
+      "id": 35281,
+      "title": "Новогодний поцелуй",
+      "kp_id": "1236472",
+      "imdb_id": "tt9663982",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-01-16 19:09:40",
-      "orig_title": "Trenck - Zwei Herzen gegen die Krone",
-      "year": "2003-02-09",
+      "add": "2020-01-21 08:43:37",
+      "orig_title": "New Year's Kiss",
+      "year": "2019-12-06",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-01-21 11:43:24",
+      "iframe_src": ""
+    },
+    {
+      "id": 35278,
+      "title": "Мисс Гениальность",
+      "kp_id": "1109000",
+      "imdb_id": "tt7702854",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-01-21 08:39:42",
+      "orig_title": "Girl Wired",
+      "year": "2019-02-13",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-01-21 11:42:55",
+      "iframe_src": ""
+    },
+    {
+      "id": 35276,
+      "title": "Год в Гренландии",
+      "kp_id": "1112210",
+      "imdb_id": "tt7689932",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-01-21 08:36:49",
+      "orig_title": "Une année polaire",
+      "year": "2018-05-24",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-01-21 11:40:42",
+      "iframe_src": ""
+    },
+    {
+      "id": 35235,
+      "title": "Обычный человек",
+      "kp_id": "1009700",
+      "imdb_id": "tt6857282",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-01-20 05:32:58",
+      "orig_title": "Botongsaram",
+      "year": "2017-03-23",
+      "translations": [
+        "Любительский (двухголосый закадровый) (Колобок)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (двухголосый закадровый) (Колобок)",
+      "update": "2020-01-21 11:34:59",
+      "iframe_src": ""
+    },
+    {
+      "id": 35226,
+      "title": "Песня памяти",
+      "kp_id": "935893",
+      "imdb_id": "tt7467590",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-01-19 15:19:58",
+      "orig_title": "Chuok ui norae",
+      "year": "1986-01-01",
+      "translations": [
+        "Любительский (одноголосый закадровый) (den904)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Любительский (одноголосый закадровый) (den904)",
+      "update": "2020-01-21 11:34:03",
+      "iframe_src": ""
+    },
+    {
+      "id": 35225,
+      "title": "Город будущего",
+      "kp_id": "64040",
+      "imdb_id": "tt0378428",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-01-19 15:13:46",
+      "orig_title": "Naechureol siti",
+      "year": "2003-09-05",
       "translations": [
         "Профессиональный (двухголосый закадровый)"
       ],
       "quality": "dvdrip",
       "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2020-01-17 05:07:49",
+      "update": "2020-01-21 11:33:15",
       "iframe_src": ""
     },
     {
-      "id": 35129,
-      "title": "Разбирая Гарри",
-      "kp_id": "1596",
-      "imdb_id": "tt0118954",
+      "id": 35224,
+      "title": "Невероятная миссия Кунг-фу",
+      "kp_id": "191066",
+      "imdb_id": "tt0188782",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-01-16 19:05:37",
-      "orig_title": "Deconstructing Harry",
-      "year": "1998-01-02",
+      "add": "2020-01-19 15:09:56",
+      "orig_title": "Shi xiong shi di zhai chu ma",
+      "year": "1980-11-07",
       "translations": [
-        "Профессиональный (многоголосый закадровый)"
+        "Авторский (одноголосый закадровый) (Кузнецов Сергей)"
       ],
       "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-01-17 05:06:52",
+      "translation": "Авторский (одноголосый закадровый) (Кузнецов Сергей)",
+      "update": "2020-01-21 11:31:29",
       "iframe_src": ""
     },
     {
-      "id": 35128,
-      "title": "Первый смертельный грех",
-      "kp_id": "9550",
-      "imdb_id": "tt0080738",
+      "id": 35223,
+      "title": "Пистолетная опера",
+      "kp_id": "38787",
+      "imdb_id": "tt0285906",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-01-16 17:25:51",
-      "orig_title": "The First Deadly Sin",
-      "year": "1980-10-03",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-01-17 05:26:22",
-      "iframe_src": ""
-    },
-    {
-      "id": 35127,
-      "title": "Тайны мудрого рыболова",
-      "kp_id": "521427",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-01-16 17:23:06",
-      "orig_title": "Тайны мудрого рыболова",
-      "year": "1958-11-23",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "vhs",
-      "translation": "Оригинальная дорожка",
-      "update": "2020-01-17 05:25:42",
-      "iframe_src": ""
-    },
-    {
-      "id": 35126,
-      "title": "Панамское досье",
-      "kp_id": "1190280",
-      "imdb_id": "tt8951058",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-01-16 17:19:22",
-      "orig_title": "The Panama Papers",
-      "year": "2018-10-06",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-01-17 05:25:09",
-      "iframe_src": ""
-    },
-    {
-      "id": 35125,
-      "title": "Паутина смерти",
-      "kp_id": "574144",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-01-16 17:14:54",
-      "orig_title": "Satsujin Net",
-      "year": "2004-11-06",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-01-17 05:24:19",
-      "iframe_src": ""
-    },
-    {
-      "id": 35124,
-      "title": "Заложник любви",
-      "kp_id": "95398",
-      "imdb_id": "tt0290331",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-01-16 17:09:21",
-      "orig_title": "Waqt Hamara Hai",
-      "year": "1993-07-02",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2020-01-17 05:23:26",
-      "iframe_src": ""
-    },
-    {
-      "id": 35123,
-      "title": "Василий и Василиса",
-      "kp_id": "45675",
-      "imdb_id": "tt0146339",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-01-16 16:58:02",
-      "orig_title": "Vasiliy i Vasilisa",
-      "year": "1981-11-30",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "sat",
-      "translation": "Оригинальная дорожка",
-      "update": "2020-01-17 05:22:43",
-      "iframe_src": ""
-    },
-    {
-      "id": 35113,
-      "title": "Киберневеста",
-      "kp_id": "1265870",
-      "imdb_id": "tt10273384",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-01-16 12:21:31",
-      "orig_title": "Cyber Bride",
-      "year": "2019-11-05",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-01-16 19:06:29",
-      "iframe_src": ""
-    },
-    {
-      "id": 35111,
-      "title": "Падшие Ангелы",
-      "kp_id": "982562",
-      "imdb_id": "tt5759590",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-01-16 12:18:41",
-      "orig_title": "Angels Fallen",
-      "year": "2020-01-14",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-01-16 19:07:14",
-      "iframe_src": ""
-    },
-    {
-      "id": 35110,
-      "title": "24 часа в Лондоне",
-      "kp_id": "1139254",
-      "imdb_id": "tt7737394",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-01-16 12:16:52",
-      "orig_title": "24 Little Hours",
-      "year": "2020-01-13",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-01-16 19:07:53",
-      "iframe_src": ""
-    },
-    {
-      "id": 35108,
-      "title": "Милен Фармер",
-      "kp_id": "650479",
-      "imdb_id": "tt2112343",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-01-16 11:58:36",
-      "orig_title": "Mylène Farmer: Stade de France",
-      "year": "2009-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "bd",
-      "translation": "Оригинальная дорожка",
-      "update": "2020-01-17 05:16:17",
-      "iframe_src": ""
-    },
-    {
-      "id": 35107,
-      "title": "Провидец греха",
-      "kp_id": "843647",
-      "imdb_id": "tt3605262",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-01-16 11:49:27",
-      "orig_title": "The Sin Seer",
-      "year": "2015-10-13",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Parovoz Production)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Любительский (многоголосый закадровый) (Parovoz Production)",
-      "update": "2020-01-17 05:13:35",
-      "iframe_src": ""
-    },
-    {
-      "id": 35105,
-      "title": "Кровь пустыни",
-      "kp_id": "180785",
-      "imdb_id": "tt0478137",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-01-16 11:43:28",
-      "orig_title": "Desert of Blood",
-      "year": "2008-06-24",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-01-17 05:11:50",
-      "iframe_src": ""
-    },
-    {
-      "id": 35104,
-      "title": "Запах вереска",
-      "kp_id": "786927",
-      "imdb_id": "tt3121262",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-01-16 11:32:40",
-      "orig_title": "Zapakh vereska",
-      "year": "2013-08-11",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "hdtv",
-      "translation": "Оригинальная дорожка",
-      "update": "2020-01-17 05:10:20",
-      "iframe_src": ""
-    },
-    {
-      "id": 35034,
-      "title": "Жестокая пятерка",
-      "kp_id": "232977",
-      "imdb_id": "tt0080151",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-01-14 19:20:14",
-      "orig_title": "Wu hu jiang",
-      "year": "1974-02-15",
+      "add": "2020-01-19 15:07:37",
+      "orig_title": "Pisutoru opera",
+      "year": "2001-09-02",
       "translations": [
         "Любительский (одноголосый закадровый)"
       ],
-      "quality": "bd",
+      "quality": "dvdrip",
       "translation": "Любительский (одноголосый закадровый)",
-      "update": "2020-01-17 07:26:14",
+      "update": "2020-01-21 11:30:19",
       "iframe_src": ""
     },
     {
-      "id": 34532,
-      "title": "Портрет девушки в огне",
-      "kp_id": "1169370",
-      "imdb_id": "tt8613070",
+      "id": 35222,
+      "title": "Последний волк",
+      "kp_id": "170605",
+      "imdb_id": "tt0400621",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-12-27 17:59:58",
-      "orig_title": "Portrait de la jeune fille en feu",
-      "year": "2019-05-19",
+      "add": "2020-01-19 15:05:32",
+      "orig_title": "Majimak neukdae",
+      "year": "2004-04-02",
       "translations": [
-        "Полное дублирование"
+        "Любительский (одноголосый закадровый) (den904)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Любительский (одноголосый закадровый) (den904)",
+      "update": "2020-01-21 11:29:30",
+      "iframe_src": ""
+    },
+    {
+      "id": 35221,
+      "title": "Контрабанда",
+      "kp_id": "36891",
+      "imdb_id": "tt0099725",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-01-19 14:51:32",
+      "orig_title": "Hai lang",
+      "year": "1991-09-28",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Кашкин Александр | Первомайский)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Авторский (одноголосый закадровый) (Кашкин Александр | Первомайский)",
+      "update": "2020-01-21 11:28:48",
+      "iframe_src": ""
+    },
+    {
+      "id": 35220,
+      "title": "Дворец Тануки",
+      "kp_id": "102290",
+      "imdb_id": "tt0441674",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-01-19 14:49:01",
+      "orig_title": "Operetta tanuki goten",
+      "year": "2005-05-20",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Кузнецов Сергей)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Авторский (одноголосый закадровый) (Кузнецов Сергей)",
+      "update": "2020-01-21 11:28:10",
+      "iframe_src": ""
+    },
+    {
+      "id": 35219,
+      "title": "Богат и знаменит 2",
+      "kp_id": "5346",
+      "imdb_id": "tt0094356",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-01-19 14:46:37",
+      "orig_title": "Ying hung ho hon",
+      "year": "1987-01-24",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Визгунов Сергей)"
+      ],
+      "quality": "bd",
+      "translation": "Авторский (одноголосый закадровый) (Визгунов Сергей)",
+      "update": "2020-01-21 11:27:03",
+      "iframe_src": ""
+    },
+    {
+      "id": 35218,
+      "title": "«Л» как любовь, «Л» как ложь",
+      "kp_id": "408931",
+      "imdb_id": "tt1205065",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-01-19 14:43:04",
+      "orig_title": "Ngor dik zeoi oi",
+      "year": "2008-03-13",
+      "translations": [
+        "Любительский (одноголосый закадровый) (Воробьев Сергей)"
+      ],
+      "quality": "tv",
+      "translation": "Любительский (одноголосый закадровый) (Воробьев Сергей)",
+      "update": "2020-01-21 11:26:15",
+      "iframe_src": ""
+    },
+    {
+      "id": 35217,
+      "title": "Мишень для всех",
+      "kp_id": "221974",
+      "imdb_id": "tt0100443",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-01-19 14:36:35",
+      "orig_title": "Kei bing",
+      "year": "1990-05-05",
+      "translations": [
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2020-01-21 11:23:19",
+      "iframe_src": ""
+    },
+    {
+      "id": 35216,
+      "title": "Пульгасари",
+      "kp_id": "243255",
+      "imdb_id": "tt0089851",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-01-19 14:33:46",
+      "orig_title": "Pulgasari",
+      "year": "1985-07-04",
+      "translations": [
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2020-01-21 11:22:10",
+      "iframe_src": ""
+    },
+    {
+      "id": 35215,
+      "title": "Подводная лодка I-57 не сдаётся",
+      "kp_id": "156811",
+      "imdb_id": "tt0053315",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-01-19 14:30:15",
+      "orig_title": "Sensuikan I-57 kofuku sezu",
+      "year": "1959-07-05",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Рутилов Виктор | fiendover)"
       ],
       "quality": "webdl",
-      "translation": "Полное дублирование",
-      "update": "2020-01-16 19:09:20",
+      "translation": "Авторский (одноголосый закадровый) (Рутилов Виктор | fiendover)",
+      "update": "2020-01-21 11:20:48",
       "iframe_src": ""
     },
     {
-      "id": 33758,
-      "title": "Джей и молчаливый Боб: Перезагрузка",
-      "kp_id": "1036153",
-      "imdb_id": "tt6521876",
+      "id": 35214,
+      "title": "Маленький дом",
+      "kp_id": "720431",
+      "imdb_id": "tt2530392",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-12-05 19:02:24",
-      "orig_title": "Jay and Silent Bob Reboot",
-      "year": "2019-10-15",
+      "add": "2020-01-19 14:26:37",
+      "orig_title": "Chiisai ouchi",
+      "year": "2014-01-25",
       "translations": [
-        "Original (English)",
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
+        "Любительский (многоголосый закадровый) (Синема УС)"
       ],
-      "quality": "bd",
-      "translation": "Original (English)",
-      "update": "2020-01-17 03:45:07",
+      "quality": "hdrip",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-01-21 11:19:56",
       "iframe_src": ""
     },
     {
-      "id": 7498,
-      "title": "Рейс 1942",
-      "kp_id": "902226",
-      "imdb_id": "tt4627104",
+      "id": 35211,
+      "title": "Кунг-фу на продажу",
+      "kp_id": "267687",
+      "imdb_id": "tt0198616",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-11-19 09:02:41",
-      "orig_title": "Flight World War II",
-      "year": "2015-06-02",
+      "add": "2020-01-19 14:14:35",
+      "orig_title": "Gong fu da pai mai",
+      "year": "1979-01-01",
       "translations": [
-        "Любительский (одноголосый закадровый)",
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Любительский (одноголосый закадровый) (datynet)"
+        "Профессиональный (двухголосый закадровый)"
       ],
-      "quality": "bd",
+      "quality": "dvdrip",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2020-01-21 11:18:35",
+      "iframe_src": ""
+    },
+    {
+      "id": 35210,
+      "title": "Мексиканский ниндзя",
+      "kp_id": "237918",
+      "imdb_id": "tt0121595",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-01-19 14:11:40",
+      "orig_title": "El ninja mexicano",
+      "year": "1991-05-30",
+      "translations": [
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "dvdrip",
       "translation": "Любительский (одноголосый закадровый)",
-      "update": "2020-01-17 05:05:25",
+      "update": "2020-01-21 11:17:34",
       "iframe_src": ""
     },
     {
-      "id": 2556,
-      "title": "Параллели",
-      "kp_id": "894009",
-      "imdb_id": "tt3479316",
+      "id": 11274,
+      "title": "Меняющий игру",
+      "kp_id": "996645",
+      "imdb_id": "tt5992138",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-05-24 20:24:09",
-      "orig_title": "Parallels",
-      "year": "2015-03-01",
+      "add": "2017-04-30 11:20:44",
+      "orig_title": "Youxi guize",
+      "year": "2017-02-10",
       "translations": [
-        "Любительский (двухголосый закадровый)",
-        "Любительский (двухголосый закадровый) (Hamster Studio)"
+        "Любительский (многоголосый закадровый) (Колобок)",
+        "Любительский (двухголосый закадровый) (SoftBox)"
       ],
       "quality": "webdl",
-      "translation": "Любительский (двухголосый закадровый)",
-      "update": "2020-01-17 05:15:21",
+      "translation": "Любительский (многоголосый закадровый) (Колобок)",
+      "update": "2020-01-21 11:24:21",
       "iframe_src": ""
     }
   ]

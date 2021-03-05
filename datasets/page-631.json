@@ -1,363 +1,377 @@
 {
   "data": [
     {
-      "id": 37962,
-      "title": "Каникулы с Дереком",
-      "kp_id": "504365",
-      "imdb_id": "tt1623013",
+      "id": 38089,
+      "title": "Чудаки",
+      "kp_id": "406482",
+      "imdb_id": "tt1043852",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-03-13 16:18:56",
-      "orig_title": "Vacation with Derek",
-      "year": "2010-06-25",
+      "add": "2020-03-17 07:13:09",
+      "orig_title": "Lascars",
+      "year": "2009-05-17",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
-      "quality": "dvb",
+      "quality": "bd",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-03-13 19:27:13",
+      "update": "2020-03-17 15:09:18",
       "iframe_src": ""
     },
     {
-      "id": 37961,
-      "title": "Животные инстинкты",
-      "kp_id": "29887",
-      "imdb_id": "tt0103696",
+      "id": 38088,
+      "title": "Невесты",
+      "kp_id": "1079635",
+      "imdb_id": "tt6730778",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-03-13 16:17:20",
-      "orig_title": "Animal Instincts",
-      "year": "1992-10-21",
-      "translations": [
-        "Авторский (одноголосый закадровый) (Марченко Александр)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Авторский (одноголосый закадровый) (Марченко Александр)",
-      "update": "2020-03-13 19:27:43",
-      "iframe_src": ""
-    },
-    {
-      "id": 37959,
-      "title": "Скелеты в шкафу",
-      "kp_id": "482067",
-      "imdb_id": "tt1536054",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-03-13 16:14:11",
-      "orig_title": "My Family's Secret",
-      "year": "2011-10-11",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-03-13 19:31:14",
-      "iframe_src": ""
-    },
-    {
-      "id": 37957,
-      "title": "Предупреждение",
-      "kp_id": "795783",
-      "imdb_id": "tt3138602",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-03-13 16:11:24",
-      "orig_title": "Warning",
-      "year": "2013-09-27",
-      "translations": [
-        "Любительский (двухголосый закадровый) (DeadSno & den904)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Любительский (двухголосый закадровый) (DeadSno & den904)",
-      "update": "2020-03-13 19:32:21",
-      "iframe_src": ""
-    },
-    {
-      "id": 37956,
-      "title": "Свидание с дочерью президента",
-      "kp_id": "257806",
-      "imdb_id": "tt0151683",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-03-13 16:08:15",
-      "orig_title": "My Date with the President's Daughter",
-      "year": "1998-04-19",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "dvb",
-      "translation": "Полное дублирование",
-      "update": "2020-03-13 19:33:05",
-      "iframe_src": ""
-    },
-    {
-      "id": 37954,
-      "title": "Квартирантка",
-      "kp_id": "572011",
-      "imdb_id": "tt1756818",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-03-13 16:04:42",
-      "orig_title": "The Perfect Roommate",
-      "year": "2011-07-21",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-03-13 19:35:09",
-      "iframe_src": ""
-    },
-    {
-      "id": 37953,
-      "title": "Большая разница",
-      "kp_id": "418669",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-03-13 16:03:20",
-      "orig_title": "Большая разница",
-      "year": "2008-01-27",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2020-03-13 19:35:41",
-      "iframe_src": ""
-    },
-    {
-      "id": 37949,
-      "title": "Призрачные приключенцы",
-      "kp_id": "1309981",
-      "imdb_id": "tt11067932",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-03-13 14:55:01",
-      "orig_title": "The Ghost Adventurers",
-      "year": "2019-10-01",
+      "add": "2020-03-17 07:09:20",
+      "orig_title": "The Brides",
+      "year": "2018-06-19",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-03-13 17:20:51",
+      "update": "2020-03-17 15:08:23",
       "iframe_src": ""
     },
     {
-      "id": 37881,
-      "title": "Последнее казино",
-      "kp_id": "260970",
-      "imdb_id": "tt0419909",
+      "id": 38085,
+      "title": "Бумажные флаги",
+      "kp_id": "1164755",
+      "imdb_id": "tt8542190",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-03-12 18:58:16",
-      "orig_title": "The Last Casino",
-      "year": "2004-06-26",
+      "add": "2020-03-17 06:59:02",
+      "orig_title": "Les drapeaux de papier",
+      "year": "2018-10-17",
       "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-03-13 19:35:48",
-      "iframe_src": ""
-    },
-    {
-      "id": 37879,
-      "title": "Где Господь оставил свои ботинки",
-      "kp_id": "254186",
-      "imdb_id": "tt0756725",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-03-12 18:55:15",
-      "orig_title": "Where God Left His Shoes",
-      "year": "2007-04-27",
-      "translations": [
-        "Профессиональный (двухголосый закадровый) (NLS)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (двухголосый закадровый) (NLS)",
-      "update": "2020-03-13 19:37:01",
-      "iframe_src": ""
-    },
-    {
-      "id": 37878,
-      "title": "Моя маленькая принцесса",
-      "kp_id": "586634",
-      "imdb_id": "tt1896788",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-03-12 18:54:08",
-      "orig_title": "My Little Princess",
-      "year": "2011-05-17",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "hdtv",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-03-13 19:37:48",
-      "iframe_src": ""
-    },
-    {
-      "id": 37876,
-      "title": "Грязная любовь",
-      "kp_id": "279019",
-      "imdb_id": "tt0411291",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-03-12 18:50:47",
-      "orig_title": "Dirty Filthy Love",
-      "year": "2004-09-26",
-      "translations": [
-        "Любительский (двухголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Любительский (двухголосый закадровый)",
-      "update": "2020-03-13 19:39:23",
-      "iframe_src": ""
-    },
-    {
-      "id": 37875,
-      "title": "Август",
-      "kp_id": "197864",
-      "imdb_id": "tt0470679",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-03-12 18:49:37",
-      "orig_title": "August",
-      "year": "2008-01-22",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-03-13 19:39:52",
-      "iframe_src": ""
-    },
-    {
-      "id": 37737,
-      "title": "Месть обманутой женщины",
-      "kp_id": "81040",
-      "imdb_id": "tt0352314",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-03-10 22:11:56",
-      "orig_title": "Ek Hasina Thi",
-      "year": "2004-01-16",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-03-13 16:00:43",
-      "iframe_src": ""
-    },
-    {
-      "id": 37736,
-      "title": "Миссия «Стамбул»",
-      "kp_id": "404335",
-      "imdb_id": "tt1179781",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-03-10 22:07:47",
-      "orig_title": "Mission Istaanbul: Darr Ke Aagey Jeet Hai!",
-      "year": "2008-07-25",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "hddvd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-03-13 15:57:18",
-      "iframe_src": ""
-    },
-    {
-      "id": 37735,
-      "title": "Рагхавендра – Святой воин",
-      "kp_id": "276764",
-      "imdb_id": "tt0924271",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-03-10 21:55:48",
-      "orig_title": "Raghavendra",
-      "year": "2003-01-01",
-      "translations": [
-        "Любительский (одноголосый закадровый)  (zamez)"
+        "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
-      "translation": "Любительский (одноголосый закадровый)  (zamez)",
-      "update": "2020-03-13 15:50:58",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-03-17 15:06:57",
       "iframe_src": ""
     },
     {
-      "id": 37734,
-      "title": "Криминальный роман",
-      "kp_id": "64538",
-      "imdb_id": "tt0111068",
+      "id": 38020,
+      "title": "Невидимый мир",
+      "kp_id": "425000",
+      "imdb_id": "tt1048174",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-03-10 21:52:45",
-      "orig_title": "Sangharsh",
-      "year": "1999-09-03",
+      "add": "2020-03-15 09:20:02",
+      "orig_title": "The World Unseen",
+      "year": "2007-09-09",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "webdl",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-03-13 15:49:52",
+      "update": "2020-03-17 15:39:45",
       "iframe_src": ""
     },
     {
-      "id": 33260,
-      "title": "Вооружен и очень опасен",
-      "kp_id": "322948",
-      "imdb_id": "tt0816258",
+      "id": 38018,
+      "title": "В темноте",
+      "kp_id": "463068",
+      "imdb_id": "tt1422800",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-11-19 06:53:27",
-      "orig_title": "Pokiri",
-      "year": "2006-04-27",
+      "add": "2020-03-15 09:17:18",
+      "orig_title": "Beneath the Dark",
+      "year": "2010-03-13",
       "translations": [
-        "Профессиональный (многоголосый закадровый) (Red Media)"
+        "Профессиональный (двухголосый закадровый) (НТВ)"
       ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый) (Red Media)",
-      "update": "2020-03-13 15:51:53",
+      "quality": "hdrip",
+      "translation": "Профессиональный (двухголосый закадровый) (НТВ)",
+      "update": "2020-03-17 15:35:17",
       "iframe_src": ""
     },
     {
-      "id": 16493,
-      "title": "Фея",
-      "kp_id": "1075751",
-      "imdb_id": "tt7329858",
+      "id": 38017,
+      "title": "Джим с Пиккадилли",
+      "kp_id": "47025",
+      "imdb_id": "tt0371878",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-04-26 22:26:00",
-      "orig_title": "Pari",
-      "year": "2018-03-02",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "webdl",
-      "translation": "Полное дублирование",
-      "update": "2020-03-13 15:56:18",
-      "iframe_src": ""
-    },
-    {
-      "id": 13928,
-      "title": "Каталин Варга",
-      "kp_id": "440750",
-      "imdb_id": "tt1360875",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-10-20 10:43:03",
-      "orig_title": "Katalin Varga",
-      "year": "2009-02-11",
+      "add": "2020-03-15 09:16:25",
+      "orig_title": "Piccadilly Jim",
+      "year": "2005-04-22",
       "translations": [
         "Профессиональный (двухголосый закадровый)"
       ],
       "quality": "dvdrip",
       "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2020-03-13 19:38:30",
+      "update": "2020-03-17 15:47:07",
+      "iframe_src": ""
+    },
+    {
+      "id": 38013,
+      "title": "Запретный плод",
+      "kp_id": "440925",
+      "imdb_id": "tt1188998",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-03-15 09:07:49",
+      "orig_title": "Kielletty hedelmä",
+      "year": "2009-01-28",
+      "translations": [
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "hdrip",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2020-03-17 15:45:06",
+      "iframe_src": ""
+    },
+    {
+      "id": 38008,
+      "title": "Вызов",
+      "kp_id": "416130",
+      "imdb_id": "tt1241316",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-03-15 08:36:41",
+      "orig_title": "Dare",
+      "year": "2009-07-19",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2020-03-17 15:43:39",
+      "iframe_src": ""
+    },
+    {
+      "id": 38007,
+      "title": "Сандокан, тигр южных морей",
+      "kp_id": "92391",
+      "imdb_id": "tt0057469",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-03-15 08:34:57",
+      "orig_title": "Sandokan, la tigre di Mompracem",
+      "year": "1963-12-19",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Козлов Сергей)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Авторский (одноголосый закадровый) (Козлов Сергей)",
+      "update": "2020-03-17 15:38:32",
+      "iframe_src": ""
+    },
+    {
+      "id": 37944,
+      "title": "Долгий путь",
+      "kp_id": "355202",
+      "imdb_id": "tt0486420",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-03-13 13:48:11",
+      "orig_title": "Love's Long Journey",
+      "year": "2005-12-03",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2020-03-17 14:13:23",
+      "iframe_src": ""
+    },
+    {
+      "id": 37942,
+      "title": "За императора",
+      "kp_id": "840368",
+      "imdb_id": "tt4136696",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-03-13 13:45:54",
+      "orig_title": "Hwangjereul wihayeo",
+      "year": "2014-06-12",
+      "translations": [
+        "Любительский (двухголосый закадровый) (DeadSno & den904)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (двухголосый закадровый) (DeadSno & den904)",
+      "update": "2020-03-17 14:37:10",
+      "iframe_src": ""
+    },
+    {
+      "id": 37590,
+      "title": "Любовь над облаками",
+      "kp_id": "69421",
+      "imdb_id": "tt0346507",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-03-08 22:04:20",
+      "orig_title": "Andaaz",
+      "year": "2003-05-23",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-03-17 14:46:07",
+      "iframe_src": ""
+    },
+    {
+      "id": 37227,
+      "title": "Миротворец",
+      "kp_id": "14897",
+      "imdb_id": "tt0119872",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-03-02 20:44:02",
+      "orig_title": "The Peacekeeper",
+      "year": "1997-08-13",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (РТР | Россия)",
+        "Авторский (одноголосый закадровый) (Гаврилов Андрей)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый) (РТР | Россия)",
+      "update": "2020-03-17 14:41:42",
+      "iframe_src": ""
+    },
+    {
+      "id": 35930,
+      "title": "Иди к папочке",
+      "kp_id": "1181982",
+      "imdb_id": "tt8816194",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-02-08 22:10:28",
+      "orig_title": "Come to Daddy",
+      "year": "2020-04-27",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Полное дублирование"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-03-17 15:33:36",
+      "iframe_src": ""
+    },
+    {
+      "id": 33408,
+      "title": "Необитаемый",
+      "kp_id": "503144",
+      "imdb_id": "tt1459013",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-11-24 17:11:57",
+      "orig_title": "Uninhabited",
+      "year": "2010-05-14",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)",
+        "Профессиональный (двухголосый закадровый)",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-03-17 15:54:54",
+      "iframe_src": ""
+    },
+    {
+      "id": 33277,
+      "title": "Томпсоны",
+      "kp_id": "610778",
+      "imdb_id": "tt1831806",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-11-19 12:54:13",
+      "orig_title": "The Thompsons",
+      "year": "2012-08-21",
+      "translations": [
+        "Любительский (одноголосый закадровый) (den904)",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (одноголосый закадровый) (den904)",
+      "update": "2020-03-17 15:50:38",
+      "iframe_src": ""
+    },
+    {
+      "id": 33216,
+      "title": "Невероятная правда",
+      "kp_id": "25377",
+      "imdb_id": "tt0100842",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-11-18 14:04:55",
+      "orig_title": "The Unbelievable Truth",
+      "year": "1989-09-08",
+      "translations": [
+        "Профессиональный (двухголосый закадровый) (Elrom)",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (двухголосый закадровый) (Elrom)",
+      "update": "2020-03-17 15:51:31",
+      "iframe_src": ""
+    },
+    {
+      "id": 31157,
+      "title": "Комната желаний",
+      "kp_id": "1159556",
+      "imdb_id": "tt8485364",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-09-25 09:02:59",
+      "orig_title": "The Room",
+      "year": "2019-04-15",
+      "translations": [
+        "Полное дублирование",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2020-03-17 15:32:47",
+      "iframe_src": ""
+    },
+    {
+      "id": 11221,
+      "title": "Пыль времени",
+      "kp_id": "258851",
+      "imdb_id": "tt0765442",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-04-26 12:45:01",
+      "orig_title": "Trilogia II: I skoni tou hronou",
+      "year": "2008-11-22",
+      "translations": [
+        "Полное дублирование",
+        "Полное дублирование",
+        "Original (English)"
+      ],
+      "quality": "hdrip",
+      "translation": "Полное дублирование",
+      "update": "2020-03-17 15:53:33",
+      "iframe_src": ""
+    },
+    {
+      "id": 6359,
+      "title": "Петля",
+      "kp_id": "9416",
+      "imdb_id": "tt0088272",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-17 05:06:03",
+      "orig_title": "Tightrope",
+      "year": "1984-08-17",
+      "translations": [
+        "Полное дублирование",
+        "Профессиональный (многоголосый закадровый)",
+        "Авторский (одноголосый закадровый) (Михалёв Алексей)",
+        "Авторский (одноголосый закадровый) (Володарский Леонид)",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2020-03-17 15:52:18",
       "iframe_src": ""
     }
   ]

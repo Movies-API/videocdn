@@ -1,386 +1,365 @@
 {
   "data": [
     {
-      "id": 39743,
-      "title": "Паранойя",
-      "kp_id": "28616",
-      "imdb_id": "tt0064787",
+      "id": 39608,
+      "title": "Встреча влюбленных",
+      "kp_id": "222629",
+      "imdb_id": "tt0266456",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-04-23 16:11:23",
-      "orig_title": "Paranoia",
-      "year": "1970-02-15",
+      "add": "2020-04-20 21:29:30",
+      "orig_title": "Deedar-E-Yaar",
+      "year": "1982-10-22",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2020-04-28 10:45:52",
+      "iframe_src": ""
+    },
+    {
+      "id": 39607,
+      "title": "За решёткой",
+      "kp_id": "86766",
+      "imdb_id": "tt0286936",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-04-20 21:26:55",
+      "orig_title": "Salaakhen",
+      "year": "1998-04-24",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (ZEE TV)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый) (ZEE TV)",
+      "update": "2020-04-28 10:45:06",
+      "iframe_src": ""
+    },
+    {
+      "id": 39605,
+      "title": "Девочка по вызову",
+      "kp_id": "273536",
+      "imdb_id": "tt0370383",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-04-20 21:20:44",
+      "orig_title": "Call Girl",
+      "year": "1974-09-16",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-04-28 10:44:21",
+      "iframe_src": ""
+    },
+    {
+      "id": 39591,
+      "title": "Любовь и музыка",
+      "kp_id": "36618",
+      "imdb_id": "tt0105313",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-04-19 21:52:50",
+      "orig_title": "Sangeet",
+      "year": "1992-01-01",
       "translations": [
         "Любительский (одноголосый закадровый)"
       ],
-      "quality": "bd",
+      "quality": "sat",
       "translation": "Любительский (одноголосый закадровый)",
-      "update": "2020-04-24 09:37:05",
+      "update": "2020-04-28 10:43:26",
       "iframe_src": ""
     },
     {
-      "id": 39739,
-      "title": "Спинорог Пикассо",
-      "kp_id": "38491",
-      "imdb_id": "tt0095867",
+      "id": 39590,
+      "title": "Японская жена",
+      "kp_id": "503605",
+      "imdb_id": "tt1620620",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-04-23 16:06:15",
-      "orig_title": "Picasso Trigger",
-      "year": "1988-08-25",
+      "add": "2020-04-19 21:46:14",
+      "orig_title": "The Japanese Wife",
+      "year": "2010-04-09",
       "translations": [
-        "Авторский (одноголосый закадровый) (Дольский Андрей)"
+        "Любительский (одноголосый закадровый)"
       ],
-      "quality": "bd",
-      "translation": "Авторский (одноголосый закадровый) (Дольский Андрей)",
-      "update": "2020-04-24 09:33:05",
+      "quality": "dvdrip",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2020-04-28 10:42:07",
       "iframe_src": ""
     },
     {
-      "id": 39738,
-      "title": "Малибу-экспресс",
-      "kp_id": "34151",
-      "imdb_id": "tt0089539",
+      "id": 39589,
+      "title": "Я докажу всему миру!",
+      "kp_id": "217664",
+      "imdb_id": "tt0230993",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-04-23 16:05:28",
-      "orig_title": "Malibu Express",
-      "year": "1987-02-26",
+      "add": "2020-04-19 21:43:33",
+      "orig_title": "Zamaane Ko Dikhana Hai",
+      "year": "1981-12-30",
       "translations": [
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Original (English)",
-      "update": "2020-04-24 09:31:37",
-      "iframe_src": ""
-    },
-    {
-      "id": 39737,
-      "title": "Черная месса",
-      "kp_id": "132425",
-      "imdb_id": "tt0067500",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-04-23 16:04:21",
-      "orig_title": "La noche del terror ciego",
-      "year": "1972-04-10",
-      "translations": [
-        "Авторский (одноголосый закадровый) (Есарев Дмитрий)"
-      ],
-      "quality": "bd",
-      "translation": "Авторский (одноголосый закадровый) (Есарев Дмитрий)",
-      "update": "2020-04-24 09:30:17",
-      "iframe_src": ""
-    },
-    {
-      "id": 39725,
-      "title": "По всей моде",
-      "kp_id": "1348956",
-      "imdb_id": "tt11808612",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-04-22 20:27:10",
-      "orig_title": "Fashionably Yours",
-      "year": "2020-04-11",
-      "translations": [
-        "Любительский (многоголосый закадровый) (AlphaProject)",
-        "Original (English)"
-      ],
-      "quality": "hdtv",
-      "translation": "Любительский (многоголосый закадровый) (AlphaProject)",
-      "update": "2020-04-24 10:58:52",
-      "iframe_src": ""
-    },
-    {
-      "id": 39705,
-      "title": "Семья Уиллоби",
-      "kp_id": "1088673",
-      "imdb_id": "tt5206260",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-04-22 07:54:35",
-      "orig_title": "The Willoughbys",
-      "year": "2020-04-22",
-      "translations": [
-        "Полное дублирование (Невафильм)",
-        "Original (English)"
-      ],
-      "quality": "webdl",
-      "translation": "Полное дублирование (Невафильм)",
-      "update": "2020-04-24 11:18:28",
-      "iframe_src": ""
-    },
-    {
-      "id": 39696,
-      "title": "Длинная тень",
-      "kp_id": "1103642",
-      "imdb_id": "tt7629818",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-04-22 06:06:33",
-      "orig_title": "The Long Shadow",
-      "year": "2019-10-16",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Original (English)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-04-24 11:15:26",
-      "iframe_src": ""
-    },
-    {
-      "id": 39695,
-      "title": "Призрак Джонстауна",
-      "kp_id": "1200764",
-      "imdb_id": "tt9011916",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-04-22 06:04:57",
-      "orig_title": "The Jonestown Haunting",
-      "year": "2020-04-21",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Original (English)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-04-24 11:14:21",
-      "iframe_src": ""
-    },
-    {
-      "id": 39694,
-      "title": "Пенанс-лейн",
-      "kp_id": "596375",
-      "imdb_id": "tt1964995",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-04-22 06:01:52",
-      "orig_title": "Penance Lane",
-      "year": "2020-04-21",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Original (English)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-04-24 11:11:31",
-      "iframe_src": ""
-    },
-    {
-      "id": 39693,
-      "title": "Дорогой милосердия",
-      "kp_id": "1155170",
-      "imdb_id": "tt7838654",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-04-22 06:01:09",
-      "orig_title": "Finding Grace",
-      "year": "2020-04-21",
-      "translations": [
-        "Любительский (многоголосый закадровый) (AlphaProject)",
-        "Original (English)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (AlphaProject)",
-      "update": "2020-04-24 11:06:14",
-      "iframe_src": ""
-    },
-    {
-      "id": 39688,
-      "title": "Всё, что есть - пятёрка. Часть третья",
-      "kp_id": "1189491",
-      "imdb_id": "tt8924580",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-04-22 05:54:39",
-      "orig_title": "I Got Five on it 3",
-      "year": "2020-04-20",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Original (English)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-04-24 11:10:54",
-      "iframe_src": ""
-    },
-    {
-      "id": 39503,
-      "title": "Ранчо надежды",
-      "kp_id": "965436",
-      "imdb_id": "tt5244812",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-04-18 18:56:49",
-      "orig_title": "Riding Faith",
-      "year": "2020-03-03",
-      "translations": [
-        "Любительский (многоголосый закадровый) (AlphaProject)",
-        "Original (English)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (AlphaProject)",
-      "update": "2020-04-24 11:09:15",
-      "iframe_src": ""
-    },
-    {
-      "id": 39473,
-      "title": "Сержиу",
-      "kp_id": "1177470",
-      "imdb_id": "tt8750570",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-04-18 03:54:54",
-      "orig_title": "Sergio",
-      "year": "2020-01-28",
-      "translations": [
-        "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-        "Original (English)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-      "update": "2020-04-24 11:13:18",
-      "iframe_src": ""
-    },
-    {
-      "id": 39472,
-      "title": "Терапия с приветом",
-      "kp_id": "1159768",
-      "imdb_id": "tt8488518",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-04-18 03:53:59",
-      "orig_title": "Bad Therapy",
-      "year": "2020-04-17",
-      "translations": [
-        "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-        "Original (English)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-      "update": "2020-04-24 11:02:42",
-      "iframe_src": ""
-    },
-    {
-      "id": 39469,
-      "title": "Бэд трип",
-      "kp_id": "1236436",
-      "imdb_id": "tt9684220",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-04-18 03:47:53",
-      "orig_title": "Bad Trip",
-      "year": "2020-01-01",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Original (English)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-04-24 11:04:04",
-      "iframe_src": ""
-    },
-    {
-      "id": 39467,
-      "title": "На выходные",
-      "kp_id": "1130427",
-      "imdb_id": "tt8089234",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-04-18 03:46:01",
-      "orig_title": "For the Weekend",
-      "year": "2020-04-01",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Original (English)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-04-24 11:06:56",
-      "iframe_src": ""
-    },
-    {
-      "id": 37551,
-      "title": "Становление",
-      "kp_id": "723366",
-      "imdb_id": "tt2573372",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-03-08 08:25:10",
-      "orig_title": "Becoming",
-      "year": "2020-03-06",
-      "translations": [
-        "Любительский (многоголосый закадровый) (AlphaProject)",
-        "Original (English)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (AlphaProject)",
-      "update": "2020-04-24 10:58:12",
-      "iframe_src": ""
-    },
-    {
-      "id": 9784,
-      "title": "Всегда готов!",
-      "kp_id": "568581",
-      "imdb_id": "tt1708532",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-02-17 06:23:50",
-      "orig_title": "Ready",
-      "year": "2011-06-02",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)",
-        "Любительский (одноголосый закадровый)",
         "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-04-28 10:41:10",
+      "iframe_src": ""
+    },
+    {
+      "id": 39588,
+      "title": "Имя",
+      "kp_id": "39705",
+      "imdb_id": "tt0091598",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-04-19 21:40:18",
+      "orig_title": "Naam",
+      "year": "1986-08-30",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "sat",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2020-04-28 10:40:33",
+      "iframe_src": ""
+    },
+    {
+      "id": 39586,
+      "title": "Гнёздышко Кхослы",
+      "kp_id": "180748",
+      "imdb_id": "tt0466460",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-04-19 21:31:37",
+      "orig_title": "Khosla Ka Ghosla!",
+      "year": "2006-09-22",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
       ],
       "quality": "hdrip",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-04-24 06:52:51",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2020-04-28 10:39:28",
       "iframe_src": ""
     },
     {
-      "id": 1358,
-      "title": "Крепкий орешек 3: Возмездие",
-      "kp_id": "8162",
-      "imdb_id": "tt0112864",
+      "id": 39585,
+      "title": "Дели-6",
+      "kp_id": "373101",
+      "imdb_id": "tt1043451",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-04-20 22:25:43",
-      "orig_title": "Die Hard: With a Vengeance",
-      "year": "1995-05-15",
+      "add": "2020-04-19 21:29:11",
+      "orig_title": "Delhi-6",
+      "year": "2009-02-18",
       "translations": [
-        "Профессиональный (многоголосый закадровый)",
-        "Original (English)",
-        "Профессиональный (многоголосый закадровый) (Первый канал | ОРТ)",
-        "Авторский (одноголосый закадровый) (Гаврилов Андрей)",
-        "Профессиональный (многоголосый закадровый) (Twister)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-04-24 07:00:01",
-      "iframe_src": ""
-    },
-    {
-      "id": 1357,
-      "title": "Крепкий орешек 2",
-      "kp_id": "7374",
-      "imdb_id": "tt1695522",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-04-20 22:24:32",
-      "orig_title": "Die Hard 2: Die Harder",
-      "year": "1990-07-02",
-      "translations": [
-        "Полное дублирование",
-        "Original (English)",
-        "Профессиональный (двухголосый закадровый) (Первый канал | ОРТ)",
-        "Авторский (одноголосый закадровый) (Гаврилов Андрей)",
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2020-04-24 06:57:14",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-04-28 10:38:55",
+      "iframe_src": ""
+    },
+    {
+      "id": 39584,
+      "title": "Бомбейское кино",
+      "kp_id": "88101",
+      "imdb_id": "tt0065484",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-04-19 21:25:53",
+      "orig_title": "Bombay Talkie",
+      "year": "1970-11-18",
+      "translations": [
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2020-04-28 10:26:18",
+      "iframe_src": ""
+    },
+    {
+      "id": 39582,
+      "title": "Беглянка",
+      "kp_id": "36570",
+      "imdb_id": "tt0293342",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-04-19 21:20:39",
+      "orig_title": "Lajja",
+      "year": "2001-09-19",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-04-28 10:24:46",
+      "iframe_src": ""
+    },
+    {
+      "id": 39581,
+      "title": "Амар Дип",
+      "kp_id": "41801",
+      "imdb_id": "tt0078761",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-04-19 21:15:16",
+      "orig_title": "Amar Deep",
+      "year": "1979-01-01",
+      "translations": [
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "tv",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2020-04-28 10:22:37",
+      "iframe_src": ""
+    },
+    {
+      "id": 39567,
+      "title": "Линия контроля",
+      "kp_id": "39659",
+      "imdb_id": "tt0347416",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-04-19 14:12:57",
+      "orig_title": "LOC: Kargil",
+      "year": "2003-12-12",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-04-28 10:20:58",
+      "iframe_src": ""
+    },
+    {
+      "id": 39566,
+      "title": "Междоусобная война",
+      "kp_id": "34966",
+      "imdb_id": "tt0280396",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-04-19 12:06:07",
+      "orig_title": "Adharm",
+      "year": "1992-02-21",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (ZEE TV)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый) (ZEE TV)",
+      "update": "2020-04-28 10:20:08",
+      "iframe_src": ""
+    },
+    {
+      "id": 39565,
+      "title": "Говорить опасно для здоровья",
+      "kp_id": "820459",
+      "imdb_id": "tt3465996",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-04-19 12:03:42",
+      "orig_title": "Vaayai Moodi Pesavum",
+      "year": "2014-04-24",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (SDI Media)"
+      ],
+      "quality": "hdrip",
+      "translation": "Профессиональный (многоголосый закадровый) (SDI Media)",
+      "update": "2020-04-28 09:16:08",
+      "iframe_src": ""
+    },
+    {
+      "id": 39564,
+      "title": "Одиночка",
+      "kp_id": "36621",
+      "imdb_id": "tt0101284",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-04-19 11:56:28",
+      "orig_title": "Akayla",
+      "year": "1991-11-08",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (Формат AB)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый) (Формат AB)",
+      "update": "2020-04-28 09:12:38",
+      "iframe_src": ""
+    },
+    {
+      "id": 39562,
+      "title": "Щедрое сердце",
+      "kp_id": "77199",
+      "imdb_id": "tt0317117",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-04-19 11:52:38",
+      "orig_title": "Bade Dil Wala",
+      "year": "1983-09-24",
+      "translations": [
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2020-04-28 09:12:00",
+      "iframe_src": ""
+    },
+    {
+      "id": 9220,
+      "title": "Бадлапур",
+      "kp_id": "841805",
+      "imdb_id": "tt3678782",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-01-26 12:30:53",
+      "orig_title": "Badlapur",
+      "year": "2015-02-19",
+      "translations": [
+        "Любительский (многоголосый закадровый) (ICG)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (ICG)",
+      "update": "2020-04-28 10:24:08",
+      "iframe_src": ""
+    },
+    {
+      "id": 7575,
+      "title": "Джил, Джанг и Джак",
+      "kp_id": "960916",
+      "imdb_id": "tt5459644",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-11-22 16:34:20",
+      "orig_title": "Jil Jung Juk",
+      "year": "2016-02-11",
+      "translations": [
+        "Любительский (многоголосый закадровый)",
+        "Любительский (многоголосый закадровый) (Honey&Hoseena)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый)",
+      "update": "2020-04-28 09:15:37",
+      "iframe_src": ""
+    },
+    {
+      "id": 2566,
+      "title": "В одиночестве",
+      "kp_id": "880617",
+      "imdb_id": "tt4271730",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-05-24 20:54:01",
+      "orig_title": "Alone",
+      "year": "2015-01-16",
+      "translations": [
+        "Любительский (одноголосый закадровый)",
+        "Профессиональный (многоголосый закадровый) (SDI Media)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2020-04-28 09:14:08",
       "iframe_src": ""
     }
   ]
